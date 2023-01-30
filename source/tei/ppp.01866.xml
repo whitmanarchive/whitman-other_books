@@ -1,18 +1,22 @@
-<?xml version="1.0" encoding="ASCII"?>
-<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa-1.2.rng" type="xml"?>
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
 
 <TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="ppp.01866">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title level="m" type="main">Drum-Taps (1865)</title>
+        <title level="m" type="main">Drum-Taps</title>
         <title level="m" type="sub">a machine readable transcription</title>
         <author>Walt Whitman</author>
         <editor>Kenneth M. Price</editor>
         <editor>Ed Folsom</editor>
         <respStmt>
           <resp>Transcription and encoding</resp>
-          <name>The Walt Whitman Archive Staff</name>
+          <persName xml:id="hb">Heidi R. Bean</persName>
+          <persName xml:id="jw">Joshua Ware</persName>
+          <persName xml:id="al">Ashley Lawson</persName>
+          <persName xml:id="el">Elizabeth Lorang</persName>
+          <persName xml:id="nhg">Nicole Gray</persName>
         </respStmt>
         <sponsor>Center for Digital Research in the Humanities</sponsor>
         <sponsor>University of Iowa</sponsor>
@@ -45,29 +49,19 @@
             only.</p>
         </availability>
       </publicationStmt>
-      <notesStmt>
-        <note type="project" target="#dat1">1865</note>
-        <note type="project">The following are responsible for particular readings or for changes to
-          this file, as noted: 
-          <persName xml:id="hb">Heidi R. Bean</persName>
-          <persName xml:id="jw">Joshua Ware</persName>
-          <persName xml:id="al">Ashley Lawson</persName>
-          <persName xml:id="el">Elizabeth Lorang</persName>
-        </note>
-      </notesStmt>
       <sourceDesc>
         <bibl>
-          <author>Walt Whitman</author>
-          <title>Drum-Taps</title>
-          <pubPlace>New York</pubPlace>
-          <date>1865</date>
-          <orgName>The University of Iowa Libraries, Special Collections and University Archives</orgName>
-          <idno type="call">[uncatalogued]</idno>
-          <note type="project">Transcribed from our own digital images of the original.</note>
+            <author>Walt Whitman</author>
+          <title level="m">Drum-Taps</title>
+            <pubPlace>New York</pubPlace>
+          <date xml:id="dat1" when="1865" cert="high">1865</date>
+          <orgName>University of Iowa Libraries, Special Collections and University Archives</orgName>
+          <note type="project">Transcribed from digital images of original copy.</note>
         </bibl>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
+      <change when="2018-01-23" who="#nhg">updated teiHeader</change>
       <change when="2010-11-24" who="#el">restored dropped line, "The neck of the cavalry-man, with the bullet through and through, I examine"; restored dropped line, "An attendant follows, holding a tray&#8212;he carries a refuse pail"; added exclamation point after "victorious" in the line beginning, "Sons of the Mother of All!"; restored word "river" to the line that includes, "yet lo! like a swift-running."</change>
       <change when="2010-11-02" who="#el">checked</change>
       <change when="2010-10-31" who="#al">proofread</change>
