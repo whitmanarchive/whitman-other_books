@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="ASCII"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?>
-
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ppp.01866">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ppp.01866">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -25,7 +22,7 @@
         </edition>
       </editionStmt>
       <publicationStmt>
-        <idno>ppp.01866</idno>
+        
         <distributor>The Walt Whitman Archive</distributor>
         <address>
                     <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -36,7 +33,7 @@
                     <addrLine>whitmanarchive.org</addrLine>
                 </address>
         <availability>
-          <p>Copyright &#169; 2009 by Ed Folsom and Kenneth M. Price, all rights reserved. Items in
+          <p>Copyright © 2009 by Ed Folsom and Kenneth M. Price, all rights reserved. Items in
             the Archive may be shared in accordance with the Fair Use provisions of U.S. copyright
             law. Redistribution or republication on other terms, in any medium, requires express
             written consent from the editors and advance notification of the publisher, the Center
@@ -44,7 +41,7 @@
             this archive has been granted by the owners of the originals for this publication
             only.</p>
         </availability>
-      </publicationStmt>
+      <idno>ppp.01866</idno></publicationStmt>
       <notesStmt>
         <note type="project" target="#dat1">1865</note>
         <note type="project">The following are responsible for particular readings or for changes to
@@ -68,7 +65,7 @@
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
-      <change when="2010-11-24" who="#el">restored dropped line, "The neck of the cavalry-man, with the bullet through and through, I examine"; restored dropped line, "An attendant follows, holding a tray&#8212;he carries a refuse pail"; added exclamation point after "victorious" in the line beginning, "Sons of the Mother of All!"; restored word "river" to the line that includes, "yet lo! like a swift-running."</change>
+      <change when="2010-11-24" who="#el">restored dropped line, "The neck of the cavalry-man, with the bullet through and through, I examine"; restored dropped line, "An attendant follows, holding a tray—he carries a refuse pail"; added exclamation point after "victorious" in the line beginning, "Sons of the Mother of All!"; restored word "river" to the line that includes, "yet lo! like a swift-running."</change>
       <change when="2010-11-02" who="#el">checked</change>
       <change when="2010-10-31" who="#al">proofread</change>
       <change when="2010-09-10" who="#jw">P5 Conversion and pb tags</change>
@@ -116,241 +113,205 @@
           <table>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1"
-                >Drum-Taps............................................</cell>
-              <cell role="data" rows="1" cols="1"><ref n="5" xml:id="toc5" target="leaf005r1"
-                /></cell>
+              <cell role="data" rows="1" cols="1">Drum-Taps............................................</cell>
+              <cell role="data" rows="1" cols="1"><ref n="5" xml:id="toc5" target="leaf005r1"/></cell>
             </row>
 
             <row role="data">
               <cell role="data" rows="1" cols="1">Shut not your doors to me proud
                 Libraries............</cell>
-              <cell role="data" rows="1" cols="1"><ref n="8" xml:id="toc8" target="leaf006v1"
-                /></cell>
+              <cell role="data" rows="1" cols="1"><ref n="8" xml:id="toc8" target="leaf006v1"/></cell>
             </row>
 
             <row role="data">
               <cell role="data" rows="1" cols="1">Cavalry crossing a
                 ford..............................</cell>
-              <cell role="data" rows="1" cols="1"><ref n="8" xml:id="toc8b" target="leaf006v1"
-                /></cell>
+              <cell role="data" rows="1" cols="1"><ref n="8" xml:id="toc8b" target="leaf006v1"/></cell>
             </row>
 
             <row role="data">
               <cell role="data" rows="1" cols="1">Song of the Banner at
                 Day-Break......................</cell>
-              <cell role="data" rows="1" cols="1"><ref n="9" xml:id="toc9" target="leaf007r1"
-                /></cell>
+              <cell role="data" rows="1" cols="1"><ref n="9" xml:id="toc9" target="leaf007r1"/></cell>
             </row>
 
             <row role="data">
               <cell role="data" rows="1" cols="1">By the bivouac's fitful
                 flame........................</cell>
-              <cell role="data" rows="1" cols="1"><ref n="16" xml:id="toc16" target="leaf010v1"
-                /></cell>
+              <cell role="data" rows="1" cols="1"><ref n="16" xml:id="toc16" target="leaf010v1"/></cell>
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1"
-                >1861.................................................</cell>
-              <cell role="data" rows="1" cols="1"><ref n="17" xml:id="toc17" target="leaf011r1"
-                /></cell>
+              <cell role="data" rows="1" cols="1">1861.................................................</cell>
+              <cell role="data" rows="1" cols="1"><ref n="17" xml:id="toc17" target="leaf011r1"/></cell>
             </row>
 
             <row role="data">
               <cell role="data" rows="1" cols="1">From Paumanok starting I fly like a
                 bird.............</cell>
-              <cell role="data" rows="1" cols="1"><ref n="18" xml:id="toc18" target="leaf011v1"
-                /></cell>
+              <cell role="data" rows="1" cols="1"><ref n="18" xml:id="toc18" target="leaf011v1"/></cell>
             </row>
 
             <row role="data">
               <cell role="data" rows="1" cols="1">Beginning my
                 studies.................................</cell>
-              <cell role="data" rows="1" cols="1"><ref n="18" xml:id="toc18b" target="leaf011v1"
-                /></cell>
+              <cell role="data" rows="1" cols="1"><ref n="18" xml:id="toc18b" target="leaf011v1"/></cell>
             </row>
 
             <row role="data">
               <cell role="data" rows="1" cols="1">The Centenarian's
                 Story..............................</cell>
-              <cell role="data" rows="1" cols="1"><ref n="19" xml:id="toc19b" target="leaf012r1"
-                /></cell>
+              <cell role="data" rows="1" cols="1"><ref n="19" xml:id="toc19b" target="leaf012r1"/></cell>
             </row>
 
             <row role="data">
               <cell role="data" rows="1" cols="1">Pioneers! O
                 Pioneers!................................</cell>
-              <cell role="data" rows="1" cols="1"><ref n="25" xml:id="toc25" target="leaf015r1"
-                /></cell>
+              <cell role="data" rows="1" cols="1"><ref n="25" xml:id="toc25" target="leaf015r1"/></cell>
             </row>
 
             <row role="data">
               <cell role="data" rows="1" cols="1">Quicksand years that whirl me I know not
                 whither.....</cell>
-              <cell role="data" rows="1" cols="1"><ref n="30" xml:id="toc30" target="leaf017v1"
-                /></cell>
+              <cell role="data" rows="1" cols="1"><ref n="30" xml:id="toc30" target="leaf017v1"/></cell>
             </row>
 
             <row role="data">
               <cell role="data" rows="1" cols="1">The
                 Dresser..........................................</cell>
-              <cell role="data" rows="1" cols="1"><ref n="31" xml:id="toc31" target="leaf018r1"
-                /></cell>
+              <cell role="data" rows="1" cols="1"><ref n="31" xml:id="toc31" target="leaf018r1"/></cell>
             </row>
 
             <row role="data">
               <cell role="data" rows="1" cols="1">When I heard the learn'd
                 Astronomer..................</cell>
-              <cell role="data" rows="1" cols="1"><ref n="34" xml:id="toc34" target="leaf019v1"
-                /></cell>
+              <cell role="data" rows="1" cols="1"><ref n="34" xml:id="toc34" target="leaf019v1"/></cell>
             </row>
 
             <row role="data">
               <cell role="data" rows="1" cols="1">Rise O Days from your fathomless
                 deeps...............</cell>
-              <cell role="data" rows="1" cols="1"><ref n="35" xml:id="toc35" target="leaf020r1"
-                /></cell>
+              <cell role="data" rows="1" cols="1"><ref n="35" xml:id="toc35" target="leaf020r1"/></cell>
             </row>
 
             <row role="data">
               <cell role="data" rows="1" cols="1">A child's
                 amaze......................................</cell>
-              <cell role="data" rows="1" cols="1"><ref n="37" xml:id="toc37" target="leaf021r1"
-                /></cell>
+              <cell role="data" rows="1" cols="1"><ref n="37" xml:id="toc37" target="leaf021r1"/></cell>
             </row>
 
             <row role="data">
               <cell role="data" rows="1" cols="1">Beat! beat!
                 drums!.................................</cell>
-              <cell role="data" rows="1" cols="1"><ref n="38" xml:id="toc38" target="leaf021v1"
-                /></cell>
+              <cell role="data" rows="1" cols="1"><ref n="38" xml:id="toc38" target="leaf021v1"/></cell>
             </row>
 
             <row role="data">
               <cell role="data" rows="1" cols="1">Come up from the fields,
                 father......................</cell>
-              <cell role="data" rows="1" cols="1"><ref n="39" xml:id="toc39" target="leaf022r1"
-                /></cell>
+              <cell role="data" rows="1" cols="1"><ref n="39" xml:id="toc39" target="leaf022r1"/></cell>
             </row>
 
             <row role="data">
               <cell role="data" rows="1" cols="1">City of
                 ships........................................</cell>
-              <cell role="data" rows="1" cols="1"><ref n="41" xml:id="toc41" target="leaf023r1"
-                /></cell>
+              <cell role="data" rows="1" cols="1"><ref n="41" xml:id="toc41" target="leaf023r1"/></cell>
             </row>
 
             <row role="data">
               <cell role="data" rows="1" cols="1">Mother and
                 babe......................................</cell>
-              <cell role="data" rows="1" cols="1"><ref n="41" xml:id="toc41b" target="leaf023r1"
-                /></cell>
+              <cell role="data" rows="1" cols="1"><ref n="41" xml:id="toc41b" target="leaf023r1"/></cell>
             </row>
 
             <row role="data">
               <cell role="data" rows="1" cols="1">Vigil strange I kept on the field one
                 night...........</cell>
-              <cell role="data" rows="1" cols="1"><ref n="42" xml:id="toc42" target="leaf023v1"
-                /></cell>
+              <cell role="data" rows="1" cols="1"><ref n="42" xml:id="toc42" target="leaf023v1"/></cell>
             </row>
 
             <row role="data">
               <cell role="data" rows="1" cols="1">Bathed in war's
                 perfume..............................</cell>
-              <cell role="data" rows="1" cols="1"><ref n="43" xml:id="toc43" target="leaf024r1"
-                /></cell>
+              <cell role="data" rows="1" cols="1"><ref n="43" xml:id="toc43" target="leaf024r1"/></cell>
             </row>
 
             <row role="data">
               <cell role="data" rows="1" cols="1">A march in the ranks hard-prest, and the road
                 unknown</cell>
-              <cell role="data" rows="1" cols="1"><ref n="44" xml:id="toc44" target="leaf024v1"
-                /></cell>
+              <cell role="data" rows="1" cols="1"><ref n="44" xml:id="toc44" target="leaf024v1"/></cell>
             </row>
 
             <row role="data">
               <cell role="data" rows="1" cols="1">Long, too long, O
                 land...............................</cell>
-              <cell role="data" rows="1" cols="1"><ref n="45" xml:id="toc45" target="leaf025r1"
-                /></cell>
+              <cell role="data" rows="1" cols="1"><ref n="45" xml:id="toc45" target="leaf025r1"/></cell>
             </row>
 
             <row role="data">
               <cell role="data" rows="1" cols="1">A sight in camp in the day-break grey and
                 dim........</cell>
-              <cell role="data" rows="1" cols="1"><ref n="46" xml:id="toc46" target="leaf025v1"
-                /></cell>
+              <cell role="data" rows="1" cols="1"><ref n="46" xml:id="toc46" target="leaf025v1"/></cell>
             </row>
 
             <row role="data">
               <cell role="data" rows="1" cols="1">A farm
                 picture.......................................</cell>
-              <cell role="data" rows="1" cols="1"><ref n="46" xml:id="toc46b" target="leaf025v1"
-                /></cell>
+              <cell role="data" rows="1" cols="1"><ref n="46" xml:id="toc46b" target="leaf025v1"/></cell>
             </row>
 
             <row role="data">
               <cell role="data" rows="1" cols="1">Give me the splendid silent
                 sun......................</cell>
-              <cell role="data" rows="1" cols="1"><ref n="47" xml:id="toc47" target="leaf026r1"
-                /></cell>
+              <cell role="data" rows="1" cols="1"><ref n="47" xml:id="toc47" target="leaf026r1"/></cell>
             </row>
 
             <row role="data">
               <cell role="data" rows="1" cols="1">Over the carnage rose prophetic a
                 voice..............</cell>
-              <cell role="data" rows="1" cols="1"><ref n="49" xml:id="toc49" target="leaf027r1"
-                /></cell>
+              <cell role="data" rows="1" cols="1"><ref n="49" xml:id="toc49" target="leaf027r1"/></cell>
             </row>
 
             <row role="data">
               <cell role="data" rows="1" cols="1">Did you ask dulcet rhymes from
                 me?...................</cell>
-              <cell role="data" rows="1" cols="1"><ref n="50" xml:id="toc50" target="leaf027v1"
-                /></cell>
+              <cell role="data" rows="1" cols="1"><ref n="50" xml:id="toc50" target="leaf027v1"/></cell>
             </row>
 
             <row role="data">
               <cell role="data" rows="1" cols="1">Year of
                 meteors......................................</cell>
-              <cell role="data" rows="1" cols="1"><ref n="51" xml:id="toc51" target="leaf028r1"
-                /></cell>
+              <cell role="data" rows="1" cols="1"><ref n="51" xml:id="toc51" target="leaf028r1"/></cell>
             </row>
 
             <row role="data">
               <cell role="data" rows="1" cols="1">The
                 Torch............................................</cell>
-              <cell role="data" rows="1" cols="1"><ref n="52" xml:id="toc52" target="leaf028v1"
-                /></cell>
+              <cell role="data" rows="1" cols="1"><ref n="52" xml:id="toc52" target="leaf028v1"/></cell>
             </row>
 
             <row role="data">
               <cell role="data" rows="1" cols="1">Years of the
                 unperform'd.............................</cell>
-              <cell role="data" rows="1" cols="1"><ref n="53" xml:id="toc53" target="leaf029r1"
-                /></cell>
+              <cell role="data" rows="1" cols="1"><ref n="53" xml:id="toc53" target="leaf029r1"/></cell>
             </row>
 
             <row role="data">
               <cell role="data" rows="1" cols="1">Year that trembled and reel'd beneath
                 me.............</cell>
-              <cell role="data" rows="1" cols="1"><ref n="54" xml:id="toc54" target="leaf029v1"
-                /></cell>
+              <cell role="data" rows="1" cols="1"><ref n="54" xml:id="toc54" target="leaf029v1"/></cell>
             </row>
 
             <row role="data">
               <cell role="data" rows="1" cols="1">The Veteran's
                 vision.................................</cell>
-              <cell role="data" rows="1" cols="1"><ref n="55" xml:id="toc55" target="leaf030r1"
-                /></cell>
+              <cell role="data" rows="1" cols="1"><ref n="55" xml:id="toc55" target="leaf030r1"/></cell>
             </row>
 
             <row role="data">
               <cell role="data" rows="1" cols="1">O tan-faced
                 Prairie-boy..............................</cell>
-              <cell role="data" rows="1" cols="1"><ref n="56" xml:id="toc56" target="leaf030v1"
-                /></cell>
+              <cell role="data" rows="1" cols="1"><ref n="56" xml:id="toc56" target="leaf030v1"/></cell>
             </row>
 
           </table>
@@ -364,134 +325,115 @@
             <row role="data">
               <cell role="data" rows="1" cols="1">Camps of
                 green..........................................</cell>
-              <cell role="data" rows="1" cols="1"><ref n="57" xml:id="toc57" target="leaf031r1"
-                /></cell>
+              <cell role="data" rows="1" cols="1"><ref n="57" xml:id="toc57" target="leaf031r1"/></cell>
             </row>
 
             <row role="data">
               <cell role="data" rows="1" cols="1">As toilsome I wander'd Virginia's
                 woods.................</cell>
-              <cell role="data" rows="1" cols="1"><ref n="58" xml:id="toc58" target="leaf031v1"
-                /></cell>
+              <cell role="data" rows="1" cols="1"><ref n="58" xml:id="toc58" target="leaf031v1"/></cell>
             </row>
 
             <row role="data">
               <cell role="data" rows="1" cols="1">Hymn of dead
                 soldiers...................................</cell>
-              <cell role="data" rows="1" cols="1"><ref n="59" xml:id="toc59" target="leaf032r1"
-                /></cell>
+              <cell role="data" rows="1" cols="1"><ref n="59" xml:id="toc59" target="leaf032r1"/></cell>
             </row>
 
             <row role="data">
               <cell role="data" rows="1" cols="1">The
                 ship................................................</cell>
-              <cell role="data" rows="1" cols="1"><ref n="60" xml:id="toc60" target="leaf032v1"
-                /></cell>
+              <cell role="data" rows="1" cols="1"><ref n="60" xml:id="toc60" target="leaf032v1"/></cell>
             </row>
 
             <row role="data">
               <cell role="data" rows="1" cols="1">A Broadway
                 pageant......................................</cell>
-              <cell role="data" rows="1" cols="1"><ref n="61" xml:id="toc61" target="leaf033r1"
-                /></cell>
+              <cell role="data" rows="1" cols="1"><ref n="61" xml:id="toc61" target="leaf033r1"/></cell>
             </row>
 
             <row role="data">
               <cell role="data" rows="1" cols="1">Flag of stars, thick-sprinkled
                 bunting..................</cell>
-              <cell role="data" rows="1" cols="1"><ref n="65" xml:id="toc65" target="leaf035r1"
-                /></cell>
+              <cell role="data" rows="1" cols="1"><ref n="65" xml:id="toc65" target="leaf035r1"/></cell>
             </row>
 
             <row role="data">
               <cell role="data" rows="1" cols="1">Old
                 Ireland.............................................</cell>
-              <cell role="data" rows="1" cols="1"><ref n="66" xml:id="toc66" target="leaf035v1"
-                /></cell>
+              <cell role="data" rows="1" cols="1"><ref n="66" xml:id="toc66" target="leaf035v1"/></cell>
             </row>
 
             <row role="data">
               <cell role="data" rows="1" cols="1">Look down fair
                 moon.....................................</cell>
-              <cell role="data" rows="1" cols="1"><ref n="66" xml:id="toc66b" target="leaf035v1"
-                /></cell>
+              <cell role="data" rows="1" cols="1"><ref n="66" xml:id="toc66b" target="leaf035v1"/></cell>
             </row>
 
             <row role="data">
               <cell role="data" rows="1" cols="1">Out of the rolling ocean, the
                 crowd.....................</cell>
-              <cell role="data" rows="1" cols="1"><ref n="67" xml:id="toc67" target="leaf036r1"
-                /></cell>
+              <cell role="data" rows="1" cols="1"><ref n="67" xml:id="toc67" target="leaf036r1"/></cell>
             </row>
 
             <row role="data">
               <cell role="data" rows="1" cols="1">World, take good
                 notice.................................</cell>
-              <cell role="data" rows="1" cols="1"><ref n="67" xml:id="toc67b" target="leaf036r1"
-                /></cell>
+              <cell role="data" rows="1" cols="1"><ref n="67" xml:id="toc67b" target="leaf036r1"/></cell>
             </row>
 
             <row role="data">
               <cell role="data" rows="1" cols="1">I saw old General at
                 bay................................</cell>
-              <cell role="data" rows="1" cols="1"><ref n="68" xml:id="toc68" target="leaf036v1"
-                /></cell>
+              <cell role="data" rows="1" cols="1"><ref n="68" xml:id="toc68" target="leaf036v1"/></cell>
             </row>
 
             <row role="data">
               <cell role="data" rows="1" cols="1">Others may praise what they
                 like........................</cell>
-              <cell role="data" rows="1" cols="1"><ref n="68" xml:id="toc68b" target="leaf036v1"
-                /></cell>
+              <cell role="data" rows="1" cols="1"><ref n="68" xml:id="toc68b" target="leaf036v1"/></cell>
             </row>
 
             <row role="data">
               <cell role="data" rows="1" cols="1">Solid, ironical, rolling
                 orb............................</cell>
-              <cell role="data" rows="1" cols="1"><ref n="68" xml:id="toc68c" target="leaf036v1"
-                /></cell>
+              <cell role="data" rows="1" cols="1"><ref n="68" xml:id="toc68c" target="leaf036v1"/></cell>
             </row>
 
             <row role="data">
               <cell role="data" rows="1" cols="1">Hush'd be the camps
                 to-day..............................</cell>
-              <cell role="data" rows="1" cols="1"><ref n="69" xml:id="toc69" target="leaf037r1"
-                /></cell>
+              <cell role="data" rows="1" cols="1"><ref n="69" xml:id="toc69" target="leaf037r1"/></cell>
             </row>
 
             <row role="data">
               <cell role="data" rows="1" cols="1">Weave in, weave in, my hardy
                 soul........................</cell>
-              <cell role="data" rows="1" cols="1"><ref n="69" xml:id="toc69c" target="leaf037r1"
-                /></cell>
+              <cell role="data" rows="1" cols="1"><ref n="69" xml:id="toc69c" target="leaf037r1"/></cell>
             </row>
 
             <row role="data">
               <cell role="data" rows="1" cols="1">Turn, O
                 Libertad........................................</cell>
-              <cell role="data" rows="1" cols="1"><ref n="70" xml:id="toc70" target="leaf037v1"
-                /></cell>
+              <cell role="data" rows="1" cols="1"><ref n="70" xml:id="toc70" target="leaf037v1"/></cell>
             </row>
 
             <row role="data">
               <cell role="data" rows="1" cols="1">Bivouac on a mountain
                 side..............................</cell>
-              <cell role="data" rows="1" cols="1"><ref n="70" xml:id="toc70b" target="leaf037v1"
-                /></cell>
+              <cell role="data" rows="1" cols="1"><ref n="70" xml:id="toc70b" target="leaf037v1"/></cell>
             </row>
 
             <row role="data">
               <cell role="data" rows="1" cols="1">Pensive on her dead gazing, I heard the mother of
                 all...</cell>
-              <cell role="data" rows="1" cols="1"><ref n="71" xml:id="toc71" target="leaf038r1"
-                /></cell>
+              <cell role="data" rows="1" cols="1"><ref n="71" xml:id="toc71" target="leaf038r1"/></cell>
             </row>
 
             <row role="data">
               <cell role="data" rows="1" cols="1">Not youth pertains to
                 me................................</cell>
-              <cell role="data" rows="1" cols="1"><ref n="72" xml:id="toc72" target="leaf038v1"
-                /></cell>
+              <cell role="data" rows="1" cols="1"><ref n="72" xml:id="toc72" target="leaf038v1"/></cell>
             </row>
 
           </table>
@@ -516,7 +458,7 @@
           <lg type="linegroup">
             <l><hi rend="smallcaps">FIRST, O</hi> songs, for a prelude,</l>
             <l>Lightly strike on the stretch'd tympanum, pride and joy <lb/>in my city,</l>
-            <l>How she led the rest to arms&#8212;how she gave the cue,</l>
+            <l>How she led the rest to arms—how she gave the cue,</l>
             <l>How at once with lithe limbs, unwaiting a moment, she <lb/>sprang;</l>
             <l>(O superb! O Manhattan, my own, my peerless!</l>
             <l>O strongest you in the hour of danger, in crisis! O <lb/>truer than steel!)</l>
@@ -532,15 +474,15 @@
           </lg>
           <lg type="linegroup">
             <l>Forty years had I in my city seen soldiers parading;</l>
-            <l>Forty years as a pageant&#8212;till unawares, the Lady of <lb/>this teeming and
+            <l>Forty years as a pageant—till unawares, the Lady of <lb/>this teeming and
               turbulent city,</l>
             <l>Sleepless, amid her ships, her houses, her incalculable <lb/>wealth,</l>
-            <l>With her million children around her&#8212;suddenly,</l>
+            <l>With her million children around her—suddenly,</l>
             <l>At dead of night, at news from the south,</l>
             <l>Incens'd, struck with clench'd hand the pavement.</l>
           </lg>
           <lg type="linegroup">
-            <l>A shock electric&#8212;the night sustain'd it;</l>
+            <l>A shock electric—the night sustain'd it;</l>
             <l>Till with ominous hum, our hive at day-break, pour'd <lb/>out its myriads.</l>
           </lg>
 
@@ -548,23 +490,23 @@
 
           <lg type="linegroup">
             <l>From the houses then, and the workshops, and <lb/>through all the doorways,</l>
-            <l>Leapt they tumultuous&#8212;and lo! Manhattan arming.</l>
+            <l>Leapt they tumultuous—and lo! Manhattan arming.</l>
           </lg>
           <lg type="linegroup">
             <l>To the drum-taps prompt,</l>
             <l>The young men falling in and arming;</l>
             <l>The mechanics arming, (the trowel, the jack-plane, the<lb/>blacksmith's hammer, tost
               aside with <choice><orig>precipi-<lb/>tation</orig><reg>precipitaion</reg></choice>;)</l>
-            <l>The lawyer leaving his office, and arming&#8212;the judge <lb/>leaving the court;</l>
+            <l>The lawyer leaving his office, and arming—the judge <lb/>leaving the court;</l>
             <l>The driver deserting his wagon in the street, jumping <lb/>down, throwing the reins
               abruptly down on the <lb/>horses' backs;</l>
-            <l>The salesman leaving the store&#8212;the boss, book-keeper,<lb/>porter, all
+            <l>The salesman leaving the store—the boss, book-keeper,<lb/>porter, all
               leaving;</l>
             <l>Squads gathering everywhere by common consent, and <lb/>arming;</l>
-            <l>The new recruits, even boys&#8212;the old men show them <lb/>how to wear their
-              accoutrements&#8212;they buckle <lb/>the straps carefully;</l>
-            <l>Outdoors arming&#8212;indoors arming&#8212;the flash of the <lb/>musket-barrels;</l>
-            <l>The white tents cluster in camps&#8212;the arm'd sentries <lb/>around&#8212;the
+            <l>The new recruits, even boys—the old men show them <lb/>how to wear their
+              accoutrements—they buckle <lb/>the straps carefully;</l>
+            <l>Outdoors arming—indoors arming—the flash of the <lb/>musket-barrels;</l>
+            <l>The white tents cluster in camps—the arm'd sentries <lb/>around—the
               sunrise cannon, and again at sunset;</l>
             <l>Arm'd regiments arrive every day, pass through the <lb/>city, and embark from the
               wharves;</l>
@@ -575,39 +517,39 @@
                 <orig>cov-<lb/>er'd</orig>
                 <reg>cover'd</reg>
               </choice> with dust!)</l>
-            <l>The blood of the city up&#8212;arm'd! arm'd! the cry <lb/>everywhere;</l>
+            <l>The blood of the city up—arm'd! arm'd! the cry <lb/>everywhere;</l>
             <l>The flags flung out from the steeples of churches, and <lb/>from all the public
               buildings and stores;</l>
-            <l>The tearful parting&#8212;the mother kisses her son&#8212;the <lb/>son kisses his
+            <l>The tearful parting—the mother kisses her son—the <lb/>son kisses his
               mother;</l>
-            <l>(Loth is the mother to part&#8212;yet not a word does she <lb/>speak to detain
+            <l>(Loth is the mother to part—yet not a word does she <lb/>speak to detain
               him;)</l>
 
             <pb facs="ppp.01866.012.jpg" xml:id="leaf006r1" n="7" type="recto"/>
 
-            <l>The tumultuous escort&#8212;the ranks of policemen <choice><orig>preceed-<lb/>ing</orig><reg>preceeding</reg></choice>, clearing the way;</l>
-            <l>The unpent enthusiasm&#8212;the wild cheers of the crowd <lb/>for their
+            <l>The tumultuous escort—the ranks of policemen <choice><orig>preceed-<lb/>ing</orig><reg>preceeding</reg></choice>, clearing the way;</l>
+            <l>The unpent enthusiasm—the wild cheers of the crowd <lb/>for their
               favorites;</l>
-            <l>The artillery&#8212;the silent cannons, bright as gold, drawn <lb/>along, rumble
+            <l>The artillery—the silent cannons, bright as gold, drawn <lb/>along, rumble
               lightly over the stones;</l>
-            <l>(Silent cannons&#8212;soon to cease your silence!</l>
+            <l>(Silent cannons—soon to cease your silence!</l>
             <l>Soon, unlimber'd, to begin the red business;)</l>
-            <l>All the mutter of preparation&#8212;all the determin'd <lb/>arming;</l>
-            <l>The hospital service&#8212;the lint, bandages, and <choice><orig>medi-<lb/>cines</orig><reg>medicines</reg></choice>;</l>
-            <l>The women volunteering for nurses&#8212;the work begun <lb/>for, in earnest&#8212;no
+            <l>All the mutter of preparation—all the determin'd <lb/>arming;</l>
+            <l>The hospital service—the lint, bandages, and <choice><orig>medi-<lb/>cines</orig><reg>medicines</reg></choice>;</l>
+            <l>The women volunteering for nurses—the work begun <lb/>for, in earnest—no
               mere parade now;</l>
-            <l>War! an arm'd race is advancing!&#8212;the welcome for <lb/>battle&#8212;no turning
+            <l>War! an arm'd race is advancing!—the welcome for <lb/>battle—no turning
               away;</l>
-            <l>War! be it weeks, months, or years&#8212;an arm'd race is <lb/>advancing to welcome
+            <l>War! be it weeks, months, or years—an arm'd race is <lb/>advancing to welcome
               it.</l>
           </lg>
           <lg type="linegroup">
-            <l>Mannahatta a-march!&#8212;and it's O to sing it well!</l>
+            <l>Mannahatta a-march!—and it's O to sing it well!</l>
             <l>It's O for a manly life in the camp!</l>
           </lg>
           <lg type="linegroup">
             <l>And the sturdy artillery!</l>
-            <l>The guns, bright as gold&#8212;the work for giants&#8212;to <lb/>serve well the
+            <l>The guns, bright as gold—the work for giants—to <lb/>serve well the
               guns:</l>
             <l>Unlimber them! no more, as the past forty years, for <lb/>salutes for courtesies
               merely;</l>
@@ -654,13 +596,13 @@
           <lg type="linegroup">
             <l><hi rend="small caps">A LINE</hi> in long array, where they wind betwixt green
               <lb/>islands;</l>
-            <l>They take a serpentine course&#8212;their arms flash in the <lb/>sun&#8212;Hark to
+            <l>They take a serpentine course—their arms flash in the <lb/>sun—Hark to
               the musical clank;</l>
-            <l>Behold the silvery river&#8212;in it the splashing horses,<lb/>loitering, stop to
+            <l>Behold the silvery river—in it the splashing horses,<lb/>loitering, stop to
               drink;</l>
-            <l>Behold the brown-faced men&#8212;each group, each person,<lb/>a picture&#8212;the
+            <l>Behold the brown-faced men—each group, each person,<lb/>a picture—the
               negligent rest on the saddles;</l>
-            <l>Some emerge on the opposite bank&#8212;others are just <lb/>entering the ford;</l>
+            <l>Some emerge on the opposite bank—others are just <lb/>entering the ford;</l>
             <l>The guidon flags flutter gaily in the wind.</l>
           </lg>
         </lg>
@@ -690,13 +632,13 @@
             <lg type="linegroup">
               <l>Words! book-words! what are you?</l>
               <l>Words no more, for hearken and see,</l>
-              <l>My song is there in the open air&#8212;and I must sing,</l>
+              <l>My song is there in the open air—and I must sing,</l>
               <l>With the banner and pennant a-flapping.</l>
             </lg>
             <lg type="linegroup">
               <l>I'll weave the chord and twine in,</l>
-              <l>Man's desire and babe's desire&#8212;I'll twine them in, I'll <lb/>put in life;</l>
-              <l>I'll put the bayonet's flashing point&#8212;I'll let bullets and <lb/>slugs
+              <l>Man's desire and babe's desire—I'll twine them in, I'll <lb/>put in life;</l>
+              <l>I'll put the bayonet's flashing point—I'll let bullets and <lb/>slugs
                 whizz;</l>
               <l>I ll pour the verse with streams of blood, full of volition,<lb/>full of joy;</l>
               <l>Then loosen, launch forth, to go and compete,</l>
@@ -748,7 +690,7 @@
             <lg type="linegroup">
               <l>But I am not the sea, nor the red sun;</l>
               <l>I am not the wind, with girlish laughter;</l>
-              <l>Not the immense wind which strengthens&#8212;not the <lb/>wind which lashes;</l>
+              <l>Not the immense wind which strengthens—not the <lb/>wind which lashes;</l>
               <l>Not the spirit that ever lashes its own body to terror and <lb/>death:</l>
 
               <pb facs="ppp.01866.016.jpg" xml:id="leaf008r1" n="11" type="recto"/>
@@ -764,10 +706,10 @@
           <lg type="section">
             <head type="sub">CHILD.</head>
             <lg type="linegroup">
-              <l>O father, it is alive&#8212;it is full of people&#8212;it has <lb/>children!</l>
+              <l>O father, it is alive—it is full of people—it has <lb/>children!</l>
               <l>O now it seems to me it is talking to its children!</l>
-              <l>I hear it&#8212;it talks to me&#8212;O it is wonderful!</l>
-              <l>O it stretches&#8212;it spreads and runs so fast! O my <lb/>father,</l>
+              <l>I hear it—it talks to me—O it is wonderful!</l>
+              <l>O it stretches—it spreads and runs so fast! O my <lb/>father,</l>
               <l>It is so broad, it covers the whole sky!</l>
             </lg>
           </lg>
@@ -775,13 +717,13 @@
             <head type="sub">FATHER.</head>
             <lg type="linegroup">
               <l>Cease, cease, my foolish babe,</l>
-              <l>What you are saying is sorrowful to me&#8212;much it <choice>
+              <l>What you are saying is sorrowful to me—much it <choice>
                   <orig>dis-<lb/>pleases</orig>
                   <reg>displeases</reg>
                 </choice> me;</l>
-              <l>Behold with the rest, again I say&#8212;behold not banners <lb/>and pennants
+              <l>Behold with the rest, again I say—behold not banners <lb/>and pennants
                 aloft;</l>
-              <l>But the well-prepared pavements behold&#8212;and mark <lb/>the solid-wall'd
+              <l>But the well-prepared pavements behold—and mark <lb/>the solid-wall'd
                 houses.</l>
             </lg>
           </lg>
@@ -795,7 +737,7 @@
                   <orig>prairie-<lb/>plows</orig>
                   <reg>prairie-plows</reg>
                 </choice> are plowing;</l>
-              <l>Speak, O bard! point this day, leaving all the rest, to <lb/>us over all&#8212;and
+              <l>Speak, O bard! point this day, leaving all the rest, to <lb/>us over all—and
                 yet we know not why;</l>
               <l>For what are we, mere strips of cloth, profiting nothing,</l>
               <l>Only flapping in the wind?</l>
@@ -809,23 +751,23 @@
             <lg type="linegroup">
               <l>I hear and see not strips of cloth alone;</l>
               <l>I hear the tramp of armies, I hear the challenging <lb/>sentry;</l>
-              <l>I hear the jubilant shouts of millions of men&#8212;I hear <lb/>LIBERTY!</l>
+              <l>I hear the jubilant shouts of millions of men—I hear <lb/>LIBERTY!</l>
               <l>I hear the drums beat, and the trumpets blowing;</l>
               <l>I myself move abroad, swift-rising, flying then;</l>
               <l>I use the wings of the land-bird, and use the wings of <lb/>the sea-bird, and look
                 down as from a height;</l>
-              <l>I do not deny the precious results of peace&#8212;I see <choice>
+              <l>I do not deny the precious results of peace—I see <choice>
                   <orig>pop-<lb/>ulous</orig>
                   <reg>populous</reg>
                 </choice> cities, with wealth incalculable;</l>
-              <l>I see numberless farms&#8212;I see the farmers working in <lb/>their fields or
+              <l>I see numberless farms—I see the farmers working in <lb/>their fields or
                 barns;</l>
-              <l>I see mechanics working&#8212;I see buildings everywhere <lb/>founded, going up, or
+              <l>I see mechanics working—I see buildings everywhere <lb/>founded, going up, or
                 finish'd;</l>
               <l>I see trains of cars swiftly speeding along railroad <lb/>tracks, drawn by the
                 locomotives;</l>
               <l>I see the stores, depots, of Boston, Baltimore, <choice><orig>Charles-<lb/>ton</orig><reg>Charleston</reg></choice>, New Orleans;</l>
-              <l>I see far in the west the immense area of grain&#8212;I <lb/>dwell awhile,
+              <l>I see far in the west the immense area of grain—I <lb/>dwell awhile,
                 hovering;</l>
               <l>I pass to the lumber forests of the north, and again<lb/>to the southern
                 plantation, and again to <choice><orig>Cali-<lb/>fornia</orig><reg>California</reg></choice>;</l>
@@ -833,14 +775,14 @@
                 wages;</l>
               <l>See the identity formed out of thirty-six spacious and <lb/>haughty States, (and
                 many more to come;)</l>
-              <l>See forts on the shores of harbors&#8212;see ships sailing in <lb/>and out;</l>
+              <l>See forts on the shores of harbors—see ships sailing in <lb/>and out;</l>
               <l>Then over all, (aye! aye!) my little and lengthen'd <choice>
                   <orig>pen-<lb/>nant</orig>
                   <reg>pennant</reg>
                 </choice> shaped like a sword,</l>
-              <l>Runs swiftly up, indicating war and defiance&#8212;And now <lb/>the halyards have
+              <l>Runs swiftly up, indicating war and defiance—And now <lb/>the halyards have
                 rais'd it,</l>
-              <l>Side of my banner broad and blue&#8212;side of my starry <lb/>banner,</l>
+              <l>Side of my banner broad and blue—side of my starry <lb/>banner,</l>
               <l>Discarding peace over all the sea and land.</l>
             </lg>
           </lg>
@@ -861,11 +803,11 @@
               <l>And the shores of the sea are ours, and the rivers great <lb/>and small;</l>
               <l>And the fields they moisten are ours, and the crops and <lb/>the fruits are
                 ours;</l>
-              <l>Bays and channels, and ships sailing in and out, are ours <lb/>&#8212;and we over
+              <l>Bays and channels, and ships sailing in and out, are ours <lb/>—and we over
                 all,</l>
-              <l>Over the area spread below, the three millions of square <lb/>miles&#8212;the
+              <l>Over the area spread below, the three millions of square <lb/>miles—the
                 capitals,</l>
-              <l>The thirty-five millions of people&#8212;O bard! in life and <lb/>death
+              <l>The thirty-five millions of people—O bard! in life and <lb/>death
                 supreme,</l>
               <l>We, even we, from this day flaunt out masterful, high <lb/>up above,</l>
               <l>Not for the present alone, for a thousand years, <choice>
@@ -879,8 +821,8 @@
             <head type="sub">CHILD.</head>
             <lg type="linegroup">
               <l>O my father, I like not the houses;</l>
-              <l>They will never to me be anything&#8212;nor do I like <lb/>money;</l>
-              <l>But to mount up there I would like, O father dear&#8212; <lb/>that banner I
+              <l>They will never to me be anything—nor do I like <lb/>money;</l>
+              <l>But to mount up there I would like, O father dear— <lb/>that banner I
                 like;</l>
               <l>That pennant I would be, and must be.</l>
             </lg>
@@ -895,7 +837,7 @@
 
               <l>Little you know what it is this day, and henceforth <lb/>forever;</l>
               <l>It is to gain nothing, but risk and defy everything;</l>
-              <l>Forward to stand in front of wars&#8212;and O, such wars!<lb/>&#8212;what have you
+              <l>Forward to stand in front of wars—and O, such wars!<lb/>—what have you
                 to do with them?</l>
               <l>With passions of demons, slaughter, premature death?</l>
             </lg>
@@ -904,7 +846,7 @@
             <head type="sub">POET.</head>
             <lg type="linegroup">
               <l>Demons and death then I sing;</l>
-              <l>Put in all, aye all, will I&#8212;sword-shaped pennant for <lb/>war, and banner so
+              <l>Put in all, aye all, will I—sword-shaped pennant for <lb/>war, and banner so
                 broad and blue,</l>
               <l>And a pleasure new and extatic, and the prattled <choice>
                   <orig>yearn-<lb/>ing</orig>
@@ -920,7 +862,7 @@
               <l>And all between those shores, and my ever running <lb/>Mississippi, with bends and
                 chutes;</l>
               <l>And my Illinois fields, and my Kansas fields, and my <lb/>fields of Missouri;</l>
-              <l>The CONTINENT&#8212;devoting the whole identity, without <lb/>reserving an
+              <l>The CONTINENT—devoting the whole identity, without <lb/>reserving an
                 atom,</l>
               <l>Pour in! whelm that which asks, which sings, with all,<lb/>and the yield of
                 all.</l>
@@ -947,8 +889,8 @@
             <head type="sub">POET. (<hi rend="italic">Finale</hi>.)</head>
             <lg type="linegroup">
               <l>My limbs, my veins dilate;</l>
-              <l>The blood of the world has fill'd me full&#8212;my theme is <lb/>clear at last:</l>
-              <l>&#8212;Banner so broad, advancing out of the night, I sing <lb/>you haughty and
+              <l>The blood of the world has fill'd me full—my theme is <lb/>clear at last:</l>
+              <l>—Banner so broad, advancing out of the night, I sing <lb/>you haughty and
                 resolute;</l>
               <l>I burst through where I waited long, too long, deafen'd <lb/>and blinded;</l>
               <l>My sight, my hearing and tongue, are come to me, (a <lb/>little child taught
@@ -963,12 +905,12 @@
                 </choice> fast, full of comfort, built with money;</l>
               <l>May they stand fast, then? Not an hour, unless you,<lb/>above them and all, stand
                 fast;)</l>
-              <l>&#8212;O banner! not money so precious are you, nor farm <lb/>produce you, nor the
+              <l>—O banner! not money so precious are you, nor farm <lb/>produce you, nor the
                 material good nutriment,</l>
               <l>Nor excellent stores, nor landed on wharves from the <lb/>ships;</l>
               <l>Not the superb ships, with sail-power or steam-power,<lb/>fetching and carrying
                 cargoes,</l>
-              <l>Nor machinery, vehicles, trade, nor revenues,&#8212;But <lb/>you, as henceforth I
+              <l>Nor machinery, vehicles, trade, nor revenues,—But <lb/>you, as henceforth I
                 see you,</l>
               <l>Running up out of the night, bringing your cluster of <lb/>stars, (ever-enlarging
                 stars;)</l>
@@ -982,13 +924,13 @@
 
               <pb facs="ppp.01866.021.jpg" xml:id="leaf010v1" n="16" type="verso"/>
 
-              <l>Out of reach&#8212;an idea only&#8212;yet furiously fought for,<lb/>risking bloody
-                death&#8212;loved by me!</l>
+              <l>Out of reach—an idea only—yet furiously fought for,<lb/>risking bloody
+                death—loved by me!</l>
               <l>So loved! O you banner leading the day, with stars <lb/>brought from the night!</l>
-              <l>Valueless, object of eyes, over all and demanding all&#8212; <lb/>O banner and
+              <l>Valueless, object of eyes, over all and demanding all— <lb/>O banner and
                 pennant!</l>
-              <l>I too leave the rest&#8212;great as it is, it is nothing&#8212; <lb/>houses,
-                machines are nothing&#8212;I see them not;</l>
+              <l>I too leave the rest—great as it is, it is nothing— <lb/>houses,
+                machines are nothing—I see them not;</l>
               <l>I see but you, O warlike pennant! O banner so broad,<lb/>with stripes, I sing you
                 only,</l>
               <l>Flapping up there in the wind.</l>
@@ -1005,15 +947,15 @@
           <head type="main-authorial">BY THE BIVOUAC'S FITFUL FLAME.</head>
           <lg type="linegroup">
             <l>By the bivouac's fitful flame,</l>
-            <l>A procession winding around me, solemn and sweet and <lb/>slow;&#8212;but first I
+            <l>A procession winding around me, solemn and sweet and <lb/>slow;—but first I
               note,</l>
             <l>The tents of the sleeping army, the fields' and woods' <lb/>dim outline,</l>
-            <l>The darkness, lit spots of kindled fire&#8212;the silence;</l>
+            <l>The darkness, lit spots of kindled fire—the silence;</l>
             <l>Like a phantom far or near an occasional figure moving;</l>
             <l>The shrubs and trees, (as I left my eyes they seem to be <lb/>stealthily watching
               me;)</l>
             <l>While wind in procession thoughts, O tender and <lb/>wond'rous thoughts,</l>
-            <l>Of life and death&#8212;of home and the past and loved,<lb/>and of those that are far
+            <l>Of life and death—of home and the past and loved,<lb/>and of those that are far
               away;</l>
             <l>A solemn and slow procession there as I sit on the <lb/>ground,</l>
             <l>By the bivouac's fitful flame.</l>
@@ -1038,9 +980,9 @@
               </choice> cadenzas piano;</l>
             <l>But as a strong man, erect, clothed in blue clothes,<lb/>advancing, carrying a rifle
               on your shoulder,</l>
-            <l>With well-gristled body and sunburnt face and hands&#8212; <lb/>with a knife in the
+            <l>With well-gristled body and sunburnt face and hands— <lb/>with a knife in the
               belt at your side,</l>
-            <l>As I heard you shouting loud&#8212;your sonorous voice <lb/>ringing across the
+            <l>As I heard you shouting loud—your sonorous voice <lb/>ringing across the
               continent;</l>
             <l>Your masculine voice, O year, as rising amid the great <lb/>cities,</l>
             <l>Amid the men of Manhattan I saw you, as one of the <lb/>workmen, the dwellers in
@@ -1076,18 +1018,18 @@
             <l><hi rend="small caps">FROM</hi> Paumanok starting, I fly like a bird,</l>
             <l>Around and around to soar, to sing the idea of all;</l>
             <l>To the north betaking myself, to sing there arctic songs,</l>
-            <l>To Kanada, 'till I absorb Kanada in myself&#8212;to <choice>
+            <l>To Kanada, 'till I absorb Kanada in myself—to <choice>
                 <orig>Michi-<lb/>gan</orig>
                 <reg>Michigan</reg>
               </choice> then,</l>
             <l>To Wisconsin, Iowa, Minnesota, to sing their songs,<lb/>(they are inimitable;)</l>
-            <l>Then to Ohio and Indiana to sing theirs&#8212;to Missouri <lb/>and Kansas and
+            <l>Then to Ohio and Indiana to sing theirs—to Missouri <lb/>and Kansas and
               Arkansas to sing theirs,</l>
-            <l>To Tennessee and Kentucky&#8212;to the Carolinas and <lb/>Georgia, to sing
+            <l>To Tennessee and Kentucky—to the Carolinas and <lb/>Georgia, to sing
               theirs,</l>
             <l>To Texas, and so along up toward California, to roam <lb/>accepted everywhere;</l>
             <l>To sing first, (to the tap of the war-drum, if need be,)</l>
-            <l>The idea of all&#8212;of the western world, one and <choice><orig>insep-<lb/>arable</orig><reg>inseparable</reg></choice>,</l>
+            <l>The idea of all—of the western world, one and <choice><orig>insep-<lb/>arable</orig><reg>inseparable</reg></choice>,</l>
             <l>And then the song of each member of These States.</l>
           </lg>
         </lg>
@@ -1103,11 +1045,11 @@
           <lg type="linegroup">
             <l><hi rend="small caps">BEGINNING</hi> my studies, the first step pleas'd me so
               much,</l>
-            <l>The mere fact, consciousness&#8212;these forms&#8212;the <choice>
+            <l>The mere fact, consciousness—these forms—the <choice>
                 <orig>pow-<lb/>er</orig>
                 <reg>power</reg>
               </choice> of motion,</l>
-            <l>The least insect or animal&#8212;the senses&#8212;eyesight;</l>
+            <l>The least insect or animal—the senses—eyesight;</l>
             <l>The first step, I say, aw'd me and pleas'd me so much,</l>
             <l>I have never gone, and never wish'd to go, any farther,</l>
             <l>But stop and loiter all my life, to sing it in extatic songs.</l>
@@ -1129,7 +1071,7 @@
               Centenarian.)</head>
             <lg type="linegroup">
               <l>Give me your hand, old Revolutionary;</l>
-              <l>The hill-top is nigh&#8212;but a few steps, (make room,<lb/>gentlemen;)</l>
+              <l>The hill-top is nigh—but a few steps, (make room,<lb/>gentlemen;)</l>
               <l>Up the path you have follow'd me well, spite of your <lb/>hundred and extra
                 years;</l>
               <l>You can walk, old man, though your eyes are almost <lb/>done;</l>
@@ -1138,7 +1080,7 @@
             <lg type="linegroup">
               <l>Rest, while I tell what the crowd around us means;</l>
               <l>On the plain below, recruits are drilling and exercising;</l>
-              <l>There is the camp&#8212;one regiment departs to morrow;</l>
+              <l>There is the camp—one regiment departs to morrow;</l>
               <l>Do you hear the officers giving the orders?</l>
               <l>Do you hear the clank of the muskets?</l>
             </lg>
@@ -1148,7 +1090,7 @@
                   <orig>convul-</orig>
                   <reg>convulsively</reg>
                 </choice><lb/>sively?</l>
-              <l>The troops are but drilling&#8212;they are yet surrounded <lb/>with smiles;</l>
+              <l>The troops are but drilling—they are yet surrounded <lb/>with smiles;</l>
               <l>Around them at hand, the well drest friends and the <lb/>women;</l>
               <l>While splendid and warm the afternoon sun shines <lb/>down;</l>
 
@@ -1164,15 +1106,15 @@
                 </choice><lb/>tween.</l>
             </lg>
             <lg type="linegroup">
-              <l>But drill and parade are over&#8212;they march back to <lb/>quarters;</l>
+              <l>But drill and parade are over—they march back to <lb/>quarters;</l>
               <l>Only hear that approval of hands! hear what a <choice>
                   <orig>clap-<lb/>ping</orig>
                   <reg>clapping</reg>
                 </choice>!</l>
             </lg>
             <lg type="linegroup">
-              <l>As wending, the crowds now part and disperse&#8212;but <lb/>we, old man,</l>
-              <l>Not for nothing have I brought you hither&#8212;we must <lb/>remain;</l>
+              <l>As wending, the crowds now part and disperse—but <lb/>we, old man,</l>
+              <l>Not for nothing have I brought you hither—we must <lb/>remain;</l>
               <l>You to speak in your turn, and I to listen and tell.</l>
             </lg>
           </lg>
@@ -1189,7 +1131,7 @@
                 raged,</l>
               <l>As eighty-five years a-gone, no mere parade receiv'd <lb/>with applause of
                 friends,</l>
-              <l>But a battle, which I took part in myself&#8212;aye, long ago <lb/>as it is, I took
+              <l>But a battle, which I took part in myself—aye, long ago <lb/>as it is, I took
                 part in it,</l>
               <l>Walking then this hill-top, this same ground.</l>
             </lg>
@@ -1203,27 +1145,27 @@
               <l>Rude forts appear again, the old hoop'd guns are <lb/>mounted;</l>
               <l>I see the lines of rais'd earth stretching from river to <lb/>bay;</l>
               <l>I mark the vista of waters, I mark the uplands and <lb/>slopes:</l>
-              <l>Here we lay encamp'd&#8212;it was this time in summer also.</l>
+              <l>Here we lay encamp'd—it was this time in summer also.</l>
             </lg>
             <lg type="linegroup">
-              <l>As I talk, I remember all&#8212;I remember the <choice><orig>Declara-<lb/>tion</orig><reg>Declaration</reg></choice>:</l>
-              <l>It was read here&#8212;the whole army paraded&#8212;it was <lb/>read to us
+              <l>As I talk, I remember all—I remember the <choice><orig>Declara-<lb/>tion</orig><reg>Declaration</reg></choice>:</l>
+              <l>It was read here—the whole army paraded—it was <lb/>read to us
                 here;</l>
               <l>By his staff surrounded, the general stood in the <choice>
                   <orig>mid-<lb/>dle</orig>
                   <reg>middle</reg>
-                </choice>&#8212;he held up his unsheath'd sword,</l>
+                </choice>—he held up his unsheath'd sword,</l>
               <l>It glitter'd in the sun in full sight of the army.</l>
             </lg>
             <lg type="linegroup">
               <l>'Twas a bold act then;</l>
-              <l>The English war ships had just arrived&#8212;the king had <lb/>sent them from over
+              <l>The English war ships had just arrived—the king had <lb/>sent them from over
                 the sea;</l>
               <l>We could watch down the lower bay where they lay at <lb/>anchor,</l>
               <l>And the transports, swarming with soldiers.</l>
             </lg>
             <lg type="linegroup">
-              <l>A few days more, and they landed&#8212;and then the <lb/>battle.</l>
+              <l>A few days more, and they landed—and then the <lb/>battle.</l>
             </lg>
             <lg type="linegroup">
               <l>Twenty thousand were brought against us,</l>
@@ -1273,7 +1215,7 @@
             </lg>
             <lg type="linegroup">
               <l>We fought the fight in detachments;</l>
-              <l>Sallying forth, we fought at several points&#8212;but in each <lb/>the luck was
+              <l>Sallying forth, we fought at several points—but in each <lb/>the luck was
                 against us;</l>
               <l>Our foe advancing, steadily getting the best of it, push'd <lb/>us back to the
                 works on this hill;</l>
@@ -1284,14 +1226,14 @@
                   <orig>young-<lb/>est</orig>
                   <reg>youngest</reg>
                 </choice> men, two thousand strong;</l>
-              <l>Few return'd&#8212;nearly all remain in Brooklyn.</l>
+              <l>Few return'd—nearly all remain in Brooklyn.</l>
             </lg>
 
             <pb facs="ppp.01866.028.jpg" xml:id="leaf014r1" n="23" type="recto"/>
 
             <lg type="linegroup">
               <l>That, and here, my General's first battle;</l>
-              <l>No women looking on, nor sunshine to bask in&#8212;it <lb/>did not conclude with
+              <l>No women looking on, nor sunshine to bask in—it <lb/>did not conclude with
                 applause;</l>
               <l>Nobody clapp'd hands here then.</l>
             </lg>
@@ -1328,7 +1270,7 @@
           <lg type="section">
             <head type="sub">TERMINUS.</head>
             <lg type="linegroup">
-              <l>Enough&#8212;the Centenarian's story ends;</l>
+              <l>Enough—the Centenarian's story ends;</l>
               <l>The two, the past and present, have interchanged;</l>
               <l>I myself, as connecter, as chansonnier of a great future,<lb/>am now speaking.</l>
             </lg>
@@ -1342,18 +1284,18 @@
               <l>As resolute in defeat, as other generals in their proudest <lb/>triumphs?</l>
             </lg>
             <lg type="linegroup">
-              <l>It is well&#8212;a lesson like that, always comes good;</l>
+              <l>It is well—a lesson like that, always comes good;</l>
               <l>I must copy the story, and send it eastward and <choice><orig>west-<lb/>ward</orig><reg>westward</reg></choice>;</l>
               <l>I must preserve that look, as it beam'd on you, rivers of <lb/>Brooklyn.</l>
             </lg>
             <lg type="linegroup">
               <l>See! as the annual round returns, the phantoms <lb/>return;</l>
               <l>It is the 27th of August, and the British have landed;</l>
-              <l>The battle begins, and goes against us&#8212;behold! through <lb/>the smoke
+              <l>The battle begins, and goes against us—behold! through <lb/>the smoke
                 Washington's face;</l>
               <l>The brigade of Virginia and Maryland have march'd <lb/>forth to intercept the
                 enemy;</l>
-              <l>They are cut off&#8212;murderous artillery from the hills <lb/>plays upon them;</l>
+              <l>They are cut off—murderous artillery from the hills <lb/>plays upon them;</l>
               <l>Rank after rank falls, while over them silently droops <lb/>the flag,</l>
               <l>Baptized that day in many a young man's bloody <lb/>wounds,</l>
               <l>In death, defeat, and sisters', mothers' tears.</l>
@@ -1471,7 +1413,7 @@
             <head type="sub">10</head>
               <l rend="indented">O resistless, restless race!</l>
               <l>O beloved race in all! O my breast aches with tender <lb/>love for all!</l>
-              <l>O I mourn and yet exult&#8212;I am rapt with love for all,</l>
+              <l>O I mourn and yet exult—I am rapt with love for all,</l>
               <l rend="indented2">Pioneers! O pioneers!</l>
             </lg>
 
@@ -1580,7 +1522,7 @@
           <lg type="linegroup">
             <head type="sub">22</head>
               <l rend="indented">Minstrels latent on the prairies!</l>
-              <l>(Shrouded bards of other lands! you may sleep&#8212;you <lb/>have done your
+              <l>(Shrouded bards of other lands! you may sleep—you <lb/>have done your
                 work;)</l>
               <l>Soon I hear you coming warbling, soon you rise and <lb/>tramp amid us,</l>
               <l rend="indented2">Pioneers! O pioneers!</l>
@@ -1616,9 +1558,9 @@
           <lg type="linegroup">
             <head type="sub">26</head>
               <l rend="indented">Till with sound of trumpet,</l>
-              <l>Far, far off the day-break call&#8212;hark! how loud and <lb/>clear I hear it
+              <l>Far, far off the day-break call—hark! how loud and <lb/>clear I hear it
                 wind;</l>
-              <l>Swift! to the head of the army!&#8212;swift! spring to <lb/>your
+              <l>Swift! to the head of the army!—swift! spring to <lb/>your
                 places,</l>
               <l rend="indented2">Pioneers! O pioneers!</l>
             </lg>
@@ -1633,16 +1575,16 @@
           <head type="main-authorial">QUICKSAND YEARS THAT WHIRL ME I KNOW NOT WHITHER.</head>
           <lg type="linegroup">
             <l><hi rend="small caps">QUICKSAND</hi> years that whirl me I know not whither,</l>
-            <l>Your schemes, politics, fail&#8212;lines give way&#8212;<choice>
+            <l>Your schemes, politics, fail—lines give way—<choice>
                 <orig>substan-<lb/>ces</orig>
                 <reg>substances</reg>
               </choice> mock and elude me;</l>
             <l>Only the theme I sing, the great and strong-possess'd <lb/>soul, eludes not;</l>
-            <l>One's-self, must never give way&#8212;that is the final <choice>
+            <l>One's-self, must never give way—that is the final <choice>
                 <orig>sub-<lb/>tance</orig>
                 <reg>substance</reg>
-              </choice>&#8212;that out of all is sure;</l>
-            <l>Out of politics, triumphs, battles, death&#8212;what at last <lb/>finally
+              </choice>—that out of all is sure;</l>
+            <l>Out of politics, triumphs, battles, death—what at last <lb/>finally
               remains?</l>
             <l>When shows break up, what but One's-Self is sure?</l>
           </lg>
@@ -1665,7 +1607,7 @@
               love me;</l>
             <l>Years hence of these scenes, of these furious passions,<lb/>these chances,</l>
             <l>Of unsurpass'd heroes, (was one side so brave? the <lb/>other was equally brave;)</l>
-            <l>Now be witness again&#8212;paint the mightiest armies of <lb/>earth;</l>
+            <l>Now be witness again—paint the mightiest armies of <lb/>earth;</l>
             <l>Of those armies so rapid, so wondrous, what saw you to <lb/>tell us?</l>
             <l>What stays with you latest and deepest? of curious <lb/>panics,</l>
             <l>Of hard-fought engagements, or sieges tremendous,<lb/>what deepest remains?</l>
@@ -1680,9 +1622,9 @@
             <l>In the nick of time I come, plunge in the fight, loudly <lb/>shout in the rush of
               successful charge;</l>
             <l>Enter the captur'd works . . . . yet lo! like a <choice><orig>swift-<lb/>running</orig><reg>swift-running</reg></choice> river, they fade;</l>
-            <l>Pass and are gone, they fade&#8212;I dwell not on soldiers' <lb/>perils or soldiers'
+            <l>Pass and are gone, they fade—I dwell not on soldiers' <lb/>perils or soldiers'
               joys;</l>
-            <l>(Both I remember well&#8212;many the hardships, few the <lb/>joys, yet I was
+            <l>(Both I remember well—many the hardships, few the <lb/>joys, yet I was
               content.)</l>
           </lg>
 
@@ -1693,7 +1635,7 @@
             <l>While the world of gain and appearance and mirth goes <lb/>on,</l>
             <l>So soon what is over forgotten, and waves wash the <lb/>imprints off the sand,</l>
             <l>In nature's reverie sad, with hinged knees returning, I <lb/>enter the
-              doors&#8212;(while for you up there,</l>
+              doors—(while for you up there,</l>
             <l>Whoever you are, follow me without noise, and be of <lb/>strong heart.)</l>
           </lg>
           <lg type="linegroup">
@@ -1703,25 +1645,25 @@
             <l>Where their priceless blood reddens the grass, the <lb/>ground;</l>
             <l>Or to the rows of the hospital tent, or under the roof'd <lb/>hospital;</l>
             <l>To the long rows of cots, up and down, each side, I <lb/>return;</l>
-            <l>To each and all, one after another, I draw near&#8212;not <lb/>one do I miss;</l>
-            <l>An attendant follows, holding a tray&#8212;he carries a <lb/>refuse pail,</l>
+            <l>To each and all, one after another, I draw near—not <lb/>one do I miss;</l>
+            <l>An attendant follows, holding a tray—he carries a <lb/>refuse pail,</l>
             <l>Soon to be fill'd with clotted rags and blood, emptied,<lb/>and fill'd again.</l>
           </lg>
           <lg type="linegroup">
             <l>I onward go, I stop,</l>
             <l>With hinged knees and steady hand, to dress wounds;</l>
-            <l>I am firm with each&#8212;the pangs are sharp, yet <choice><orig>unavoid-<lb/>able</orig><reg>unavoidable</reg></choice>;</l>
-            <l>One turns to me his appealing eyes&#8212;(poor boy! I <lb/>never knew you,</l>
+            <l>I am firm with each—the pangs are sharp, yet <choice><orig>unavoid-<lb/>able</orig><reg>unavoidable</reg></choice>;</l>
+            <l>One turns to me his appealing eyes—(poor boy! I <lb/>never knew you,</l>
             <l>Yet I think I could not refuse this moment to die for <lb/>you, if that would save
               you.)</l>
           </lg>
           <lg type="linegroup">
-            <l>On, on I go&#8212;(open, doors of time! open, hospital <lb/>doors!)</l>
+            <l>On, on I go—(open, doors of time! open, hospital <lb/>doors!)</l>
 
             <pb facs="ppp.01866.038.jpg" xml:id="leaf019r1" n="33" type="recto"/>
 
             <l>The crush'd head I dress, (poor crazed hand, tear not the <lb/>bandage away;)</l>
-            <l>The neck of the cavalry-man, with the bullet through <lb />and through, I examine;</l>
+            <l>The neck of the cavalry-man, with the bullet through <lb/>and through, I examine;</l>
             <l>Hard the breathing rattles, quite glazed already the eye,<lb/>yet life struggles
               hard;</l>
             <l>(Come, sweet death! be persuaded, O beautiful death!</l>
@@ -1738,7 +1680,7 @@
           </lg>
           <lg type="linegroup">
             <l>I dress a wound in the side, deep, deep;</l>
-            <l>But a day or two more&#8212;for see, the frame all wasted <lb/>and sinking,</l>
+            <l>But a day or two more—for see, the frame all wasted <lb/>and sinking,</l>
             <l>And the yellow-blue countenance see.</l>
           </lg>
           <lg type="linegroup">
@@ -1753,7 +1695,7 @@
           <lg type="linegroup">
             <l>I am faithful, I do not give out;</l>
             <l>The fractur'd thigh, the knee, the wound in the <choice><orig>abdo-<lb/>men</orig><reg>abdomen</reg></choice>,</l>
-            <l>These and more I dress with impassive hand&#8212;(yet <lb/>deep in my breast a fire,
+            <l>These and more I dress with impassive hand—(yet <lb/>deep in my breast a fire,
               a burning flame.)</l>
           </lg>
           <lg type="linegroup">
@@ -1763,8 +1705,8 @@
             <pb facs="ppp.01866.039.jpg" xml:id="leaf019v1" n="34" type="verso"/>
 
             <l>The hurt and the wounded I pacify with soothing hand,</l>
-            <l>I sit by the restless all the dark night&#8212;some are so <lb/>young;</l>
-            <l>Some suffer so much&#8212;I recall the experience sweet <lb/>and sad;</l>
+            <l>I sit by the restless all the dark night—some are so <lb/>young;</l>
+            <l>Some suffer so much—I recall the experience sweet <lb/>and sad;</l>
             <l>(Many a soldier's loving arms about this neck have <lb/>cross'd and rested,</l>
             <l>Many a soldier's kiss dwells on these bearded lips.)</l>
           </lg>
@@ -1807,8 +1749,8 @@
               <l><hi rend="small caps">RISE,</hi> O days, from your fathomless deeps, till you
                 loftier <lb/>and fiercer sweep!</l>
               <l>Long for my soul, hungering gymnastic, I devour'd <lb/>what the earth gave me;</l>
-              <l>Long I roam'd the woods of the north&#8212;long I watch'd <lb/>Niagara pouring;</l>
-              <l>I travel'd the prairies over, and slept on their breast&#8212;I <lb/>cross'd the
+              <l>Long I roam'd the woods of the north—long I watch'd <lb/>Niagara pouring;</l>
+              <l>I travel'd the prairies over, and slept on their breast—I <lb/>cross'd the
                 Nevadas, I cross'd the plateaus;</l>
               <l>I ascended the towering rocks along the Pacific, I sail'd <lb/>out to sea;</l>
               <l>I sail'd through the storm, I was refresh'd by the storm;</l>
@@ -1820,10 +1762,10 @@
               <l>Heard the continuous thunder, as it bellow'd after the <lb/>lightning;</l>
               <l>Noted the slender and jagged threads of lightning, as <lb/>sudden and fast amid the
                 din they chased each <lb/>other across the sky;</l>
-              <l>&#8212;These, and such as these, I, elate, saw&#8212;saw with <lb/>wonder, yet
+              <l>—These, and such as these, I, elate, saw—saw with <lb/>wonder, yet
                 pensive and masterful;</l>
               <l>All the menacing might of the globe uprisen around me;</l>
-              <l>Yet there with my soul I fed&#8212;I fed content, <choice>
+              <l>Yet there with my soul I fed—I fed content, <choice>
                   <orig>super-<lb/>cilious</orig>
                   <reg>supercilious</reg>
                 </choice>.</l>
@@ -1840,14 +1782,14 @@
               <l>Something for us is pouring now, more than Niagara <lb/>pouring;</l>
               <l>Torrents of men, (sources and rills of the Northwest, are <lb/>you indeed
                 inexhaustible?)</l>
-              <l>What, to pavements and homesteads here&#8212;what were <lb/>those storms of the
+              <l>What, to pavements and homesteads here—what were <lb/>those storms of the
                 mountains and sea?</l>
               <l>What, to passions I witness around me to-day? Was <lb/>the sea risen?</l>
               <l>Was the wind piping the pipe of death under the black <lb/>clouds?</l>
               <l>Lo! from deeps more unfathomable, something more <lb/>deadly and savage;</l>
-              <l>Manhattan, rising, advancing with menacing front&#8212; <lb/>Cincinnati, Chicago,
+              <l>Manhattan, rising, advancing with menacing front— <lb/>Cincinnati, Chicago,
                 unchain'd;</l>
-              <l>&#8212;What was that swell I saw on the ocean? behold <lb/>what comes here!</l>
+              <l>—What was that swell I saw on the ocean? behold <lb/>what comes here!</l>
               <l>How it climbs with daring feet and hands! how it <lb/>dashes!</l>
               <l>How the true thunder bellows after the lightning! how <lb/>bright the flashes of
                 lightning!</l>
@@ -1872,16 +1814,16 @@
                 me,</l>
               <l>Continually preceding my steps, turning upon me oft,<lb/>ironically hissing
                 low;</l>
-              <l>&#8212;The cities I loved so well, I abandon'd and left&#8212;I <lb/>sped to the
+              <l>—The cities I loved so well, I abandon'd and left—I <lb/>sped to the
                 certainties suitable to me;</l>
               <l>Hungering, hungering, hungering, for primal energies,<lb/>and Nature's
                 dauntlessness,</l>
               <l>I refresh'd myself with it only, I could relish it only;</l>
-              <l>I waited the bursting forth of the pent fire&#8212;on the <lb/>water and air I
+              <l>I waited the bursting forth of the pent fire—on the <lb/>water and air I
                 waited long;</l>
-              <l>&#8212;But now I no longer wait&#8212;I am fully satisfied&#8212;I <lb/>am
+              <l>—But now I no longer wait—I am fully satisfied—I <lb/>am
                 glutted;</l>
-              <l>I have witness'd the true lighting&#8212;I have witness'd <lb/>my cities
+              <l>I have witness'd the true lighting—I have witness'd <lb/>my cities
                 electric;</l>
               <l>I have lived to behold man burst forth, and warlike <lb/>America rise;</l>
               <l>Hence I will seek no more the food of the northern <choice>
@@ -1919,41 +1861,41 @@
           <head type="main-authorial">BEAT! BEAT! DRUMS!</head>
             <lg type="linegroup">
               <head type="sub">1</head>
-              <l><hi rend="small caps">BEAT!</hi> beat! drums!&#8212;Blow! bugles! blow!</l>
-              <l>Through the windows&#8212;through doors&#8212;burst like a <lb/>force of ruthless
+              <l><hi rend="small caps">BEAT!</hi> beat! drums!—Blow! bugles! blow!</l>
+              <l>Through the windows—through doors—burst like a <lb/>force of ruthless
                 men,</l>
               <l>Into the solemn church, and scatter the congregation;</l>
               <l>Into the school where the scholar is studying:</l>
-              <l>Leave not the bridegroom quiet&#8212;no happiness must <lb/>he have now with his
+              <l>Leave not the bridegroom quiet—no happiness must <lb/>he have now with his
                 bride;</l>
               <l>Nor the peaceful farmer any peace, plowing his field or <lb/>gathering his
                 grain;</l>
-              <l>So fierce you whirr and pound, you drums&#8212;so shrill <lb/>you bugles blow.</l>
+              <l>So fierce you whirr and pound, you drums—so shrill <lb/>you bugles blow.</l>
             </lg>
             <lg type="linegroup">
               <head type="sub">2</head>
-              <l>Beat! beat! drums!&#8212;Blow! bugles! blow!</l>
-              <l>Over the traffic of cities&#8212;over the rumble of wheels in <lb/>the streets:</l>
+              <l>Beat! beat! drums!—Blow! bugles! blow!</l>
+              <l>Over the traffic of cities—over the rumble of wheels in <lb/>the streets:</l>
               <l>Are beds prepared for sleepers at night in the houses?<lb/>No sleepers must sleep
                 in those beds;</l>
-              <l>No bargainers' bargains by day&#8212;no brokers or <choice>
+              <l>No bargainers' bargains by day—no brokers or <choice>
                   <orig>specu-<lb/>lators</orig>
                   <reg>speculators</reg>
-                </choice>&#8212;Would they continue?</l>
+                </choice>—Would they continue?</l>
               <l>Would the talkers be talking? would the singer attempt <lb/>to sing?</l>
               <l>Would the lawyer rise in the court to state his case <lb/>before the judge?</l>
-              <l>Then rattle quicker, heavier drums&#8212;you bugles wilder <lb/>blow.</l>
+              <l>Then rattle quicker, heavier drums—you bugles wilder <lb/>blow.</l>
             </lg>
             <lg type="linegroup">
               <head type="sub">3</head>
-              <l>Beat! beat! drums!&#8212;Blow! bugles! blow!</l>
-              <l>Make no parley&#8212;stop for no expostulation;</l>
-              <l>Mind not the timid&#8212;mind not the weeper or prayer;</l>
+              <l>Beat! beat! drums!—Blow! bugles! blow!</l>
+              <l>Make no parley—stop for no expostulation;</l>
+              <l>Mind not the timid—mind not the weeper or prayer;</l>
               <l>Mind not the old man beseeching the young man;</l>
               <l>Let not the child's voice be heard, nor the mother's <choice><orig>en-<lb/>treaties</orig><reg>entreaties</reg></choice>;</l>
               <l>Make even the trestles to shake the dead, where they lie <lb/>awaiting the
                 hearses,</l>
-              <l>So strong you thump, O terrible drums&#8212;so loud <lb/>you bugles blow.</l>
+              <l>So strong you thump, O terrible drums—so loud <lb/>you bugles blow.</l>
             </lg>
         </lg>
 
@@ -1969,7 +1911,7 @@
           <head type="main-authorial">COME UP FROM THE FIELDS FATHER.</head>
           <lg type="linegroup">
             <l>Come up from the fields, father, here's a letter from <lb/>our Pete;</l>
-            <l>And come to the front door, mother&#8212;here's a letter <lb/>from thy dear son.</l>
+            <l>And come to the front door, mother—here's a letter <lb/>from thy dear son.</l>
           </lg>
           <lg type="linegroup">
             <l>Lo, 'tis autumn;</l>
@@ -1983,16 +1925,16 @@
           <lg type="linegroup">
             <l>Above all, lo, the sky, so calm, so transparent after <lb/>the rain, and with
               wondrous clouds;</l>
-            <l>Below, too, all calm, all vital and beautiful&#8212;and the <lb/>farm prospers
+            <l>Below, too, all calm, all vital and beautiful—and the <lb/>farm prospers
               well.</l>
           </lg>
           <lg type="linegroup">
             <l>Down in the fields all prospers well;</l>
-            <l>But now from the fields come, father&#8212;come at the <lb/>daughter's call;</l>
-            <l>And come to the entry, mother&#8212;to the front door come,<lb/>right away.</l>
+            <l>But now from the fields come, father—come at the <lb/>daughter's call;</l>
+            <l>And come to the entry, mother—to the front door come,<lb/>right away.</l>
           </lg>
           <lg type="linegroup">
-            <l>Fast as she can she hurries&#8212;something ominous&#8212; <lb/>her steps
+            <l>Fast as she can she hurries—something ominous— <lb/>her steps
               trembling;</l>
             <l>She does not tarry to smooth her white hair, nor adjust <lb/>her cap.</l>
           </lg>
@@ -2002,10 +1944,10 @@
           <lg type="linegroup">
             <l>Open the envelope quickly;</l>
             <l>O this is not our son's writing, yet his name is sign'd;</l>
-            <l>O a strange hand writes for our dear son&#8212;O stricken <lb/>mother's soul!</l>
-            <l>All swims before her eyes&#8212;flashes with black&#8212;she <lb/>catches the main
+            <l>O a strange hand writes for our dear son—O stricken <lb/>mother's soul!</l>
+            <l>All swims before her eyes—flashes with black—she <lb/>catches the main
               words only;</l>
-            <l>Sentences broken&#8212;<hi rend="italic">gun-shot wound in the breast, cavalry</hi>
+            <l>Sentences broken—<hi rend="italic">gun-shot wound in the breast, cavalry</hi>
               <lb/><hi rend="italic">skirmish, taken to hospital,</hi></l>
             <l><hi rend="italic">At present low, but will soon be better</hi>.</l>
           </lg>
@@ -2031,10 +1973,10 @@
           <lg type="linegroup">
             <l>But the mother needs to be better;</l>
             <l>She, with thin form, presently drest in black;</l>
-            <l>By day her meals untouch'd&#8212;then at night fitfully <lb/>sleeping, often
+            <l>By day her meals untouch'd—then at night fitfully <lb/>sleeping, often
               waking,</l>
             <l>In the midnight waking, weeping, longing with one deep <lb/>longing,</l>
-            <l>O that she might withdraw unnoticed&#8212;silent from life,<lb/>escape and
+            <l>O that she might withdraw unnoticed—silent from life,<lb/>escape and
               withdraw,</l>
             <l>To follow, to seek, to be with her dear dead son.</l>
           </lg>
@@ -2059,7 +2001,7 @@
             <l>City of the sea! city of hurried and glittering tides!</l>
             <l>City whose gleeful tides continually rush or recede,<lb/>whirling in and out, with
               eddies and foam!</l>
-            <l>City of wharves and stores! city of tall fa&#231;ades of <choice>
+            <l>City of wharves and stores! city of tall façades of <choice>
                 <orig>mar-<lb/>ble</orig>
                 <reg>marble</reg>
               </choice> and iron!</l>
@@ -2070,11 +2012,11 @@
             <l>Spring up, O city! not for peace alone, but be indeed <lb/>yourself, warlike!</l>
             <l>Fear not! submit to no models but your own, O city!</l>
             <l>Behold me! incarnate me, as I have incarnated you!</l>
-            <l>I have rejected nothing you offer'd me&#8212;whom you <lb/>adopted, I have
+            <l>I have rejected nothing you offer'd me—whom you <lb/>adopted, I have
               adopted;</l>
-            <l>Good or bad, I never question you&#8212;I love all&#8212;I do <lb/>not condemn
+            <l>Good or bad, I never question you—I love all—I do <lb/>not condemn
               anything;</l>
-            <l>I chant and celebrate all that is yours&#8212;yet peace no <lb/>more;</l>
+            <l>I chant and celebrate all that is yours—yet peace no <lb/>more;</l>
             <l>In peace I chanted peace, but now the drum of war is <lb/>mine;</l>
             <l>War, red war, is my song through your streets, O city!</l>
           </lg>
@@ -2091,7 +2033,7 @@
           <lg type="linegroup">
             <l><hi rend="small caps">I SEE</hi> the sleeping babe, nestling the breast of its
               <lb/>mother;</l>
-            <l>The sleeping mother and babe&#8212;hush'd, I study them <lb/>long and long.</l>
+            <l>The sleeping mother and babe—hush'd, I study them <lb/>long and long.</l>
           </lg>
         </lg>
 
@@ -2113,19 +2055,19 @@
             <l>One touch of your hand to mine, O boy, reach'd up as <lb/>you lay on the ground;</l>
             <l>Then onward I sped in the battle, the even-contested <lb/>battle;</l>
             <l>Till late in the night reliev'd, to the place at last again I <lb/>made my way;</l>
-            <l>Found you in death so cold, dear comrade&#8212;found your <lb/>body, son of
+            <l>Found you in death so cold, dear comrade—found your <lb/>body, son of
               responding kisses, (never again on <lb/>earth responding;)</l>
-            <l>Bared your face in the starlight&#8212;curious the scene&#8212; <lb/>cool blew the
+            <l>Bared your face in the starlight—curious the scene— <lb/>cool blew the
               moderate night-wind;</l>
             <l>Long there and then in vigil I stood, dimly around me <lb/>the battle-field
               spreading;</l>
             <l>Vigil wondrous and vigil sweet, there in the fragrant <lb/>silent night;</l>
-            <l>But not a tear fell, not even a long-drawn sigh&#8212;Long,<lb/>long I gazed;</l>
+            <l>But not a tear fell, not even a long-drawn sigh—Long,<lb/>long I gazed;</l>
             <l>Then on the earth partially reclining, sat by your side,<lb/>leaning my chin in my
               hands;</l>
             <l>Passing sweet hours, immortal and mystic hours with <lb/>you, dearest
-              comrade&#8212;Not a tear, not a word;</l>
-            <l>Vigil of silence, love and death&#8212;vigil for you, my son <lb/>and my soldier,</l>
+              comrade—Not a tear, not a word;</l>
+            <l>Vigil of silence, love and death—vigil for you, my son <lb/>and my soldier,</l>
             <l>As onward silently stars aloft, eastward new ones <choice>
                 <orig>up-<lb/>ward</orig>
                 <reg>upward</reg>
@@ -2134,7 +2076,7 @@
 
             <pb facs="ppp.01866.048.jpg" xml:id="leaf024r1" n="43" type="recto"/>
 
-            <l>I faithfully loved you and cared for you living&#8212;I think <lb/>we shall surely
+            <l>I faithfully loved you and cared for you living—I think <lb/>we shall surely
               meet again;)</l>
             <l>Till at latest lingering of the night, indeed just as the <lb/>dawn appear'd,</l>
             <l>My comrade I wrapt in his blanket, envelop'd well his <lb/>form,</l>
@@ -2142,9 +2084,9 @@
               feet;</l>
             <l>And there and then, and bathed by the rising sun, my<lb/>son in his grave, in his
               rude-dug grave I <choice><orig>de-<lb/>posited</orig><reg>deposited</reg></choice>;</l>
-            <l>Ending my vigil strange with that&#8212;vigil of night and <lb/>battle-field dim;</l>
+            <l>Ending my vigil strange with that—vigil of night and <lb/>battle-field dim;</l>
             <l>Vigil for boy of responding kisses, (never again on earth <lb/>responding;)</l>
-            <l>Vigil for comrade swiftly slain&#8212;vigil I never forget,<lb/>how as day
+            <l>Vigil for comrade swiftly slain—vigil I never forget,<lb/>how as day
               brighten'd,</l>
             <l>I rose from the chill ground, and folded my soldier well <lb/>in his blanket,</l>
             <l>And buried him where he fell.</l>
@@ -2160,7 +2102,7 @@
 
           <head type="main-authorial">BATHED IN WAR'S PERFUME.</head>
           <lg type="linegroup">
-            <l><hi rend="small caps">BATHED</hi> in war's perfume&#8212;delicate flag!</l>
+            <l><hi rend="small caps">BATHED</hi> in war's perfume—delicate flag!</l>
             <l>O to hear you call the sailors and the soldiers! flag like <lb/>a beautiful
               woman!</l>
             <l>O to hear the tramp, tramp, of a million answering men!<lb/>O the ships they arm with
@@ -2187,9 +2129,9 @@
             <l>Our army foil'd with loss severe, and the sullen remnant <lb/>retreating;</l>
             <l>Till after midnight glimmer upon us, the lights of a <lb/>dim-lighted building;</l>
             <l>We come to an open space in the woods, and halt by the <lb/>dim-lighted building;</l>
-            <l>'Tis a large old church, at the crossing roads&#8212;'tis now <lb/>an impromptu
+            <l>'Tis a large old church, at the crossing roads—'tis now <lb/>an impromptu
               hospital;</l>
-            <l>&#8212;Entering but for a minute, I see a sight beyond all <lb/>the pictures and
+            <l>—Entering but for a minute, I see a sight beyond all <lb/>the pictures and
               poems ever made:</l>
             <l>Shadows of deepest, deepest black, just lit by moving <lb/>candles and lamps,</l>
             <l>And by one great pitchy torch, stationary, with wild red <lb/>flame, and clouds of
@@ -2207,18 +2149,18 @@
 
             <pb facs="ppp.01866.050.jpg" xml:id="leaf025r1" n="45" type="recto"/>
 
-            <l>The crowd, O the crowd of the bloody forms of soldiers <lb/>&#8212;the yard outside
+            <l>The crowd, O the crowd of the bloody forms of soldiers <lb/>—the yard outside
               also fill'd;</l>
             <l>Some on the bare ground, some on planks or stretchers,<lb/>some in the death-spasm
               sweating;</l>
             <l>An occasional scream or cry, the doctor's shouted orders <lb/>or calls;</l>
             <l>The glisten of the little steel instruments catching the <lb/>glint of the
               torches;</l>
-            <l>These I resume as I chant&#8212;I see again the forms, I <lb/>smell the odor;</l>
+            <l>These I resume as I chant—I see again the forms, I <lb/>smell the odor;</l>
             <l>Then hear outside the orders given, <hi rend="italic">Fall in, my men,</hi>
               <lb/><hi rend="italic">Fall in;</hi>
             </l>
-            <l>But first I bend to the dying lad&#8212;his eyes open&#8212;a <lb/>half-smile gives
+            <l>But first I bend to the dying lad—his eyes open—a <lb/>half-smile gives
               he me;</l>
             <l>Then the eyes close, calmly close, and I speed forth to <lb/>the darkness,</l>
             <l>Resuming, marching, as ever in darkness marching, on <lb/>in the ranks,</l>
@@ -2238,7 +2180,7 @@
             <l><hi rend="small caps">LONG,</hi> too long, O land,</l>
             <l>Traveling roads all even and peaceful, you learn'd from <lb/>joys and prosperity
               only;</l>
-            <l>But now, ah now, to learn from crises of anguish&#8212;<choice><orig>ad-<lb/>vancing</orig><reg>advancing</reg></choice>, grappling with direst fate, and recoiling<lb/>not;</l>
+            <l>But now, ah now, to learn from crises of anguish—<choice><orig>ad-<lb/>vancing</orig><reg>advancing</reg></choice>, grappling with direst fate, and recoiling<lb/>not;</l>
             <l>And now to conceive, and show to the world, what your <lb/>children en-masse really
               are;</l>
             <l>(For who except myself has yet conceived what your <lb/>children en-masse really
@@ -2273,13 +2215,13 @@
             <l>Who are you, my dear comrade?</l>
           </lg>
           <lg type="linegroup">
-            <l>Then to the second I step&#8212;And who are you, my <lb/>child and darling?</l>
+            <l>Then to the second I step—And who are you, my <lb/>child and darling?</l>
             <l>Who are you, sweet boy, with cheeks yet blooming?</l>
           </lg>
           <lg type="linegroup">
-            <l>Then to the third&#8212;a face nor child, nor old, very <lb/>calm, as of beautiful
+            <l>Then to the third—a face nor child, nor old, very <lb/>calm, as of beautiful
               yellow-white ivory:</l>
-            <l>Young man, I think I know you&#8212;I think this face of <lb/>yours is the face of
+            <l>Young man, I think I know you—I think this face of <lb/>yours is the face of
               the Christ himself;</l>
             <l>Dead and divine, and brother of all, and here again he <lb/>lies.</l>
           </lg>
@@ -2316,26 +2258,26 @@
               <l>Give me juicy autumnal fruit, ripe and red from the <lb/>orchard;</l>
               <l>Give me a field where the unmow'd grass grows;</l>
               <l>Give me an arbor, give me the trellis'd grape;</l>
-              <l>Give me fresh corn and wheat&#8212;give me serene-moving <lb/>animals, teaching
+              <l>Give me fresh corn and wheat—give me serene-moving <lb/>animals, teaching
                 content;</l>
               <l>Give me nights perfectly quiet, as on high plateaus west <lb/>of the Mississippi,
                 and I looking up at the stars;</l>
               <l>Give me odorous at sunrise a garden of beautiful flowers,<lb/>where I can walk
                 undisturb'd;</l>
               <l>Give me for marriage a sweet-breath'd woman, of whom <lb/>I should never tire;</l>
-              <l>Give me a perfect child&#8212;give me, away, aside from the <lb/>noise of the
+              <l>Give me a perfect child—give me, away, aside from the <lb/>noise of the
                 world, a rural domestic life;</l>
               <l>Give me to warble spontaneous songs, reliev'd, recluse <lb/>by myself, for my own
                 ears only;</l>
-              <l>Give me solitude&#8212;give me Nature&#8212;give me again,<lb/>O Nature, your
+              <l>Give me solitude—give me Nature—give me again,<lb/>O Nature, your
                 primal sanities!</l>
-              <l>&#8212;These, demanding to have them, (tired with ceaseless <lb/>excitement, and
+              <l>—These, demanding to have them, (tired with ceaseless <lb/>excitement, and
                 rack'd by the war-strife;)</l>
               <l>These to procure, incessantly asking, rising in cries from <lb/>my heart,</l>
               <l>While yet incessantly asking, still I adhere to my city;</l>
               <l>Day upon day, and year upon year, O city, walking <lb/>your streets,</l>
               <l>Where you hold me enchain'd a certain time, refusing <lb/>to give me up;</l>
-              <l>Yet giving to make me glutted, enrich'd of soul&#8212;you <lb/>give me forever
+              <l>Yet giving to make me glutted, enrich'd of soul—you <lb/>give me forever
                 faces;</l>
 
               <pb facs="ppp.01866.053.jpg" xml:id="leaf026v1" n="48" type="verso"/>
@@ -2363,13 +2305,13 @@
                 thousand!</l>
               <l>Let me see new ones every day! let me hold new ones <lb/>by the hand every day!</l>
               <l>Give me such shows! give me the streets of Manhattan!</l>
-              <l>Give me Broadway, with the soldiers marching&#8212;give <lb/>me the sound of the
+              <l>Give me Broadway, with the soldiers marching—give <lb/>me the sound of the
                 trumpets and drums!</l>
-              <l>(The soldiers in companies or regiments&#8212;some, starting <lb/>away, flush'd and
+              <l>(The soldiers in companies or regiments—some, starting <lb/>away, flush'd and
                 reckless;</l>
-              <l>Some, their time up, returning, with thinn'd ranks&#8212; <lb/>young, yet very old,
+              <l>Some, their time up, returning, with thinn'd ranks— <lb/>young, yet very old,
                 worn, marching, noticing <lb/>nothing;)</l>
-              <l>&#8212;Give me the shores and the wharves heavy-fringed <lb/>with the black
+              <l>—Give me the shores and the wharves heavy-fringed <lb/>with the black
                 ships!</l>
               <l>O such for me! O an intense life! O full to repletion,<lb/>and varied!</l>
               <l>The life of the theatre, bar-room, huge hotel, for me!</l>
@@ -2385,7 +2327,7 @@
 
               <l>The endless and noisy chorus, the rustle and clank of <lb/>muskets, (even the sight
                 of the wounded;)</l>
-              <l>Manhattan crowds with their turbulent musical chorus <lb/>&#8212;with varied chorus
+              <l>Manhattan crowds with their turbulent musical chorus <lb/>—with varied chorus
                 and light of the sparkling <lb/>eyes;</l>
               <l>Manhattan faces and eyes forever for me.</l>
             </lg>
@@ -2401,8 +2343,8 @@
           <head type="main-authorial">OVER THE CARNAGE ROSE PROPHETIC A VOICE.</head>
           <lg type="linegroup">
             <l><hi rend="small caps">OVER</hi> the carnage rose prophetic a voice,</l>
-            <l>Be not dishearten'd&#8212;Affection shall solve the problems <lb/>of Freedom yet;</l>
-            <l>Those who love each other shall become invincible&#8212; <lb/>they shall yet make
+            <l>Be not dishearten'd—Affection shall solve the problems <lb/>of Freedom yet;</l>
+            <l>Those who love each other shall become invincible— <lb/>they shall yet make
               Columbia victorious.</l>
           </lg>
           <lg type="linegroup">
@@ -2443,7 +2385,7 @@
           <lg type="linegroup">
             <l>Were you looking to be held together by the lawyers?</l>
             <l>Or by an agreement on a paper? or by arms?</l>
-            <l>&#8212;Nay&#8212;nor the world, nor any living thing, will so <lb/>cohere.</l>
+            <l>—Nay—nor the world, nor any living thing, will so <lb/>cohere.</l>
           </lg>
         </lg>
 
@@ -2458,12 +2400,12 @@
           <lg type="linegroup">
             <l><hi rend="small caps">DID</hi> YOU ask dulcet rhymes from me?</l>
             <l>Did you find what I sang erewhile so hard to follow,<lb/>to understand?</l>
-            <l>Why I was not singing erewhile for you to follow, to <lb/>understand&#8212;nor am I
+            <l>Why I was not singing erewhile for you to follow, to <lb/>understand—nor am I
               now;</l>
-            <l>&#8212;What to such as you, anyhow, such a poet as I?<lb/>&#8212;therefore leave my
+            <l>—What to such as you, anyhow, such a poet as I?<lb/>—therefore leave my
               works,</l>
             <l>And go lull yourself with what you can understand;</l>
-            <l>For I lull nobody&#8212;and you will never understand me.</l>
+            <l>For I lull nobody—and you will never understand me.</l>
           </lg>
         </lg>
 
@@ -2483,28 +2425,28 @@
             <l>I would sing your contest for the 19th Presidentiad;</l>
             <l>I would sing how an old man, tall, with white hair,<lb/>mounted the scaffold in
               Virginia;</l>
-            <l>(I was at hand&#8212;silent I stood, with teeth shut close&#8212;I <lb/>watch'd;</l>
+            <l>(I was at hand—silent I stood, with teeth shut close—I <lb/>watch'd;</l>
             <l>I stood very near you, old man, when cool and <choice><orig>indiffer-<lb/>ent</orig><reg>indifferent</reg></choice>, but trembling with age and your unheal'd <lb/>wounds, you mounted the
               scaffold;)</l>
             <l>I would sing in my copious song your census returns of <lb/>The States,</l>
-            <l>The tables of population and products&#8212;I would sing of <lb/>your ships and their
+            <l>The tables of population and products—I would sing of <lb/>your ships and their
               cargoes,</l>
             <l>The proud black ships of Manhattan, arriving, some <lb/>fill'd with immigrants, some
               from the isthmus <lb/>with cargoes of gold;</l>
-            <l>Songs thereof would I sing&#8212;to all that hitherward <lb/>comes would I welcome
+            <l>Songs thereof would I sing—to all that hitherward <lb/>comes would I welcome
               give;</l>
             <l>And you would I sing, fair stripling! welcome to you <lb/>from me, sweet boy of
               England!</l>
             <l>Remember you surging Manhattan's crowds, as you <lb/>passed with your cortege of
               nobles?</l>
             <l>There in the crowds stood I, and singled you out with <lb/>attachment;</l>
-            <l>I know not why, but I loved you&#8230;(and so go forth <lb/>little song,</l>
+            <l>I know not why, but I loved you…(and so go forth <lb/>little song,</l>
             <l>Far over sea speed like an arrow, carrying my love all <lb/>folded,</l>
 
             <pb facs="ppp.01866.057.jpg" xml:id="leaf028v1" n="52" type="verso"/>
 
             <l>And find in his palace the youth I love, and drop these <lb/>lines at his feet;)</l>
-            <l>&#8212;Nor forget I to sing of the wonder, the ship as she <lb/>swam up my bay,</l>
+            <l>—Nor forget I to sing of the wonder, the ship as she <lb/>swam up my bay,</l>
             <l>Well-shaped and stately the Great Eastern swam up my <lb/>bay, she was 600 feet
               long,</l>
             <l>Her moving swiftly, surrounded by myriads of small <lb/>craft, I forget not to
@@ -2517,11 +2459,11 @@
                 <reg>unearthly</reg>
               </choice> light over our heads,</l>
             <l>Then departed, dropt in the night, and was gone;)</l>
-            <l>&#8212;Of such, and fitful as they, I sing&#8212;with gleams from <lb/>them would I
+            <l>—Of such, and fitful as they, I sing—with gleams from <lb/>them would I
               gleam and patch these chants;</l>
             <l>Your chants, O year all mottled with evil and good!<lb/>year of forebodings! year of
               the youth I love!</l>
-            <l>Year of comets and meteors transient and strange!&#8212;lo!<lb/>even here, one
+            <l>Year of comets and meteors transient and strange!—lo!<lb/>even here, one
               equally transient and strange!</l>
             <l>As I flit through you hastily, soon to fall and be gone,<lb/>what is this book,</l>
             <l>What am I myself but one of your meteors?</l>
@@ -2556,20 +2498,20 @@
 
           <head type="main-authorial">YEARS OF THE UNPERFORM'D.</head>
           <lg type="linegroup">
-            <l><hi rend="small caps">YEARS</hi> of the unperform'd! your horizon rises&#8212;I see
+            <l><hi rend="small caps">YEARS</hi> of the unperform'd! your horizon rises—I see
               it <lb/>parting away for more august dramas;</l>
-            <l>I see not America only&#8212;I see not only Liberty's nation,<lb/>but other nations
+            <l>I see not America only—I see not only Liberty's nation,<lb/>but other nations
               preparing;</l>
-            <l>I see tremendous entrances and exits&#8212;I see new <choice>
+            <l>I see tremendous entrances and exits—I see new <choice>
                 <orig>com-<lb/>binations</orig>
                 <reg>combinations</reg>
-              </choice>&#8212;I see the solidarity of races;</l>
+              </choice>—I see the solidarity of races;</l>
             <l>I see that force advancing with irresistible power on the <lb/>world's stage;</l>
             <l>(Have the old forces played their parts? are the acts <lb/>suitable to them
               closed?)</l>
             <l>I see Freedom, completely arm'd, and victorious, and <lb/>very haughty, with Law by
               her side, both issuing <lb/>forth against the idea of caste;</l>
-            <l>&#8212;What historic denouements are these we so rapidly <lb/>approach?</l>
+            <l>—What historic denouements are these we so rapidly <lb/>approach?</l>
             <l>I see men marching and countermarching by swift <choice><orig>mil-<lb/>lions</orig><reg>millions</reg></choice>;</l>
             <l>I see the frontiers and boundaries of the old aristocracies <lb/>broken;</l>
             <l>I see the landmarks of European kings removed;</l>
@@ -2577,7 +2519,7 @@
             <l>Never were such sharp questions ask'd as this day;</l>
             <l>Never was average man, his soul, more energetic, more <lb/>like a God;</l>
             <l>Lo, how he urges and urges, leaving the masses no <lb/>rest;</l>
-            <l>His daring foot is on land and sea everywhere&#8212;he <choice>
+            <l>His daring foot is on land and sea everywhere—he <choice>
                 <orig>col-<lb/>onizes</orig>
                 <reg>colonizes</reg>
               </choice> the Pacific, the archipelagoes;</l>
@@ -2589,22 +2531,22 @@
 
             <pb facs="ppp.01866.059.jpg" xml:id="leaf029v1" n="54" type="verso"/>
 
-            <l>&#8212;What whispers are these, O lands, running ahead of <lb/>you, passing under the
+            <l>—What whispers are these, O lands, running ahead of <lb/>you, passing under the
               seas?</l>
             <l>Are all nations communing? is there going to be but <lb/>one heart to the globe?</l>
-            <l>Is humanity forming, en-masse?&#8212;for lo! tyrants <choice><orig>trem-<lb/>ble</orig><reg>tremble</reg></choice>, crowns grow dim;</l>
+            <l>Is humanity forming, en-masse?—for lo! tyrants <choice><orig>trem-<lb/>ble</orig><reg>tremble</reg></choice>, crowns grow dim;</l>
             <l>The earth, restive, confronts a new era, perhaps a <choice>
                 <orig>gen-<lb/>eral</orig>
                 <reg>general</reg>
               </choice> divine war;</l>
-            <l>No one knows what will happen next&#8212;such portents <lb/>fill the days and
+            <l>No one knows what will happen next—such portents <lb/>fill the days and
               nights;</l>
             <l>Years prophetical! the space ahead as I walk, as I <choice>
                 <orig>vain-<lb/>ly</orig>
                 <reg>vainly</reg>
               </choice> try to pierce it, is full of phantoms;</l>
             <l>Unborn deeds, things soon to be, project their shapes <lb/>around me;</l>
-            <l>This incredible rush and heat&#8212;this strange extactic <lb/>fever of dreams, O
+            <l>This incredible rush and heat—this strange extactic <lb/>fever of dreams, O
               years!</l>
             <l>Your dreams, O years, how they penetrate through me!<lb/>(I know not whether I sleep
               or wake!)</l>
@@ -2626,7 +2568,7 @@
           <head type="main-authorial">YEAR THAT TREMBLED AND REEL'D BENEATH ME.</head>
           <lg type="linegroup">
             <l><hi rend="small caps">YEAR</hi> that trembled and reel'd beneath me!</l>
-            <l>Your summer wind was warm enough&#8212;yet the air I <lb/>breathed froze me;</l>
+            <l>Your summer wind was warm enough—yet the air I <lb/>breathed froze me;</l>
             <l>A thick gloom fell through the sunshine and darken'd <lb/>me;</l>
             <l>Must I change my triumphant songs? said I to myself;</l>
             <l>Must I indeed learn to chant the cold dirges of the <choice>
@@ -2658,24 +2600,23 @@
               infant,</l>
             <l>There in the room, as I wake from sleep, this vision <lb/>presses upon me:</l>
             <l>The engagement opens there and then, in my busy brain <lb/>unreal;</l>
-            <l>The skirmishers begin&#8212;they crawl cautiously ahead&#8212; <lb/>I hear the
+            <l>The skirmishers begin—they crawl cautiously ahead— <lb/>I hear the
               irregular snap! snap!</l>
-            <l>I hear the sounds of the different missiles&#8212;the short <lb/><hi rend="italic"
-                >t-h-t! t-h-t!</hi> of the rifle balls;</l>
-            <l>I see the shells exploding, leaving small white clouds&#8212; <lb/>I hear the great
+            <l>I hear the sounds of the different missiles—the short <lb/><hi rend="italic">t-h-t! t-h-t!</hi> of the rifle balls;</l>
+            <l>I see the shells exploding, leaving small white clouds— <lb/>I hear the great
               shells shrieking as they pass;</l>
             <l>The grape, like the hum and whirr of wind through the <lb/>trees, (quick, tumultuous,
               now the contest rages!)</l>
             <l>All the scenes at the batteries themselves rise in detail <lb/>before me again;</l>
-            <l>The crashing and smoking&#8212;the pride of the men in <lb/>their pieces;</l>
+            <l>The crashing and smoking—the pride of the men in <lb/>their pieces;</l>
             <l>The chief gunner ranges and sights his piece, and selects <lb/>a fuse of the right
               time;</l>
             <l>After firing, I see him lean aside, and look eagerly off <lb/>to note the effect;</l>
-            <l>&#8212;Elsewhere I hear the cry of a regiment charging&#8212; <lb/>(the young colonel
+            <l>—Elsewhere I hear the cry of a regiment charging— <lb/>(the young colonel
               leads himself this time, with <lb/>brandish'd sword;)</l>
-            <l>I see the gaps cut by the enemy's volleys, (quickly <lb/>fill'd up&#8212;no
+            <l>I see the gaps cut by the enemy's volleys, (quickly <lb/>fill'd up—no
               delay;)</l>
-            <l>I breathe the suffocating smoke&#8212;then the flat clouds <lb/>hover low, concealing
+            <l>I breathe the suffocating smoke—then the flat clouds <lb/>hover low, concealing
               all;</l>
 
             <pb facs="ppp.01866.061.jpg" xml:id="leaf030v1" n="56" type="verso"/>
@@ -2687,11 +2628,11 @@
               applause, (some special <lb/>success;)</l>
             <l>And ever the sound of the cannon, far or near, (rousing,<lb/>even in dreams, a
               devilish exultation, and all the <lb/>old mad joy, in the depths of my soul;)</l>
-            <l>And ever the hastening of infantry shifting positions&#8212; <lb/>batteries, cavalry,
+            <l>And ever the hastening of infantry shifting positions— <lb/>batteries, cavalry,
               moving hither and thither;</l>
-            <l>(The falling, dying, I heed not&#8212;the wounded, dripping<lb/>and red, I heed
-              not&#8212;some to the rear are <choice><orig>hob-<lb/>bling</orig><reg>hobbling</reg></choice>;)</l>
-            <l>Grime, heat, rush&#8212;aid-de-camps galloping by, or on a <lb/>full run;</l>
+            <l>(The falling, dying, I heed not—the wounded, dripping<lb/>and red, I heed
+              not—some to the rear are <choice><orig>hob-<lb/>bling</orig><reg>hobbling</reg></choice>;)</l>
+            <l>Grime, heat, rush—aid-de-camps galloping by, or on a <lb/>full run;</l>
             <l>With the patter of small arms, the warning <hi rend="italic">s-s-t</hi> of the
               <lb/>rifles, (these in my vision I hear or see,)</l>
             <l>And bombs bursting in air, and at night the vari-color'd <lb/>rockets.</l>
@@ -2709,9 +2650,9 @@
           <lg type="linegroup">
             <l><hi rend="small caps">O TAN-FACED</hi> prairie-boy!</l>
             <l>Before you came to camp, came many a welcome gift;</l>
-            <l>Praises and presents came, and nourishing food&#8212;till at <lb/>last among the
+            <l>Praises and presents came, and nourishing food—till at <lb/>last among the
               recruits,</l>
-            <l>You came, taciturn, with nothing to give&#8212;we but <lb/>look'd on each other,</l>
+            <l>You came, taciturn, with nothing to give—we but <lb/>look'd on each other,</l>
             <l>When lo! more than all the gifts of the world, you <lb/>gave me.</l>
           </lg>
         </lg>
@@ -2748,8 +2689,8 @@
             <l>Till night and sleep pass over?)</l>
           </lg>
           <lg type="linegroup">
-            <l>Now in those camps of green&#8212;in their tents dotting <lb/>the world;</l>
-            <l>In the parents, children, husbands, wives, in them&#8212; <lb/>in the old and
+            <l>Now in those camps of green—in their tents dotting <lb/>the world;</l>
+            <l>In the parents, children, husbands, wives, in them— <lb/>in the old and
               young,</l>
             <l>Sleeping under the sunlight, sleeping under the <choice><orig>moon-<lb/>light</orig><reg>moonlight</reg></choice>, content and silent there at last,</l>
             <l>Behold the mighty bivouac-field, and waiting-camp of <lb/>us and ours and all,</l>
@@ -2783,7 +2724,7 @@
             <l>I mark'd at the foot of a tree the grave of a soldier;</l>
             <l>Mortally wounded he, and buried on the retreat, (easily <lb/>all could I
               understand;)</l>
-            <l>The halt of a mid-day hour, when up! no time to lose <lb/>&#8212;yet this sign
+            <l>The halt of a mid-day hour, when up! no time to lose <lb/>—yet this sign
               left,</l>
             <l>On a tablet scrawl'd and nail'd on the tree by the grave,</l>
             <l><hi rend="italic">Bold, cautious, true, and my loving comrade</hi>.</l>
@@ -2793,7 +2734,7 @@
             <l>Many a changeful season to follow, and many a scene of <lb/>life;</l>
             <l>Yet at times through changeful season and scene, abrupt,<lb/>alone, or in the crowded
               street,</l>
-            <l>Comes before me the unknown soldier's grave&#8212;comes <lb/>the inscription rude in
+            <l>Comes before me the unknown soldier's grave—comes <lb/>the inscription rude in
               Virginia's woods,</l>
             <l><hi rend="italic">Bold, cautious, true, and my loving comrade</hi>.</l>
           </lg>
@@ -2811,14 +2752,14 @@
           <head type="main-authorial">HYMN OF DEAD SOLDIERS.</head>
           <lg type="linegroup">
             <l><hi rend="small caps">ONE</hi> breath, O my silent soul,</l>
-            <l>A perfum'd thought&#8212;no more I ask, for the sake of all <lb/>dead soldiers.</l>
+            <l>A perfum'd thought—no more I ask, for the sake of all <lb/>dead soldiers.</l>
           </lg>
           <lg type="linegroup">
             <l>Buglers off in my armies!</l>
             <l>At present I ask not you to sound;</l>
             <l>Not at the head of my cavalry, all on their spirited <lb/>horses,</l>
             <l>With their sabres drawn and glist'ning, and carbines<lb/>clanking by their
-              thighs&#8212;(ah, my brave <choice>
+              thighs—(ah, my brave <choice>
                 <orig>horse-<lb/>men</orig>
                 <reg>horsemen</reg>
               </choice>!</l>
@@ -2826,8 +2767,8 @@
             <l>With all the perils, were yours!)</l>
           </lg>
           <lg type="linegroup">
-            <l>Nor you drummers&#8212;neither at reveille, at dawn,</l>
-            <l>Nor the long roll alarming the camp&#8212;nor even the <lb/>muffled beat for a
+            <l>Nor you drummers—neither at reveille, at dawn,</l>
+            <l>Nor the long roll alarming the camp—nor even the <lb/>muffled beat for a
               burial;</l>
             <l>Nothing from you, this time, O drummers, bearing my <lb/>warlike drums.</l>
           </lg>
@@ -2856,8 +2797,8 @@
           </lg>
           <lg type="linegroup">
             <l>Dearest comrades! all now is over;</l>
-            <l>But love is not over&#8212;and what love, O comrades!</l>
-            <l>Perfume from battle-fields rising&#8212;up from f&#339;tor <lb/>arising.</l>
+            <l>But love is not over—and what love, O comrades!</l>
+            <l>Perfume from battle-fields rising—up from fœtor <lb/>arising.</l>
           </lg>
           <lg type="linegroup">
             <l>Perfume therefore my chant, O love! immortal Love!</l>
@@ -2868,7 +2809,7 @@
             <l>O love! O chant! solve all with the last chemistry.</l>
           </lg>
           <lg type="linegroup">
-            <l>Give me exhaustless&#8212;make me a fountain,</l>
+            <l>Give me exhaustless—make me a fountain,</l>
             <l>That I exhale love from me wherever I go,</l>
             <l>For the sake of all dead soldiers.</l>
           </lg>
@@ -2884,9 +2825,9 @@
           <head type="main-authorial">THE SHIP.</head>
           <lg type="linegroup">
             <l> Lo! THE unbounded sea!</l>
-            <l>On its breast a Ship, spreading all her sails&#8212;an ample <lb/>Ship, carrying even
+            <l>On its breast a Ship, spreading all her sails—an ample <lb/>Ship, carrying even
               her moonsails;</l>
-            <l>The pennant is flying aloft, as she speeds, she <lb/>speeds so stately&#8212;below,
+            <l>The pennant is flying aloft, as she speeds, she <lb/>speeds so stately—below,
               emulous waves press <lb/>forward,</l>
             <l>They surround the Ship, with shining curving motions,<lb/>and foam.</l>
           </lg>
@@ -2922,7 +2863,7 @@
             <l>When the thunder-cracking guns arouse me with the <lb/>proud roar I love;</l>
             <l>When the round-mouth'd guns, out of the smoke and <lb/>smell I love, spit their
               salutes;</l>
-            <l>When the fire-flashing guns have fully alerted me&#8212; <lb/>when heaven-clouds
+            <l>When the fire-flashing guns have fully alerted me— <lb/>when heaven-clouds
               canopy my city with a <lb/>delicate thin haze;</l>
             <l>When, gorgeous, the countless straight stems, the <choice>
                 <orig>for-<lb/>ests</orig>
@@ -2934,29 +2875,29 @@
             <pb facs="ppp.01866.067.jpg" xml:id="leaf033v1" n="62" type="verso"/>
 
             <l>When Broadway is entirely given up to foot-passengers <lb/>and
-              foot-standers&#8212;when the mass is densest;</l>
-            <l>When the facades of the houses are alive with people&#8212; <lb/>when eyes gaze,
+              foot-standers—when the mass is densest;</l>
+            <l>When the facades of the houses are alive with people— <lb/>when eyes gaze,
               riveted, tens of thousands at a <lb/>time;</l>
-            <l>When the guests from the islands advance&#8212;when the <lb/>pageant moves forward,
+            <l>When the guests from the islands advance—when the <lb/>pageant moves forward,
               visible;</l>
-            <l>When the summons is made&#8212;when the answer that <lb/>waited thousands of years,
+            <l>When the summons is made—when the answer that <lb/>waited thousands of years,
               answers;</l>
             <l>I too, arising, answering, descend to the pavements,<lb/>merge with the crowd, and
               gaze with them.</l>
           </lg>
           <lg type="linegroup">
             <l>Superb-faced Manhattan!</l>
-            <l>Comrade Americanos!&#8212;to us, then, at last, the Orient <lb/>comes.</l>
+            <l>Comrade Americanos!—to us, then, at last, the Orient <lb/>comes.</l>
           </lg>
           <lg type="linegroup">
             <l>To us, my city,</l>
-            <l>Where our tall-topt marble and iron beauties range on <lb/>opposite sides&#8212;to
+            <l>Where our tall-topt marble and iron beauties range on <lb/>opposite sides—to
               walk in the space between,</l>
             <l>To-day our Antipodes comes.</l>
           </lg>
           <lg type="linegroup">
             <l>The Originatress comes,</l>
-            <l>The land of Paradise&#8212;land of the Caucasus&#8212;the nest <lb/>of birth,</l>
+            <l>The land of Paradise—land of the Caucasus—the nest <lb/>of birth,</l>
             <l>The nest of languages, the bequeather of poems, the <lb/>race of eld,</l>
             <l>Florid with blood, pensive, rapt with musings, hot with <lb/>passion,</l>
             <l>Sultry with perfume, with ample and flowing garments,</l>
@@ -2975,34 +2916,34 @@
 
             <pb facs="ppp.01866.068.jpg" xml:id="leaf034r1" n="63" type="recto"/>
 
-            <l>Lithe and silent, the Hindoo appears&#8212;the whole Asiatic <lb/>continent itself
-              appears&#8212;the Past, the dead,</l>
+            <l>Lithe and silent, the Hindoo appears—the whole Asiatic <lb/>continent itself
+              appears—the Past, the dead,</l>
             <l>The murky night-morning of wonder and fable, <choice><orig>inscruta-<lb/>ble</orig><reg>inscrutable</reg></choice>,</l>
             <l>The envelop'd mysteries, the old and unknown <choice><orig>hive-<lb/>bees</orig><reg>hive-bees</reg></choice>,</l>
-            <l>The North&#8212;the sweltering South&#8212;Assyria&#8212;the <lb/>Hebrews&#8212;the
+            <l>The North—the sweltering South—Assyria—the <lb/>Hebrews—the
               Ancient of ancients,</l>
-            <l>Vast desolated cities&#8212;the gliding Present&#8212;all of <lb/>these, and more,
+            <l>Vast desolated cities—the gliding Present—all of <lb/>these, and more,
               are in the pageant-procession.</l>
           </lg>
           <lg type="linegroup">
             <l>Geography, the world, is in it;</l>
             <l>The Great Sea, the brood of islands, Polynesia, the coast <lb/>beyond;</l>
-            <l>The coast you, henceforth, are facing&#8212;you Libertad!<lb/>from your Western
+            <l>The coast you, henceforth, are facing—you Libertad!<lb/>from your Western
               golden shores;</l>
-            <l>The countries there, with their populations&#8212;the <choice>
+            <l>The countries there, with their populations—the <choice>
                 <orig>mil-<lb/>lions</orig>
                 <reg>millions</reg>
               </choice> en-masse, are curiously here;</l>
-            <l>The swarming market places&#8212;the temples, with idols <lb/>ranged along the sides,
-              or at the end&#8212;bonze,<lb/>brahmin, and lama;</l>
+            <l>The swarming market places—the temples, with idols <lb/>ranged along the sides,
+              or at the end—bonze,<lb/>brahmin, and lama;</l>
             <l>The mandarin, farmer, merchant, mechanic, and <choice><orig>fisher-<lb/>man</orig><reg>fisherman</reg></choice>;</l>
-            <l>The singing-girl and the dancing-girl&#8212;the ecstatic <lb/>person&#8212;the divine
+            <l>The singing-girl and the dancing-girl—the ecstatic <lb/>person—the divine
               Buddha;</l>
-            <l>The secluded Emperors&#8212;Confucius himself&#8212;the <lb/>great poets and
-              heroes&#8212;the warriors, the castes,<lb/>all,</l>
-            <l>Trooping up, crowding from all directions&#8212;from the <lb/>Altay mountains,</l>
-            <l>From Thibet&#8212;from the four winding and far-flowing <lb/>rivers of China,</l>
-            <l>From the Southern peninsulas, and the demi-continental <lb/>islands&#8212;from
+            <l>The secluded Emperors—Confucius himself—the <lb/>great poets and
+              heroes—the warriors, the castes,<lb/>all,</l>
+            <l>Trooping up, crowding from all directions—from the <lb/>Altay mountains,</l>
+            <l>From Thibet—from the four winding and far-flowing <lb/>rivers of China,</l>
+            <l>From the Southern peninsulas, and the demi-continental <lb/>islands—from
               Malaysia;</l>
             <l>These, and whatever belongs to them, palpable, show <lb/>forth to me, and are seiz'd
               by me,</l>
@@ -3014,19 +2955,19 @@
 
           <lg type="linegroup">
             <l>For I too, raising my voice, join the ranks of this <lb/>pageant;</l>
-            <l>I am the chanter&#8212;I chant aloud over the pageant;</l>
+            <l>I am the chanter—I chant aloud over the pageant;</l>
             <l>I chant the world on my Western Sea;</l>
             <l>I chant, copious, the islands beyond, thick as stars in <lb/>the sky;</l>
-            <l>I chant the new empire, grander than any before&#8212;As <lb/>in a vision it comes to
+            <l>I chant the new empire, grander than any before—As <lb/>in a vision it comes to
               me;</l>
-            <l>I chant America, the Mistress&#8212;I chant a greater <choice><orig>su-<lb/>premacy</orig><reg>supremacy</reg></choice>;</l>
+            <l>I chant America, the Mistress—I chant a greater <choice><orig>su-<lb/>premacy</orig><reg>supremacy</reg></choice>;</l>
             <l>I chant, projected, a thousand blooming cities yet, in <lb/>time, on those groups of
               sea-islands;</l>
             <l>I chant my sail-ships and steam-ships threading the <choice><orig>ar-<lb/>chipelagoes</orig><reg>archipelagoes</reg></choice>;</l>
             <l>I chant my stars and stripes fluttering in the wind;</l>
-            <l>I chant commerce opening, the sleep of ages having <lb/>done its work&#8212;races,
+            <l>I chant commerce opening, the sleep of ages having <lb/>done its work—races,
               reborn, refresh'd;</l>
-            <l>Lives, works, resumed&#8212;The object I know not&#8212;but <lb/>the old, the
+            <l>Lives, works, resumed—The object I know not—but <lb/>the old, the
               Asiatic, resumed, as it must be,</l>
             <l>Commencing from this day, surrounded by the world.</l>
           </lg>
@@ -3042,13 +2983,13 @@
           <lg type="linegroup">
             <l>The sign is reversing, the orb is enclosed,</l>
             <l>The ring is circled, the journey is done;</l>
-            <l>The box-lid is but perceptibly open'd&#8212;nevertheless the <lb/>perfume pours
+            <l>The box-lid is but perceptibly open'd—nevertheless the <lb/>perfume pours
               copiously out of the whole box.</l>
           </lg>
           <lg type="linegroup">
             <l>Young Libertad!</l>
             <l>With the venerable Asia, the all-mother,</l>
-            <l>Be considerate with her, now and ever, hot Libertad&#8212; <lb/>for you are all;</l>
+            <l>Be considerate with her, now and ever, hot Libertad— <lb/>for you are all;</l>
 
             <pb facs="ppp.01866.070.jpg" xml:id="leaf035r1" n="65" type="recto"/>
 
@@ -3061,7 +3002,7 @@
             <l>Were the precedent dim ages debouching westward <lb/>from Paradise so long?</l>
             <l>Were the centuries steadily footing it that way, all the <lb/>while unknown, for you,
               for reasons?</l>
-            <l>They are justified&#8212;they are accomplish'd&#8212;they shall<lb/>now be turn'd the
+            <l>They are justified—they are accomplish'd—they shall<lb/>now be turn'd the
               other way also, to travel <choice>
                 <orig>to-<lb/>ward</orig>
                 <reg>toward</reg>
@@ -3080,15 +3021,15 @@
           <head type="main-authorial">FLAG OF STARS, THICK-SPRINKLED BUNTING.</head>
           <lg type="linegroup">
             <l><hi rend="small caps">FLAG</hi> of stars! thick-sprinkled bunting!</l>
-            <l>Long yet your road, fateful flag!&#8212;long yet your road,<lb/>and lined with bloody
+            <l>Long yet your road, fateful flag!—long yet your road,<lb/>and lined with bloody
               death!</l>
             <l>For the prize I see at issue, at last is the world!</l>
             <l>All its ships and shores I see, interwoven with your <lb/>threads, greedy banner!</l>
-            <l>&#8212;Dream'd again the flags of kings, highest borne, to <lb/>flaunt
+            <l>—Dream'd again the flags of kings, highest borne, to <lb/>flaunt
               unrivall'd?</l>
             <l>O hasten, flag of man! O with sure and steady step,<lb/>passing highest flags of
               kings,</l>
-            <l>Walk supreme to the heavens, mighty symbol&#8212;run up <lb/>above them all,</l>
+            <l>Walk supreme to the heavens, mighty symbol—run up <lb/>above them all,</l>
             <l>Flag of stars! thick sprinkled bunting!</l>
           </lg>
         </lg>
@@ -3106,10 +3047,10 @@
           <lg type="linegroup">
             <l><hi rend="small caps">FAR</hi> hence, amid an isle of wondrous beauty,</l>
             <l>Crouching over a grave, an ancient sorrowful mother,</l>
-            <l>Once a queen&#8212;now lean and tatter'd, seated on the <lb/>ground,</l>
+            <l>Once a queen—now lean and tatter'd, seated on the <lb/>ground,</l>
             <l>Her old white hair drooping dishevel'd round her <choice><orig>shoul-<lb/>ders</orig><reg>shoulders</reg></choice>;</l>
             <l>At her feet fallen an unused royal harp,</l>
-            <l>Long silent&#8212;she too long silent&#8212;mourning her <choice>
+            <l>Long silent—she too long silent—mourning her <choice>
                 <orig>shroud-<lb/>ed</orig>
                 <reg>shrouded</reg>
               </choice> hope and heir;</l>
@@ -3121,8 +3062,8 @@
               knees;</l>
             <l>O you need not sit there, veil'd in your old white <lb/>hair, so dishevel'd;</l>
             <l>For know you, the one you mourn is not in that grave;</l>
-            <l>It was an illusion&#8212;the heir, the son you love, was not <lb/>really dead;</l>
-            <l>The Lord is not dead&#8212;he is risen again, young and <lb/>strong, in another
+            <l>It was an illusion—the heir, the son you love, was not <lb/>really dead;</l>
+            <l>The Lord is not dead—he is risen again, young and <lb/>strong, in another
               country;</l>
             <l>Even while you wept there by your fallen harp, by the <lb/>grave,</l>
             <l>What you wept for, was translated, pass'd from the <lb/>grave,</l>
@@ -3171,8 +3112,8 @@
               <head type="sub">2</head>
               <l>(Now we have met, we have look'd, we are safe;</l>
               <l>Return in peace to the ocean my love;</l>
-              <l>I too am part of that ocean, my love&#8212;we are not so <lb/>much separated;</l>
-              <l>Behold the great rondure&#8212;the cohesion of all, how <choice>
+              <l>I too am part of that ocean, my love—we are not so <lb/>much separated;</l>
+              <l>Behold the great rondure—the cohesion of all, how <choice>
                   <orig>per-<lb/>fect</orig>
                   <reg>perfect</reg>
                 </choice>!</l>
@@ -3180,9 +3121,9 @@
                   <orig>separ-<lb/>ate</orig>
                   <reg>separate</reg>
                 </choice> us,</l>
-              <l>As for an hour carrying us diverse&#8212;yet cannot carry <lb/>us diverse for
+              <l>As for an hour carrying us diverse—yet cannot carry <lb/>us diverse for
                 ever;</l>
-              <l>Be not impatient&#8212;a little space&#8212;know you, I salute <lb/>the air, the
+              <l>Be not impatient—a little space—know you, I salute <lb/>the air, the
                 ocean and the land,</l>
               <l>Every day, at sundown, for your dear sake, my love.)</l>
             </lg>
@@ -3218,11 +3159,11 @@
             <l>I saw old General at bay;</l>
             <l>(Old as he was, his grey eyes yet shone out in battle <lb/>like stars;)</l>
             <l>His small force was now completely hemmed in, in his <lb/>works;</l>
-            <l>He call'd for volunteers to run the enemy's lines&#8212;a <lb/>desperate
+            <l>He call'd for volunteers to run the enemy's lines—a <lb/>desperate
               emergency;</l>
-            <l>I saw a hundred and more step forth from the ranks&#8212; <lb/>but two or three were
+            <l>I saw a hundred and more step forth from the ranks— <lb/>but two or three were
               selected;</l>
-            <l>I saw them receive their orders aside&#8212;they listen'd <lb/>with care&#8212;the
+            <l>I saw them receive their orders aside—they listen'd <lb/>with care—the
               adjutant was very grave;</l>
             <l>I saw them depart with cheerfulness, freely risking their <lb/>lives.</l>
           </lg>
@@ -3240,7 +3181,7 @@
             <l><hi rend="small caps">OTHERS</hi> may praise what they like;</l>
             <l>But I, from the banks of the running Missouri, praise <lb/>nothing, in art, or aught
               else,</l>
-            <l>Till it has breathed well the atmosphere of this river&#8212; <lb/>also the western
+            <l>Till it has breathed well the atmosphere of this river— <lb/>also the western
               prairie-scent,</l>
             <l>And fully exudes it again.</l>
           </lg>
@@ -3256,7 +3197,7 @@
           <head type="main-authorial">SOLID, IRONICAL, ROLLING ORB.</head>
           <lg type="linegroup">
             <l><hi rend="small caps">SOLID,</hi> ironical, rolling orb!</l>
-            <l>Master of all, and matter of fact!&#8212;at last I accept your <lb/>terms;</l>
+            <l>Master of all, and matter of fact!—at last I accept your <lb/>terms;</l>
             <l>Bringing to practical, vulgar tests, of all my ideal <lb/>dreams,</l>
             <l>And of me, as lover and hero.</l>
           </lg>
@@ -3281,17 +3222,17 @@
           </lg>
           <lg type="linegroup">
             <l>No more for him life's stormy conflicts;</l>
-            <l>Nor victory, nor defeat&#8212;No more time's dark events,</l>
+            <l>Nor victory, nor defeat—No more time's dark events,</l>
             <l>Charging like ceaseless clouds across the sky.</l>
           </lg>
           <lg type="linegroup">
             <l>But sing, poet, in our name;</l>
-            <l>Sing of the love we bore him&#8212;because you, dweller in <lb/>camps, know it
+            <l>Sing of the love we bore him—because you, dweller in <lb/>camps, know it
               truly.</l>
           </lg>
           <lg type="linegroup">
             <l>Sing, to the lower'd coffin there;</l>
-            <l>Sing, with the shovel'd clods that fill the grave&#8212;a <lb/>verse,</l>
+            <l>Sing, with the shovel'd clods that fill the grave—a <lb/>verse,</l>
             <l>For the heavy hearts of soldiers.</l>
           </lg>
         </lg>
@@ -3313,9 +3254,9 @@
             <l>Weave in red blood! weave sinews in, like ropes! the <lb/>senses, sight weave in!</l>
             <l>Weave lasting sure! weave day and night the weft, the <lb/>warp! incessant weave!
               tire not!</l>
-            <l>(We know not what the use, O life! nor know the aim,<lb/>the end&#8212;nor really
+            <l>(We know not what the use, O life! nor know the aim,<lb/>the end—nor really
               aught we know;</l>
-            <l>But know the work, the need goes on, and shall go <lb/>on&#8212;the death-envelop'd
+            <l>But know the work, the need goes on, and shall go <lb/>on—the death-envelop'd
               march of peace as well <lb/>as war, goes on;)</l>
             <l>For great campaigns of peace the same, the wiry <lb/>threads to weave;</l>
             <l>We know not why or what, yet weave, forever weave.</l>
@@ -3336,16 +3277,16 @@
             <l><hi rend="small caps">TURN,</hi> O Libertad, no more doubting;</l>
             <l>Turn from lands retrospective, recording proofs of the <lb/>past;</l>
             <l>From the singers that sing the trailing glories of the <lb/>past;</l>
-            <l>From the chants of the feudal world&#8212;the triumphs of <lb/>kings, slavery,
+            <l>From the chants of the feudal world—the triumphs of <lb/>kings, slavery,
               caste;</l>
-            <l>Turn to the world, the triumphs reserv'd and to come&#8212; <lb/>give up that
+            <l>Turn to the world, the triumphs reserv'd and to come— <lb/>give up that
               backward world;</l>
-            <l>Leave to the singers of hitherto&#8212;give them the trailing <lb/>past:</l>
-            <l>But what remains, remains for singers for you&#8212;wars <lb/>to come are for
+            <l>Leave to the singers of hitherto—give them the trailing <lb/>past:</l>
+            <l>But what remains, remains for singers for you—wars <lb/>to come are for
               you;</l>
-            <l>(Lo! how the wars of the past have duly inured to you <lb/>&#8212;and the wars of the
+            <l>(Lo! how the wars of the past have duly inured to you <lb/>—and the wars of the
               present shall also inure:)</l>
-            <l>&#8212;Then turn, and be not alarm'd, O Libertad&#8212;turn <lb/>your undying
+            <l>—Then turn, and be not alarm'd, O Libertad—turn <lb/>your undying
               face,</l>
             <l>To where the future, greater than all the past,</l>
             <l>Is swiftly, surely preparing for you.</l>
@@ -3371,7 +3312,7 @@
             <l>The numerous camp-fires scatter'd near and far, some <lb/>away up on the
               mountain;</l>
             <l>The shadowy forms of men and horses, looming, <choice><orig>large-<lb/>sized</orig><reg>large-sized</reg></choice>, flickering;</l>
-            <l>And over all, the sky&#8212;the sky! far, far out of reach,<lb/>studded with the
+            <l>And over all, the sky—the sky! far, far out of reach,<lb/>studded with the
               eternal stars.</l>
           </lg>
         </lg>
@@ -3392,27 +3333,27 @@
             <l>Desperate, on the torn bodies, on the forms covering the <lb/>battle-fields
               gazing;</l>
             <l>As she call'd to her earth with mournful voice while she <lb/>stalk'd:</l>
-            <l>Absorb them well, O my earth, she cried&#8212;I charge you,<lb/>lose not my sons!
+            <l>Absorb them well, O my earth, she cried—I charge you,<lb/>lose not my sons!
               lose not an atom;</l>
             <l>And you streams, absorb them well, taking their dear <lb/>blood;</l>
             <l>And you local spots, and you airs that swim above <lb/>lightly,</l>
-            <l>And all you essences of soil and growth&#8212;and you, O <lb/>my rivers' depths;</l>
-            <l>And you mountain sides&#8212;and the woods where my <lb/>dear children's blood,
+            <l>And all you essences of soil and growth—and you, O <lb/>my rivers' depths;</l>
+            <l>And you mountain sides—and the woods where my <lb/>dear children's blood,
               trickling, redden'd;</l>
             <l>And you trees, down in your roots, to bequeath to all <lb/>future trees,</l>
-            <l>My dead absorb&#8212;my young men's beautiful bodies <choice>
+            <l>My dead absorb—my young men's beautiful bodies <choice>
                 <orig>ab-<lb/>sorb</orig>
                 <reg>absorb</reg>
-              </choice>&#8212;and their precious, precious, precious<lb/>blood;</l>
+              </choice>—and their precious, precious, precious<lb/>blood;</l>
             <l>Which holding in trust for me, faithfully back again give <lb/>me, many a year
               hence,</l>
             <l>In unseen essence and odor of surface and grass, <choice>
                 <orig>centu-<lb/>ries</orig>
                 <reg>centuries</reg>
               </choice> hence;</l>
-            <l>In blowing airs from the fields, back again give me my <lb/>darlings&#8212;give my
+            <l>In blowing airs from the fields, back again give me my <lb/>darlings—give my
               immortal heroes;</l>
-            <l>Exhale me them centuries hence&#8212;breathe me their <lb/>breath&#8212;let not an
+            <l>Exhale me them centuries hence—breathe me their <lb/>breath—let not an
               atom be lost;</l>
             <l>O years and graves! O air and soil! O my dead, an <lb/>aroma sweet!</l>
             <l>Exhale them perennial, sweet death, years, centuries <lb/>hence.</l>
@@ -3431,11 +3372,11 @@
           <head type="main-authorial">NOT YOUTH PERTAINS TO ME.</head>
           <lg type="linegroup">
             <l><hi rend="small caps">NOT</hi> youth pertains to me,</l>
-            <l>Nor delicatesse&#8212;I cannot beguile the time with talk;</l>
+            <l>Nor delicatesse—I cannot beguile the time with talk;</l>
             <l>Awkward in the parlor, neither a dancer nor elegant;</l>
-            <l>In the learn'd coterie sitting constrain'd and still&#8212;for <lb/>learning inures
+            <l>In the learn'd coterie sitting constrain'd and still—for <lb/>learning inures
               not to me;</l>
-            <l>Beauty, knowledge, fortune, inure not to me&#8212;yet <lb/>there are two things inure
+            <l>Beauty, knowledge, fortune, inure not to me—yet <lb/>there are two things inure
               to me;</l>
             <l>I have nourish'd the wounded, and sooth'd many a <lb/>dying soldier;</l>
             <l>And at intervals I have strung together a few songs,</l>

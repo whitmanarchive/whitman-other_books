@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ppp.00002">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ppp.00002">
 
     <teiHeader>
         <fileDesc>
@@ -28,7 +26,7 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
-                <idno>ppp.00002</idno>
+                
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
           <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -46,7 +44,7 @@
                         Humanities. Permission to reproduce the graphic images in this archive has
                         been granted by the owners of the originals for this publication only.</p>
                 </availability>
-            </publicationStmt>
+            <idno>ppp.00002</idno></publicationStmt>
             <sourceDesc>
                 <bibl>           
                         <title level="m">Gems from Walt Whitman</title>
@@ -85,13 +83,8 @@
                     <titlePart type="main">GEMS<lb/>FROM<lb/>WALT WHITMAN</titlePart>
                 </docTitle>
                 <byline>SELECTED BY<lb/><docAuthor>ELIZABETH PORTER GOULD</docAuthor></byline>
-                <docImprint> <pubPlace>PHILDELPHIA</pubPlace> <publisher>DAVID M<hi rend="smallcaps"
-                    >C</hi>KAY, P<hi rend="smallcaps">UBLISHER</hi></publisher> <pubPlace>23 SOUTH
-                    NINTH STREET</pubPlace> <docDate>1889</docDate> <pb xml:id="leaf004v"
-                    facs="ppp_vm.00009.jpg" type="verso"/> <milestone unit="undeclared"
-                    rend="horbar-short-center"/> Copyrighted, 1889, by D<hi rend="smallcaps"
-                    >AVID</hi> M<hi rend="smallcaps">C</hi>K<hi rend="smallcaps">AY</hi>. <milestone
-                    unit="undeclared" rend="horbar-short-center"/> </docImprint>
+                <docImprint> <pubPlace>PHILDELPHIA</pubPlace> <publisher>DAVID M<hi rend="smallcaps">C</hi>KAY, P<hi rend="smallcaps">UBLISHER</hi></publisher> <pubPlace>23 SOUTH
+                    NINTH STREET</pubPlace> <docDate>1889</docDate> <pb xml:id="leaf004v" facs="ppp_vm.00009.jpg" type="verso"/> <milestone unit="undeclared" rend="horbar-short-center"/> Copyrighted, 1889, by D<hi rend="smallcaps">AVID</hi> M<hi rend="smallcaps">C</hi>K<hi rend="smallcaps">AY</hi>. <milestone unit="undeclared" rend="horbar-short-center"/> </docImprint>
             </titlePage>
             <pb xml:id="leaf005r" facs="ppp_vm.00010.jpg" type="recto" n="(3)"/>
             <div1 type="contents">
@@ -100,8 +93,7 @@
                 <table>
 
                     <row>
-                        <cell>T<hi rend="smallcaps">O</hi> W<hi rend="smallcaps">ALT</hi> W<hi
-                            rend="smallcaps">HITMAN</hi></cell>
+                        <cell>T<hi rend="smallcaps">O</hi> W<hi rend="smallcaps">ALT</hi> W<hi rend="smallcaps">HITMAN</hi></cell>
                         <cell> . . . . . . . . . </cell>
                         <cell>5</cell>
                     </row>
@@ -118,14 +110,12 @@
                         <cell>9</cell>
                     </row>
                     <row>
-                        <cell>G<hi rend="smallcaps">EMS</hi> F<hi rend="smallcaps">ROM</hi> L<hi
-                            rend="smallcaps">EAVES OF</hi> G<hi rend="smallcaps">RASS</hi></cell>
+                        <cell>G<hi rend="smallcaps">EMS</hi> F<hi rend="smallcaps">ROM</hi> L<hi rend="smallcaps">EAVES OF</hi> G<hi rend="smallcaps">RASS</hi></cell>
                         <cell>. . . . . . . . </cell>
                         <cell>11</cell>
                     </row>
                     <row>
-                        <cell>W<hi rend="smallcaps">ALT</hi> W<hi rend="smallcaps">HITMAN</hi> A<hi
-                            rend="smallcaps">MONG THE</hi> S<hi rend="smallcaps">OLDIERS</hi></cell>
+                        <cell>W<hi rend="smallcaps">ALT</hi> W<hi rend="smallcaps">HITMAN</hi> A<hi rend="smallcaps">MONG THE</hi> S<hi rend="smallcaps">OLDIERS</hi></cell>
                         <cell>. . . . . . . </cell>
                         <cell>53</cell>
                     </row>
@@ -162,8 +152,7 @@
                     <closer>
                         <dateline rend="left"><name type="place">Chelsea, Mass.</name>,
                             <date>1888</date>.</dateline>
-                        <signed rend="right">E<hi rend="smallcaps">LIZABETH</hi> P<hi
-                            rend="smallcaps">ORTER</hi> G<hi rend="smallcaps">OULD</hi></signed>
+                        <signed rend="right">E<hi rend="smallcaps">LIZABETH</hi> P<hi rend="smallcaps">ORTER</hi> G<hi rend="smallcaps">OULD</hi></signed>
                     </closer>
                 </lg>
             </div1>
@@ -231,7 +220,7 @@
                                 <l>Of Life immense in passion, pulse, and power</l>
                                 <l>Cheerful, for freest action form'd under the laws divine</l>
                                 <l>The Modern Man I sing</l>
-                                <closer> <signed>Walt Whitman</signed>&#8212; </closer>
+                                <closer> <signed>Walt Whitman</signed>— </closer>
                             </body>
                         </floatingText>
                     </figDesc>
@@ -319,7 +308,7 @@
                 <l rend="indent1">The prophet and the bard,</l>
                 <l>Shall yet maintain themselves, in higher stages yet,</l>
                 <l>Shall mediate to the Modern, to Democracy, interpret yet to them,</l>
-                <l rend="indent1">God and eid&#243;lons.</l>
+                <l rend="indent1">God and eidólons.</l>
                 <label type="main" rend="right">
                     <hi rend="italic">Eidolons.</hi>
                 </label>
@@ -473,10 +462,10 @@
                 <l>Nameless, the fibre and the breath,</l>
                 <l>Light of the light, shedding forth universes, thou centre of them,</l>
                 <l>Thou mightier centre of the true, the good, the loving,</l>
-                <l>Thou moral, spiritual fountain&#8212;affection's source&#8212;thou reservoir,</l>
-                <l>(O pensive soul of me&#8212;O thirst unsatisfied&#8212;waitest not there?</l>
+                <l>Thou moral, spiritual fountain—affection's source—thou reservoir,</l>
+                <l>(O pensive soul of me—O thirst unsatisfied—waitest not there?</l>
                 <l>Waitest not haply for us somewhere there the Comrade perfect?)</l>
-                <l>Thou pulse&#8212;thou motive of the stars, suns, systems,</l>
+                <l>Thou pulse—thou motive of the stars, suns, systems,</l>
                 <l>That, circling, move in order, safe, harmonious,</l>
                 <l>Athwart the shapeless vastnesses of space,</l>
                 <l>How should I think, how breathe a single breath, how speak, if, out of
@@ -580,7 +569,7 @@
                 <l>I swear I think there is nothing but immortality!</l>
                 <l>That the exquisite scheme is for it, and the nebulous float is for it, and the
                     cohering is for it!</l>
-                <l>And all preparation is for it&#8212;and identity is for it&#8212;and life and
+                <l>And all preparation is for it—and identity is for it—and life and
                     materials are altogether for it!</l>
                 <label type="main" rend="right"><hi rend="italic">To Think of Time.</hi> Stanza
                     9.</label>
@@ -630,7 +619,7 @@
                 </lg>
                 <lg type="linegroup">
                     <l>Aught, aught of mightiest, best I see, conceive, or know,</l>
-                    <l>(To break the stagnant tie&#8212;thee, thee to free, O soul,)</l>
+                    <l>(To break the stagnant tie—thee, thee to free, O soul,)</l>
                     <l>Be thou my God.</l>
                 </lg>
                 <lg type="linegroup">
@@ -678,7 +667,7 @@
                 <relations>
                     <work ref="xxx.00048"/>
                 </relations>
-                <l>The clock indicates the moment&#8212;but what does eternity indicate?</l>
+                <l>The clock indicates the moment—but what does eternity indicate?</l>
                 <label type="main" rend="right"><hi rend="italic">Ibid.</hi> Stanza 44.</label>
             </lg>
             <pb xml:id="leaf014v" facs="ppp_vm.00029.jpg" type="verso" n="22"/>
@@ -725,11 +714,11 @@
                 </relations>
                 <head type="main" rend="center">YOUTH, DAY, OLD AGE AND NIGHT.</head>
                 <lg type="linegroup">
-                    <l>Youth, large, lusty, loving&#8212;youth full of grace, force,
+                    <l>Youth, large, lusty, loving—youth full of grace, force,
                         fascination,</l>
                     <l>Do you know that Old Age may come after you with equal grace, force,
                         fascination?</l>
-                    <l>Day full-blown and splendid&#8212;day of the immense sun, action, ambition,
+                    <l>Day full-blown and splendid—day of the immense sun, action, ambition,
                         laughter,</l>
                     <l>The Night, follows close with millions of suns, and sleep and restoring
                         darkness.</l>
@@ -809,7 +798,7 @@
                 </lg>
                 <lg type="linegroup">
                     <l>To me the sea is a continual miracle,</l>
-                    <l>The fishes that swim&#8212;the rocks&#8212;the motion of the waves&#8212;the
+                    <l>The fishes that swim—the rocks—the motion of the waves—the
                         ships with men in them,</l>
                     <l>What stranger miracles are there?</l>
                 </lg>
@@ -885,7 +874,7 @@
                     <hi rend="italic">O sight of pity, shame and dole!</hi>
                 </l>
                 <l>
-                    <hi rend="italic">O fearful thought&#8212;a convict soul.</hi>
+                    <hi rend="italic">O fearful thought—a convict soul.</hi>
                 </l>
                 <l>
                     <hi rend="italic">. . . . . . .</hi>
@@ -894,7 +883,7 @@
                     <hi rend="italic">Convict no more, nor shame, nor dole!</hi>
                 </l>
                 <l>
-                    <hi rend="italic">Depart&#8212;a God-enfranchis'd soul!</hi>
+                    <hi rend="italic">Depart—a God-enfranchis'd soul!</hi>
                 </l>
                 <label type="main" rend="right">
                     <hi rend="italic">The Singer in the Prison.</hi>
@@ -952,26 +941,26 @@
                     <l>I call to the earth and sea half-held by the night.</l>
                 </lg>
                 <lg type="linegroup">
-                    <l>Press close bare bosom'd night&#8212;press close magnetic nourishing
+                    <l>Press close bare bosom'd night—press close magnetic nourishing
                         night!</l>
-                    <l>Night of south winds&#8212;night of the large few stars!</l>
-                    <l>Still nodding night&#8212;mad naked summer night.</l>
+                    <l>Night of south winds—night of the large few stars!</l>
+                    <l>Still nodding night—mad naked summer night.</l>
                 </lg>
                 <lg type="linegroup">
                     <l>Smile O voluptuous cool-breath'd earth!</l>
                     <l>Earth of the slumbering and liquid trees!</l>
-                    <l>Earth of departed sunset&#8212;earth of mountains misty-topt!</l>
+                    <l>Earth of departed sunset—earth of mountains misty-topt!</l>
                 </lg>
                 <pb xml:id="leaf017v" facs="ppp_vm.00035.jpg" type="verso" n="28"/>
                 <lg type="linegroup">
                     <l>Earth of the virtreous pour of the full moon just tinged with blue!</l>
                     <l>Earth of shine and dark mottling the tide of the river!</l>
                     <l>Earth of the limpid gray of clouds brighter and clearer for my sake!</l>
-                    <l>Far-swooping elbow'd earth&#8212;rich apple-blossom'd earth!</l>
+                    <l>Far-swooping elbow'd earth—rich apple-blossom'd earth!</l>
                     <l>Smile, for your lover comes.</l>
                 </lg>
                 <lg type="linegroup">
-                    <l>Prodigal, you have given me love&#8212;therefore I to you give love!</l>
+                    <l>Prodigal, you have given me love—therefore I to you give love!</l>
                     <l>O unspeakable passionate love.</l>
                 </lg>
                 <label type="main" rend="right"><hi rend="italic">Song of Myself.</hi> Stanza
@@ -1079,21 +1068,21 @@
                         <l>That house once full of passion and beauty, all else I notice not,</l>
                         <l>Nor stillness so cold, nor running water from faucet, nor odors morbific
                             impress me,</l>
-                        <l>But the house alone&#8212;that wondrous house&#8212;that delicate fair
-                            house&#8212;that ruin!</l>
+                        <l>But the house alone—that wondrous house—that delicate fair
+                            house—that ruin!</l>
                         <l>That immortal house more than all the rows of dwellings ever built!</l>
                         <l>Or white-domed capitol with majestic figure surmounted, or all the old
                             high-spired cathedrals,</l>
-                        <l>That little house alone more than them all&#8212;poor, desperate
+                        <l>That little house alone more than them all—poor, desperate
                             house!</l>
-                        <l>Fair, fearful wreck&#8212;tenement of a soul&#8212;itself a soul,</l>
-                        <l>Unclaim'd, avoided house&#8212;take one breath from my tremulous
+                        <l>Fair, fearful wreck—tenement of a soul—itself a soul,</l>
+                        <l>Unclaim'd, avoided house—take one breath from my tremulous
                             lips,</l>
                         <l>Take one tear dropt aside as I go for thought of you,</l>
-                        <l>Dead house of love&#8212;house of madness and sin, crumbled, crush'd,</l>
-                        <l>House of life, erewhile talking and laughing&#8212;but ah, poor house,
+                        <l>Dead house of love—house of madness and sin, crumbled, crush'd,</l>
+                        <l>House of life, erewhile talking and laughing—but ah, poor house,
                             dead even then,</l>
-                        <l>Months, years, an echoing, garnish'd house&#8212;but dead, dead,
+                        <l>Months, years, an echoing, garnish'd house—but dead, dead,
                             dead.</l>
                     </lg>
                 </lg>
@@ -1211,7 +1200,7 @@
                     <l>Nor my material body which finally loves, walks, laughs, shouts, embraces,
                         procreates.</l>
                     <l>. . . . . . . .</l>
-                    <l>For not life's joys alone I sing, repeating&#8212;the joy of death!</l>
+                    <l>For not life's joys alone I sing, repeating—the joy of death!</l>
                     <l>The beautiful touch of Death, soothing and benumbing a few moments, for
                         reasons,</l>
                     <l>Myself discharging my excrementitious body to be burn'd, or render'd to
@@ -1279,10 +1268,10 @@
 
                     <lg type="linegroup">
                         <l>O Captain! my Captain! rise up and hear the bells;</l>
-                        <l>Rise up&#8212;for you the flag is flung&#8212;for you the bugle
+                        <l>Rise up—for you the flag is flung—for you the bugle
                             trills,</l>
                         <pb xml:id="leaf021v" facs="ppp_vm.00043.jpg" type="verso" n="36"/>
-                        <l>For you bouquets and ribbon'd wreaths&#8212;for you the shores
+                        <l>For you bouquets and ribbon'd wreaths—for you the shores
                             a-crowding,</l>
                         <l>For you they call, the swaying mass, their eager faces turning;</l>
                         <l rend="indent1">Here Captain! dear father!</l>
@@ -1329,7 +1318,7 @@
                         <work ref="xxx.00219"/>
                     </relations>
                     <l>No more for him life's stormy conflicts,</l>
-                    <l>Nor victory, nor defeat&#8212;no more time's dark events,</l>
+                    <l>Nor victory, nor defeat—no more time's dark events,</l>
                     <l>Charging like ceaseless clouds across the sky.</l>
                     <label type="main" rend="right">
                         <hi rend="italic">Hushed be the Camps To-day.</hi>
@@ -1348,10 +1337,10 @@
                         <l>. . . . . . . .</l>
                         <l>Phantoms of countless lost,</l>
                         <l>Invisible to the rest henceforth become my companions,</l>
-                        <l>Follow me ever&#8212;desert me not while I live.</l>
+                        <l>Follow me ever—desert me not while I live.</l>
                     </lg>
                     <lg type="linegroup">
-                        <l>Sweet are the blooming cheeks of the living&#8212;sweet are the musical
+                        <l>Sweet are the blooming cheeks of the living—sweet are the musical
                             voices sounding,</l>
                         <l>But sweet, ah sweet, are the dead with their silent eyes.</l>
                         <l>. . . . . . . .</l>
@@ -1465,7 +1454,7 @@
                             ourselves only.</l>
                     </lg>
                     <lg type="linegroup">
-                        <l>(O Mother&#8212;O Sisters dear!</l>
+                        <l>(O Mother—O Sisters dear!</l>
                         <l>If we are lost, no victor else has destroy'd us,</l>
                         <l>It is by ourselves we go down to eternal night.)</l>
                     </lg>
@@ -1491,7 +1480,7 @@
                     <head type="main" rend="center">BY THE BIVOUAC'S FITFUL FLAME.</head>
                     <lg type="linegroup">
                         <l>By the bivouac's fitful flame,</l>
-                        <l>A procession winding around me, solemn and sweet and slow&#8212;but first
+                        <l>A procession winding around me, solemn and sweet and slow—but first
                             I note,</l>
                         <l>The tents of the sleeping army, the fields' and woods' dim outline,</l>
                         <l>The darkness lit by spots of kindled fire, the silence,</l>
@@ -1511,7 +1500,7 @@
                     <relations>
                         <work ref="xxx.00183"/>
                     </relations>
-                    <l>And over all the sky&#8212;the sky! far, far out of reach, studded, breaking
+                    <l>And over all the sky—the sky! far, far out of reach, studded, breaking
                         cut, the eternal stars.</l>
                     <label type="main" rend="right">
                         <hi rend="italic">Bivouac on a Mountain Side.</hi>
@@ -1530,7 +1519,7 @@
                         <l>That the hands of the sisters Death and Night incessantly softly wash
                             again, and ever again,<lb/> this soil'd world;</l>
                         <l>For my enemy is dead, a man divine as myself is dead,</l>
-                        <l>I look where he lies white-faced and still in the coffin&#8212;I draw
+                        <l>I look where he lies white-faced and still in the coffin—I draw
                             near,</l>
                         <l>Bend down and touch lightly with my lips the white face in the
                             coffin.</l>
@@ -1607,7 +1596,7 @@
                     <l>Such be the thought I'd think of thee America,</l>
                     <l>Such be the recitative I'd bring for thee.</l>
                     <l>. . . . . . . .</l>
-                    <l>The Present holds thee not&#8212;for such vast growth as thine,</l>
+                    <l>The Present holds thee not—for such vast growth as thine,</l>
                     <l>For such unparallel'd flight as thine, such brood as thine,</l>
                     <l>The Future only holds thee and can hold thee.</l>
                     <label type="main" rend="right">
@@ -1665,7 +1654,7 @@
                         <work ref="xxx.00110"/>
                     </relations>
                     <l>Each of us inevitable,</l>
-                    <l>Each of us limitless&#8212;each of us with his or her right upon the
+                    <l>Each of us limitless—each of us with his or her right upon the
                         earth,</l>
                     <l>Each of us allow'd the eternal purports of the earth,</l>
                     <l>Each of us here as divinely as any is here.</l>
@@ -1804,11 +1793,11 @@
                 </lg>
                 <lg type="linegroup">
                     <l>Let me glide noiselessly forth;</l>
-                    <l>With the key of softness unlock the locks&#8212;with a whisper,</l>
+                    <l>With the key of softness unlock the locks—with a whisper,</l>
                     <l>Set ope the doors O soul.</l>
                 </lg>
                 <lg type="linegroup">
-                    <l>Tenderly&#8212;be not impatient,</l>
+                    <l>Tenderly—be not impatient,</l>
                     <l>(Strong is your hold O mortal flesh,</l>
                     <l>Strong is your hold O love.)</l>
                 </lg>
@@ -1830,7 +1819,7 @@
                 <relations>
                     <work ref="xxx.00294"/>
                 </relations>
-                <l>O soul, we have positively appear'd&#8212;that is enough.</l>
+                <l>O soul, we have positively appear'd—that is enough.</l>
                 <label type="main" rend="right"><hi rend="italic">As the Time Draws Nigh.</hi></label>
             </lg>
             <pb xml:id="leaf028r" facs="ppp_vm.00056.jpg" type="recto" n="49"/>
@@ -1899,14 +1888,14 @@
                 <lg type="linegroup">
                     <l>O glad, exulting, culminating song!</l>
                     <l>A vigor more than earth's is in thy notes,</l>
-                    <l>Marches of victory&#8212;man disenthral'd&#8212;the conqueror at last,</l>
-                    <l>Hymns to the universal God from universal man&#8212;all joy!</l>
-                    <l>A reborn race appears&#8212;a perfect world, all joy!</l>
-                    <l>Women and men in wisdom innocence and health&#8212;all joy!</l>
+                    <l>Marches of victory—man disenthral'd—the conqueror at last,</l>
+                    <l>Hymns to the universal God from universal man—all joy!</l>
+                    <l>A reborn race appears—a perfect world, all joy!</l>
+                    <l>Women and men in wisdom innocence and health—all joy!</l>
                     <l>Riotous laughing bacchanals fill'd with joy!</l>
-                    <l>War, sorrow, suffering gone&#8212;the rank earth purged&#8212;nothing but joy
+                    <l>War, sorrow, suffering gone—the rank earth purged—nothing but joy
                         left!</l>
-                    <l>The ocean fill'd with joy&#8212;the atmosphere all joy!</l>
+                    <l>The ocean fill'd with joy—the atmosphere all joy!</l>
                     <l>Joy! joy! in freedom, worship, love! joy in the ecstasy of life!</l>
                     <l>Enough to merely be! enough to breathe!</l>
                     <l>Joy! Joy! All over joy!</l>
@@ -1965,9 +1954,9 @@
                 <head type="main" rend="center">TWILIGHT.</head>
                 <lg type="linegroup">
                     <l>The soft voluptuous opiate-shades,</l>
-                    <l>The sun just gone, the eager light dispelled&#8212;</l>
+                    <l>The sun just gone, the eager light dispelled—</l>
                     <l>(I too will soon be gone, dispelled.)</l>
-                    <l>A haze&#8212;nirvana&#8212;rest and night&#8212;oblivion.</l>
+                    <l>A haze—nirvana—rest and night—oblivion.</l>
                 </lg>
             </lg>
         </body>
@@ -1992,17 +1981,16 @@
                     the story touches home; and if you are of the weeping order of mankind, you will
                     certainly find your eyes fill with tears of which you have no reason to be
                     ashamed. There is only one way to characterize a work of this order, and that is
-                    to quote.&#8212;<hi rend="ital">R. L. Stevenson, in "Familiar Studies of Men and
+                    to quote.—<hi rend="ital">R. L. Stevenson, in "Familiar Studies of Men and
                     Books</hi>."]</p>
 
                 <p>D<hi rend="smallcaps">ECORATION</hi> D<hi rend="smallcaps">AY</hi> always brings
                     to my mind pictures of the "hospital part of the drama of
                     1861-<!--en-dash?-->65," as portrayed by Walt Whitman in his "Specimen Days and
                     Collect" (pp. 26-81). These become more and more vivid as the years go by, and
-                    reveal more distinctly Walt Whitman <pb xml:id="leaf030v"
-                    facs="ppp_vm.00061.jpg" type="verso" n="54"/>himself as the leading figure. We
+                    reveal more distinctly Walt Whitman <pb xml:id="leaf030v" facs="ppp_vm.00061.jpg" type="verso" n="54"/>himself as the leading figure. We
                     first see him among the camp hospitals in the Army of the Potomac in Falmouth,
-                    Va.&#8212;opposite Fredericksburg&#8212;in December, 1862, talking to soldiers
+                    Va.—opposite Fredericksburg—in December, 1862, talking to soldiers
                     who seem "most susceptible and need it," and writing their home letters,
                     including "love-letters, very tender ones." He was then in perfect physical
                     health, so that it was more in the"simple matter of personal presence and
@@ -2026,10 +2014,9 @@
                     instance, the one of the poor youth, "so handsome, athletic, with profuse
                     beautiful shining hair," who as the poet sat looking at him while he lay asleep,
                     "suddenly, without the least start, awakened, opened his eyes, gave me a long
-                    steady look, turning his face very slightly to gaze easier&#8212;one long, clear
-                    silent look&#8212;a slight sigh&#8212;then turned back and went into his doze
-                    again. Little he <pb xml:id="leaf031r" facs="ppp_vm.00062.jpg" type="recto"
-                    n="55"/>knew, poor, death-stricken boy, the heart of the stranger that hovered
+                    steady look, turning his face very slightly to gaze easier—one long, clear
+                    silent look—a slight sigh—then turned back and went into his doze
+                    again. Little he <pb xml:id="leaf031r" facs="ppp_vm.00062.jpg" type="recto" n="55"/>knew, poor, death-stricken boy, the heart of the stranger that hovered
                     near." At another time, while spending an afternoon with a suffering, dying
                     soldier, he was asked to read a chapter in the New Testament.</p>
                 <q who="#ww" type="printed">
@@ -2052,9 +2039,7 @@
                     </floatingText>
                 </q>
                 <p>Does not this make more real the closing lines of that autobiographical poem,
-                    "The Wound-Dresser<choice><orig>?"</orig><corr>"?</corr></choice>&#8212; <q
-                    who="#ww" type="printed"> <floatingText type="poetry"> <body> <lg type="extract"
-                    > <relations> <work ref="xxx.00193"/> </relations> <l>Many a soldier's loving
+                    "The Wound-Dresser<choice><orig>?"</orig><corr>"?</corr></choice>— <q who="#ww" type="printed"> <floatingText type="poetry"> <body> <lg type="extract"> <relations> <work ref="xxx.00193"/> </relations> <l>Many a soldier's loving
                     arms about this neck have crossed and rested.</l> <l>Many a soldier's kiss
                     dwells on these bearded lips.</l> </lg> </body> </floatingText> </q></p>
 
@@ -2062,7 +2047,7 @@
                     ministrations. For instance, he was tenderly soothing, in his pain a new patient
                     in the hospital, a "very intelligent, well-bred and affectionate" young man,
                     when all at once, turning to him suddenly, the sufferer said: "I hardly think
-                    you know who I am&#8212;I don't wish to impose upon you&#8212;I am a rebel
+                    you know who I am—I don't wish to impose upon you—I am a rebel
                     soldier." "I did not know that," was the reply, "but it makes no difference."
                     The poet visited him daily until he died, two weeks later. "I loved him much,"
                     he says, "and always kissed him, as he did me."</p>
@@ -2079,7 +2064,7 @@
                     <!--should I be citing the source of all these quotation?-->The "night was
                     sweet," he says, "very clear, sufficiently cool, a voluptuous half-moon slightly
                     golden, the space near it of a transparent blue-gray tinge," while the "sky, the
-                    planets, the constellations&#8212;all were so bright, so calm, so expressively
+                    planets, the constellations—all were so bright, so calm, so expressively
                     silent and soothing after those hospital scenes." This is in contrast to another
                     summer night, when trying to keep cool, sitting by a wounded soldier in the
                     hospital, he hears the home-made music of the young lady urses of the wards, as,
@@ -2094,8 +2079,7 @@
                 <p>Other pictures linger, such as "Paying the Bounties," "The Deserters," "A Glimpse
                     of War's Hell-Scenes." Besides intercourse with the sick soldiers, we see him
                     having "refreshing" talks with the able-bodied ones whom he meets everywhere
-                    about the city. To him there "hangs <pb xml:id="leaf032r"
-                    facs="ppp_vm.00064.jpg" type="recto" n="57"/>something majestic about a man who
+                    about the city. To him there "hangs <pb xml:id="leaf032r" facs="ppp_vm.00064.jpg" type="recto" n="57"/>something majestic about a man who
                     has borne his part in battles, especially if he is quiet regarding it when you
                     desire him to unbosom." He says he is "continually lost at the absence of
                     blowing and blowers among these old-young American militaries." He finds "some
@@ -2103,7 +2087,7 @@
                     learns something. He doubts whether one can get a "fair idea of what this war
                     practically is, or what genuine America is and her character," without some such
                     experience as that which has come to him. He gives fine praise to the surgeons,
-                    nurses and soldiers&#8212;"not a bit of sentimentalism or whining have I seen
+                    nurses and soldiers—"not a bit of sentimentalism or whining have I seen
                     about a single death-bed in hospital or on the field, but generally impassive
                     indifference."</p>
                 <p>The memory of the soldiers' suffering never leaves him. Even while at the dance
@@ -2121,14 +2105,13 @@
                     and out of the whole number only three individuals were able to walk from the
                     boat. The rest were carried ashore and laid down in one place or another." Can
                     those be <hi rend="italic">men</hi>," he cries in agony, "those little,
-                    livid-brown, ash-streaked, monkey-looking dwarfs? Are <pb xml:id="leaf032v"
-                    facs="ppp_vm.00065.jpg" type="verso" n="58"/>they really not mummied, dwindled
+                    livid-brown, ash-streaked, monkey-looking dwarfs? Are <pb xml:id="leaf032v" facs="ppp_vm.00065.jpg" type="verso" n="58"/>they really not mummied, dwindled
                     corpses?" As they lay there with a "horrible look in their eyes and skinny lips,
                     often with not enough flesh on the lips to cover their teeth," he felt that no
                     more appalling sight could be seen. But behind all these horrors of war we see
                     the poet's faith in a Higher Power, in a sympathetic letter he wrote to the
                     mother of a soldier whose eyes he had closed in death: "Such things are
-                    gloomy&#8212;yet there is a text&#8212;'God doeth all things well'&#8212;the
+                    gloomy—yet there is a text—'God doeth all things well'—the
                     meaning of which after due time appears to the soul."</p>
                 <p>According to his own testimony, during the three years Walt Whitman was in
                     hospital, camp or field, as "sustainer of spirit and body in some degree, in
