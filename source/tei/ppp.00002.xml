@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ppp.00002">
-
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ppp.00002">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -234,9 +235,9 @@
             <head rend="center">GEMS FROM WHITMAN.</head>
             <milestone unit="undeclared" rend="horbar-full-center"/>
             <lg type="extract">
-                <relations>
-                    <work ref="xxx.00047"/>
-                </relations>
+                <note type="work_relations" target="xxx.00047" cert="high"/>
+                     
+                 
                 <l>See, projected through time,</l>
                 <l>For me an audience interminable.</l>
                 <l> . . . . . . . .</l>
@@ -252,18 +253,18 @@
             </lg>
             <milestone unit="undeclared" rend="horbar-short-center"/>
             <lg type="extract">
-                <relations>
-                    <work ref="xxx.00048"/>
-                </relations>
+                <note type="work_relations" target="xxx.00048" cert="high"/>
+                     
+                 
                 <l>I have no mockings or arguments, I witness and wait.</l>
                 <label type="main" rend="right"><hi rend="italic">Song of Myself.</hi> Stanza
                     4.</label>
             </lg>
             <pb xml:id="leaf009v" facs="ppp_vm.00019.jpg" type="verso" n="12"/>
             <lg type="extract">
-                <relations>
-                    <work ref="xxx.00048"/>
-                </relations>
+                <note type="work_relations" target="xxx.00048" cert="high"/>
+                     
+                 
                 <l>And I know that the hand of God is the promise of my own,</l>
                 <l>And I know that the spirit of God is the brother of my own.</l>
                 <label type="main" rend="right"><hi rend="italic">Song of Myself.</hi> Stanza
@@ -271,18 +272,18 @@
             </lg>
             <milestone unit="undeclared" rend="horbar-short-center"/>
             <lg type="extract">
-                <relations>
-                    <work ref="xxx.00048"/>
-                </relations>
+                <note type="work_relations" target="xxx.00048" cert="high"/>
+                     
+                 
                 <l>I do not call one greater and one smaller,</l>
                 <l>That which fills its period and place is equal to any.</l>
                 <label type="main" rend="right"><hi rend="italic">Ibid.</hi> Stanza 44.</label>
             </lg>
             <milestone unit="undeclared" rend="horbar-short-center"/>
             <lg type="extract">
-                <relations>
-                    <work ref="xxx.00267"/>
-                </relations>
+                <note type="work_relations" target="xxx.00267" cert="high"/>
+                     
+                 
                 <l>The paths to the house I seek to make,</l>
                 <l>But leave to those to come the house itself.</l>
                 <l>. . . . . . . .</l>
@@ -292,9 +293,9 @@
             </lg>
             <milestone unit="undeclared" rend="horbar-short-center"/>
             <lg type="extract">
-                <relations>
-                    <work ref="xxx.00048"/>
-                </relations>
+                <note type="work_relations" target="xxx.00048" cert="high"/>
+                     
+                 
                 <l>Behold, I do not give lectures or a little charity,</l>
                 <l>When I give I give myself.</l>
                 <label type="main" rend="right"><hi rend="italic">Song of Myself.</hi> Stanza
@@ -302,9 +303,9 @@
             </lg>
             <pb xml:id="leaf0010r" facs="ppp_vm.00020.jpg" type="recto" n="13"/>
             <lg type="extract">
-                <relations>
-                    <work ref="xxx.00030"/>
-                </relations>
+                <note type="work_relations" target="xxx.00030" cert="high"/>
+                     
+                 
                 <l rend="indent1">The prophet and the bard,</l>
                 <l>Shall yet maintain themselves, in higher stages yet,</l>
                 <l>Shall mediate to the Modern, to Democracy, interpret yet to them,</l>
@@ -315,9 +316,9 @@
             </lg>
             <milestone unit="undeclared" rend="horbar-short-center"/>
             <lg type="extract">
-                <relations>
-                    <work ref="xxx.00284"/>
-                </relations>
+                <note type="work_relations" target="xxx.00284" cert="high"/>
+                     
+                 
                 <l>Perfume this book of mine O blood-red roses!</l>
                 <l>Lave subtly with your waters every line Potomac!</l>
                 <l>Give me of you O spring, before I close, to put between its pages!</l>
@@ -329,9 +330,9 @@
             </lg>
             <milestone unit="undeclared" rend="horbar-short-center"/>
             <lg type="extract">
-                <relations>
-                    <work ref="xxx.00016"/>
-                </relations>
+                <note type="work_relations" target="xxx.00016" cert="high"/>
+                     
+                 
                 <l>O I see now that life cannot exhibit all to me, as the day cannot,</l>
                 <l>I see that I am to wait for what will be exhibited by death.</l>
                 <label type="main" rend="right">
@@ -340,9 +341,9 @@
             </lg>
             <milestone unit="undeclared" rend="horbar-short-center"/>
             <lg type="extract">
-                <relations>
-                    <work ref="xxx.00048"/>
-                </relations>
+                <note type="work_relations" target="xxx.00048" cert="high"/>
+                     
+                 
                 <l>Immense have been the preparations for me,</l>
                 <l>Faithful and friendly the arms that have help'd me.</l>
                 <l>Cycles ferried my cradle, rowing and rowing like cheerful boatman,</l>
@@ -354,9 +355,9 @@
             </lg>
             <milestone unit="undeclared" rend="horbar-short-center"/>
             <lg type="extract">
-                <relations>
-                    <work ref="xxx.00048"/>
-                </relations>
+                <note type="work_relations" target="xxx.00048" cert="high"/>
+                     
+                 
                 <l>My feet strike an apex of the apices of the stairs,</l>
                 <l>On every step bunches of ages, and larger bunches between the steps,</l>
                 <l>All below duly travel'd, and still I mount and mount.</l>
@@ -366,36 +367,36 @@
             </lg>
             <milestone unit="undeclared" rend="horbar-short-center"/>
             <lg type="extract">
-                <relations>
-                    <work ref="xxx.00048"/>
-                </relations>
+                <note type="work_relations" target="xxx.00048" cert="high"/>
+                     
+                 
                 <l>See ever so far, there is limitless space outside of that,</l>
                 <l>Count ever so much, there is limitless time around that.</l>
                 <label type="main" rend="right"><hi rend="italic">Ibid.</hi> Stanza 45.</label>
             </lg>
             <milestone unit="undeclared" rend="horbar-short-center"/>
             <lg type="extract">
-                <relations>
-                    <work ref="xxx.00048"/>
-                </relations>
+                <note type="work_relations" target="xxx.00048" cert="high"/>
+                     
+                 
                 <l>I do not know what is untried and afterward,</l>
                 <l>But I know it will in its turn prove sufficient, and cannot fail.</l>
                 <label type="main" rend="right"><hi rend="italic">Ibid.</hi> Stanza 43.</label>
             </lg>
             <milestone unit="undeclared" rend="horbar-short-center"/>
             <lg type="extract">
-                <relations>
-                    <work ref="xxx.00048"/>
-                </relations>
+                <note type="work_relations" target="xxx.00048" cert="high"/>
+                     
+                 
                 <l>I know I am deathless,</l>
                 <l>I know this orbit of mine cannot be swept by a carpenter's compass.</l>
                 <label type="main" rend="right"><hi rend="italic">Ibid.</hi> Stana 20.</label>
             </lg>
             <pb xml:id="leaf011r" facs="ppp_vm.00022.jpg" type="recto" n="15"/>
             <lg type="extract">
-                <relations>
-                    <work ref="xxx.00048"/>
-                </relations>
+                <note type="work_relations" target="xxx.00048" cert="high"/>
+                     
+                 
                 <l>And whether I come to my own to-day or in ten thousand or ten million years,</l>
                 <l>I can cheerfully take it now, or with equal cheerfulness I can wait.</l>
                 <label type="main" rend="right"><hi rend="italic">Song of Myself.</hi> Stanza
@@ -403,18 +404,18 @@
             </lg>
             <milestone unit="undeclared" rend="horbar-short-center"/>
             <lg type="extract">
-                <relations>
-                    <work ref="xxx.00496"/>
-                </relations>
+                <note type="work_relations" target="xxx.00496" cert="high"/>
+                     
+                 
                 <l>Yet soul be sure the first intent remains, and shall be carried out.</l>
                 <label type="main" rend="right"><hi rend="italic">Passage to India.</hi> Stanza
                     5.</label>
             </lg>
             <milestone unit="undeclared" rend="horbar-short-center"/>
             <lg type="extract">
-                <relations>
-                    <work ref="xxx.00496"/>
-                </relations>
+                <note type="work_relations" target="xxx.00496" cert="high"/>
+                     
+                 
                 <lg type="linegroup">
                     <l>Passage indeed O soul to primal thought,</l>
                     <l>Not lands and seas alone, thy own clear freshness,</l>
@@ -433,9 +434,9 @@
             </lg>
             <milestone unit="undeclared" rend="horbar-short-center"/>
             <lg type="extract">
-                <relations>
-                    <work ref="xxx.00496"/>
-                </relations>
+                <note type="work_relations" target="xxx.00496" cert="high"/>
+                     
+                 
                 <l>O my brave soul!</l>
                 <l>O farther farther sail!</l>
                 <pb xml:id="leaf011v" facs="ppp_vm.00023.jpg" type="verso" n="16"/>
@@ -446,18 +447,18 @@
             </lg>
             <milestone unit="undeclared" rend="horbar-short-center"/>
             <lg type="extract">
-                <relations>
-                    <work ref="xxx.00496"/>
-                </relations>
+                <note type="work_relations" target="xxx.00496" cert="high"/>
+                     
+                 
                 <l>Ah more than any priest O soul we too believe in God,</l>
                 <l>But with the mystery of God we dare not dally.</l>
                 <label type="main" rend="right"><hi rend="italic">Ibid.</hi> Stanza 8.</label>
             </lg>
             <milestone unit="undeclared" rend="horbar-short-center"/>
             <lg type="extract">
-                <relations>
-                    <work ref="xxx.00496"/>
-                </relations>
+                <note type="work_relations" target="xxx.00496" cert="high"/>
+                     
+                 
                 <l>O Thou transcendent,</l>
                 <l>Nameless, the fibre and the breath,</l>
                 <l>Light of the light, shedding forth universes, thou centre of them,</l>
@@ -475,9 +476,9 @@
             </lg>
             <pb xml:id="leaf012r" facs="ppp_vm.00024.jpg" type="recto" n="17"/>
             <lg type="extract">
-                <relations>
-                    <work ref="xxx.00496"/>
-                </relations>
+                <note type="work_relations" target="xxx.00496" cert="high"/>
+                     
+                 
                 <l>Swiftly I shrivel at the thought of God,</l>
                 <l>At Nature and its wonders, Time and Space and Death,</l>
                 <l>But that I, turning, call to thee O soul, thou actual Me,</l>
@@ -491,9 +492,9 @@
             </lg>
             <milestone unit="undeclared" rend="horbar-short-center"/>
             <lg type="extract">
-                <relations>
-                    <work ref="xxx.00123"/>
-                </relations>
+                <note type="work_relations" target="xxx.00123" cert="high"/>
+                     
+                 
                 <l>In this broad earth of ours,</l>
                 <l>Amid the measureless grossness and the slag,</l>
                 <l>Enclosed and safe within its central heart.</l>
@@ -503,9 +504,9 @@
             </lg>
             <milestone unit="undeclared" rend="horbar-short-center"/>
             <lg type="extract">
-                <relations>
-                    <work ref="xxx.00123"/>
-                </relations>
+                <note type="work_relations" target="xxx.00123" cert="high"/>
+                     
+                 
                 <lg type="linegroup">
                     <l>Over the mountain-growths disease and sorrow,</l>
                     <l>An uncaught bird is ever hovering, hovering,</l>
@@ -531,9 +532,9 @@
             </lg>
             <milestone unit="undeclared" rend="horbar-short-center"/>
             <lg type="extract">
-                <relations>
-                    <work ref="xxx.00262"/>
-                </relations>
+                <note type="work_relations" target="xxx.00262" cert="high"/>
+                     
+                 
                 <l>Give me to hold all sounds, (I madly struggling cry,)</l>
                 <l>Fill me with all the voices of the universe,</l>
                 <l>Endow me with their throbbings, Nature's also,</l>
@@ -544,9 +545,9 @@
             </lg>
             <milestone unit="undeclared" rend="horbar-short-center"/>
             <lg type="extract">
-                <relations>
-                    <work ref="xxx.00123"/>
-                </relations>
+                <note type="work_relations" target="xxx.00123" cert="high"/>
+                     
+                 
                 <l>All, all for immortality,</l>
                 <l>Love like the light silently wrapping all,</l>
                 <l>Nature's amelioration blessing all,</l>
@@ -563,9 +564,9 @@
             </lg>
             <milestone unit="undeclared" rend="horbar-short-center"/>
             <lg type="extract">
-                <relations>
-                    <work ref="xxx.00266"/>
-                </relations>
+                <note type="work_relations" target="xxx.00266" cert="high"/>
+                     
+                 
                 <l>I swear I think there is nothing but immortality!</l>
                 <l>That the exquisite scheme is for it, and the nebulous float is for it, and the
                     cohering is for it!</l>
@@ -576,9 +577,9 @@
             </lg>
             <milestone unit="undeclared" rend="horbar-short-center"/>
             <lg type="extract">
-                <relations>
-                    <work ref="xxx.00264"/>
-                </relations>
+                <note type="work_relations" target="xxx.00264" cert="high"/>
+                     
+                 
                 <l>Peace is always beautiful,</l>
                 <l>The myth of heaven indicates peace and night.</l>
                 <label type="main" rend="right"><hi rend="italic">The Sleepers.</hi> Stanza
@@ -586,9 +587,9 @@
             </lg>
             <milestone unit="undeclared" rend="horbar-short-center"/>
             <lg type="extract">
-                <relations>
-                    <work ref="xxx.00016"/>
-                </relations>
+                <note type="work_relations" target="xxx.00016" cert="high"/>
+                     
+                 
                 <l>Now while the great thoughts of space and eternity fill me I will measure myself
                     by them.</l>
                 <label type="main" rend="right">
@@ -597,9 +598,9 @@
             </lg>
             <pb xml:id="leaf013v" facs="ppp_vm.00027.jpg" type="verso" n="20"/>
             <lg type="poem">
-                <relations>
-                    <work ref="xxx.00146"/>
-                </relations>
+                <note type="work_relations" target="xxx.00146" cert="high"/>
+                     
+                 
                 <head type="main" rend="center">GODS.</head>
                 <lg type="linegroup">
                     <l>Lover divine and perfect Comrade,</l>
@@ -638,9 +639,9 @@
             </lg>
             <milestone unit="undeclared" rend="horbar-short-center"/>
             <lg type="extract">
-                <relations>
-                    <work ref="xxx.00496"/>
-                </relations>
+                <note type="work_relations" target="xxx.00496" cert="high"/>
+                     
+                 
                 <l><choice><orig>Beckoning</orig><corr>Reckoning</corr></choice>ahead O soul, when
                     thou, the time achiev'd,</l>
                 <!--Whitman uses "Reckoning" in Leaves of Grass; Gould uses "Beckoning" here-->
@@ -653,9 +654,9 @@
             </lg>
             <milestone unit="undeclared" rend="horbar-short-center"/>
             <lg type="extract">
-                <relations>
-                    <work ref="xxx.00048"/>
-                </relations>
+                <note type="work_relations" target="xxx.00048" cert="high"/>
+                     
+                 
                 <l>My rendezvous is appointed, it is certain,</l>
                 <l>The Lord will be there and wait till I come on perfect terms,</l>
                 <l>The great Camerado, the lover tme for whom I pine will be there.</l>
@@ -664,17 +665,17 @@
             </lg>
             <milestone unit="undeclared" rend="horbar-short-center"/>
             <lg type="extract">
-                <relations>
-                    <work ref="xxx.00048"/>
-                </relations>
+                <note type="work_relations" target="xxx.00048" cert="high"/>
+                     
+                 
                 <l>The clock indicates the moment—but what does eternity indicate?</l>
                 <label type="main" rend="right"><hi rend="italic">Ibid.</hi> Stanza 44.</label>
             </lg>
             <pb xml:id="leaf014v" facs="ppp_vm.00029.jpg" type="verso" n="22"/>
             <lg type="poem">
-                <relations>
-                    <work ref="xxx.00156"/>
-                </relations>
+                <note type="work_relations" target="xxx.00156" cert="high"/>
+                     
+                 
                 <head type="main" rend="center">ROAMING IN THOUGHT</head>
                 <head type="sub" rend="center">(<hi rend="italic">After reading</hi> H<hi rend="smallcaps">EGEL</hi>.)</head>
                 <lg type="linegroup">
@@ -686,9 +687,9 @@
             </lg>
             <milestone unit="undeclared" rend="horbar-short-center"/>
             <lg type="extract">
-                <relations>
-                    <work ref="xxx.00231"/>
-                </relations>
+                <note type="work_relations" target="xxx.00231" cert="high"/>
+                     
+                 
                 <l>I believe of all those men and women that fill'd the unnamed lands, every one
                     exists this hour<lb/> here or elsewhere, invisible to us,</l>
                 <l>In exact proportion to what he or she grew from in life, and out of what he or
@@ -699,9 +700,9 @@
             </lg>
             <milestone unit="undeclared" rend="horbar-short-center"/>
             <lg type="extract">
-                <relations>
-                    <work ref="xxx.00232"/>
-                </relations>
+                <note type="work_relations" target="xxx.00232" cert="high"/>
+                     
+                 
                 <l>Charity and personal force are the only investments worth anything.</l>
                 <label type="main" rend="right">
                     <hi rend="italic">Song of Prudence.</hi>
@@ -709,9 +710,9 @@
             </lg>
             <milestone unit="undeclared" rend="horbar-short-center"/>
             <lg type="poem">
-                <relations>
-                    <work ref="xxx.00121"/>
-                </relations>
+                <note type="work_relations" target="xxx.00121" cert="high"/>
+                     
+                 
                 <head type="main" rend="center">YOUTH, DAY, OLD AGE AND NIGHT.</head>
                 <lg type="linegroup">
                     <l>Youth, large, lusty, loving—youth full of grace, force,
@@ -726,9 +727,9 @@
             </lg>
             <pb xml:id="leaf015r" facs="ppp_vm.00030.jpg" type="recto" n="23"/>
             <lg type="poem">
-                <relations>
-                    <work ref="xxx.00168"/>
-                </relations>
+                <note type="work_relations" target="xxx.00168" cert="high"/>
+                     
+                 
                 <head type="main" rend="center">TO OLD AGE.</head>
                 <lg type="linegroup">
                     <l>I see in you the estuary that enlarges and spreads itself grandly as it pours
@@ -737,9 +738,9 @@
             </lg>
             <milestone unit="undeclared" rend="horbar-short-center"/>
             <lg type="poem">
-                <relations>
-                    <work ref="xxx.00291"/>
-                </relations>
+                <note type="work_relations" target="xxx.00291" cert="high"/>
+                     
+                 
                 <head type="main" rend="center">A CLEAR MIDNIGHT.</head>
                 <lg type="linegroup">
                     <l>This is thy hour O Soul, thy free flight into the wordless,</l>
@@ -751,9 +752,9 @@
             </lg>
             <milestone unit="undeclared" rend="horbar-short-center"/>
             <lg type="extract">
-                <relations>
-                    <work ref="xxx.00120"/>
-                </relations>
+                <note type="work_relations" target="xxx.00120" cert="high"/>
+                     
+                 
                 <lg type="linegroup">
                     <l>Of the interminable sisters,</l>
                     <l>Of the ceaseless cotillons of sisters,</l>
@@ -784,9 +785,9 @@
             </lg>
             <milestone unit="undeclared" rend="horbar-short-center"/>
             <lg type="extract">
-                <relations>
-                    <work ref="xxx.00243"/>
-                </relations>
+                <note type="work_relations" target="xxx.00243" cert="high"/>
+                     
+                 
                 <lg type="linegroup">
                     <l>Why, who makes much of a miracle?</l>
                     <l>As to me I know of nothing else but miracles.</l>
@@ -808,9 +809,9 @@
             </lg>
             <milestone unit="undeclared" rend="horbar-short-center"/>
             <lg type="extract">
-                <relations>
-                    <work ref="xxx.00048"/>
-                </relations>
+                <note type="work_relations" target="xxx.00048" cert="high"/>
+                     
+                 
                 <l>Sea of stretch'd ground-swells,</l>
                 <l>Sea breathing broad and convulsive breaths,</l>
                 <pb xml:id="leaf016r" facs="ppp_vm.00032.jpg" type="recto" n="25"/>
@@ -822,9 +823,9 @@
             </lg>
             <milestone unit="undeclared" rend="horbar-short-center"/>
             <lg type="extract">
-                <relations>
-                    <work ref="xxx.00117"/>
-                </relations>
+                <note type="work_relations" target="xxx.00117" cert="high"/>
+                     
+                 
                 <l>Long and long has the grass been growing,</l>
                 <l>Long and long has the rain been falling,</l>
                 <l>Long has the globe been rolling round.</l>
@@ -834,9 +835,9 @@
             </lg>
             <milestone unit="undeclared" rend="horbar-short-center"/>
             <lg type="extract">
-                <relations>
-                    <work ref="xxx.00273"/>
-                </relations>
+                <note type="work_relations" target="xxx.00273" cert="high"/>
+                     
+                 
                 <l>Thee for my recitative,</l>
                 <l>. . . . . . . .</l>
                 <l>Fierce-throated beauty!</l>
@@ -855,9 +856,9 @@
             </lg>
             <pb xml:id="leaf016v" facs="ppp_vm.00033.jpg" type="verso" n="26"/>
             <lg type="extract">
-                <relations>
-                    <work ref="xxx.00117"/>
-                </relations>
+                <note type="work_relations" target="xxx.00117" cert="high"/>
+                     
+                 
                 <l>(Ah little recks the laborer,</l>
                 <l>How near his work is holding him to God,</l>
                 <l>The loving Laborer through space and time.)</l>
@@ -867,9 +868,9 @@
             </lg>
             <milestone unit="undeclared" rend="horbar-short-center"/>
             <lg type="extract">
-                <relations>
-                    <work ref="xxx.00233"/>
-                </relations>
+                <note type="work_relations" target="xxx.00233" cert="high"/>
+                     
+                 
                 <l>
                     <hi rend="italic">O sight of pity, shame and dole!</hi>
                 </l>
@@ -891,9 +892,9 @@
             </lg>
             <milestone unit="undeclared" rend="horbar-short-center"/>
             <lg type="extract">
-                <relations>
-                    <work ref="xxx.00048"/>
-                </relations>
+                <note type="work_relations" target="xxx.00048" cert="high"/>
+                     
+                 
                 <lg type="linegroup">
                     <l>A child said <hi rend="italic">What is the Grass?</hi> fetching it to me with
                         full hands;</l>
@@ -933,9 +934,9 @@
             </lg>
             <milestone unit="undeclared" rend="horbar-short-center"/>
             <lg type="extract">
-                <relations>
-                    <work ref="xxx.00048"/>
-                </relations>
+                <note type="work_relations" target="xxx.00048" cert="high"/>
+                     
+                 
                 <lg type="linegroup">
                     <l>I am he that walks with the tender and growing night,</l>
                     <l>I call to the earth and sea half-held by the night.</l>
@@ -968,9 +969,9 @@
             </lg>
             <milestone unit="undeclared" rend="horbar-short-center"/>
             <lg type="extract">
-                <relations>
-                    <work ref="xxx.00048"/>
-                </relations>
+                <note type="work_relations" target="xxx.00048" cert="high"/>
+                     
+                 
                 <l>The press of my foot to the earth springs a hundred affections,</l>
                 <l>They scorn the best I can do to relate them.</l>
                 <label type="main" rend="right"><hi rend="italic">Ibid.</hi> Stanza 14.</label>
@@ -980,7 +981,7 @@
                             <figDesc>
                                 <floatingText>
                                     <body>
-                                       <relations><work ref="xxx.00297"/></relations>
+                                       <note type="work_relations" target="xxx.00297" cert="high"/>
                                         <l>Splendor of ended day floating and filling me.</l>
                                         <label type="main" rend="right">Song at Sunset.</label>
                                     </body>
@@ -992,9 +993,9 @@
             <pb xml:id="leaf018r" facs="ppp_vm.00036.jpg" type="recto" n="29"/>
             <lg type="extract">
                 <!--this is actually an extract, not a poem, because she's edited out quite a few stanzas-->
-                <relations>
-                    <work ref="xxx.00124"/>
-                </relations>
+                <note type="work_relations" target="xxx.00124" cert="high"/>
+                     
+                 
                 <head type="main" rend="center">PIONEERS! O PIONEERS!</head>
                 <lg type="linegroup">
                     <l rend="indent1">Come my tan-faced children,</l>
@@ -1053,9 +1054,9 @@
                 </lg>
                 <pb xml:id="leaf019r" facs="ppp_vm.00038.jpg" type="recto" n="31"/>
                 <lg type="poem">
-                    <relations>
-                        <work ref="xxx.00228"/>
-                    </relations>
+                    <note type="work_relations" target="xxx.00228" cert="high"/>
+                         
+                     
                     <head type="main" rend="center">THE CITY DEAD-HOUSE.</head>
                     <lg type="linegroup">
                         <l>By the city dead-house by the gate,</l>
@@ -1088,9 +1089,9 @@
                 </lg>
                 <milestone unit="undeclared" rend="horbar-short-center"/>
                 <lg type="extract">
-                    <relations>
-                        <work ref="xxx.00048"/>
-                    </relations>
+                    <note type="work_relations" target="xxx.00048" cert="high"/>
+                         
+                     
                     <l>I accept Reality and dare not question it,</l>
                     <l>Materialism first and last imbuing.</l>
                     <label type="main" rend="right"><hi rend="italic">Song of Myself.</hi> Stanza
@@ -1098,9 +1099,9 @@
                 </lg>
                 <pb xml:id="leaf019v" facs="ppp_vm.00039.jpg" type="verso" n="32"/>
                 <lg type="poem">
-                    <relations>
-                        <work ref="xxx.00078"/>
-                    </relations>
+                    <note type="work_relations" target="xxx.00078" cert="high"/>
+                         
+                     
                     <head type="main" rend="center">THE BASE OF ALL METAPHYSICS.</head>
 
                     <lg type="linegroup">
@@ -1130,9 +1131,9 @@
                 </lg>
                 <milestone unit="undeclared" rend="horbar-short-center"/>
                 <lg type="extract">
-                    <relations>
-                        <work ref="xxx.00116"/>
-                    </relations>
+                    <note type="work_relations" target="xxx.00116" cert="high"/>
+                         
+                     
                     <l>A great city is that which has the greatest men and women,</l>
                     <l>If it be a few ragged huts it is still the greatest city in the whole
                         world.</l>
@@ -1142,9 +1143,9 @@
                 </lg>
                 <pb xml:id="leaf020r" facs="ppp_vm.00040.jpg" type="recto" n="33"/>
                 <lg type="extract">
-                    <relations>
-                        <work ref="xxx.00262"/>
-                    </relations>
+                    <note type="work_relations" target="xxx.00262" cert="high"/>
+                         
+                     
                     <lg type="linegroup">
                         <l>Ah from a little child,</l>
                         <l>Thou knowest soul how to me all sounds became music,</l>
@@ -1173,9 +1174,9 @@
                     </label>
                 </lg>
                 <lg type="extract">
-                    <relations>
-                        <work ref="xxx.00047"/>
-                    </relations>
+                    <note type="work_relations" target="xxx.00047" cert="high"/>
+                         
+                     
                     <l>Strains musical flowing through ages, now reaching hither,</l>
                     <l>I take to your reckless and composite chords, add to them, and cheerfully
                         pass them forward.</l>
@@ -1185,9 +1186,9 @@
                 </lg>
                 <pb xml:id="leaf020v" facs="ppp_vm.00041.jpg" type="verso" n="34"/>
                 <lg type="extract">
-                    <relations>
-                        <work ref="xxx.00115"/>
-                    </relations>
+                    <note type="work_relations" target="xxx.00115" cert="high"/>
+                         
+                     
                     <l>O the joy of my soul leaning pois'd on itself, receiving identity through
                         materials and loving<lb/> them, observing characters and absorbing them,</l>
                     <l>My soul vibrated back to me from them, from sight, hearing, touch, reason,
@@ -1214,9 +1215,9 @@
                 </lg>
                 <milestone unit="undeclared" rend="horbar-short-center"/>
                 <lg type="extract">
-                    <relations>
-                        <work ref="xxx.00127"/>
-                    </relations>
+                    <note type="work_relations" target="xxx.00127" cert="high"/>
+                         
+                     
                     <l>O I see life is not short, but immeasurably long,</l>
                     <l>I henceforth tread the world chaste, temperate, an early riser, a steady
                         grower,</l>
@@ -1227,9 +1228,9 @@
                 </lg>
                 <pb xml:id="leaf021r" facs="ppp_vm.00042.jpg" type="recto" n="35"/>
                 <lg type="extract">
-                    <relations>
-                        <work ref="xxx.00266"/>
-                    </relations>
+                    <note type="work_relations" target="xxx.00266" cert="high"/>
+                         
+                     
                     <l>And I have dream'd that the purpose and essence of the known life, the
                         transient,</l>
                     <l>Is to form and decide identity for the unknown life, the permanent.</l>
@@ -1239,9 +1240,9 @@
                 </lg>
                 <milestone unit="undeclared" rend="horbar-short-center"/>
                 <lg type="extract">
-                    <relations>
-                        <work ref="xxx.00217"/>
-                    </relations>
+                    <note type="work_relations" target="xxx.00217" cert="high"/>
+                         
+                     
                     <l>With the tolling, tolling bells' perpetual clang,</l>
                     <l>Here, coffin that slowly passes,</l>
                     <l>I give you my sprig of lilac.</l>
@@ -1251,9 +1252,9 @@
                 </lg>
                 <milestone unit="undeclared" rend="horbar-short-center"/>
                 <lg type="poem">
-                    <relations>
-                        <work ref="xxx.00218"/>
-                    </relations>
+                    <note type="work_relations" target="xxx.00218" cert="high"/>
+                         
+                     
                     <head type="main" rend="center">O CAPTAIN! MY CAPTAIN!</head>
                     <lg type="linegroup">
                         <l>O Captain! my Captain! our fearful trip is done,</l>
@@ -1292,9 +1293,9 @@
                 </lg>
                 <milestone unit="undeclared" rend="horbar-short-center"/>
                 <lg type="extract">
-                    <relations>
-                        <work ref="xxx.00217"/>
-                    </relations>
+                    <note type="work_relations" target="xxx.00217" cert="high"/>
+                         
+                     
                     <lg type="linegroup">
                         <l>O how shall I warble myself for the dead one there I loved?</l>
                         <l>And how shall I deck my song for the large sweet soul that has gone?</l>
@@ -1314,9 +1315,9 @@
                 </lg>
                 <milestone unit="undeclared" rend="horbar-short-center"/>
                 <lg type="extract">
-                    <relations>
-                        <work ref="xxx.00219"/>
-                    </relations>
+                    <note type="work_relations" target="xxx.00219" cert="high"/>
+                         
+                     
                     <l>No more for him life's stormy conflicts,</l>
                     <l>Nor victory, nor defeat—no more time's dark events,</l>
                     <l>Charging like ceaseless clouds across the sky.</l>
@@ -1326,9 +1327,9 @@
                 </lg>
                 <milestone unit="undeclared" rend="horbar-short-center"/>
                 <lg type="extract">
-                    <relations>
-                        <work ref="xxx.00293"/>
-                    </relations>
+                    <note type="work_relations" target="xxx.00293" cert="high"/>
+                         
+                     
                     <lg type="linegroup">
                         <l>Ashes of soldiers South or North,</l>
                         <l>As I muse retrospective murmuring a chant in thought,</l>
@@ -1362,9 +1363,9 @@
                 </lg>
                 <milestone unit="undeclared" rend="horbar-short-center"/>
                 <lg type="extract">
-                    <relations>
-                        <work ref="xxx.00047"/>
-                    </relations>
+                    <note type="work_relations" target="xxx.00047" cert="high"/>
+                         
+                     
                     <lg type="linegroup">
                         <l>Each is not for its own sake,</l>
                         <l>I say the whole earth and all the stars in the sky are for religion's
@@ -1399,9 +1400,9 @@
                 </lg>
                 <milestone unit="undeclared" rend="horbar-short-center"/>
                 <lg type="extract">
-                    <relations>
-                        <work ref="xxx.00245"/>
-                    </relations>
+                    <note type="work_relations" target="xxx.00245" cert="high"/>
+                         
+                     
                     <l>The greater the reform needed, the greater the Personality you need to
                         accomplish it.</l>
                     <label type="main" rend="right">
@@ -1410,9 +1411,9 @@
                 </lg>
                 <milestone unit="undeclared" rend="horbar-short-center"/>
                 <lg type="extract">
-                    <relations>
-                        <work ref="xxx.00221"/>
-                    </relations>
+                    <note type="work_relations" target="xxx.00221" cert="high"/>
+                         
+                     
                     <l>Produce great Persons, the rest follows.</l>
                     <l>. . . . . . . .</l>
                     <l>He or she is greatest who contributes the greatest original practical
@@ -1423,9 +1424,9 @@
                 </lg>
                 <milestone unit="undeclared" rend="horbar-short-center"/>
                 <lg type="poem">
-                    <relations>
-                        <work ref="xxx.00298"/>
-                    </relations>
+                    <note type="work_relations" target="xxx.00298" cert="high"/>
+                         
+                     
                     <head type="main" rend="center">AS AT THY PORTALS ALSO DEATH.</head>
                     <lg type="linegroup">
                         <l>As at thy portals also death,</l>
@@ -1445,9 +1446,9 @@
                 </lg>
                 <milestone unit="undeclared" rend="horbar-short-center"/>
                 <lg type="extract">
-                    <relations>
-                        <work ref="xxx.00221"/>
-                    </relations>
+                    <note type="work_relations" target="xxx.00221" cert="high"/>
+                         
+                     
                     <lg type="linegroup">
                         <l>Nothing is sinful to us outside of ourselves,</l>
                         <l>Whatever appears, whatever does not appear, we are beautiful or sinful in
@@ -1464,9 +1465,9 @@
                 </lg>
                 <milestone unit="undeclared" rend="horbar-short-center"/>
                 <lg type="extract">
-                    <relations>
-                        <work ref="xxx.00048"/>
-                    </relations>
+                    <note type="work_relations" target="xxx.00048" cert="high"/>
+                         
+                     
                     <l>This minute that comes to me over the past decillions,</l>
                     <l>There is no better than it and now.</l>
                     <label type="main" rend="right"><hi rend="italic">Song of Myself.</hi> Stanza
@@ -1474,9 +1475,9 @@
                 </lg>
                 <milestone unit="undeclared" rend="horbar-short-center"/>
                 <lg type="poem">
-                    <relations>
-                        <work ref="xxx.00185"/>
-                    </relations>
+                    <note type="work_relations" target="xxx.00185" cert="high"/>
+                         
+                     
                     <head type="main" rend="center">BY THE BIVOUAC'S FITFUL FLAME.</head>
                     <lg type="linegroup">
                         <l>By the bivouac's fitful flame,</l>
@@ -1497,9 +1498,9 @@
                 </lg>
                 <milestone unit="undeclared" rend="horbar-short-center"/>
                 <lg type="extract">
-                    <relations>
-                        <work ref="xxx.00183"/>
-                    </relations>
+                    <note type="work_relations" target="xxx.00183" cert="high"/>
+                         
+                     
                     <l>And over all the sky—the sky! far, far out of reach, studded, breaking
                         cut, the eternal stars.</l>
                     <label type="main" rend="right">
@@ -1508,9 +1509,9 @@
                 </lg>
                 <milestone unit="undeclared" rend="horbar-short-center"/>
                 <lg type="poem">
-                    <relations>
-                        <work ref="xxx.00206"/>
-                    </relations>
+                    <note type="work_relations" target="xxx.00206" cert="high"/>
+                         
+                     
                     <head type="main" rend="center">RECONCILIATION.</head>
                     <lg type="linegroup">
                         <l>Word over all, beautiful as the sky,</l>
@@ -1527,9 +1528,9 @@
                 </lg>
                 <pb xml:id="leaf024v" facs="ppp_vm.00049.jpg" type="verso" n="42"/>
                 <lg type="poem">
-                    <relations>
-                        <work ref="xxx.00288"/>
-                    </relations>
+                    <note type="work_relations" target="xxx.00288" cert="high"/>
+                         
+                     
                     <head type="main" rend="center">WHAT BEST I SEE IN THEE</head>
                     <head type="sub" rend="center"><hi rend="italic">To U. S. G. return'd from his World's
                         Tour</hi></head>
@@ -1551,9 +1552,9 @@
                     </lg>
                 </lg>
                 <lg type="poem">
-                    <relations>
-                        <work ref="xxx.00197"/>
-                    </relations>
+                    <note type="work_relations" target="xxx.00197" cert="high"/>
+                         
+                     
                     <head type="main" rend="center">OVER THE CARNAGE ROSE PROPHETIC A VOICE.</head>
                     <lg type="linegroup">
                         <l>Over the carnage rose prophetic a voice,</l>
@@ -1568,9 +1569,9 @@
                 </lg>
                 <pb xml:id="leaf025r" facs="ppp_vm.00050.jpg" type="recto" n="43"/>
                 <lg type="poem">
-                    <relations>
-                        <work ref="xxx.00134"/>
-                    </relations>
+                    <note type="work_relations" target="xxx.00134" cert="high"/>
+                         
+                     
                     <head type="main" rend="center">TO THE MAN-OF-WAR-BIRD.</head>
                     <lg type="linegroup">
                         <l>Thou who hast slept all night upon the storm,</l>
@@ -1588,9 +1589,9 @@
                 </lg>
                 <milestone unit="undeclared" rend="horbar-short-center"/>
                 <lg type="extract">
-                    <relations>
-                        <work ref="xxx.00267"/>
-                    </relations>
+                    <note type="work_relations" target="xxx.00267" cert="high"/>
+                         
+                     
                     <l>As a strong bird on pinions free,</l>
                     <l>Joycus, the amplest spaces heavenward cleaving,</l>
                     <l>Such be the thought I'd think of thee America,</l>
@@ -1605,9 +1606,9 @@
                 </lg>
                 <pb xml:id="leaf025v" facs="ppp_vm.00051.jpg" type="verso" n="44"/>
                 <lg type="extract">
-                    <relations>
-                        <work ref="xxx.00127"/>
-                    </relations>
+                    <note type="work_relations" target="xxx.00127" cert="high"/>
+                         
+                     
                     <l>I give nothing as duties,</l>
                     <l>What others give as duties I give as living impulses,</l>
                     <l>(Shall I give the heart's action as a duty?)</l>
@@ -1615,9 +1616,9 @@
                 </lg>
                 <milestone unit="undeclared" rend="horbar-short-center"/>
                 <lg type="extract">
-                    <relations>
-                        <work ref="xxx.00221"/>
-                    </relations>
+                    <note type="work_relations" target="xxx.00221" cert="high"/>
+                         
+                     
                     <l>(Bravas to all impulses sending sane children to the next age!</l>
                     <l>But damn that which spends itself with no thought of the stain, pains,
                         dismay, feebleness, it is<lb/> bequeathing.)</l>
@@ -1626,9 +1627,9 @@
                 </lg>
                 <milestone unit="undeclared" rend="horbar-short-center"/>
                 <lg type="extract">
-                    <relations>
-                        <work ref="xxx.00052"/>
-                    </relations>
+                    <note type="work_relations" target="xxx.00052" cert="high"/>
+                         
+                     
                     <l>If any thing is sacred the human body is sacred,</l>
                     <l>And the glory and sweet of a man is the token of manhood untainted.</l>
                     <label type="main" rend="right"><hi rend="italic">I Sing the Body Electric.</hi>
@@ -1636,9 +1637,9 @@
                 </lg>
                 <milestone unit="undeclared" rend="horbar-short-center"/>
                 <lg type="extract">
-                    <relations>
-                        <work ref="xxx.00048"/>
-                    </relations>
+                    <note type="work_relations" target="xxx.00048" cert="high"/>
+                         
+                     
                     <l rend="indent1">I sing the body electric,</l>
                     <!--This line doesn't appear in "Song of Myself," so this is either an error (possibly a carry-over from the previous excerpt) or she's trying something.-->
                     <l>I am the poet of the woman the same as the man,</l>
@@ -1650,9 +1651,9 @@
                 <milestone unit="undeclared" rend="horbar-short-center"/>
                 <pb xml:id="leaf026r" facs="ppp_vm.00052.jpg" type="recto" n="45"/>
                 <lg type="extract">
-                    <relations>
-                        <work ref="xxx.00110"/>
-                    </relations>
+                    <note type="work_relations" target="xxx.00110" cert="high"/>
+                         
+                     
                     <l>Each of us inevitable,</l>
                     <l>Each of us limitless—each of us with his or her right upon the
                         earth,</l>
@@ -1663,9 +1664,9 @@
                 </lg>
                 <milestone unit="undeclared" rend="horbar-short-center"/>
                 <lg type="extract">
-                    <relations>
-                        <work ref="xxx.00048"/>
-                    </relations>
+                    <note type="work_relations" target="xxx.00048" cert="high"/>
+                         
+                     
                     <l>What behaved well in the past or behaves well to-day is not such a
                         wonder,</l>
                     <l>The wonder is always and always how there can be a mean man or an
@@ -1675,9 +1676,9 @@
                 </lg>
                 <milestone unit="undeclared" rend="horbar-short-center"/>
                 <lg type="extract">
-                    <relations>
-                        <work ref="xxx.00225"/>
-                    </relations>
+                    <note type="work_relations" target="xxx.00225" cert="high"/>
+                         
+                     
                     <l>Ever upon this stage,</l>
                     <l>Is acted God's calm annual drama,</l>
                     <l>Gorgeous processions, songs of birds,</l>
@@ -1698,9 +1699,9 @@
             </lg>
             <pb xml:id="leaf026v" facs="ppp_vm.00053.jpg" type="verso" n="46"/>
             <lg type="extract">
-                <relations>
-                    <work ref="xxx.00048"/>
-                </relations>
+                <note type="work_relations" target="xxx.00048" cert="high"/>
+                     
+                 
                 <l>I believe a leaf of grass is no less than the journey-work of the stars,</l>
                 <l>And the pismire is equally perfect, and a grain of sand, and the egg of the
                     wren,</l>
@@ -1715,9 +1716,9 @@
             </lg>
             <milestone unit="undeclared" rend="horbar-short-center"/>
             <lg type="extract">
-                <relations>
-                    <work ref="xxx.00221"/>
-                </relations>
+                <note type="work_relations" target="xxx.00221" cert="high"/>
+                     
+                 
                 <l>For the great Idea, the idea of perfect and free individuals,</l>
                 <l>For that, the bard walks in advance, leader of leaders,</l>
                 <l>The attitude of him cheers up slaves and horrifies foreign despots.</l>
@@ -1726,9 +1727,9 @@
             </lg>
             <milestone unit="undeclared" rend="horbar-short-center"/>
             <lg type="extract">
-                <relations>
-                    <work ref="xxx.00221"/>
-                </relations>
+                <note type="work_relations" target="xxx.00221" cert="high"/>
+                     
+                 
                 <l>For the great Idea,</l>
                 <l>That, O my brethren, that is the mission of poets.</l>
                 <label type="main" rend="right"><hi rend="italic">Ibid.</hi> Stanza 11.</label>
@@ -1736,27 +1737,27 @@
             <milestone unit="undeclared" rend="horbar-short-center"/>
             <pb xml:id="leaf027r" facs="ppp_vm.00054.jpg" type="recto" n="47"/>
             <lg type="extract">
-                <relations>
-                    <work ref="xxx.00221"/>
-                </relations>
+                <note type="work_relations" target="xxx.00221" cert="high"/>
+                     
+                 
                 <l>Underneath all, individuals.</l>
                 <label type="main" rend="right"><hi rend="italic">By Blue Ontario's Shore.</hi>
                     Stanza 15.</label>
             </lg>
             <milestone unit="undeclared" rend="horbar-short-center"/>
             <lg type="extract">
-                <relations>
-                    <work ref="xxx.00221"/>
-                </relations>
+                <note type="work_relations" target="xxx.00221" cert="high"/>
+                     
+                 
                 <l>(The proof of a poet shall be sternly deferr'd till his country absorbs him as
                     affectionately as he<lb/> has absorb' d it.)</l>
                 <label type="main" rend="right"><hi rend="italic">Ibid.</hi> Stanza 13.</label>
             </lg>
             <milestone unit="undeclared" rend="horbar-short-center"/>
             <lg type="extract">
-                <relations>
-                    <work ref="xxx.00221"/>
-                </relations>
+                <note type="work_relations" target="xxx.00221" cert="high"/>
+                     
+                 
                 <l>Fear grace, elegance, civilization, delicatesse,</l>
                 <l>Fear the mellow sweet, the sucking of honey-juice,</l>
                 <l>Beware the advancing mortal ripening of Nature,</l>
@@ -1765,9 +1766,9 @@
             </lg>
             <milestone unit="undeclared" rend="horbar-short-center"/>
             <lg type="extract">
-                <relations>
-                    <work ref="xxx.00048"/>
-                </relations>
+                <note type="work_relations" target="xxx.00048" cert="high"/>
+                     
+                 
                 <l>This day before dawn I ascended a hill and look'd at the crowded heaven,</l>
                 <l>And I said to my spirit <hi rend="italic">When we become the enfolders of those
                     orbs, and the pleasure and knowledge</hi><lb/> <hi rend="italic">of every thing
@@ -1780,9 +1781,9 @@
             <milestone unit="undeclared" rend="horbar-short-center"/>
             <pb xml:id="leaf027v" facs="ppp_vm.00055.jpg" type="verso" n="48"/>
             <lg type="poem">
-                <relations>
-                    <work ref="xxx.00018"/>
-                </relations>
+                <note type="work_relations" target="xxx.00018" cert="high"/>
+                     
+                 
                 <head type="main" rend="center">THE LAST INVOCATION.</head>
                 <lg type="linegroup">
                     <l>At the last, tenderly,</l>
@@ -1804,9 +1805,9 @@
             </lg>
             <milestone unit="undeclared" rend="horbar-short-center"/>
             <lg type="extract">
-                <relations>
-                    <work ref="xxx.00496"/>
-                </relations>
+                <note type="work_relations" target="xxx.00496" cert="high"/>
+                     
+                 
                 <l>Thoughts, silent thoughts, of Time and Space and Death, like waters flowing,</l>
                 <l>Bear me indeed as through the regions infinite,</l>
                 <l>Whose air I breathe, whose ripples hear, lave me all over</l>
@@ -1816,17 +1817,17 @@
             </lg>
             <milestone unit="undeclared" rend="horbar-short-center"/>
             <lg type="extract">
-                <relations>
-                    <work ref="xxx.00294"/>
-                </relations>
+                <note type="work_relations" target="xxx.00294" cert="high"/>
+                     
+                 
                 <l>O soul, we have positively appear'd—that is enough.</l>
                 <label type="main" rend="right"><hi rend="italic">As the Time Draws Nigh.</hi></label>
             </lg>
             <pb xml:id="leaf028r" facs="ppp_vm.00056.jpg" type="recto" n="49"/>
             <lg type="extract">
-                <relations>
-                    <work ref="xxx.00309"/>
-                </relations>
+                <note type="work_relations" target="xxx.00309" cert="high"/>
+                     
+                 
                 <lg type="linegroup">
                     <l>To conclude, I announce what comes after me.</l>
                 </lg>
@@ -1848,9 +1849,9 @@
             </lg>
             <milestone unit="undeclared" rend="horbar-short-center"/>
             <lg type="poem">
-                <relations>
-                    <work ref="xxx.00304"/>
-                </relations>
+                <note type="work_relations" target="xxx.00304" cert="high"/>
+                     
+                 
                 <head type="main" rend="center">JOY, SHIPMATE, JOY!</head>
                 <lg type="linegroup">
                     <l>Joy, shipmate, joy!</l>
@@ -1864,9 +1865,9 @@
             </lg>
             <pb xml:id="leaf028v" facs="ppp_vm.00057.jpg" type="verso" n="50"/>
             <lg type="poem">
-                <relations>
-                    <work ref="xxx.00305"/>
-                </relations>
+                <note type="work_relations" target="xxx.00305" cert="high"/>
+                     
+                 
                 <head type="main" rend="center">THE UNTOLD WANT.</head>
                 <lg type="linegroup">
                     <l>The untold want by life and land ne'er granted,</l>
@@ -1875,9 +1876,9 @@
             </lg>
             <milestone unit="undeclared" rend="horbar-short-center"/>
             <lg type="extract">
-                <relations>
-                    <work ref="xxx.00272"/>
-                </relations>
+                <note type="work_relations" target="xxx.00272" cert="high"/>
+                     
+                 
                 <lg type="linegroup">
                     <l>Now trumpeter for thy close,</l>
                     <l>Vouchsafe a higher strain than any yet,</l>
@@ -1904,9 +1905,9 @@
             </lg>
             <pb xml:id="leaf029r" facs="ppp_vm.00058.jpg" type="recto" n="51"/>
             <lg type="poem">
-                <relations>
-                    <work ref="xxx.00306"/>
-                </relations>
+                <note type="work_relations" target="xxx.00306" cert="high"/>
+                     
+                 
                 <head type="main" rend="center">PORTALS.</head>
                 <lg type="linegroup">
                     <l>What are those of the known but to ascend and enter the Unknown?</l>
@@ -1915,9 +1916,9 @@
             </lg>
             <milestone unit="undeclared" rend="horbar-short-center"/>
             <lg type="poem">
-                <relations>
-                    <work ref="xxx.00004"/>
-                </relations>
+                <note type="work_relations" target="xxx.00004" cert="high"/>
+                     
+                 
                 <head type="main" rend="center">DAREST THOU NOW O SOUL.</head>
                 <lg type="linegroup">
                     <l>Darest thou now O soul,</l>
@@ -1948,9 +1949,9 @@
             </lg>
             <milestone unit="undeclared" rend="horbar-short-center"/>
             <lg type="poem">
-                <relations>
-                    <work ref="xxx.00367"/>
-                </relations>
+                <note type="work_relations" target="xxx.00367" cert="high"/>
+                     
+                 
                 <head type="main" rend="center">TWILIGHT.</head>
                 <lg type="linegroup">
                     <l>The soft voluptuous opiate-shades,</l>
@@ -2039,7 +2040,7 @@
                     </floatingText>
                 </q>
                 <p>Does not this make more real the closing lines of that autobiographical poem,
-                    "The Wound-Dresser<choice><orig>?"</orig><corr>"?</corr></choice>— <q who="#ww" type="printed"> <floatingText type="poetry"> <body> <lg type="extract"> <relations> <work ref="xxx.00193"/> </relations> <l>Many a soldier's loving
+                    "The Wound-Dresser<choice><orig>?"</orig><corr>"?</corr></choice>— <q who="#ww" type="printed"> <floatingText type="poetry"> <body> <lg type="extract"> <note type="work_relations" target="xxx.00193" cert="high"/>  <l>Many a soldier's loving
                     arms about this neck have crossed and rested.</l> <l>Many a soldier's kiss
                     dwells on these bearded lips.</l> </lg> </body> </floatingText> </q></p>
 
