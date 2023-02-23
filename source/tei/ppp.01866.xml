@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ppp.01866">
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ppp.01866">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -451,9 +454,9 @@
 
 
         <lg type="poem">
-          <relations>
-            <work ref="xxx.00172"/>
-          </relations>
+          <note type="work_relations" target="xxx.00172" cert="high"/>
+             
+           
           <head type="main-authorial">DRUM-TAPS.</head>
           <lg type="linegroup">
             <l><hi rend="smallcaps">FIRST, O</hi> songs, for a prelude,</l>
@@ -569,9 +572,9 @@
 
 
         <lg type="poem">
-          <relations>
-            <work ref="xxx.00044"/>
-          </relations>
+          <note type="work_relations" target="xxx.00044" cert="high"/>
+             
+           
           <head type="main-authorial">SHUT NOT YOUR DOORS TO ME PROUD LIBRARIES.</head>
           <lg type="linegroup">
             <l><hi rend="small caps">SHUT</hi> not your doors to me, proud libraries,</l>
@@ -589,9 +592,9 @@
 
 
         <lg type="poem">
-          <relations>
-            <work ref="xxx.00182"/>
-          </relations>
+          <note type="work_relations" target="xxx.00182" cert="high"/>
+             
+           
           <head type="main-authorial">CAVALRY CROSSING A FORD.</head>
           <lg type="linegroup">
             <l><hi rend="small caps">A LINE</hi> in long array, where they wind betwixt green
@@ -612,9 +615,9 @@
 
 
         <lg type="poem">
-          <relations>
-            <work ref="xxx.00177"/>
-          </relations>
+          <note type="work_relations" target="xxx.00177" cert="high"/>
+             
+           
           <head type="main-authorial">SONG OF THE BANNER AT DAY-BREAK.</head>
           <lg type="section">
             <head type="sub">POET.</head>
@@ -941,9 +944,9 @@
 
 
         <lg type="poem">
-          <relations>
-            <work ref="xxx.00185"/>
-          </relations>
+          <note type="work_relations" target="xxx.00185" cert="high"/>
+             
+           
           <head type="main-authorial">BY THE BIVOUAC'S FITFUL FLAME.</head>
           <lg type="linegroup">
             <l>By the bivouac's fitful flame,</l>
@@ -967,9 +970,9 @@
 
 
         <lg type="poem">
-          <relations>
-            <work ref="xxx.00174"/>
-          </relations>
+          <note type="work_relations" target="xxx.00174" cert="high"/>
+             
+           
           <head type="main-authorial">1861.</head>
           <lg type="linegroup">
             <l><hi rend="small caps">ARM'D</hi> year! year of the struggle!</l>
@@ -1009,9 +1012,9 @@
 
 
         <lg type="poem">
-          <relations>
-            <work ref="xxx.00176"/>
-          </relations>
+          <note type="work_relations" target="xxx.00176" cert="high"/>
+             
+           
 
           <head type="main-authorial">FROM PAUMANOK STARTING I FLY LIKE A BIRD.</head>
           <lg type="linegroup">
@@ -1037,9 +1040,9 @@
 
 
         <lg type="poem">
-          <relations>
-            <work ref="xxx.00033"/>
-          </relations>
+          <note type="work_relations" target="xxx.00033" cert="high"/>
+             
+           
 
           <head type="main-authorial">BEGINNING MY STUDIES.</head>
           <lg type="linegroup">
@@ -1061,9 +1064,9 @@
 
 
         <lg type="poem">
-          <relations>
-            <work ref="xxx.00181"/>
-          </relations>
+          <note type="work_relations" target="xxx.00181" cert="high"/>
+             
+           
 
           <head type="main-authorial">THE CENTENARIAN'S STORY.</head>
           <lg type="section">
@@ -1318,9 +1321,9 @@
 
 
         <lg type="poem">
-          <relations>
-            <work ref="xxx.00124"/>
-          </relations>
+          <note type="work_relations" target="xxx.00124" cert="high"/>
+             
+           
 
           <head type="main-authorial">PIONEERS! O PIONEERS!</head>
          
@@ -1569,9 +1572,9 @@
 
 
         <lg type="poem">
-          <relations>
-            <work ref="xxx.00010"/>
-          </relations>
+          <note type="work_relations" target="xxx.00010" cert="high"/>
+             
+           
           <head type="main-authorial">QUICKSAND YEARS THAT WHIRL ME I KNOW NOT WHITHER.</head>
           <lg type="linegroup">
             <l><hi rend="small caps">QUICKSAND</hi> years that whirl me I know not whither,</l>
@@ -1595,9 +1598,9 @@
 
 
         <lg type="poem">
-          <relations>
-            <work ref="xxx.00193"/>
-          </relations>
+          <note type="work_relations" target="xxx.00193" cert="high"/>
+             
+           
 
           <head type="main-authorial">THE DRESSER.</head>
           <lg type="linegroup">
@@ -1715,9 +1718,9 @@
 
 
         <lg type="poem">
-          <relations>
-            <work ref="xxx.00149"/>
-          </relations>
+          <note type="work_relations" target="xxx.00149" cert="high"/>
+             
+           
 
           <head type="main-authorial">WHEN I HEARD THE LEARN'D ASTRONOMER.</head>
           <lg type="linegroup">
@@ -1739,9 +1742,9 @@
 
 
         <lg type="poem">
-          <relations>
-            <work ref="xxx.00178"/>
-          </relations>
+          <note type="work_relations" target="xxx.00178" cert="high"/>
+             
+           
 
           <head type="main-authorial">RISE O DAYS FROM YOUR FATHOMLESS DEEPS</head>
             <lg type="linegroup">
@@ -1838,9 +1841,9 @@
 
 
         <lg type="poem">
-          <relations>
-            <work ref="xxx.00158"/>
-          </relations>
+          <note type="work_relations" target="xxx.00158" cert="high"/>
+             
+           
 
           <head type="main-authorial">A CHILD'S AMAZE.</head>
           <lg type="linegroup">
@@ -1855,9 +1858,8 @@
 
 
         <lg type="poem">
-          <relations>
-            <work ref="xxx.00175"/>
-          </relations>
+          <note type="work_relations" target="xxx.00175" cert="high"/>
+           
           <head type="main-authorial">BEAT! BEAT! DRUMS!</head>
             <lg type="linegroup">
               <head type="sub">1</head>
@@ -1904,9 +1906,9 @@
 
 
         <lg type="poem">
-          <relations>
-            <work ref="xxx.00186"/>
-          </relations>
+          <note type="work_relations" target="xxx.00186" cert="high"/>
+             
+           
 
           <head type="main-authorial">COME UP FROM THE FIELDS FATHER.</head>
           <lg type="linegroup">
@@ -1987,9 +1989,9 @@
 
 
         <lg type="poem">
-          <relations>
-            <work ref="xxx.00180"/>
-          </relations>
+          <note type="work_relations" target="xxx.00180" cert="high"/>
+             
+           
 
           <head type="main-authorial">CITY OF SHIPS.</head>
           <lg type="linegroup">
@@ -2025,9 +2027,9 @@
 
 
         <lg type="poem">
-          <relations>
-            <work ref="xxx.00161"/>
-          </relations>
+          <note type="work_relations" target="xxx.00161" cert="high"/>
+             
+           
 
           <head type="main-authorial">MOTHER AND BABE.</head>
           <lg type="linegroup">
@@ -2042,9 +2044,9 @@
 
 
         <lg type="poem">
-          <relations>
-            <work ref="xxx.00187"/>
-          </relations>
+          <note type="work_relations" target="xxx.00187" cert="high"/>
+             
+           
 
           <head type="main-authorial">VIGIL STRANGE I KEPT ON THE FIELD ONE NIGHT.</head>
           <lg type="linegroup">
@@ -2096,9 +2098,9 @@
 
 
         <lg type="poem">
-          <relations>
-            <work ref="xxx.00424"/>
-          </relations>
+          <note type="work_relations" target="xxx.00424" cert="high"/>
+             
+           
 
           <head type="main-authorial">BATHED IN WAR'S PERFUME.</head>
           <lg type="linegroup">
@@ -2118,9 +2120,9 @@
 
 
         <lg type="poem">
-          <relations>
-            <work ref="xxx.00188"/>
-          </relations>
+          <note type="work_relations" target="xxx.00188" cert="high"/>
+             
+           
 
           <head type="main-authorial">A MARCH IN THE RANKS HARD-PREST, AND THE ROAD UNKNOWN.</head>
           <lg type="linegroup">
@@ -2171,9 +2173,9 @@
 
 
         <lg type="poem">
-          <relations>
-            <work ref="xxx.00194"/>
-          </relations>
+          <note type="work_relations" target="xxx.00194" cert="high"/>
+             
+           
 
           <head type="main-authorial">LONG, TOO LONG, O LAND.</head>
           <lg type="linegroup">
@@ -2193,9 +2195,9 @@
 
 
         <lg type="poem">
-          <relations>
-            <work ref="xxx.00189"/>
-          </relations>
+          <note type="work_relations" target="xxx.00189" cert="high"/>
+             
+           
 
           <head type="main-authorial">A SIGHT IN CAMP IN THE DAY-BREAK GREY AND DIM.</head>
           <lg type="linegroup">
@@ -2230,9 +2232,9 @@
 
 
         <lg type="poem">
-          <relations>
-            <work ref="xxx.00157"/>
-          </relations>
+          <note type="work_relations" target="xxx.00157" cert="high"/>
+             
+           
 
           <head type="main-authorial">A FARM PICTURE.</head>
           <lg type="linegroup">
@@ -2247,9 +2249,9 @@
 
 
         <lg type="poem">
-          <relations>
-            <work ref="xxx.00195"/>
-          </relations>
+          <note type="work_relations" target="xxx.00195" cert="high"/>
+             
+           
 
           <head type="main-authorial">GIVE ME THE SPLENDID SILENT SUN.</head>
             <lg type="linegroup">
@@ -2336,9 +2338,9 @@
 
 
         <lg type="poem">
-          <relations>
-            <work ref="xxx.00197"/>
-          </relations>
+          <note type="work_relations" target="xxx.00197" cert="high"/>
+             
+           
 
           <head type="main-authorial">OVER THE CARNAGE ROSE PROPHETIC A VOICE.</head>
           <lg type="linegroup">
@@ -2392,9 +2394,9 @@
 
 
         <lg type="poem">
-          <relations>
-            <work ref="xxx.00210"/>
-          </relations>
+          <note type="work_relations" target="xxx.00210" cert="high"/>
+             
+           
 
           <head type="main-authorial">DID YOU ASK DULCET RHYMES FROM ME?</head>
           <lg type="linegroup">
@@ -2414,9 +2416,9 @@
 
 
         <lg type="poem">
-          <relations>
-            <work ref="xxx.00128"/>
-          </relations>
+          <note type="work_relations" target="xxx.00128" cert="high"/>
+             
+           
 
           <head type="main-authorial">YEAR OF METEORS. (1859-60.)</head>
           <lg type="linegroup">
@@ -2473,9 +2475,9 @@
 
 
         <lg type="poem">
-          <relations>
-            <work ref="xxx.00252"/>
-          </relations>
+          <note type="work_relations" target="xxx.00252" cert="high"/>
+             
+           
 
           <head type="main-authorial">THE TORCH.</head>
           <lg type="linegroup">
@@ -2492,9 +2494,9 @@
 
 
         <lg type="poem">
-          <relations>
-            <work ref="xxx.00295"/>
-          </relations>
+          <note type="work_relations" target="xxx.00295" cert="high"/>
+             
+           
 
           <head type="main-authorial">YEARS OF THE UNPERFORM'D.</head>
           <lg type="linegroup">
@@ -2561,9 +2563,9 @@
 
 
         <lg type="poem">
-          <relations>
-            <work ref="xxx.00192"/>
-          </relations>
+          <note type="work_relations" target="xxx.00192" cert="high"/>
+             
+           
 
           <head type="main-authorial">YEAR THAT TREMBLED AND REEL'D BENEATH ME.</head>
           <lg type="linegroup">
@@ -2584,9 +2586,9 @@
 
 
         <lg type="poem">
-          <relations>
-            <work ref="xxx.00199"/>
-          </relations>
+          <note type="work_relations" target="xxx.00199" cert="high"/>
+             
+           
 
           <head type="main-authorial">THE VETERAN'S VISION.</head>
           <lg type="linegroup">
@@ -2642,9 +2644,9 @@
 
 
         <lg type="poem">
-          <relations>
-            <work ref="xxx.00204"/>
-          </relations>
+          <note type="work_relations" target="xxx.00204" cert="high"/>
+             
+           
 
           <head type="main-authorial">O TAN-FACED PRAIRIE-BOY.</head>
           <lg type="linegroup">
@@ -2662,9 +2664,9 @@
 
 
         <lg type="poem">
-          <relations>
-            <work ref="xxx.00301"/>
-          </relations>
+          <note type="work_relations" target="xxx.00301" cert="high"/>
+             
+           
 
           <head type="main-authorial">CAMPS OF GREEN.</head>
           <lg type="linegroup">
@@ -2713,9 +2715,9 @@
 
 
         <lg type="poem">
-          <relations>
-            <work ref="xxx.00190"/>
-          </relations>
+          <note type="work_relations" target="xxx.00190" cert="high"/>
+             
+           
 
           <head type="main-authorial">AS TOILSOME I WANDER'D VIRGINIA'S WOODS.</head>
           <lg type="linegroup">
@@ -2745,9 +2747,9 @@
 
 
         <lg type="poem">
-          <relations>
-            <work ref="xxx.00293"/>
-          </relations>
+          <note type="work_relations" target="xxx.00293" cert="high"/>
+             
+           
 
           <head type="main-authorial">HYMN OF DEAD SOLDIERS.</head>
           <lg type="linegroup">
@@ -2818,9 +2820,9 @@
 
 
         <lg type="poem">
-          <relations>
-            <work ref="xxx.00040"/>
-          </relations>
+          <note type="work_relations" target="xxx.00040" cert="high"/>
+             
+           
 
           <head type="main-authorial">THE SHIP.</head>
           <lg type="linegroup">
@@ -2838,9 +2840,9 @@
 
 
         <lg type="poem">
-          <relations>
-            <work ref="xxx.00021"/>
-          </relations>
+          <note type="work_relations" target="xxx.00021" cert="high"/>
+             
+           
 
           <head type="main-authorial">A BROADWAY PAGEANT.</head>
           <head type="main-authorial">(RECEPTION JAPANESE EMBASSY, JUNE 16, 1860.)</head>
@@ -3014,9 +3016,9 @@
 
 
         <lg type="poem">
-          <relations>
-            <work ref="xxx.00287"/>
-          </relations>
+          <note type="work_relations" target="xxx.00287" cert="high"/>
+             
+           
 
           <head type="main-authorial">FLAG OF STARS, THICK-SPRINKLED BUNTING.</head>
           <lg type="linegroup">
@@ -3039,9 +3041,9 @@
 
 
         <lg type="poem">
-          <relations>
-            <work ref="xxx.00227"/>
-          </relations>
+          <note type="work_relations" target="xxx.00227" cert="high"/>
+             
+           
 
           <head type="main-authorial">OLD IRELAND.</head>
           <lg type="linegroup">
@@ -3076,9 +3078,9 @@
 
 
         <lg type="poem">
-          <relations>
-            <work ref="xxx.00205"/>
-          </relations>
+          <note type="work_relations" target="xxx.00205" cert="high"/>
+             
+           
 
           <head type="main-authorial">LOOK DOWN FAIR MOON.</head>
           <lg type="linegroup">
@@ -3094,9 +3096,9 @@
 
 
         <lg type="poem">
-          <relations>
-            <work ref="xxx.00056"/>
-          </relations>
+          <note type="work_relations" target="xxx.00056" cert="high"/>
+             
+           
 
           <head type="main-authorial">OUT OF THE ROLLING OCEAN, THE CROWD.</head>
             <lg type="linegroup">
@@ -3131,9 +3133,9 @@
 
 
         <lg type="poem">
-          <relations>
-            <work ref="xxx.00203"/>
-          </relations>
+          <note type="work_relations" target="xxx.00203" cert="high"/>
+             
+           
 
           <head type="main-authorial">WORLD, TAKE GOOD NOTICE.</head>
           <lg type="linegroup">
@@ -3150,9 +3152,9 @@
 
 
         <lg type="poem">
-          <relations>
-            <work ref="xxx.00198"/>
-          </relations>
+          <note type="work_relations" target="xxx.00198" cert="high"/>
+             
+           
 
           <head type="main-authorial">I SAW OLD GENERAL AT BAY.</head>
           <lg type="linegroup">
@@ -3172,9 +3174,9 @@
 
 
         <lg type="poem">
-          <relations>
-            <work ref="xxx.00249"/>
-          </relations>
+          <note type="work_relations" target="xxx.00249" cert="high"/>
+             
+           
 
           <head type="main-authorial">OTHERS MAY PRAISE WHAT THEY LIKE.</head>
           <lg type="linegroup">
@@ -3190,9 +3192,9 @@
 
 
         <lg type="poem">
-          <relations>
-            <work ref="xxx.00447"/>
-          </relations>
+          <note type="work_relations" target="xxx.00447" cert="high"/>
+             
+           
 
           <head type="main-authorial">SOLID, IRONICAL, ROLLING ORB.</head>
           <lg type="linegroup">
@@ -3208,9 +3210,9 @@
 
 
         <lg type="poem">
-          <relations>
-            <work ref="xxx.00219"/>
-          </relations>
+          <note type="work_relations" target="xxx.00219" cert="high"/>
+             
+           
 
           <head type="main-authorial">HUSH'D BE THE CAMPS TO-DAY.</head>
           <head type="main-authorial">A. L. BURIED APRIL 19, 1865.</head>
@@ -3240,9 +3242,9 @@
 
 
         <lg type="poem">
-          <relations>
-            <work ref="xxx.00282"/>
-          </relations>
+          <note type="work_relations" target="xxx.00282" cert="high"/>
+             
+           
 
           <head type="main-authorial">WEAVE IN, WEAVE IN, MY HARDY LIFE.</head>
           <lg type="linegroup">
@@ -3268,9 +3270,9 @@
 
 
         <lg type="poem">
-          <relations>
-            <work ref="xxx.00214"/>
-          </relations>
+          <note type="work_relations" target="xxx.00214" cert="high"/>
+             
+           
 
           <head type="main-authorial">TURN O LIBERTAD.</head>
           <lg type="linegroup">
@@ -3296,9 +3298,9 @@
 
 
         <lg type="poem">
-          <relations>
-            <work ref="xxx.00183"/>
-          </relations>
+          <note type="work_relations" target="xxx.00183" cert="high"/>
+             
+           
 
           <head type="main-authorial">BIVOUAC ON A MOUNTAIN SIDE.</head>
           <lg type="linegroup">
@@ -3322,9 +3324,9 @@
 
 
         <lg type="poem">
-          <relations>
-            <work ref="xxx.00300"/>
-          </relations>
+          <note type="work_relations" target="xxx.00300" cert="high"/>
+             
+           
 
           <head type="main-authorial">PENSIVE ON HER DEAD GAZING, I HEARD THE MOTHER OF ALL.</head>
           <lg type="linegroup">
@@ -3365,9 +3367,9 @@
 
 
         <lg type="poem">
-          <relations>
-            <work ref="xxx.00201"/>
-          </relations>
+          <note type="work_relations" target="xxx.00201" cert="high"/>
+             
+           
 
           <head type="main-authorial">NOT YOUTH PERTAINS TO ME.</head>
           <lg type="linegroup">
