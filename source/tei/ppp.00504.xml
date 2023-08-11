@@ -70,6 +70,7 @@
     <profileDesc> </profileDesc>
 
     <revisionDesc>
+      <change when="2023-08-11" who="#bb">corrected numerous errors in table of contents; corrected encoding of ellipses on pages 28, 443, and 444; removed extraneous hyphen on page 56</change>
       <change when="2021-01-22" who="#bb">corrected "show" to "how" on last page (522)</change>
       <change when="2020-05-26" who="#bb">on the advice of Ken, Ed, and Matt, reverted the change on page 163</change>
       <change when="2020-05-26" who="#bb">added sic/corr tagging to printing errors on pages 132 and 163</change>
@@ -177,7 +178,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Genealogy—Van Velsor and Whitman. . .The
+              <cell role="data" rows="1" cols="1">Genealogy&#8212;Van Velsor and Whitman......The
                 Old Whitman and Van Velsor Cemeteries, . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="9" xml:id="toc9" target="leaf008r1"/>
@@ -201,7 +202,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">My First Reading—Lafayette, . . . . . .
+              <cell role="data" rows="1" cols="1">My First Reading&#8212;Lafayette, . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
                 .</cell>
               <cell role="data" rows="1" cols="1">
@@ -210,7 +211,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Printing Office—Old Brooklyn, . . . . .
+              <cell role="data" rows="1" cols="1">Printing Office&#8212;Old Brooklyn, . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
                 .</cell>
               <cell role="data" rows="1" cols="1">
@@ -219,7 +220,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Growth—Health—Work. . .My
+              <cell role="data" rows="1" cols="1">Growth&#8212;Health&#8212;Work ........My
                 Passion for Ferries, . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
                 .</cell>
               <cell role="data" rows="1" cols="1">
@@ -253,8 +254,8 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Through Eight Years. . .Sources of
-                Character—Results—1860, . . . . . . . . . . . . . . . . . . . .
+              <cell role="data" rows="1" cols="1">Through Eight Years........Sources of
+                Character&#8212;Results&#8212;1860, . . . . . . . . . . . . . . . . . . . .
                 .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="20" xml:id="toc20" target="leaf013v1"/>
@@ -262,7 +263,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Opening of the Secession War. . .National Uprising
+              <cell role="data" rows="1" cols="1">Opening of the Secession War........National Uprising
                 and Volunteering, . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="21" xml:id="toc21" target="leaf014r1"/>
@@ -270,7 +271,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Contemptuous Feeling. . .Battle of Bull Run, July,
+              <cell role="data" rows="1" cols="1">Contemptuous Feeling........Battle of Bull Run, July,
                 1861, . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="23" xml:id="toc23" target="leaf014v1"/>
@@ -278,7 +279,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">The Stupor Passes—Something Else Begins,
+              <cell role="data" rows="1" cols="1">The Stupor Passes&#8212;Something Else Begins,
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="25" xml:id="toc25" target="leaf016r1"/>
@@ -286,7 +287,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Down at the Front. . .After First Fredericksburg,
+              <cell role="data" rows="1" cols="1">Down at the Front........After First Fredericksburg,
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="26" xml:id="toc26" target="leaf016v1"/>
@@ -326,7 +327,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">The White House by Moonlight. . .An Army Hospital
+              <cell role="data" rows="1" cols="1">The White House by Moonlight........An Army Hospital
                 Ward, . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="31" xml:id="toc31" target="leaf019r1"/>
@@ -334,7 +335,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">A Connecticut Case. . .Two Brooklyn Boys, . . . .
+              <cell role="data" rows="1" cols="1">A Connecticut Case........Two Brooklyn Boys, . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="32" xml:id="toc32" target="leaf019v1"/>
@@ -358,7 +359,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Unnamed Remains the Bravest Soldier. . .Some
+              <cell role="data" rows="1" cols="1">Unnamed Remains the Bravest Soldier........Some
                 Specimen Cases, . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="36" xml:id="toc36" target="leaf021v1"/>
@@ -374,7 +375,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Ambulance Processions. . .Bad Wounds—the
+              <cell role="data" rows="1" cols="1">Ambulance Processions........Bad Wounds&#8212;the
                 Young, . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="39" xml:id="toc39" target="leaf023r1"/>
@@ -390,7 +391,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Battle of Gettysburg. . .A Cavalry Camp, . . . . .
+              <cell role="data" rows="1" cols="1">Battle of Gettysburg........A Cavalry Camp, . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="40" xml:id="toc40" target="leaf023v1"/>
@@ -424,7 +425,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Heated Term. . .Soldiers and Talks, . . . . . . .
+              <cell role="data" rows="1" cols="1">Heated Term........Soldiers and Talks, . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="44" xml:id="toc44" target="leaf025v1"/>
@@ -457,7 +458,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Spiritual Characters among the Soldiers. . .Cattle
+              <cell role="data" rows="1" cols="1">Spiritual Characters among the Soldiers........Cattle
                 Droves about Washington, . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="48" xml:id="toc48" target="leaf027v1"/>
@@ -483,8 +484,8 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Paying the Bounties. . .Rumors, Changes,
-                &amp;c. . .Virginia, . . . . . . . . . . . . . . . . . . . . . . . . . .
+              <cell role="data" rows="1" cols="1">Paying the Bounties........Rumors, Changes,
+                &#38;c........Virginia, . . . . . . . . . . . . . . . . . . . . . . . . . .
                 .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="50" xml:id="toc50" target="leaf028v1"/>
@@ -501,7 +502,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">A New Army Organization fit for America. . .Death
+              <cell role="data" rows="1" cols="1">A New Army Organization fit for America........Death
                 of a Hero, . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="52" xml:id="toc52" target="leaf029v1"/>
@@ -509,7 +510,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Hospital Scenes—Incidents, . . . . . . .
+              <cell role="data" rows="1" cols="1">Hospital Scenes&#8212;Incidents, . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . </cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="53" xml:id="toc53" target="leaf030r1"/>
@@ -517,7 +518,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">A Yankee Soldier. . .Union Prisoners South, . . .
+              <cell role="data" rows="1" cols="1">A Yankee Soldier........Union Prisoners South, . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="54" xml:id="toc54" target="leaf030v1"/>
@@ -525,7 +526,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Deserters. . .A Glimpse of War's Hell-Scenes, . .
+              <cell role="data" rows="1" cols="1">Deserters........A Glimpse of War's Hell-Scenes, . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="55" xml:id="toc55" target="leaf031r1"/>
@@ -533,23 +534,22 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Gifts—Money—Discrimination. .
-                .Items from My Note Books, . . . . . . . . . . . . . . . . . . . . . . . .</cell>
+              <cell role="data" rows="1" cols="1">Gifts&#8212;Money&#8212;Discrimination........Items from My Note Books, . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="57" xml:id="toc57" target="leaf032r1"/>
               </cell>
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">A Case from Second Bull Run. . .Army
-                Surgeons—Aid Deficiencies, . . . . . . . . . . . . . . . . . .</cell>
+              <cell role="data" rows="1" cols="1">A Case from Second Bull Run........Army
+                Surgeons&#8212;Aid Deficiencies, . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="58" xml:id="toc58" target="leaf032v1"/>
               </cell>
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">The Blue Everywhere. . .A Model Hospital, . . . .
+              <cell role="data" rows="1" cols="1">The Blue Everywhere........A Model Hospital, . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="59" xml:id="toc59" target="leaf033r1"/>
@@ -557,7 +557,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Boys in the Army. . .Burial of a Lady Nurse, . . .
+              <cell role="data" rows="1" cols="1">Boys in the Army........Burial of a Lady Nurse, . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="60" xml:id="toc60" target="leaf033v1"/>
@@ -565,7 +565,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Female Nurses for Soldiers. . .Southern Escapees,
+              <cell role="data" rows="1" cols="1">Female Nurses for Soldiers........Southern Escapees,
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="61" xml:id="toc61" target="leaf034r1"/>
@@ -573,7 +573,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">The Capitol by Gas-Light. . .The Inauguration, . .
+              <cell role="data" rows="1" cols="1">The Capitol by Gas-Light........The Inauguration, . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="63" xml:id="toc63" target="leaf035r1"/>
@@ -594,7 +594,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1"> The Weather—Does it Sympathize with
+              <cell role="data" rows="1" cols="1"> The Weather&#8212;Does it Sympathize with
                 These Times? . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="65" xml:id="toc65" target="leaf036r1"/>
@@ -602,7 +602,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Inauguration Ball. . .Scene at the Capitol, . . .
+              <cell role="data" rows="1" cols="1">Inauguration Ball........Scene at the Capitol, . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="66" xml:id="toc66" target="leaf036v1"/>
@@ -619,7 +619,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Wounds and Diseases. . .Death of President
+              <cell role="data" rows="1" cols="1">Wounds and Diseases........Death of President
                 Lincoln, . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="68" xml:id="toc68b" target="leaf037v1"/>
@@ -627,7 +627,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Sherman's Army's Jubilation—its Sudden
+              <cell role="data" rows="1" cols="1">Sherman's Army's Jubilation&#8212;its Sudden
                 Stoppage, . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="69" xml:id="toc69" target="leaf038r1"/>
@@ -635,7 +635,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">No Good Portrait of Lincoln. . .Releas'd Union
+              <cell role="data" rows="1" cols="1">No Good Portrait of Lincoln........Releas'd Union
                 Prisoners from South, . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="69" xml:id="toc69b" target="leaf038r1"/>
@@ -659,7 +659,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">The Grand Review. . .Western Soldiers, . . . . . .
+              <cell role="data" rows="1" cols="1">The Grand Review........Western Soldiers, . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="73" xml:id="toc73" target="leaf040r1"/>
@@ -667,7 +667,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">A Soldier on Lincoln. . .Two Brothers, one South,
+              <cell role="data" rows="1" cols="1">A Soldier on Lincoln........Two Brothers, one South,
                 one North, . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="74" xml:id="toc74" target="leaf040v1"/>
@@ -683,7 +683,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Calhoun's Real Monument. . .Hospitals Closing, . .
+              <cell role="data" rows="1" cols="1">Calhoun's Real Monument........Hospitals Closing, . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="76" xml:id="toc76" target="leaf041v1"/>
@@ -700,7 +700,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">"Convulsiveness". . .Three Years Summ'd up, . . .
+              <cell role="data" rows="1" cols="1">"Convulsiveness"........Three Years Summ'd up, . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="78" xml:id="toc78" target="leaf042v1"/>
@@ -740,15 +740,15 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Entering a Long Farm-Lane. . .To the Spring and
-                Brook. . .An Early Summer Reveille, . . .</cell>
+              <cell role="data" rows="1" cols="1">Entering a Long Farm-Lane........To the Spring and
+                Brook........An Early Summer Reveille, . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="83" xml:id="toc83" target="leaf045r1"/>
               </cell>
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Birds Migrating at Midnight. . .Bumble-Bees, . . .
+              <cell role="data" rows="1" cols="1">Birds Migrating at Midnight........Bumble-Bees, . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="84" xml:id="toc84" target="leaf045v1"/>
@@ -765,8 +765,8 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Summer Sights and Indolences. . .Sundown
-                Perfume—Quail-Notes—the Hermit Thrush, . .</cell>
+              <cell role="data" rows="1" cols="1">Summer Sights and Indolences.....Sundown
+                Perfume&#8212;Quail-Notes&#8212;the Hermit Thrush, . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="87" xml:id="toc87" target="leaf047r1"/>
               </cell>
@@ -781,7 +781,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Locusts and Katy-Dids. . .The Lesson of a Tree, .
+              <cell role="data" rows="1" cols="1">Locusts and Katy-Dids........The Lesson of a Tree, .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="89" xml:id="toc89" target="leaf048r1"/>
@@ -798,8 +798,8 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">The Sky—Days and
-                Nights—Happiness, . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+              <cell role="data" rows="1" cols="1">The Sky&#8212;Days and
+                Nights&#8212;Happiness, . . . . . . . . . . . . . . . . . . . . . . . . . . . .
                 . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="92" xml:id="toc92" target="leaf049v1"/>
@@ -807,7 +807,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Colors—A Contrast. . .November 8, '76, .
+              <cell role="data" rows="1" cols="1">Colors&#8212;A Contrast........November 8, '76, .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="93" xml:id="toc93" target="leaf050r1"/>
@@ -815,7 +815,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Crows and Crows. . .A Winter-Day on the Sea-Beach,
+              <cell role="data" rows="1" cols="1">Crows and Crows........A Winter-Day on the Sea-Beach,
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="94" xml:id="toc94" target="leaf050v1"/>
@@ -848,7 +848,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Spring Overtures—Recreations. . .One of
+              <cell role="data" rows="1" cols="1">Spring Overtures&#8212;Recreations .......One of
                 the Human Kinks, . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="98" xml:id="toc98" target="leaf052v1"/>
@@ -856,7 +856,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">An Afternoon Scene. . .The Gates Opening, . . . .
+              <cell role="data" rows="1" cols="1">An Afternoon Scene........The Gates Opening, . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="99" xml:id="toc99" target="leaf053r1"/>
@@ -864,7 +864,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">The Common Earth, the Soil. . .Birds and Birds and
+              <cell role="data" rows="1" cols="1">The Common Earth, the Soil........Birds and Birds and
                 Birds, . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="100" xml:id="toc100" target="leaf053v1"/>
@@ -881,7 +881,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Mulleins and Mulleins. . .Distant Sounds, . . . .
+              <cell role="data" rows="1" cols="1">Mulleins and Mulleins........Distant Sounds, . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="102" xml:id="toc102" target="leaf054v1"/>
@@ -889,7 +889,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">A Sun-Bath—Nakedness, . . . . . . . . .
+              <cell role="data" rows="1" cols="1">A Sun-Bath&#8212;Nakedness, . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
                 .</cell>
               <cell role="data" rows="1" cols="1">
@@ -916,7 +916,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">The First Frost—Mems. . .Three Young
+              <cell role="data" rows="1" cols="1">The First Frost&#8212;Mems........Three Young
                 Men's Deaths, . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="106" xml:id="toc106" target="leaf056v1"/>
@@ -933,7 +933,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">A Meadow Lark. . .Sundown Lights, . . . . . . . .
+              <cell role="data" rows="1" cols="1">A Meadow Lark........Sundown Lights, . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="110" xml:id="toc110" target="leaf058v1"/>
@@ -941,15 +941,15 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Thoughts Under an Oak—A Dream. . .Clover
-                and Hay Perfume. . .An Unknown, . . . . . . . . .</cell>
+              <cell role="data" rows="1" cols="1">Thoughts Under an Oak&#8212;A Dream........Clover
+                and Hay Perfume........An Unknown, . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="111" xml:id="toc111" target="leaf059r1"/>
               </cell>
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Bird Whistling. . .Horse-Mint. . .Three of Us, . .
+              <cell role="data" rows="1" cols="1">Bird Whistling........Horse-Mint........Three of Us, . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="112" xml:id="toc112" target="leaf059v1"/>
@@ -965,7 +965,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Jaunt up the Hudson. . .Happiness and Raspberries,
+              <cell role="data" rows="1" cols="1">Jaunt up the Hudson........Happiness and Raspberries,
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="114" xml:id="toc114" target="leaf060v1"/>
@@ -1014,7 +1014,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">A Night Remembrance. . .Wild Flowers, . . . . . .
+              <cell role="data" rows="1" cols="1">A Night Remembrance........Wild Flowers, . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="122" xml:id="toc122" target="leaf064v1"/>
@@ -1037,8 +1037,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Delaware River—Days and Nights. .
-                .Scenes on Ferry and River—Last Winter's Nights, . . .</cell>
+              <cell role="data" rows="1" cols="1">Delaware River&#8212;Days and Nights.....Scenes on Ferry and River&#8212;Last Winter's Nights, . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="124" xml:id="toc124" target="leaf065v1"/>
               </cell>
@@ -1061,8 +1060,8 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Days at J. B.'s—Turf
-                Fires—Spring Songs, . . . . . . . . . . . . . . . . . . . . . . . . . . .
+              <cell role="data" rows="1" cols="1">Days at J. B.'s&#8212;Turf
+                Fires&#8212;Spring Songs, . . . . . . . . . . . . . . . . . . . . . . . . . . .
                 . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="130" xml:id="toc130" target="leaf068v1"/>
@@ -1070,8 +1069,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Meeting a Hermit. . .An Ulster County Waterfall. .
-                .Walter Dumont and his Medal, . . . . . . . .</cell>
+              <cell role="data" rows="1" cols="1">Meeting a Hermit.......An Ulster County Waterfall........Walter Dumont and his Medal, . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="131" xml:id="toc131" target="leaf069r1"/>
               </cell>
@@ -1110,7 +1108,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Departing of the Big Steamers. . .Two Hours on the
+              <cell role="data" rows="1" cols="1">Departing of the Big Steamers........Two Hours on the
                 Minnesota, . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="136" xml:id="toc136" target="leaf071v1"/>
@@ -1126,8 +1124,8 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Exposition Building—New City
-                Hall—River-Trip, . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+              <cell role="data" rows="1" cols="1">Exposition Building&#8212;New City
+                Hall&#8212;River-Trip, . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
                 . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="138" xml:id="toc138" target="leaf072v1"/>
@@ -1135,8 +1133,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Swallows on the River. . .Begin a Long Jaunt West.
-                . .In the Sleeper, . . . . . . . . . . . . . . . . .</cell>
+              <cell role="data" rows="1" cols="1">Swallows on the River........Begin a Long Jaunt West........In the Sleeper, . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="139" xml:id="toc139" target="leaf073r1"/>
               </cell>
@@ -1152,15 +1149,15 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Lawrence and Topeka, Kansas. . .The
-                Prairies—(and an Undeliver'd Speech,) . . . . . . . . . .</cell>
+              <cell role="data" rows="1" cols="1">Lawrence and Topeka, Kansas........The
+                Prairies&#8212;(and an Undeliver'd Speech,) . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="141" xml:id="toc141" target="leaf074r1"/>
               </cell>
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">On to Denver—A Frontier Incident. . .An
+              <cell role="data" rows="1" cols="1">On to Denver&#8212;A Frontier Incident........An
                 Hour on Kenosha Summit, . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="142" xml:id="toc142" target="leaf074v1"/>
@@ -1168,7 +1165,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">An Egotistical "Find". . .New Scenes—New
+              <cell role="data" rows="1" cols="1">An Egotistical "Find"........New Scenes&#8212;New
                 Joys, . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="143" xml:id="toc143" target="leaf075r1"/>
@@ -1176,7 +1173,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Steam-Power, Telegraphs, &amp;c . . . America's
+              <cell role="data" rows="1" cols="1">Steam-Power, Telegraphs, &#38;c........America's
                 Back-Bone, . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="144" xml:id="toc144" target="leaf075v1"/>
@@ -1184,7 +1181,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">The Parks. . .Art Features, . . . . . . . . . . .
+              <cell role="data" rows="1" cols="1">The Parks........Art Features, . . . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="145" xml:id="toc145" target="leaf076r1"/>
@@ -1192,7 +1189,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Denver Impressions. . . . . . . . . . . . . . . .
+              <cell role="data" rows="1" cols="1">Denver Impressions, . . . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
                 .</cell>
               <cell role="data" rows="1" cols="1">
@@ -1209,23 +1206,23 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Unfulfill'd Wants the Arkansas River. . .A Silent
-                Little Follower—the Coreopsis, . . . . . . . . . .</cell>
+              <cell role="data" rows="1" cols="1">Unfulfill'd Wants&#8212;the Arkansas River........A Silent
+                Little Follower&#8212;the Coreopsis, . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="148" xml:id="toc148" target="leaf077v1"/>
               </cell>
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">The Prairies and Great Plains in Poetry. . .The
-                Spanish Peaks—Evening on the Plains, . . .</cell>
+              <cell role="data" rows="1" cols="1">The Prairies and Great Plains in Poetry......The
+                Spanish Peaks&#8212;Evening on the Plains, . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="149" xml:id="toc149" target="leaf078r1"/>
               </cell>
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">America's Characteristic Landscape. . .Earth's
+              <cell role="data" rows="1" cols="1">America's Characteristic Landscape........Earth's
                 Most Important Stream, . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="150" xml:id="toc150" target="leaf078v1"/>
@@ -1233,8 +1230,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Prairie Analogies—the Tree Question. .
-                .Mississippi Valley Literature, . . . . . . . . . . . . . . . . .</cell>
+              <cell role="data" rows="1" cols="1">Prairie Analogies&#8212;the Tree Question........Mississippi Valley Literature, . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="151" xml:id="toc151" target="leaf079r1"/>
               </cell>
@@ -1250,7 +1246,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">The Women of the West. . .The Silent General, . .
+              <cell role="data" rows="1" cols="1">The Women of the West........The Silent General, . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="153" xml:id="toc153" target="leaf080r1"/>
@@ -1266,7 +1262,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">St. Louis Memoranda. . .Nights on the Mississippi,
+              <cell role="data" rows="1" cols="1">St. Louis Memoranda........Nights on the Mississippi,
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="155" xml:id="toc155" target="leaf081r1"/>
@@ -1274,7 +1270,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Upon our Own Land. . .Edgar Poe's Significance, .
+              <cell role="data" rows="1" cols="1">Upon our Own Land........Edgar Poe's Significance, .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="156" xml:id="toc156" target="leaf081v1"/>
@@ -1291,7 +1287,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">A Hint of Wild Nature. . .Loafing in the Woods, .
+              <cell role="data" rows="1" cols="1">A Hint of Wild Nature........Loafing in the Woods, .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="159" xml:id="toc159" target="leaf083r1"/>
@@ -1299,7 +1295,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">A Contralto Voice. . .Seeing Niagara to Advantage,
+              <cell role="data" rows="1" cols="1">A Contralto Voice........Seeing Niagara to Advantage,
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="160" xml:id="toc160" target="leaf083v1"/>
@@ -1315,7 +1311,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Reminiscence of Elias Hicks. . .Grand Native
+              <cell role="data" rows="1" cols="1">Reminiscence of Elias Hicks........Grand Native
                 Growth, . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="162" xml:id="toc162" target="leaf084v1"/>
@@ -1323,7 +1319,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">A Zollverein between the U. S. and Canada. . .The
+              <cell role="data" rows="1" cols="1">A Zollverein between the U. S. and Canada........The
                 St. Lawrence Line, . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="163" xml:id="toc163" target="leaf085r1"/>
@@ -1331,7 +1327,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">The Savage Saguenay ...Capes Eternity and Trinity,
+              <cell role="data" rows="1" cols="1">The Savage Saguenay........Capes Eternity and Trinity,
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="164" xml:id="toc164" target="leaf085v1"/>
@@ -1339,7 +1335,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Chicoutimi, and Ha-ha Bay. . .The Inhabitants-Good
+              <cell role="data" rows="1" cols="1">Chicoutimi, and Ha-ha Bay........The Inhabitants&#8212;Good
                 Living, . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="165" xml:id="toc165" target="leaf086r1"/>
@@ -1347,7 +1343,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Cedar-Plums Like—Names, . . . . . . . .
+              <cell role="data" rows="1" cols="1">Cedar-Plums Like&#8212;Names, . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
                 .</cell>
               <cell role="data" rows="1" cols="1">
@@ -1372,7 +1368,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">A Couple of Old Friends—A Coleridge Bit,
+              <cell role="data" rows="1" cols="1">A Couple of Old Friends&#8212;A Coleridge Bit,
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="178" xml:id="toc178" target="leaf092v1"/>
@@ -1389,7 +1385,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">The Boston of To—Day. . .My Tribute to
+              <cell role="data" rows="1" cols="1">The Boston of To-Day........My Tribute to
                 Four Poets, . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="180" xml:id="toc180" target="leaf093v1"/>
@@ -1397,7 +1393,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Millet's Pictures—Last Items, . . . . .
+              <cell role="data" rows="1" cols="1">Millet's Pictures&#8212;Last Items, . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
                 . .</cell>
               <cell role="data" rows="1" cols="1">
@@ -1448,7 +1444,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Some Old Acquaintances—Memories. . .A
+              <cell role="data" rows="1" cols="1">Some Old Acquaintances&#8212;Memories........A
                 Discovery of Old Age, . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="188" xml:id="toc188" target="leaf097v1"/>
@@ -1480,7 +1476,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Boston Common—More of Emerson, . . . . .
+              <cell role="data" rows="1" cols="1">Boston Common&#8212;More of Emerson, . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="191" xml:id="toc191" target="leaf099r1"/>
@@ -1488,7 +1484,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">An Ossianic Night—Dearest Friends, . . .
+              <cell role="data" rows="1" cols="1">An Ossianic Night&#8212;Dearest Friends, . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="192" xml:id="toc192" target="leaf099v1"/>
@@ -1496,7 +1492,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Only a New Ferry Boat. . .Death of Longfellow, . .
+              <cell role="data" rows="1" cols="1">Only a New Ferry Boat........Death of Longfellow, . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="193" xml:id="toc193" target="leaf100r1"/>
@@ -1528,7 +1524,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">At Present Writing—Personal. . .After
+              <cell role="data" rows="1" cols="1">At Present Writing&#8212;Personal........After
                 Trying a Certain Book, . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="198" xml:id="toc198" target="leaf102v1"/>
@@ -1536,7 +1532,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Final Confessions—Literary Tests, . . .
+              <cell role="data" rows="1" cols="1">Final Confessions&#8212;Literary Tests, . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
                 .</cell>
               <cell role="data" rows="1" cols="1">
@@ -1545,7 +1541,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Nature and Democracy—Morality, . . . . .
+              <cell role="data" rows="1" cols="1">Nature and Democracy&#8212;Morality, . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
                 .</cell>
               <cell role="data" rows="1" cols="1">
@@ -1569,7 +1565,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">DEMOCRATIC VISTAS, . . . . . . . . . . . . . . . .
+              <cell role="data" rows="1" cols="1">D<hi rend="smallcaps">EMOCRATIC</hi> V<hi rend="smallcaps">ISTAS</hi>, . . . . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="203" xml:id="toc203" target="leaf105r1"/>
@@ -1585,7 +1581,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Preface, 1855, to first issue of ""Leaves of
+              <cell role="data" rows="1" cols="1">Preface, 1855, to first issue of "Leaves of
                 Grass," . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="263" xml:id="toc263" target="leaf135r1"/>
@@ -1609,7 +1605,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Poetry To-Day in America—Shakspere—the Future, . .
+              <cell role="data" rows="1" cols="1">Poetry To-Day in America&#8212;Shakspere&#8212;the Future, . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . </cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="288" xml:id="toc288" target="leaf147v1"/>
@@ -1716,8 +1712,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Foundation Stages—then Others. .
-                .General Suffrage, Elections, Ac., . . . . . . . . . . . . . . . . . .</cell>
+              <cell role="data" rows="1" cols="1">Foundation Stages&#8212;then Others........General Suffrage, Elections, &#38;c., . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="331" xml:id="toc331" target="leaf169r1"/>
               </cell>
@@ -1732,7 +1727,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Friendship (the Real Article). . .Lacks and Wants
+              <cell role="data" rows="1" cols="1">Friendship (the Real Article)........Lacks and Wants
                 Yet, . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="333" xml:id="toc333" target="leaf170r1"/>
@@ -1748,8 +1743,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Monuments—the Past and Present. .
-                .Little or Nothing New After All, . . . . . . . . . . . . . . . . . .</cell>
+              <cell role="data" rows="1" cols="1">Monuments&#8212;the Past and Present........Little or Nothing New After All, . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="335" xml:id="toc335" target="leaf171r1"/>
               </cell>
@@ -1773,15 +1767,14 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Book-Classes—America's Literature. .
-                .Our Real Culmination, . . . . . . . . . . . . . . . . . . . . . . .</cell>
+              <cell role="data" rows="1" cols="1">Book-Classes&#8212;America's Literature........Our Real Culmination, . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="337" xml:id="toc337" target="leaf172r1"/>
               </cell>
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">An American Problem. . .The Last Collective
+              <cell role="data" rows="1" cols="1">An American Problem........The Last Collective
                 Compaction, . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="338" xml:id="toc338" target="leaf172v1"/>
@@ -1882,7 +1875,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Talk to an Art Union. . .Blood-Money, . . . . . .
+              <cell role="data" rows="1" cols="1">Talk to an Art Union.....Blood-Money, . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="372" xml:id="toc372" target="leaf189v1"/>
@@ -1916,7 +1909,7 @@
               <hi rend="italic">NOVEMBER BOUGHS.</hi>
             </head>
             <row role="data">
-              <cell role="data" rows="1" cols="1">Our Eminent Visitors, past, present and future, .
+              <cell role="data" rows="1" cols="1">Our Eminent Visitors, past, present and future . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="375" xml:id="toc375" target="leaf191r1"/>
@@ -1924,7 +1917,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">The Bible as Poetry, . . . . . . . . . . . . . . .
+              <cell role="data" rows="1" cols="1">The Bible as Poetry . . . . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
                 .</cell>
               <cell role="data" rows="1" cols="1">
@@ -1933,7 +1926,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Father Taylor (and Oratory), . . . . . . . . . . .
+              <cell role="data" rows="1" cols="1">Father Taylor (and Oratory) . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="383" xml:id="toc383" target="leaf195r1"/>
@@ -1941,7 +1934,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">The Spanish Element in our Nationality, . . . . .
+              <cell role="data" rows="1" cols="1">The Spanish Element in our Nationality . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="386" xml:id="toc386" target="leaf196v1"/>
@@ -1957,7 +1950,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">A Thought on Shakspere, . . . . . . . . . . . . .
+              <cell role="data" rows="1" cols="1">A Thought on Shakspere . . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="391" xml:id="toc391" target="leaf199r1"/>
@@ -1965,7 +1958,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Robert Burns as Poet and Person, . . . . . . . . .
+              <cell role="data" rows="1" cols="1">Robert Burns as Poet and Person . . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="393" xml:id="toc393" target="leaf200r1"/>
@@ -1973,7 +1966,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">A Word About Tennyson, . . . . . . . . . . . . . .
+              <cell role="data" rows="1" cols="1">A Word About Tennyson . . . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="401" xml:id="toc401" target="leaf204r1"/>
@@ -1981,7 +1974,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Slang in America, . . . . . . . . . . . . . . . .
+              <cell role="data" rows="1" cols="1">Slang in America . . . . . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
                 .</cell>
               <cell role="data" rows="1" cols="1">
@@ -1990,7 +1983,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">An Indian Bureau Reminiscence, . . . . . . . . . .
+              <cell role="data" rows="1" cols="1">An Indian Bureau Reminiscence . . . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="409" xml:id="toc409" target="leaf208r1"/>
@@ -1998,7 +1991,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Some Diary Notes at Random, . . . . . . . . . . .
+              <cell role="data" rows="1" cols="1">Some Diary Notes at Random . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="412" xml:id="toc412" target="leaf209v1"/>
@@ -2006,14 +1999,14 @@
             </row>
             <row role="data">
               <cell>
-                <hi rend="italic">(Negro Slaves in New York—Canada
-                  Nights—Country Days and Nights—Central Park<lb/>
-                  Notes—Plate Glass, St. Louis.)</hi>
+                <hi rend="italic">(Negro Slaves in New York&#8212;Canada
+                  Nights&#8212;Country Days and Nights&#8212;Central Park<lb/>
+                  Notes&#8212;Plate Glass, St. Louis.)</hi>
               </cell>
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Some War Memoranda, .. . . . . . . . . . . . . . .
+              <cell role="data" rows="1" cols="1">Some War Memoranda . . . . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="416" xml:id="toc416" target="leaf211v1"/>
@@ -2021,14 +2014,14 @@
             </row>
             <row role="data">
               <cell>
-                <hi rend="italic">("Yankee Doodle"—Washington Street Scenes—The
-                  195th Pennsylvania—Left-hand<lb/> Writing by Soldiers—Central
-                  Virginia in '64—Paying the First Color'd Troops.)</hi>
+                <hi rend="italic">("Yankee Doodle"&#8212;Washington Street Scenes&#8212;The
+                  195th Pennsylvania&#8212;Left-hand<lb/> Writing by Soldiers&#8212;Central
+                  Virginia in '64&#8212;Paying the First Color'd Troops.)</hi>
               </cell>
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Five Thousand Poems, . . . . . . . . . . . . . . .
+              <cell role="data" rows="1" cols="1">Five Thousand Poems . . . . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="422" xml:id="toc422" target="leaf214v1"/>
@@ -2036,7 +2029,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">The Old Bowery, . . . . . . . . . . . . . . . . .
+              <cell role="data" rows="1" cols="1">The Old Bowery . . . . . . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
                 .</cell>
               <cell role="data" rows="1" cols="1">
@@ -2045,7 +2038,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Notes to Late English Books , . . . . . . . . . .
+              <cell role="data" rows="1" cols="1">Notes to Late English Books . . . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="429" xml:id="toc429" target="leaf218r1"/>
@@ -2053,13 +2046,13 @@
             </row>
             <row role="data">
               <cell>
-                <hi rend="italic">(Preface to Reader in British Islands—Additional Note,
-                  1887—Preface to English<lb/> Edition "Democratic Vistas.")</hi>
+                <hi rend="italic">(Preface to Reader in British Islands&#8212;Additional Note,
+                  1887&#8212;Preface to English<lb/> Edition "Democratic Vistas.")</hi>
               </cell>
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Abraham Lincoln, .. . . . . . . . . . . . . . . .
+              <cell role="data" rows="1" cols="1">Abraham Lincoln . . . . . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
                 .</cell>
               <cell role="data" rows="1" cols="1">
@@ -2068,8 +2061,8 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">New Orleans in 1848—Trip Up the
-                Mississippi, etc, . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+              <cell role="data" rows="1" cols="1">New Orleans in 1848&#8212;Trip Up the
+                Mississippi, etc. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
                 . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="436" xml:id="toc436" target="leaf221v1"/>
@@ -2077,7 +2070,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Small Memoranda, . . . . . . . . . . . . . . . . .
+              <cell role="data" rows="1" cols="1">Small Memoranda . . . . . . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="441" xml:id="toc441" target="leaf224r1"/>
@@ -2086,14 +2079,14 @@
             <row role="data">
               <cell>
                 <hi rend="italic">(Attorney General's Office, Washington, Aug. 22,
-                  1865—Washington, Sept. 8, 9, etc.,<lb/> 1865—A Glint Inside of
-                  Abraham Lincoln's Cabinet Appointments; one item of many<lb/> Note to a friend—Written impromptu in an album—The place gratitude fills in a fine<lb/>
+                  1865&#8212;Washington, Sept. 8, 9, etc.,<lb/> 1865&#8212;A Glint Inside of
+                  Abraham Lincoln's Cabinet Appointments; one item of<lb/> many&#8212;Note to a friend&#8212;Written impromptu in an album&#8212;The place gratitude<lb/> fills in a fine
                   character.)</hi>
               </cell>
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Last of the War Cases, . . . . . . . . . . . . . .
+              <cell role="data" rows="1" cols="1">Last of the War Cases . . . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="445" xml:id="toc445" target="leaf226r1"/>
@@ -2101,7 +2094,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Elias Hicks, Notes (such as they are), .. . . . .
+              <cell role="data" rows="1" cols="1">Elias Hicks, Notes (such as they are),. . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="455" xml:id="toc455" target="leaf231r1"/>
@@ -2109,7 +2102,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">George Fox and Shakspere, .. . . . . . . . . . . .
+              <cell role="data" rows="1" cols="1">George Fox and Shakspere. . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="472" xml:id="toc472" target="leaf239v1"/>
@@ -2124,7 +2117,7 @@
               <hi rend="italic">GOOD-BYE MY FANCY.</hi>
             </head>
             <row role="data">
-              <cell role="data" rows="1" cols="1">An Old Man's Rejoinder, . . . . . . . . . . . . .
+              <cell role="data" rows="1" cols="1">An Old Man's Rejoinder . . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="477" xml:id="toc477" target="leaf242r1"/>
@@ -2132,7 +2125,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Old Poets, . . . . . . . . . . . . . . . . . . . .
+              <cell role="data" rows="1" cols="1">Old Poets . . . . . . . . . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
                 .</cell>
               <cell role="data" rows="1" cols="1">
@@ -2141,7 +2134,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Ship Ahoy!, . . . . . . . . . . . . . . . . . . .
+              <cell role="data" rows="1" cols="1">Ship Ahoy! . . . . . . . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
                 .</cell>
               <cell role="data" rows="1" cols="1">
@@ -2150,7 +2143,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">For Queen Victoria's Birthday, . . . . . . . . . .
+              <cell role="data" rows="1" cols="1">For Queen Victoria's Birthday . . . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="484" xml:id="toc484b" target="leaf245v1"/>
@@ -2158,7 +2151,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">American National Literature, . . . . . . . . . .
+              <cell role="data" rows="1" cols="1">American National Literature. . . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="485" xml:id="toc485" target="leaf246r1"/>
@@ -2166,7 +2159,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Gathering the Corn, . . . . . . . . . . . . . . .
+              <cell role="data" rows="1" cols="1">Gathering the Corn . . . . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
                 .</cell>
               <cell role="data" rows="1" cols="1">
@@ -2175,7 +2168,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">A Death Bouquet, . . . . . . . . . . . . . . . . .
+              <cell role="data" rows="1" cols="1">A Death Bouquet . . . . . . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="493" xml:id="toc493" target="leaf250r1"/>
@@ -2190,7 +2183,7 @@
               <hi rend="italic">SOME LAGGARDS YET.</hi>
             </head>
             <row role="data">
-              <cell role="data" rows="1" cols="1">The Perfect Human Voice, . . . . . . . . . . . . .
+              <cell role="data" rows="1" cols="1">The Perfect Human Voice. . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="495" xml:id="toc495" target="leaf251r1"/>
@@ -2198,7 +2191,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Shakspere for America, . . . . . . . . . . . . . .
+              <cell role="data" rows="1" cols="1">Shakspere for America . . . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="495" xml:id="toc495b" target="leaf251r1"/>
@@ -2206,7 +2199,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">"Unassail'd Renown", . . . . . . . . . . . . . . .
+              <cell role="data" rows="1" cols="1">"Unassail'd Renown" . . . . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="496" xml:id="toc496" target="leaf251v1"/>
@@ -2214,7 +2207,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Inscription for a Little Book on Giordano Bruno, .
+              <cell role="data" rows="1" cols="1">Inscription for a Little Book on Giordano Bruno . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="497" xml:id="toc497" target="leaf252r1"/>
@@ -2222,7 +2215,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Splinters, . . . . . . . . . . . . . . . . . . . .
+              <cell role="data" rows="1" cols="1">Splinters . . . . . . . . . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
                 .</cell>
               <cell role="data" rows="1" cols="1">
@@ -2231,7 +2224,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Health (Old Style), . . . . . . . . . . . . . . .
+              <cell role="data" rows="1" cols="1">Health (Old Style) . . . . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
                 .</cell>
               <cell role="data" rows="1" cols="1">
@@ -2240,7 +2233,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Gay-heartedness, . . . . . . . . . . . . . . . . .
+              <cell role="data" rows="1" cols="1">Gay-heartedness . . . . . . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="499" xml:id="toc499" target="leaf253r1"/>
@@ -2248,7 +2241,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">As in a Swoon, . . . . . . . . . . . . . . . . . .
+              <cell role="data" rows="1" cols="1">As in a Swoon . . . . . . . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
                 .</cell>
               <cell role="data" rows="1" cols="1">
@@ -2257,7 +2250,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">L. of G, . . . . . . . . . . . . . . . . . . . . .
+              <cell role="data" rows="1" cols="1">L. of G. . . . . . . . . . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
                 . .</cell>
               <cell role="data" rows="1" cols="1">
@@ -2266,7 +2259,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">After the Argument, . . . . . . . . . . . . . . .
+              <cell role="data" rows="1" cols="1">After the Argument . . . . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
                 .</cell>
               <cell role="data" rows="1" cols="1">
@@ -2275,7 +2268,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">For Us Two, Reader Dear, . . . . . . . . . . . . .
+              <cell role="data" rows="1" cols="1">For Us Two, Reader Dear . . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="500" xml:id="toc500c" target="leaf253r1"/>
@@ -2291,7 +2284,7 @@
           <table>
              
             <row role="data">
-              <cell role="data" rows="1" cols="1">MEMORANDA, . . . . . . . . . . . . . . . . . . . .
+              <cell role="data" rows="1" cols="1">M<hi rend="smallcaps">EMORANDA</hi>. . . . . . . . . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="501" xml:id="toc501" target="leaf254r1"/>
@@ -2299,7 +2292,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">A World's Show, . . . . . . . . . . . . . . . . .
+              <cell role="data" rows="1" cols="1">A World's Show . . . . . . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
                 .</cell>
               <cell role="data" rows="1" cols="1">
@@ -2308,7 +2301,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">New York—the Bay—the Old Name,
+              <cell role="data" rows="1" cols="1">New York&#8212;the Bay&#8212;the Old Name .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
                 .</cell>
               <cell role="data" rows="1" cols="1">
@@ -2317,7 +2310,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">A Sick Spell, . . . . . . . . . . . . . . . . . .
+              <cell role="data" rows="1" cols="1">A Sick Spell . . . . . . . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
                 .</cell>
               <cell role="data" rows="1" cols="1">
@@ -2326,7 +2319,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">To be Present Only, . . . . . . . . . . . . . . .
+              <cell role="data" rows="1" cols="1">To be Present Only . . . . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
                 .</cell>
               <cell role="data" rows="1" cols="1">
@@ -2335,7 +2328,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">"Intestinal Agitation", . . . . . . . . . . . . .
+              <cell role="data" rows="1" cols="1">"Intestinal Agitation" . . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
                 .</cell>
               <cell role="data" rows="1" cols="1">
@@ -2344,7 +2337,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">"Walt Whitman's Last 'Public'", . . . . . . . . .
+              <cell role="data" rows="1" cols="1">"Walt Whitman's Last 'Public'" . . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="503" xml:id="toc503c" target="leaf255r1"/>
@@ -2352,7 +2345,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Ingersol's Speech, . . . . . . . . . . . . . . . .
+              <cell role="data" rows="1" cols="1">Ingersoll's Speech. . . . . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
                 .</cell>
               <cell role="data" rows="1" cols="1">
@@ -2361,7 +2354,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Feeling Fairly, . . . . . . . . . . . . . . . . .
+              <cell role="data" rows="1" cols="1">Feeling Fairly . . . . . . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . </cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="506" xml:id="toc506" target="leaf256v1"/>
@@ -2369,7 +2362,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Old Brooklyn Days, . . . . . . . . . . . . . . . .
+              <cell role="data" rows="1" cols="1">Old Brooklyn Days . . . . . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="506" xml:id="toc506b" target="leaf256v1"/>
@@ -2377,7 +2370,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Two Questions, . . . . . . . . . . . . . . . . . .
+              <cell role="data" rows="1" cols="1">Two Questions . . . . . . . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
                 .</cell>
               <cell role="data" rows="1" cols="1">
@@ -2386,7 +2379,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Preface to a Volume, . . . . . . . . . . . . . . .
+              <cell role="data" rows="1" cols="1">Preface to a Volume . . . . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="507" xml:id="toc507b" target="leaf257v1"/>
@@ -2394,7 +2387,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">An Engineer's Obituary, . . . . . . . . . . . . .
+              <cell role="data" rows="1" cols="1">An Engineer's Obituary . . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="509" xml:id="toc509" target="leaf258r1"/>
@@ -2402,7 +2395,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Old Actors, Singers, Shows, etc., in New York, . .
+              <cell role="data" rows="1" cols="1">Old Actors, Singers, Shows, etc., in New York. . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="511" xml:id="toc511" target="leaf259r1"/>
@@ -2410,7 +2403,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Some Personal and Old Age Jottings, . . . . . . .
+              <cell role="data" rows="1" cols="1">Some Personal and Old Age Jottings . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="515" xml:id="toc515" target="leaf261r1"/>
@@ -2418,7 +2411,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Out in the Open Again, . . . . . . . . . . . . . .
+              <cell role="data" rows="1" cols="1">Out in the Open Again . . . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="520" xml:id="toc520" target="leaf263v1"/>
@@ -2426,7 +2419,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">America's Bulk Average, . . . . . . . . . . . . .
+              <cell role="data" rows="1" cols="1">America's Bulk Average . . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
               <cell role="data" rows="1" cols="1">
                 <ref n="520" xml:id="toc520b" target="leaf263v1"/>
@@ -2434,7 +2427,7 @@
             </row>
 
             <row role="data">
-              <cell role="data" rows="1" cols="1">Last Saved Items, . . . . . . . . . . . . . . . .
+              <cell role="data" rows="1" cols="1">Last Saved Items . . . . . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
                 .</cell>
               <cell role="data" rows="1" cols="1">
@@ -3456,7 +3449,7 @@
             amputated below the knee; next bed to him, another young lad very sick; gave each
             appropriate gifts. In the bed above, also, amputation of the left leg; gave him a little
             jar of raspberries; bed 1, this ward, gave a small sum; also to a soldier on crutches,
-            sitting on his bed near (I am more and more surprised at the very great proportion of
+            sitting on his bed near....(I am more and more surprised at the very great proportion of
             youngsters from fifteen to twenty-one in the army. I afterwards found a still greater
             proportion among the southerners.)</p>
 
@@ -4806,7 +4799,7 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
           <p>At this instant a force of our cavalry, who had been following the train at some
             interval, charged suddenly upon the secesh captors, who proceeded at once to make the
             best escape they could. Most of them got away, but we gobbled two officers and
-            seven-teen men, in the very acts just described. The sight was one which admitted of
+            seventeen men, in the very acts just described. The sight was one which admitted of
             little discussion, as may be imagined. The seventeen captur'd men and two officers were
             put under guard for the night, but it was decided there and then that they should die.
             The next morning the two officers were taken in the town, separate places, put in the
@@ -23263,7 +23256,7 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
               musk or watermelons? Or during my tedious sickness and first paralysis ('73) how you
               used to come to my solitary garret-room and make up my bed, and enliven me, and chat
               for an hour or so—or perhaps go out and get the medicines Dr. Drinkard had
-              order'd for me—before you went on duty? . . . . . Give my love to dear Mrs.
+              order'd for me—before you went on duty? .........Give my love to dear Mrs.
               and Mr. Nash, and tell them I have not forgotten them, and never will. W. W.</p>
 
           </div3>
@@ -23278,7 +23271,7 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
 
             <pb facs="ppp.00504.450.jpg" xml:id="leaf225v1" n="444" type="verso"/>
 
-              friends Mr. and Mrs. Williams, Churchie, May, Gurney, and little Aubrey . . . . . A
+friends Mr. and Mrs. Williams, Churchie, May, Gurney, and little Aubrey..........A
               heavy snow-storm blocking up everything, and keeping us in. But souls, hearts,
               thoughts, unloos'd. And so one and all, little and big—hav'n't we had a good
               time? W. W.</p>
