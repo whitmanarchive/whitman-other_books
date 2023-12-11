@@ -100,4 +100,108 @@
     </ul>
   </xsl:variable>
  
+  <!-- ref - copied from overrides.xsl -->
+  <xsl:template match="ref">
+    <xsl:choose>
+      <!-- When target starts with #, assume it is an in page link (anchor) -->
+      <xsl:when test="starts-with(@target, '#')">
+        <xsl:variable name="n" select="@target"/>
+        <xsl:text> </xsl:text>
+        <a>
+          <xsl:attribute name="id">
+            <xsl:text>ref</xsl:text>
+            <xsl:value-of select="@target"/>
+          </xsl:attribute>
+          <xsl:attribute name="class">
+            <xsl:text>inlinenote</xsl:text>
+          </xsl:attribute>
+          <xsl:attribute name="href">
+            <xsl:value-of select="@target"/>
+          </xsl:attribute>
+          <xsl:apply-templates/>
+        </a>
+        <xsl:text> </xsl:text>
+      </xsl:when>
+      <!-- when marked as link, treat as an external link -->
+      <xsl:when test="@type = 'link'">
+        <a href="{@target}">
+          <xsl:apply-templates/>
+        </a>
+      </xsl:when>
+      <!-- when it starts with http, external link -->
+      <xsl:when test="(starts-with(@target, 'http://') or starts-with(@target, 'https://')) and not(starts-with(@target, 'http://whitmanarchive.org'))">
+        <a href="{@target}">
+          <xsl:apply-templates/>
+        </a>
+      </xsl:when>
+      <!-- if the above are not true, it is assumed to be an internal to the site link -->
+      <xsl:when test="@type = 'sitelink'">
+        <a>
+          <xsl:attribute name="href">
+            <xsl:choose>
+              <xsl:when test="ends-with(@target,'.html')">
+                <xsl:value-of select="substring-before(@target,'.html')"/>
+              </xsl:when>
+              <xsl:otherwise>
+                <xsl:value-of select="@target"/>
+              </xsl:otherwise>
+            </xsl:choose>
+          </xsl:attribute>
+          <xsl:attribute name="class"><xsl:text>internal_link</xsl:text></xsl:attribute>
+          
+          <xsl:apply-templates/>
+        </a>
+      </xsl:when>
+      <!-- addition for other-books -->
+      <xsl:when test="starts-with(@target, 'leaf')">
+          <a>
+            <xsl:attribute name="id">
+              <xsl:value-of select="@xml:id"/>
+            </xsl:attribute>
+            <xsl:attribute name="class">
+              <xsl:text>inlinenote</xsl:text>
+            </xsl:attribute>
+            <xsl:attribute name="href">
+              <xsl:text>#</xsl:text>
+              <xsl:value-of select="@target"/>
+            </xsl:attribute>
+            <xsl:value-of select="@n"/>
+            <xsl:apply-templates/>
+          </a>
+        <xsl:text> </xsl:text>
+      </xsl:when>
+      <!-- / addition for other-books -->
+      <!-- when marked as link, treat as an external link -->
+      <xsl:when test="@type = 'link'">
+        <a href="{@target}">
+          <xsl:apply-templates/>
+        </a>
+      </xsl:when>
+      <xsl:otherwise>
+        <a>
+          <xsl:attribute name="href">
+            <xsl:choose>
+              <xsl:when test="ends-with(@target,'.html')">
+                <xsl:choose>
+                  <!-- this should hit on internal links that will now be at the /item/ level -->
+                  <xsl:when test="starts-with(@target,'http://whitmanarchive.org')">
+                    <xsl:value-of select="substring-before(tokenize(@target, '/')[last()],'.html')"/>
+                  </xsl:when>
+                  <xsl:otherwise><xsl:value-of select="substring-before(@target,'.html')"/></xsl:otherwise>
+                </xsl:choose>
+                
+              </xsl:when>
+              <xsl:otherwise>
+                <xsl:value-of select="@target"/>
+              </xsl:otherwise>
+            </xsl:choose>
+          </xsl:attribute>
+          <xsl:attribute name="class"><xsl:text>internal_link</xsl:text></xsl:attribute>
+          
+          <xsl:apply-templates/>
+        </a>
+      </xsl:otherwise>
+    </xsl:choose>
+  </xsl:template> 
+ 
 </xsl:stylesheet>
