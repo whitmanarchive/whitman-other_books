@@ -204,4 +204,44 @@
     </xsl:choose>
   </xsl:template> 
  
+  <!-- numbered footnotes with id on number instead of back link -->
+  <!-- copied from overrides.xsl, which was overwritten from datura to remove div.main_content -->
+  <xsl:template match="text">
+      <xsl:apply-templates/>
+      <xsl:if test="//note[@place = 'foot']">
+        <br/>
+        <hr/>
+      </xsl:if>
+      <xsl:if test="//note[@place = 'foot']">
+        <div class="footnotes">
+          <xsl:text> </xsl:text>
+          <xsl:for-each select="//note[@place = 'foot']">
+            <p>
+              <span class="notenumber">
+                <!-- moved footnote id here -->
+                <xsl:attribute name="id">
+                  <xsl:text>foot</xsl:text>
+                  <xsl:value-of select="@xml:id"/>
+                </xsl:attribute>
+                <!-- /moved footnote -->
+                <xsl:value-of select="substring(@xml:id, 2)"/>.
+              </span>
+              <xsl:text> </xsl:text>
+              <xsl:apply-templates/>
+              <xsl:text> </xsl:text>
+              <a>
+                <xsl:attribute name="href">
+                  <xsl:text>#</xsl:text>
+                  <xsl:text>body</xsl:text>
+                  <xsl:value-of select="@xml:id"/>
+                </xsl:attribute>
+                <!-- moved footnote id from here to notenumber -->
+                <xsl:text>[back]</xsl:text>
+              </a>
+            </p>
+          </xsl:for-each>
+        </div>
+      </xsl:if>
+  </xsl:template>
+ 
 </xsl:stylesheet>
