@@ -177,6 +177,21 @@
           <xsl:apply-templates/>
         </a>
       </xsl:when>
+      <xsl:when test="/TEI/@xml:id = 'ppp.01875'">
+        <sup>
+          <a>
+            <xsl:attribute name="href">
+              <xsl:text>#footn</xsl:text>
+              <xsl:value-of select="@n"/>
+            </xsl:attribute>
+            <xsl:attribute name="id">
+              <xsl:text>bodyn</xsl:text>
+              <xsl:value-of select="@n"/>
+            </xsl:attribute>
+            <xsl:value-of select="@n"/>
+          </a>
+        </sup>
+      </xsl:when>
       <xsl:otherwise>
         <a>
           <xsl:attribute name="href">
@@ -203,17 +218,18 @@
       </xsl:otherwise>
     </xsl:choose>
   </xsl:template> 
+  
+  <xsl:template match="/TEI[@xml:id='ppp.01875']//note"><!-- don't show notes inline for this file --></xsl:template>
+  <xsl:template match="/TEI[@xml:id='ppp.01875']//note//pb" priority="1">wwwww<!-- don't show PB's in the notes for this file --></xsl:template>
  
   <!-- numbered footnotes with id on number instead of back link -->
   <!-- copied from overrides.xsl, which was overwritten from datura to remove div.main_content -->
   <xsl:template match="text">
       <xsl:apply-templates/>
-      <xsl:if test="//note[@place = 'foot']">
-        <br/>
-        <hr/>
-      </xsl:if>
-      <xsl:if test="//note[@place = 'foot']">
+    
+       <xsl:if test="//note[@place = 'foot']">
         <div class="footnotes">
+          <div class="h3">Notes:</div>
           <xsl:text> </xsl:text>
           <xsl:for-each select="//note[@place = 'foot']">
             <p>
@@ -242,6 +258,100 @@
           </xsl:for-each>
         </div>
       </xsl:if>
+  </xsl:template>
+  
+  <xsl:template match="pb" priority="2">
+    <!-- grab the figure id from @facs after tokenizing, and if there is a .jpg, chop it off
+          note: I previously also looked at xml:id for figure ID, but that's 
+          incorrect -->
+    
+    <xsl:variable name="pb_xmlid">
+      <xsl:value-of select="@xml:id"/>
+    </xsl:variable>
+    
+    <xsl:for-each select="tokenize(@facs, ' ')">
+      <xsl:variable name="figure_id">
+        <xsl:variable name="figure_id_full">
+          <xsl:value-of select="normalize-space(.)"/>
+        </xsl:variable>
+        <xsl:choose>
+          <xsl:when test="ends-with($figure_id_full, '.jpg') or ends-with($figure_id_full, '.jpeg')">
+            <xsl:value-of select="substring-before($figure_id_full, '.jp')"/>
+          </xsl:when>
+          <xsl:otherwise>
+            <xsl:value-of select="$figure_id_full"/>
+          </xsl:otherwise>
+        </xsl:choose>
+      </xsl:variable>
+      
+      <span class="hr">&#160;
+        <!-- if pb/@xml:id begins with "leaf" add language that looks like leaf 1 recto, leaf 1 verso, leaf 2 recto, etc -->
+        <!-- changing rule to check format of xml:id - it does not work across the board. may need to generalize more  -->
+        <xsl:if test="starts-with($pb_xmlid,'leaf') and string-length($pb_xmlid) &gt;= 8">
+          <xsl:variable name="id" select="$pb_xmlid"/>
+          <xsl:variable name="page"><xsl:value-of select="xs:decimal(substring(substring-after($pb_xmlid,'leaf'),1,3))"/></xsl:variable>
+          <xsl:variable name="last_character" select="substring($pb_xmlid,8,8)"/>
+          <xsl:variable name="rectoverso">
+            <xsl:choose>
+              <xsl:when test="$last_character = 'r'">recto</xsl:when>
+              <xsl:when test="$last_character = 'v'">verso</xsl:when>
+            </xsl:choose>
+          </xsl:variable>
+          <xsl:text>[ begin leaf </xsl:text>
+          <xsl:value-of select="$page"></xsl:value-of>
+          <xsl:text> </xsl:text>
+          <xsl:value-of select="$rectoverso"/>
+          <xsl:text> ]</xsl:text>
+        </xsl:if>
+      </span>
+      <xsl:if test="$figure_id != ''">
+        <span>
+          <xsl:attribute name="class">
+            <xsl:text>pageimage</xsl:text>
+          </xsl:attribute>
+          <a>
+            <!-- add id to links -->
+            <xsl:attribute name="id">
+              <xsl:value-of select="$pb_xmlid"/>
+            </xsl:attribute>
+            <!-- /add id to links -->
+            <xsl:attribute name="href">
+              <xsl:call-template name="url_builder">
+                <xsl:with-param name="figure_id_local" select="$figure_id"/>
+                <xsl:with-param name="image_size_local" select="$image_large"/>
+                <xsl:with-param name="iiif_path_local" select="$collection"/>
+              </xsl:call-template>
+            </xsl:attribute>
+            <xsl:attribute name="rel">
+              <xsl:text>prettyPhoto[pp_gal]</xsl:text>
+            </xsl:attribute>
+            <xsl:attribute name="title">
+              <xsl:text>&lt;a href=&#34;</xsl:text>
+              <xsl:call-template name="url_builder_escaped">
+                <xsl:with-param name="figure_id_local" select="$figure_id"/>
+                <xsl:with-param name="image_size_local" select="$image_large"/>
+                <xsl:with-param name="iiif_path_local" select="$collection"/>
+              </xsl:call-template>
+              <xsl:text>" target="_blank" &gt;open image in new window&lt;/a&gt;</xsl:text>
+            </xsl:attribute>
+            
+            <img>
+              <xsl:attribute name="src">
+                <xsl:call-template name="url_builder">
+                  <xsl:with-param name="figure_id_local" select="$figure_id"/>
+                  <xsl:with-param name="image_size_local" select="$image_thumb"/>
+                  <xsl:with-param name="iiif_path_local" select="$collection"/>
+                </xsl:call-template>
+              </xsl:attribute>
+              <xsl:attribute name="class">
+                <xsl:text>display&#160;</xsl:text>
+              </xsl:attribute>
+            </img>
+          </a>
+        </span>
+        <span class="page_image_description"><xsl:value-of select="."/></span>
+      </xsl:if>
+    </xsl:for-each>
   </xsl:template>
  
 </xsl:stylesheet>
