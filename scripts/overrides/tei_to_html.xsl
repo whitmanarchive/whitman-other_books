@@ -268,6 +268,9 @@
     <xsl:variable name="pb_xmlid">
       <xsl:value-of select="@xml:id"/>
     </xsl:variable>
+    <xsl:variable name="pb_n">
+      <xsl:value-of select="@n"/>
+    </xsl:variable>
     
     <xsl:for-each select="tokenize(@facs, ' ')">
       <xsl:variable name="figure_id">
