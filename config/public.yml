@@ -1,0 +1,32 @@
+# please refer to the datura documentation for a full list of configurable settings
+# any custom settings you create here will be accessible in instances of classes
+# like FileTei and TeiToEs ( @options["setting_name"] )
+# you may also create new environments
+
+# please put any sensitive information or computer specific settings in private.yml!
+
+default:
+  shortname: whitman-other_books
+  collection: whitman-other_books
+  site_url: https://whitmanarchive.org
+  tei_html_xsl: scripts/overrides/tei_to_html.xsl
+  media_base: https://whitmanarchive.org/media
+  data_base: https://whitmanarchive.org/media
+  variables_html:
+    image_large: 1200
+    image_thumb: 80
+  api_version: "2.0"
+  es_index: whitman-api_v2
+  threads: 5
+
+development:
+  data_base: https://set_in_private_config/media
+  es_path: https://set_in_private_config/elastic
+  site_url: https://set_in_private_config
+
+production:
+  site_url: https://whitmanarchive.org
+# production:
+  # limit processed files by adding allowed ids on newlines in a file
+  # allowed_files: config/allowed.txt
+
