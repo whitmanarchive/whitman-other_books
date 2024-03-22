@@ -301,7 +301,13 @@
             </xsl:choose>
           </xsl:variable>
           <xsl:text>[ begin page </xsl:text>
-          <xsl:value-of select="$pb_n"/>
+          <xsl:choose>
+            <xsl:when test="starts-with($pb_n,'N')"><!-- do nothing --></xsl:when>
+            <xsl:when test="$pb_n = ''"><!-- do nothing --></xsl:when>
+            <xsl:otherwise>
+              <xsl:value-of select="$pb_n"/>
+            </xsl:otherwise>
+          </xsl:choose>
           <xsl:text> ]</xsl:text>
         </xsl:if>
       </span>
