@@ -20103,12 +20103,12 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
               Martson, Attorney-General of Massachusetts&#8212;Stevens, Boston District-Attorney&#8212;Tobey, 
               U.S. Post Master at Boston, and others).</p>
             
-            <div3 type="letter">
-              
-              <floatingText><hi rend="italic">From a Letter by</hi> W<hi rend="smallcaps">ILLIAM</hi> D<hi rend="smallcaps">OUGLAS</hi>
-                O'C<hi rend="smallcaps">ONNOR</hi> <hi rend="italic">in the N.Y. "Tribune," August 27,1882.</hi></floatingText>
+              <floatingText>
+                <body>
+                  <head><hi rend="italic">From a Letter by</hi> W<hi rend="smallcaps">ILLIAM</hi> D<hi rend="smallcaps">OUGLAS</hi>
+                O'C<hi rend="smallcaps">ONNOR</hi> <hi rend="italic">in the N.Y. "Tribune," August 27,1882.</hi></head>
 
-              <q who="William Douglas O'Connor"><floatingText><body><p>"The Rev. Mr. Chadwick, an eminent Unitarian Clergyman, 
+              <q who="William Douglas O'Connor"><p>"The Rev. Mr. Chadwick, an eminent Unitarian Clergyman, 
                 has lately said that 'Leaves of Grass' contains not a line which is not pure and high in its intention. 
                 The Rev. Mr. Morrow, of the Methodist Episcopal Church, has gallantly defended it, affirming that it is 
                 robust and virile, but not obscene. The Rev. W.J. Fox, that brilliant English divine, the pure theist and idealist, 
@@ -20117,7 +20117,9 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
                 forms of word, deed, or act so far known of.' Saying, also, that 'it will in time become a pregnant text-book, 
                 from which quotations as sterling as the minted gold will be taken and applied to every form of the outer 
                 and the inner life.'           
+                
              <pb facs="prc_kc.00377.jpg" xml:id="leaf192v1" n="376" type="verso"/>
+                
                The illustrious German poet, Freiligrath, the most distinguished of all the modern German poets, devoted to 
                it four masterly articles in successive numbers of <hi rend="italic">The Augsburg Gazette</hi>, praising it 
                 without stint or qualification, and hailing it as the day-spring of a new and nobler order of poetry. Ruskin 
@@ -20126,127 +20128,132 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
                 American democracy, and its author the greatest democrat the world has ever seen. Emerson literally exhausted 
                 panegyric upon it in his letter of 1855, incidentally calling it 'the most extraordinary piece of wit and wisdom 
                 America has yet contributed.' <hi rend="italic">Defended by clergymen, extolled by poets, lauded by scholars 
-                and men of letters throughout the civilized world."</hi></p></body></floatingText></q>
+                and men of letters throughout the civilized world."</hi></p></q>
+                </body>
+              </floatingText>
               
               <p>The Following is a partial extract from the extensive table of contents of the Philadelphia edition:</p>
                 
-                  <table>
-                    
-                    <row role="data">
-                      <cell role="data" rows="1" cols="1">One's-Self I Sing.</cell>
-                      <cell role="data" rows="1" cols="1">Dirge for Two Veterans.</cell>
-                    </row>
-                    
-                    <row role="data">
-                      <cell role="data" rows="1" cols="1">Starting from Paumanok.</cell>
-                      <cell role="data" rows="1" cols="1">Lo, Victress on the Peaks</cell>
-                    </row>
-                    
-                    <row role="data">
-                      <cell role="data" rows="1" cols="1">Song of Myself.</cell>
-                      <cell role="data" rows="1" cols="1">Adieu to a Soldier.</cell>
-                    </row>
-                    
-                    <row role="data">
-                      <cell role="data" rows="1" cols="1">Children of Adam.</cell>
-                      <cell role="data" rows="1" cols="1">Memories of President Lincoln</cell>
-                    </row>
-                    
-                    <row role="data">
-                      <cell role="data" rows="1" cols="1">Calamus.</cell>
-                      <cell role="data" rows="1" cols="1">By Blue Ontario's Shore.</cell>
-                    </row>
-                    
-                    <row role="data">
-                      <cell role="data" rows="1" cols="1">The Base of All Metaphysics.</cell>
-                      <cell role="data" rows="1" cols="1">Autumn Rivulets.</cell>
-                    </row>
-                    
-                    <row role="data">
-                      <cell role="data" rows="1" cols="1">Salut au Monde!</cell>
-                      <cell role="data" rows="1" cols="1">The Singer in the Prison.</cell>
-                    </row>
-                    
-                    <row role="data">
-                      <cell role="data" rows="1" cols="1">Song of the Open Road.</cell>
-                      <cell role="data" rows="1" cols="1">The Ox-Tamer.</cell>
-                    </row>
-                    
-                    <row role="data">
-                      <cell role="data" rows="1" cols="1">Crossing Brooklyn Ferry.</cell>
-                      <cell role="data" rows="1" cols="1">Proud Music of the Storm.</cell>
-                    </row>
-                    
-                    <row role="data">
-                      <cell role="data" rows="1" cols="1">A Song of Joys.</cell>
-                      <cell role="data" rows="1" cols="1">Passage to India.</cell>
-                    </row>
-                    
-                    <row role="data">
-                      <cell role="data" rows="1" cols="1">Song of the Broad-Axe.</cell>
-                      <cell role="data" rows="1" cols="1">Prayer of Columbus.</cell>
-                    </row>
-                    
-                    <row role="data">
-                      <cell role="data" rows="1" cols="1">Song of the Redwood-Tree.</cell>
-                      <cell role="data" rows="1" cols="1">Whispers of Heavenly Death.</cell>
-                    </row>
-                    
-                    <row role="data">
-                      <cell role="data" rows="1" cols="1">Pioneers! O Pioneers!</cell>
-                      <cell role="data" rows="1" cols="1">Night on the Prairies.</cell>
-                    </row>
-                    
-                    <row role="data">
-                      <cell role="data" rows="1" cols="1">Birds of Passage.</cell>
-                      <cell role="data" rows="1" cols="1">Thou Mother with Thy Equal Brood.</cell>
-                    </row>
-                    
-                    <row role="data">
-                      <cell role="data" rows="1" cols="1">A Broadway Pageant.</cell>
-                      <cell role="data" rows="1" cols="1">From Noon to Starry Night.</cell>
-                    </row>
-                    
-                    <row role="data">
-                      <cell role="data" rows="1" cols="1">Out of the Cradle Endlessly Rocking.</cell>
-                      <cell role="data" rows="1" cols="1">The Mystic Trumpeter.</cell>
-                    </row>
-                    
-                    <row role="data">
-                      <cell role="data" rows="1" cols="1">To the Man-Of-War-Bird.</cell>
-                      <cell role="data" rows="1" cols="1">From Far Dakota's Ca&#241;ons (June 25, 1876).</cell>
-                    </row>
-                    
-                    <row role="data">
-                      <cell role="data" rows="1" cols="1">Patroling Barnegat.</cell>
-                      <cell role="data" rows="1" cols="1">Spirit That Form'd This Scene.</cell>
-                    </row>
-                    
-                    <row role="data">
-                      <cell role="data" rows="1" cols="1">A Boston Ballad&#8212;1854.</cell>
-                      <cell role="data" rows="1" cols="1">Songs of Parting.</cell>
-                    </row>
-                    
-                    <row role="data">
-                      <cell role="data" rows="1" cols="1">Drum-Taps.</cell>
-                      <cell role="data" rows="1" cols="1">Camps of Green.</cell>
-                    </row>
-                    
-                    <row role="data">
-                      <cell role="data" rows="1" cols="1">Song of the Banner at Daybreak.</cell>
-                      <cell role="data" rows="1" cols="1">As They Draw to a Close.</cell>
-                    </row>
-                    
-                    <row role="data">
-                      <cell role="data" rows="1" cols="1">The Centenarian's Story.</cell>
-                      <cell role="data" rows="1" cols="1">So Long!</cell>
-                    </row>
-                    
-                    <row role="data">
-                      <cell role="data" rows="1" cols="1">The Wound-Dresser.</cell>
-                      <cell role="data" rows="1" cols="1"></cell>
-                    </row>  
-                  </table>
+                  <floatingText>
+                    <body>
+                      <table>
+                         <row role="data">
+                           <cell role="data" rows="1" cols="1">One's-Self I Sing.</cell>
+                           <cell role="data" rows="1" cols="1">Dirge for Two Veterans.</cell>
+                         </row>
+                         
+                         <row role="data">
+                           <cell role="data" rows="1" cols="1">Starting from Paumanok.</cell>
+                           <cell role="data" rows="1" cols="1">Lo, Victress on the Peaks</cell>
+                         </row>
+                         
+                         <row role="data">
+                           <cell role="data" rows="1" cols="1">Song of Myself.</cell>
+                           <cell role="data" rows="1" cols="1">Adieu to a Soldier.</cell>
+                         </row>
+                         
+                         <row role="data">
+                           <cell role="data" rows="1" cols="1">Children of Adam.</cell>
+                           <cell role="data" rows="1" cols="1">Memories of President Lincoln</cell>
+                         </row>
+                         
+                         <row role="data">
+                           <cell role="data" rows="1" cols="1">Calamus.</cell>
+                           <cell role="data" rows="1" cols="1">By Blue Ontario's Shore.</cell>
+                         </row>
+                         
+                         <row role="data">
+                           <cell role="data" rows="1" cols="1">The Base of All Metaphysics.</cell>
+                           <cell role="data" rows="1" cols="1">Autumn Rivulets.</cell>
+                         </row>
+                         
+                         <row role="data">
+                           <cell role="data" rows="1" cols="1">Salut au Monde!</cell>
+                           <cell role="data" rows="1" cols="1">The Singer in the Prison.</cell>
+                         </row>
+                         
+                         <row role="data">
+                           <cell role="data" rows="1" cols="1">Song of the Open Road.</cell>
+                           <cell role="data" rows="1" cols="1">The Ox-Tamer.</cell>
+                         </row>
+                         
+                         <row role="data">
+                           <cell role="data" rows="1" cols="1">Crossing Brooklyn Ferry.</cell>
+                           <cell role="data" rows="1" cols="1">Proud Music of the Storm.</cell>
+                         </row>
+                         
+                         <row role="data">
+                           <cell role="data" rows="1" cols="1">A Song of Joys.</cell>
+                           <cell role="data" rows="1" cols="1">Passage to India.</cell>
+                         </row>
+                         
+                         <row role="data">
+                           <cell role="data" rows="1" cols="1">Song of the Broad-Axe.</cell>
+                           <cell role="data" rows="1" cols="1">Prayer of Columbus.</cell>
+                         </row>
+                         
+                         <row role="data">
+                           <cell role="data" rows="1" cols="1">Song of the Redwood-Tree.</cell>
+                           <cell role="data" rows="1" cols="1">Whispers of Heavenly Death.</cell>
+                         </row>
+                         
+                         <row role="data">
+                           <cell role="data" rows="1" cols="1">Pioneers! O Pioneers!</cell>
+                           <cell role="data" rows="1" cols="1">Night on the Prairies.</cell>
+                         </row>
+                         
+                         <row role="data">
+                           <cell role="data" rows="1" cols="1">Birds of Passage.</cell>
+                           <cell role="data" rows="1" cols="1">Thou Mother with Thy Equal Brood.</cell>
+                         </row>
+                         
+                         <row role="data">
+                           <cell role="data" rows="1" cols="1">A Broadway Pageant.</cell>
+                           <cell role="data" rows="1" cols="1">From Noon to Starry Night.</cell>
+                         </row>
+                         
+                         <row role="data">
+                           <cell role="data" rows="1" cols="1">Out of the Cradle Endlessly Rocking.</cell>
+                           <cell role="data" rows="1" cols="1">The Mystic Trumpeter.</cell>
+                         </row>
+                         
+                         <row role="data">
+                           <cell role="data" rows="1" cols="1">To the Man-Of-War-Bird.</cell>
+                           <cell role="data" rows="1" cols="1">From Far Dakota's Ca&#241;ons (June 25, 1876).</cell>
+                         </row>
+                         
+                         <row role="data">
+                           <cell role="data" rows="1" cols="1">Patroling Barnegat.</cell>
+                           <cell role="data" rows="1" cols="1">Spirit That Form'd This Scene.</cell>
+                         </row>
+                         
+                         <row role="data">
+                           <cell role="data" rows="1" cols="1">A Boston Ballad&#8212;1854.</cell>
+                           <cell role="data" rows="1" cols="1">Songs of Parting.</cell>
+                         </row>
+                         
+                         <row role="data">
+                           <cell role="data" rows="1" cols="1">Drum-Taps.</cell>
+                           <cell role="data" rows="1" cols="1">Camps of Green.</cell>
+                         </row>
+                         
+                         <row role="data">
+                           <cell role="data" rows="1" cols="1">Song of the Banner at Daybreak.</cell>
+                           <cell role="data" rows="1" cols="1">As They Draw to a Close.</cell>
+                         </row>
+                         
+                         <row role="data">
+                           <cell role="data" rows="1" cols="1">The Centenarian's Story.</cell>
+                           <cell role="data" rows="1" cols="1">So Long!</cell>
+                         </row>
+                         
+                         <row role="data">
+                           <cell role="data" rows="1" cols="1">The Wound-Dresser.</cell>
+                           <cell role="data" rows="1" cols="1"></cell>
+                         </row>  
+                       </table>
+                    </body>
+                  </floatingText>
               
               <p>L<hi rend="smallcaps">EAVES OF</hi> G<hi rend="smallcaps">RASS</hi> is a handsome 12mo. Volume, cloth 
                 binding, gilt, best paper and print, long primer type, 382 pages, with characteristic Portrait (fine steel 
@@ -20261,7 +20268,7 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
              <ab>REES WELSCH &amp; CO., Publishers,</ab>
              <ab>23 SOUTH NINTH STREET,</ab>
              <ab>PHILADELPHIA.</ab>
-            </div3>
+            </floatingText>
           </div3>
                     
                     
