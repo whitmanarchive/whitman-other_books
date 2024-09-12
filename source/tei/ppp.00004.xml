@@ -14,6 +14,7 @@
         <respStmt>
           <resp>Transcription and encoding</resp>
           <persName xml:id="kc">Karie Cobb</persName>
+          <persName xml:id="km">Kevin McMullen</persName>
         </respStmt>
         <sponsor>Center for Digital Research in the Humanities</sponsor>
         <sponsor>University of Iowa</sponsor>
@@ -22,7 +23,7 @@
 
       <editionStmt>
         <edition>
-          <date>2023</date>
+          <date>2024</date>
         </edition>
       </editionStmt>
 
@@ -53,7 +54,7 @@
             <author xml:id="ww">Walt Whitman</author>
           <title level="m">Specimen Days &amp; Collect</title>
           <date xml:id="dat1" cert="high" notBefore="1882" notAfter="1883">1882&#8211;'83</date>
-            <publisher>Rees Welsh &amp; Co.,</publisher>
+            <publisher>Rees Welsh &amp; Co.</publisher>
             <pubPlace>Philadelphia</pubPlace> 
           <note type="project">Original transcription derived from our transcription of <hi rend="italic">Complete Prose Works</hi>. That transcription was culled from the text file found at
             www.archive.org and edited based on their digital, flip-book images of the
@@ -63,6 +64,7 @@
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
+      <change when="2024-09-12" who="#km">proofed encoding</change>
       <change when="2023-08-28" who="#kc">created file, using transcription from Complete Prose Works; proofed</change>
     </revisionDesc>
 
