@@ -56,10 +56,7 @@
           <date xml:id="dat1" cert="high" notBefore="1882" notAfter="1883">1882&#8211;'83</date>
             <publisher>Rees Welsh &amp; Co.</publisher>
             <pubPlace>Philadelphia</pubPlace> 
-          <note type="project">Original transcription derived from our transcription of <hi rend="italic">Complete Prose Works</hi>. That transcription was culled from the text file found at
-            www.archive.org and edited based on their digital, flip-book images of the
-            original (excepting pages 72-125, 271-290, 299, 300, and 317-346, which were transcribed
-            directly from digital images).</note>
+          <note type="project">Original transcription derived from our transcription of <hi rend="italic">Complete Prose Works</hi> and proofed against a copy of the original volume.</note>
         </bibl>
       </sourceDesc>
     </fileDesc>
