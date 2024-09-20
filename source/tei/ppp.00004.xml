@@ -1885,8 +1885,12 @@
             and blowing breeze, with all the shows of sun and sky and perfect temperature, never
             before so filling me body and soul)&#8212;to go home, untie the bundle, reel out
             diary-scraps and memoranda, just as they are, large or small, one after another, into
-              print-pages,<ref xml:id="r1" target="n1" n="1"/><note xml:id="n1" type="authorial"
-              target="r1" n="1" place="inline"><p>The pages from 8 to 20 are nearly verbatim an
+              print-pages,<ref xml:id="r1" target="#n1" n="1"><metamark>*</metamark></ref> and let the melange's lackings and wants of <choice><orig>connec-</orig><reg>connection</reg></choice>
+            
+            <milestone unit="undeclared" rend="horbar-full"/>
+            
+            <note xml:id="n1" type="authorial" target="#r1" n="1" place="bottom">
+              <p>The pages from 8 to 20 are nearly verbatim an
                 off-hand letter of mine in January, 1882, to an insisting friend. Following, I give
                 some gloomy experiences. The war of attempted secession has, of course, been the
                 distinguishing event of my time. I commenced at the close of 1862, and continued
@@ -1905,30 +1909,22 @@
                 blotch'd here and there with more than one blood-stain, hurriedly written, sometimes
                 at the clinique, not seldom amid the excitement of uncertainty, or defeat, or of
                 action, or getting ready for it, or a march. Most of the pages from 26 to 81 are
-                verbatim copies of those lurid and blood-smutch'd little note-books.</p> <p>Very
-                different are most of the memoranda that follow. Some time after the war ended I had
-                a paralytic stroke, which prostrated me for several years. In 1876 I began to get
-                over the worst of it. From this date, portions of several seasons, especially
-                summers, I spent at a secluded haunt down in Camden county, New
-                Jersey&#8212;Timber creek, quite a little river (it enters from the <pb
-                  facs="prc_kc.00009.jpg" xml:id="leaf007v2" n="8" type="verso"/> great Delaware,
-                twelve miles away)&#8212;with primitive solitudes, winding stream, recluse and
-                woody banks, sweet-feeding springs, and all the charms that birds, grass,
-                wild-flowers, rabbits and squirrels, old oaks, walnut trees, &#38;c., can bring.
-                Through these times, and on these spots, the diary from page 83 onward was mostly
-                written.</p> <p>T<hi rend="smallcaps">HE</hi> C<hi rend="smallcaps">OLLECT</hi> afterward gathers up the odds and ends of whatever
-                pieces I can now lay hands on, written at various times past, and swoops all
-                together like fish in a net.</p> <p>I suppose I publish and leave the whole
-                gathering, first, from that eternal tendency to perpetuate and preserve which is
-                behind all Nature, authors included; second, to symbolize two or three specimen
-                interiors, personal and other, out of the myriads of my time, the middle range of
-                the Nineteenth century in the New World; a strange, unloosen'd, wondrous time. But
-                the book is probably without any definite purpose that can be told in a
-                statement.</p></note> and let the melange's lackings and wants of connec-
+                verbatim copies of those lurid and blood-smutch'd little note-books.</p> 
+              <p xml:id="p1" next="#p2">Very
+                  different are most of the memoranda that follow. Some time after the war ended I had
+                  a paralytic stroke, which prostrated me for several years. In 1876 I began to get
+                  over the worst of it. From this date, portions of several seasons, especially
+                  summers, I spent at a secluded haunt down in Camden county, New
+                  Jersey&#8212;Timber creek, quite a little river (it enters from the</p> 
+            </note>
+                  
+                  
+                  <pb facs="prc_kc.00009.jpg" xml:id="leaf007v2" n="8" type="verso"/>
+            
 
             <pb facs="prc_kc.00009.jpg" xml:id="leaf007v1" n="8" type="verso"/>
 
-            tion take care of themselves. It will illustrate one phase of humanity anyhow; how few
+            <choice><orig>tion</orig><reg/></choice> take care of themselves. It will illustrate one phase of humanity anyhow; how few
             of life's days and hours (and they not by relative value or proportion, but by chance)
             are ever noted. Probably another point too, how we give long preparations for some
             object, planning and delving and fashioning, and then, when the actual hour for doing
@@ -1960,6 +1956,26 @@
             save labor; but those will be the best versions of what I want to convey.</p>
 
         </div>
+        
+        <milestone unit="undeclared" rend="horbar-full"/>
+        
+        <note xml:id="n1.2" type="authorial" target="#r1" place="bottom" n="1">
+          <p xml:id="p2" prev="#p2">great Delaware,
+          twelve miles away)&#8212;with primitive solitudes, winding stream, recluse and
+          woody banks, sweet-feeding springs, and all the charms that birds, grass,
+          wild-flowers, rabbits and squirrels, old oaks, walnut trees, &#38;c., can bring.
+          Through these times, and on these spots, the diary from page 83 onward was mostly
+          written.</p> 
+          <p>T<hi rend="smallcaps">HE</hi> C<hi rend="smallcaps">OLLECT</hi> afterward gathers up the odds and ends of whatever
+            pieces I can now lay hands on, written at various times past, and swoops all
+            together like fish in a net.</p> <p>I suppose I publish and leave the whole
+              gathering, first, from that eternal tendency to perpetuate and preserve which is
+              behind all Nature, authors included; second, to symbolize two or three specimen
+              interiors, personal and other, out of the myriads of my time, the middle range of
+              the Nineteenth century in the New World; a strange, unloosen'd, wondrous time. But
+              the book is probably without any definite purpose that can be told in a
+              statement.</p>
+        </note>
 
         <pb facs="prc_kc.00010.jpg" xml:id="leaf008r1" n="9" type="recto"/>
 
