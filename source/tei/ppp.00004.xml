@@ -1890,7 +1890,7 @@
             <milestone unit="undeclared" rend="horbar-full"/>
             
             <note xml:id="n1" type="authorial" target="#r1" n="1" place="bottom">
-              <p>The pages from 8 to 20 are nearly verbatim an
+              <p>*<!-- FOR BRETT: is this asterisk also a metamark? KM, 9/20/24 --> The pages from 8 to 20 are nearly verbatim an
                 off-hand letter of mine in January, 1882, to an insisting friend. Following, I give
                 some gloomy experiences. The war of attempted secession has, of course, been the
                 distinguishing event of my time. I commenced at the close of 1862, and continued
@@ -1910,7 +1910,7 @@
                 at the clinique, not seldom amid the excitement of uncertainty, or defeat, or of
                 action, or getting ready for it, or a march. Most of the pages from 26 to 81 are
                 verbatim copies of those lurid and blood-smutch'd little note-books.</p> 
-              <p xml:id="p1" next="#p2">Very
+              <p xml:id="p1" next="#p2"><!-- FOR BRETT: Is this how we want to handle the prev/next stuff? Unfortunately, <note> does not allow prev/next. KM, 9/20/24 -->Very
                   different are most of the memoranda that follow. Some time after the war ended I had
                   a paralytic stroke, which prostrated me for several years. In 1876 I began to get
                   over the worst of it. From this date, portions of several seasons, especially
@@ -1985,12 +1985,7 @@
 
           <p>The later years of the last century found the Van Velsor family, my mother's side,
             living on their own farm at Cold Spring, Long Island, New York State, near the eastern
-            edge of Queens county, about a mile from the harbor.<ref xml:id="r2" target="n2" n="2"
-              /><note xml:id="n2" type="authorial" target="r2" n="2" place="inline"><p>Long Island
-                was settled first on the west end by the Dutch, from Holland, then on the east end
-                by the English&#8212;the dividing line of the two nationalities being a little
-                west of Huntington, where my father's folks lived, and where I was
-            born.</p></note>My father's side&#8212;probably the fifth generation from the first
+            edge of Queens county, about a mile from the harbor.<ref xml:id="r2" target="#n2" n="2"><metamark>*</metamark></ref> My father's side&#8212;probably the fifth generation from the first
             English arrivals in New England&#8212;were at the same time farmers on their own
             land&#8212;(and a fine domain it was, 500 acres, all good soil, gently sloping east
             and south, about one-tenth woods, plenty of grand old trees,) two or three miles off, at
@@ -2023,6 +2018,14 @@
           <p><hi rend="italic">July 29, 1881.</hi>&#8212;After more than forty years' absence,
             (except a brief visit, to take my father there once more, two years before he died,)
             went down Long Island on a week's jaunt to the place
+            
+            <milestone unit="undeclared" rend="horbar-full"/>
+            
+            <note xml:id="n2" type="authorial" target="#r2" n="2" place="bottom"><p>*<!-- FOR BRETT: is this asterisk also a metamark? KM, 9/20/24 --> Long Island
+              was settled first on the west end by the Dutch, from Holland, then on the east end
+              by the English&#8212;the dividing line of the two nationalities being a little
+              west of Huntington, where my father's folks lived, and where I was
+              born.</p></note>
 
             <pb facs="prc_kc.00011.jpg" xml:id="leaf008v1" n="10" type="verso"/>
 
