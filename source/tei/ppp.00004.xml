@@ -1985,7 +1985,7 @@
 
           <p>The later years of the last century found the Van Velsor family, my mother's side,
             living on their own farm at Cold Spring, Long Island, New York State, near the eastern
-            edge of Queens county, about a mile from the harbor.<ref xml:id="r2" target="#n2" n="2"><metamark>*</metamark></ref> My father's side&#8212;probably the fifth generation from the first
+            edge of Queens county, about a mile from the harbor.<ref xml:id="r2" target="#n2" n="2"><metamark function="link">*</metamark></ref> My father's side&#8212;probably the fifth generation from the first
             English arrivals in New England&#8212;were at the same time farmers on their own
             land&#8212;(and a fine domain it was, 500 acres, all good soil, gently sloping east
             and south, about one-tenth woods, plenty of grand old trees,) two or three miles off, at
@@ -2021,7 +2021,7 @@
             
             <milestone unit="undeclared" rend="horbar-full"/>
             
-            <note xml:id="n2" type="authorial" target="#r2" n="2" place="bottom"><p>*<!-- FOR BRETT: is this asterisk also a metamark? KM, 9/20/24 --> Long Island
+            <note xml:id="n2" type="authorial" target="#r2" n="2" place="bottom"><p><metamark function="link">*</metamark> Long Island
               was settled first on the west end by the Dutch, from Holland, then on the east end
               by the English&#8212;the dividing line of the two nationalities being a little
               west of Huntington, where my father's folks lived, and where I was
