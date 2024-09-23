@@ -1885,12 +1885,12 @@
             and blowing breeze, with all the shows of sun and sky and perfect temperature, never
             before so filling me body and soul)&#8212;to go home, untie the bundle, reel out
             diary-scraps and memoranda, just as they are, large or small, one after another, into
-              print-pages,<ref xml:id="r1" target="#n1" n="1"><metamark>*</metamark></ref> and let the melange's lackings and wants of <choice><orig>connec-</orig><reg>connection</reg></choice>
+              print-pages,<ref xml:id="r1" target="#n1"><metamark function="link">*</metamark></ref> and let the melange's lackings and wants of <choice><orig>connec-</orig><reg>connection</reg></choice>
             
             <milestone unit="undeclared" rend="horbar-full"/>
             
-            <note xml:id="n1" type="authorial" target="#r1" n="1" place="bottom">
-              <p>*<!-- FOR BRETT: is this asterisk also a metamark? KM, 9/20/24 --> The pages from 8 to 20 are nearly verbatim an
+            <note xml:id="n1" type="authorial" target="#r1" place="bottom" next="#n1.2">
+              <p><metamark function="link">*</metamark> The pages from 8 to 20 are nearly verbatim an
                 off-hand letter of mine in January, 1882, to an insisting friend. Following, I give
                 some gloomy experiences. The war of attempted secession has, of course, been the
                 distinguishing event of my time. I commenced at the close of 1862, and continued
@@ -1910,7 +1910,7 @@
                 at the clinique, not seldom amid the excitement of uncertainty, or defeat, or of
                 action, or getting ready for it, or a march. Most of the pages from 26 to 81 are
                 verbatim copies of those lurid and blood-smutch'd little note-books.</p> 
-              <p xml:id="p1" next="#p2"><!-- FOR BRETT: Is this how we want to handle the prev/next stuff? Unfortunately, <note> does not allow prev/next. KM, 9/20/24 -->Very
+              <p>Very
                   different are most of the memoranda that follow. Some time after the war ended I had
                   a paralytic stroke, which prostrated me for several years. In 1876 I began to get
                   over the worst of it. From this date, portions of several seasons, especially
@@ -1959,8 +1959,8 @@
         
         <milestone unit="undeclared" rend="horbar-full"/>
         
-        <note xml:id="n1.2" type="authorial" target="#r1" place="bottom" n="1">
-          <p xml:id="p2" prev="#p2">great Delaware,
+        <note xml:id="n1.2" type="authorial" target="#r1" place="bottom" prev="#n1">
+          <p>great Delaware,
           twelve miles away)&#8212;with primitive solitudes, winding stream, recluse and
           woody banks, sweet-feeding springs, and all the charms that birds, grass,
           wild-flowers, rabbits and squirrels, old oaks, walnut trees, &#38;c., can bring.
