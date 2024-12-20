@@ -2173,8 +2173,9 @@
           <head type="main">PAUMANOK, AND MY LIFE ON IT AS CHILD AND YOUNG MAN.</head>
 
           <p>Worth fully and particularly investigating indeed this Paumanok, (to give the spot its
-            aboriginal name,<ref xml:id="r3" target="n3" n="3"/>)<note xml:id="n3" type="authorial"
-              target="r3" n="3" place="inline"><p>*"Paumanok, (or Paumanake, or Paumanack, the Indian
+            aboriginal name,<ref xml:id="r3" target="#n3" n="3"><metamark function="link">*</metamark></ref>) stretching east
+            
+            <note xml:id="n3" type="authorial" target="#r3" n="3" place="bottom"><p><metamark function="link">*</metamark> "Paumanok, (or Paumanake, or Paumanack, the Indian
                 name of Long Island,) over a hundred miles long; shaped like a fish&#8212;plenty
                 of sea shore, sandy, stormy, uninviting, the horizon boundless, the air too strong
                 for invalids, the bays a wonderful resort for aquatic birds, the south-side meadows
@@ -2183,7 +2184,7 @@
                 the sweetest water in the world. Years ago, among the bay-men&#8212;a strong,
                 wild race, now extinct, or rather entirely changed&#8212;a native of Long Island
                 was called a <hi rend="italic">Paumanacker, </hi> or <hi rend="italic">Creole-Paumanacker."&#8212;John
-                  Burroughs.</hi></p></note> stretching east
+                  Burroughs.</hi></p></note>
 
             <pb facs="prc_kc.00014.jpg" xml:id="leaf010r1" n="13" type="recto"/>
 
@@ -2277,18 +2278,7 @@
             <pb facs="prc_kc.00016.jpg" xml:id="leaf011r1" n="15" type="recto"/>
 
             occupied them, one after the other, but they were mortgaged, and we lost them. I yet
-            remember Lafayette's visit.<ref xml:id="r4" target="n4" n="4"/><note xml:id="n4"
-              type="authorial" target="r4" n="4" place="inline"><p>*"On the visit of General
-                Lafayette to this country, in 1824, he came over to Brooklyn in state, and rode
-                through the city. The children of the schools turn'd out to join in the welcome. An
-                edifice for a free public library for youths was just then commencing, and Lafayette
-                consented to stop on his way and lay the corner-stone. Numerous children arriving on
-                the ground, where a huge irregular excavation for the building was already dug,
-                surrounded with heaps of rough stone, several gentlemen assisted in lifting the
-                children to safe or convenient spots to see the ceremony. Among the rest, Lafayette,
-                also helping the children, took up the five-year-old Walt Whitman, and pressing the
-                child a moment to his breast, and giving him a kiss, handed him down to a safe spot
-                in the excavation."<hi rend="italic">&#8212;John Burroughs.</hi></p></note> Most
+            remember Lafayette's visit.<ref xml:id="r4" target="#n4" n="4"><metamark function="link">*</metamark></ref> Most
             of these years I went to the public schools. It must have been about 1829 or '30 that I
             went with my father and mother to hear Elias Hicks preach in a ball-room on Brooklyn
             heights. At about the same time employ'd as a boy in an office, lawyers', father and two
@@ -2314,8 +2304,22 @@
             grand-daughter. I used occasionally to go out riding with the boss, who was very kind to
             us boys; Sundays he took us all to a great old rough, fortress-looking stone church, on
             Joralemon street, near where the Brooklyn city hall now is&#8212;(at that time broad
-            fields and country roads everywhere around.<ref xml:id="r5" target="n5" n="5"/>)<note
-              xml:id="n5" type="authorial" target="r5" n="5" place="inline"><p>&#8224;Of the Brooklyn of
+            fields and country roads everywhere around.<ref xml:id="r5" target="#n5" n="5"><metamark function="link">&#8224;</metamark></ref>)
+            Afterward
+            
+            <note xml:id="n4" type="authorial" target="#r4" n="4" place="bottom"><p><metamark function="link">*</metamark> "On the visit of General
+                Lafayette to this country, in 1824, he came over to Brooklyn in state, and rode
+                through the city. The children of the schools turn'd out to join in the welcome. An
+                edifice for a free public library for youths was just then commencing, and Lafayette
+                consented to stop on his way and lay the corner-stone. Numerous children arriving on
+                the ground, where a huge irregular excavation for the building was already dug,
+                surrounded with heaps of rough stone, several gentlemen assisted in lifting the
+                children to safe or convenient spots to see the ceremony. Among the rest, Lafayette,
+                also helping the children, took up the five-year-old Walt Whitman, and pressing the
+                child a moment to his breast, and giving him a kiss, handed him down to a safe spot
+                in the excavation."<hi rend="italic">&#8212;John Burroughs.</hi></p></note>
+            
+            <note xml:id="n5" type="authorial" target="#r5" n="5" place="bottom" next="#n5.2"><p><metamark function="link">&#8224;</metamark> Of the Brooklyn of
                 that time (1830&#8211;40) hardly anything remains, except the lines of the old
                 streets. The population was then between ten and twelve thousand. For a mile Fulton
                 street was lined with magnificent elm trees. The character of the place was
@@ -2323,16 +2327,7 @@
                 twenty-five acres in what is now the most costly part of the city, bounded by
                 Flatbush and Fulton avenues, were then bought by Mr. Parmentier, a French <hi
                   rend="italic">emigr&#233;</hi>, for $4000. Who remembers the old places as they were?
-                Who remembers the old citizens of that time?<pb facs="prc_kc.00017.jpg"
-                xml:id="leaf011v2" n="16" type="verso"/>Among the former were Smith &#38;
-                Wood's, Coe Downing's, and other public houses at the ferry, the old Ferry itself,
-                Love lane, the Heights as then, the Wallabout with the wooden bridge, and the road
-                out beyond Fulton street to the old toll-gate. Among the latter were the majestic
-                and genial General Jeremiah Johnson, with others, Gabriel Furman, Rev. E. M.
-                Johnson, Alden Spooner, Mr. Pierrepont, Mr. Joralemon, Samuel Willoughby, Jonathan
-                Trotter, George Hall, Cyrus P. Smith, N. B. Morse, John Dikeman, Adrian Hegeman,
-                William Udall, and old Mr. Duflon, with his military garden.</p></note>
-            Afterward
+                Who remembers the old citizens of that time?</p></note>
 
             <pb facs="prc_kc.00017.jpg" xml:id="leaf011v1" n="16" type="verso"/>
 
@@ -2377,6 +2372,15 @@
             more the following years, was curiously identified with Fulton ferry, already becoming
             the greatest of its sort in the world for general importance, volume, variety, rapidity,
             and picturesqueness. Almost daily, later, ('50 to '60,) I
+            
+            <note xml:id="n5.2" type="authorial" target="#r5" place="bottom" prev="#n5"><p>Among the former were Smith &#38;
+            Wood's, Coe Downing's, and other public houses at the ferry, the old Ferry itself,
+            Love lane, the Heights as then, the Wallabout with the wooden bridge, and the road
+            out beyond Fulton street to the old toll-gate. Among the latter were the majestic
+            and genial General Jeremiah Johnson, with others, Gabriel Furman, Rev. E. M.
+            Johnson, Alden Spooner, Mr. Pierrepont, Mr. Joralemon, Samuel Willoughby, Jonathan
+            Trotter, George Hall, Cyrus P. Smith, N. B. Morse, John Dikeman, Adrian Hegeman,
+            William Udall, and old Mr. Duflon, with his military garden.</p></note>
 
             <pb facs="prc_kc.00018.jpg" xml:id="leaf012r1" n="17" type="recto"/>
 
@@ -3718,17 +3722,8 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             began, and have talk'd with them about each one in every part of the United States, and
             many of the engagements on the rivers and harbors too. I find men here from every State
             in the Union, without exception. (There are more Southerners, especially border State
-            men, in the Union army than is generally supposed.<ref xml:id="r6" target="n6" n="6"
-              />)<note xml:id="n6" type="authorial" target="r6" n="6" place="inline"><p>*M<hi rend="smallcaps">R</hi>. G<hi rend="smallcaps">ARFIELD</hi>
-                  (<hi rend="italic">In the House of Representatives, April 15, '79.</hi>)"Do
-                gentlemen know that (leaving out all the border States) there were fifty regiments
-                and seven companies of white men in our army fighting for the Union from the States
-                that went into rebellion? Do they know that from the single State of Kentucky more
-                Union soldiers fought under our flag than Napoleon took into the battle of Waterloo?
-                more than Wellington took with all the allied armies against Napoleon? Do they
-                remember that 186,000 color'd men fought under our flag against the rebellion and
-                for the Union, and that of that number 90,000 were from the States which went into
-                rebellion?"</p></note> I now doubt whether one can get a fair idea of what this war
+            men, in the Union army than is generally supposed.<ref xml:id="r6" target="#n6" n="6"
+              ><metamark function="link">*</metamark></ref>) I now doubt whether one can get a fair idea of what this war
             practically is, or what genuine America is, and her character, without some such
             experience as this I am having.</p>
 
@@ -3752,6 +3747,17 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             sits by him, and will not leave him till the last; yet little or nothing can be done. He
             will die here in an hour or two, without the presence of kith or kin. Meantime the
             ordinary chat and business of the ward a little way off goes on indifferently.
+            
+            <note xml:id="n6" type="authorial" target="#r6" n="6" place="bottom"><p><metamark function="link">*</metamark> M<hi rend="smallcaps">R</hi>. G<hi rend="smallcaps">ARFIELD</hi>
+              (<hi rend="italic">In the House of Representatives, April 15, '79.</hi>)"Do
+              gentlemen know that (leaving out all the border States) there were fifty regiments
+              and seven companies of white men in our army fighting for the Union from the States
+              that went into rebellion? Do they know that from the single State of Kentucky more
+              Union soldiers fought under our flag than Napoleon took into the battle of Waterloo?
+              more than Wellington took with all the allied armies against Napoleon? Do they
+              remember that 186,000 color'd men fought under our flag against the rebellion and
+              for the Union, and that of that number 90,000 were from the States which went into
+              rebellion?"</p></note>
 
             <pb facs="prc_kc.00047.jpg" xml:id="leaf026v1" n="46" type="verso"/>
 
@@ -4807,11 +4813,8 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             the prevailing maladies are typhoid fever and the camp fevers generally, diarrh&#339;a,
             catarrhal affections and bronchitis, rheumatism and pneumonia. These forms of sickness
             lead; all the rest follow. There are twice as many sick as there are wounded. The deaths
-            range from seven to ten per cent, of those under treatment.<ref xml:id="r7" target="n7"
-              n="7"/><note xml:id="n7" type="authorial" target="r7" n="7" place="inline"><p>In the
-                U. S. Surgeon-General's office since, there is a formal record and treatment of
-                253,142 cases of wounds by government surgeons. What must have been the number
-                unofficial, indirect&#8212;to say nothing of the Southern armies?</p></note></p>
+            range from seven to ten per cent, of those under treatment.<ref xml:id="r7" target="#n7"
+              n="7"><metamark function="link">*</metamark></ref></p>
 
         </div>
 
@@ -4835,6 +4838,11 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
               rend="italic">ca ira!</hi> One falls, and another falls. The soldier drops, sinks like
             a wave&#8212;but the ranks of the ocean eternally press on. Death does its work,
             ob-
+            
+            <note xml:id="n7" type="authorial" target="#r7" n="7" place="bottom"><p>In the
+              U. S. Surgeon-General's office since, there is a formal record and treatment of
+              253,142 cases of wounds by government surgeons. What must have been the number
+              unofficial, indirect&#8212;to say nothing of the Southern armies?</p></note>
 
             <pb facs="prc_kc.00070.jpg" xml:id="leaf038r1" n="69" type="recto"/>
 
@@ -4910,71 +4918,40 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             incredible&#8212;was evidently the rule of treatment through all the southern
             military prisons. The dead there are not to be pitied as much as some of the living that
             come from there&#8212;if they can be call'd living&#8212;many of them are
-            mentally imbecile, and will never recuperate.<ref xml:id="r8" target="n8" n="8"/>
-          <note xml:id="n8" type="authorial" target="r8" n="8" place="inline">
-            <p>
-              <hi rend="italic">*From a review of "ANDERSONVILLE, A STORY OF SOUTHERN MILITARY
-                PRISONS," published serially in the "Toledo Blade," in 1879, and afterwards in book
-                form.</hi>
-            </p>
-
-            <p>"There is a deep fascination in the subject of Andersonville&#8212;for that
-              Golgotha, in which lie the whitening bones of 13,000 gallant young men, represents the
-              dearest and costliest sacrifice of the war for the preservation of our national unity.
-              It is a type, too, of its class. Its more than hundred heca-tombs of dead represent
-              several times that number of their brethren, for whom the prison gates of Belle Isle,
-              Danville, Salisbury, Florence, Columbia, and Cahaba open'd only in eternity. There are
-              few families in the North who have not at least one dear relative or friend among
-              these 60,000 whose sad fortune it was to end their service for the Union by lying down
-              and dying for it in a southern prison pen. The manner of their death, the horrors that
-              cluster'd thickly around every moment of their existence, the loyal, unfaltering
-              steadfastness with which they endured all that fate had brought them, has never been
-              adequately told. It was not with them as with their comrades in the field, whose every
-              act was perform'd in the presence of those whose duty it was to observe such matters
-              and report them to the world. Hidden from the view of their friends in the north by
-              the impenetrable veil which the military operations of the rebels drew around the
-              so-called confederacy, the people knew next to nothing of their career or their
-              sufferings. Thousands died there less heeded even than the hundreds who perish'd on
-              the battle-field. Grant did not lose as many men kill'd outright, in the terrible
-              campaign from the Wilderness to the James river&#8212;43 days of desperate
-              fighting&#8212;as died in July and August at Andersonville. Nearly twice as many
-              died in that prison as fell from the day that Grant cross'd the Rapidan, till he
-              settled down in the trenches before Petersburg. More than four times as many Union
-              dead lie under the solemn soughing pines about that forlorn little village in southern
-              Georgia, than mark the course of Sherman from Chattanooga to Atlanta. The 
-              
-              <pb facs="prc_kc.00072.jpg" xml:id="leaf039r2" n="71" type="recto"/> nation stands aghast at the expenditure of life which attended the two bloody
-              campaigns of 1864, which virtually crush'd the confederacy, but no one remembers that
-              moie Union soldiers died in the rear of the rebel lines than were kill'd in the front
-              of them. The great military events which stamp'd out the rebellion drew attention away
-              from the sad drama which starvation and disease play'd in those gloomy pens in the far
-              recesses of sombre southern forests."</p>
-
-            <p><hi rend="italic">From a letter of "Johnny Bouquet" in N. Y. Tribune, March 27,
-                '81</hi>.</p>
-
-            <p>"I visited at Salisbury, N.C. the prison pen or the site of it, from which nearly
-              12,000 victims of southern politicians were buried, being confined in a pen without
-              shelter, exposed to all the elements could do, to all the disease herding animals
-              together could create, and to all the starvation and cruelty an incompetent and
-              intense caitiff government could accomplish. From the conversation and almost from the
-              recollection of the northern people this place has dropp'd, but not so in the gossip
-              of the Salisbury people, nearly all of whom say that the half was never told; that
-              such was the nature of habitual outrage here that when Federal prisoners escaped the
-              townspeople harbor'd them in their barns, afraid the vengeance of God would fall on
-              them, to deliver even their enemies back to such cruelty. Said one old man at the
-              Boyden House, who join'd in the conversation on evening: 'There were often men buried
-              out of that prison pen still alive. I have the testimony of a surgeon that he has seen
-              them pull'd out of the dead cart with their eyes open and taking notice, but too weak
-              to lift a finger. There was not the least excuse for such treatment, as the
-              confederate government had seized every saw-mill in the region, and could just as well
-              have put up shelter for these prisoners as not, wood being plentiful here. It will be
-              hard to make any honest man in Salisbury say that there was the slightest necessity
-              for those prisoners having to live in old tents, caves and holes half-full of water.
-              Representations were made to the Davis government against the officiers in charge of
-              it, but no attention was paid to them. Promotion was the punishment for cruelty there.
-              The inmates were skeletons. Hell could have no more terrors for any man who died
-              there, except the inhuman keeper.'"</p></note></p></div>
+            mentally imbecile, and will never recuperate.<ref xml:id="r8" target="#n8" n="8"><metamark function="link">*</metamark></ref></p></div>
+        
+        <note xml:id="n8" type="authorial" target="#r8" n="8" place="bottom" next="#n8.2">
+          <p>
+            <hi rend="italic">*From a review of "ANDERSONVILLE, A STORY OF SOUTHERN MILITARY
+              PRISONS," published serially in the "Toledo Blade," in 1879, and afterwards in book
+              form.</hi>
+          </p>
+          
+          <p>"There is a deep fascination in the subject of Andersonville&#8212;for that
+            Golgotha, in which lie the whitening bones of 13,000 gallant young men, represents the
+            dearest and costliest sacrifice of the war for the preservation of our national unity.
+            It is a type, too, of its class. Its more than hundred heca-tombs of dead represent
+            several times that number of their brethren, for whom the prison gates of Belle Isle,
+            Danville, Salisbury, Florence, Columbia, and Cahaba open'd only in eternity. There are
+            few families in the North who have not at least one dear relative or friend among
+            these 60,000 whose sad fortune it was to end their service for the Union by lying down
+            and dying for it in a southern prison pen. The manner of their death, the horrors that
+            cluster'd thickly around every moment of their existence, the loyal, unfaltering
+            steadfastness with which they endured all that fate had brought them, has never been
+            adequately told. It was not with them as with their comrades in the field, whose every
+            act was perform'd in the presence of those whose duty it was to observe such matters
+            and report them to the world. Hidden from the view of their friends in the north by
+            the impenetrable veil which the military operations of the rebels drew around the
+            so-called confederacy, the people knew next to nothing of their career or their
+            sufferings. Thousands died there less heeded even than the hundreds who perish'd on
+            the battle-field. Grant did not lose as many men kill'd outright, in the terrible
+            campaign from the Wilderness to the James river&#8212;43 days of desperate
+            fighting&#8212;as died in July and August at Andersonville. Nearly twice as many
+            died in that prison as fell from the day that Grant cross'd the Rapidan, till he
+            settled down in the trenches before Petersburg. More than four times as many Union
+            dead lie under the solemn soughing pines about that forlorn little village in southern
+            Georgia, than mark the course of Sherman from Chattanooga to Atlanta. The</p>
+        </note> 
         
         <pb facs="prc_kc.00072.jpg" xml:id="leaf039r1" n="71" type="recto"/>
         
@@ -4994,6 +4971,39 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             was a good deal of bad matter gather'd&#8212;the bullet was found in the knee. For a
             couple of weeks afterwards he was doing pretty well. I visited and sat by him
             frequently, as he was fond of having me. The last ten or
+            
+            <note xml:id="n8.2" type="authorial" target="#r8" place="bottom" prev="#r8"><p>nation stands aghast at the expenditure of life which attended the two bloody
+            campaigns of 1864, which virtually crush'd the confederacy, but no one remembers that
+            moie Union soldiers died in the rear of the rebel lines than were kill'd in the front
+            of them. The great military events which stamp'd out the rebellion drew attention away
+            from the sad drama which starvation and disease play'd in those gloomy pens in the far
+            recesses of sombre southern forests."</p>
+          
+          <p><hi rend="italic">From a letter of "Johnny Bouquet" in N. Y. Tribune, March 27,
+            '81</hi>.</p>
+          
+          <p>"I visited at Salisbury, N.C. the prison pen or the site of it, from which nearly
+            12,000 victims of southern politicians were buried, being confined in a pen without
+            shelter, exposed to all the elements could do, to all the disease herding animals
+            together could create, and to all the starvation and cruelty an incompetent and
+            intense caitiff government could accomplish. From the conversation and almost from the
+            recollection of the northern people this place has dropp'd, but not so in the gossip
+            of the Salisbury people, nearly all of whom say that the half was never told; that
+            such was the nature of habitual outrage here that when Federal prisoners escaped the
+            townspeople harbor'd them in their barns, afraid the vengeance of God would fall on
+            them, to deliver even their enemies back to such cruelty. Said one old man at the
+            Boyden House, who join'd in the conversation on evening: 'There were often men buried
+            out of that prison pen still alive. I have the testimony of a surgeon that he has seen
+            them pull'd out of the dead cart with their eyes open and taking notice, but too weak
+            to lift a finger. There was not the least excuse for such treatment, as the
+            confederate government had seized every saw-mill in the region, and could just as well
+            have put up shelter for these prisoners as not, wood being plentiful here. It will be
+            hard to make any honest man in Salisbury say that there was the slightest necessity
+            for those prisoners having to live in old tents, caves and holes half-full of water.
+            Representations were made to the Davis government against the officiers in charge of
+            it, but no attention was paid to them. Promotion was the punishment for cruelty there.
+            The inmates were skeletons. Hell could have no more terrors for any man who died
+            there, except the inhuman keeper.'"</p></note>
 
             <pb facs="prc_kc.00073.jpg" xml:id="leaf039v1" n="72" type="verso"/>
 
@@ -5492,17 +5502,7 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
           <head type="main">NEW THEMES ENTERED UPON.</head>
 
           <p><hi rend="italic">1876, '77</hi>.&#8212;I find the woods in mid-May and early June
-            my best places for composition.<ref xml:id="r9" target="n9" n="9"/><note xml:id="n9"
-              type="authorial" target="r9" n="9" place="inline"><p>*Without apology for the abrupt
-                change of field and atmosphere&#8212;after what I have put in the preceding
-                fifty or sixty pages&#8212;temporary episodes, thank heaven!&#8212;I restore
-                my book to the bracing and buoyant equilibrium of concrete outdoor Nature, the only
-                permanent reliance for sanity of book or human life.</p> <p>Who knows, (I have it in
-                my fancy, my ambition,) but the pages now ensuing may carry ray of sun, or smell of
-                grass or corn, or call of bird, or gleam of stars by night, or snow-flakes falling
-                fresh and mystic, to denizen of heated city house, or tired workman or
-                workwoman?&#8212;or may-be in sick-room or prison&#8212;to serve as cooling
-                breeze, or Nature's aroma, to some fever'd mouth or latent pulse.</p></note> Seated
+            my best places for composition.<ref xml:id="r9" target="#n9" n="9"><metamark function="link">*</metamark></ref> Seated
             on logs or stumps there, or resting on rails, nearly all the following memoranda have
             been jotted down. Wherever I go, indeed, winter or summer, city or country, alone at
             home or traveling, I must take notes&#8212;(the ruling passion strong in age and
@@ -5523,6 +5523,19 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             paralysis&#8212;after the long strain of the war, and its wounds and death.</p>
 
         </div>
+        
+        <note xml:id="n9" type="authorial" target="#r9" n="9" place="bottom"><p><metamark function="link">*</metamark> Without apology for the abrupt
+            change of field and atmosphere&#8212;after what I have put in the preceding
+            fifty or sixty pages&#8212;temporary episodes, thank heaven!&#8212;I restore
+            my book to the bracing and buoyant equilibrium of concrete outdoor Nature, the only
+            permanent reliance for sanity of book or human life.</p> 
+          
+          <p>Who knows, (I have it in
+              my fancy, my ambition,) but the pages now ensuing may carry ray of sun, or smell of
+              grass or corn, or call of bird, or gleam of stars by night, or snow-flakes falling
+              fresh and mystic, to denizen of heated city house, or tired workman or
+              workwoman?&#8212;or may-be in sick-room or prison&#8212;to serve as cooling
+              breeze, or Nature's aroma, to some fever'd mouth or latent pulse.</p></note>
 
         <pb facs="prc_kc.00084.jpg" xml:id="leaf045r1" n="83" type="recto"/>
 
@@ -5940,21 +5953,7 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
                   fellow, vital, green, bushy, five feet thick at the butt, I sit under every
                   day.)</cell>
                 <cell role="data" rows="1" cols="1">ern Illinois, 140 feet high and 8 feet thick at
-                  the butt<ref xml:id="r10" target="n10" n="10"/><note xml:id="n10"
-                    type="authorial" target="r10" n="10" place="inline"><p>*There is a tulip poplar
-                      within sight of Woodstown, which is twenty feet around, three feet from the
-                      ground, four feet across about eighteen feet up the trunk, which is broken off
-                      about three or four feet higher up. On the south<pb
-                        facs="prc_kc.00092.jpg" xml:id="leaf049r2" n="91" type="recto"/>side an
-                      arm has shot out from which rise two stems, each to about ninety-one or
-                      ninety-two feet from the ground. Twenty-five (or more) years since the cavity
-                      in the butt was large enough for, and nine men at one time, ate dinner
-                      therein. It is supposed twelve to fifteen men could now, at one time, stand
-                      within its trunk. The severe winds of 1877 and 1878 did not seem to damage it,
-                      and the two stems send out yearly many blossoms, scenting the air immediately
-                      about it with their sweet perfume. It is entirely unprotected by other trees,
-                      on a hill.&#8212;<hi rend="italic">Woodstown, N.J., "Register," April 15,
-                        '79.</hi></p></note>; does not transplant well; best rais'd from
+                  the butt<ref xml:id="r10" target="#n10" n="10"><metamark function="link">*</metamark></ref>; does not transplant well; best rais'd from
                   seeds&#8212;the lumbermen call it yellow poplar.)</cell>
               </row>
 
@@ -5978,6 +5977,11 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             </table>
 
           </p>
+          
+          <note xml:id="n10" type="authorial" target="#r10" n="10" place="bottom" next="#n10.2"><p><metamark function="link">*</metamark> There is a tulip poplar
+              within sight of Woodstown, which is twenty feet around, three feet from the
+              ground, four feet across about eighteen feet up the trunk, which is broken off
+              about three or four feet higher up. On the south</p></note>
 
           <pb facs="prc_kc.00092.jpg" xml:id="leaf049r1" n="91" type="recto"/>
 
@@ -6071,6 +6075,17 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             surface prettily moving in wind-ripples before me. On a stout old beech at the edge,
             decayed and slanting, almost fallen to the stream, yet with life and leaves in its
             mossy
+            
+            <note xml:id="n10.2" type="authorial" target="#r10" place="bottom" prev="#n10"><p>side an
+              arm has shot out from which rise two stems, each to about ninety-one or
+              ninety-two feet from the ground. Twenty-five (or more) years since the cavity
+              in the butt was large enough for, and nine men at one time, ate dinner
+              therein. It is supposed twelve to fifteen men could now, at one time, stand
+              within its trunk. The severe winds of 1877 and 1878 did not seem to damage it,
+              and the two stems send out yearly many blossoms, scenting the air immediately
+              about it with their sweet perfume. It is entirely unprotected by other trees,
+              on a hill.&#8212;<hi rend="italic">Woodstown, N.J., "Register," April 15,
+                '79.</hi></p></note>
 
             <pb facs="prc_kc.00093.jpg" xml:id="leaf049v1" n="92" type="verso"/>
 
@@ -10071,96 +10086,97 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             certain pages do not present themselves to you or me as coming under their own name with
             entire fitness or amiability. (It is a profound, vexatious, never-explicable
             matter&#8212;this of names. I have been exercised deeply about it my whole life.<ref
-              xml:id="r11" target="n11" n="11"/>) <note xml:id="n11" type="authorial" target="r11"
-              n="11" place="inline"><p>*In the pocket of my receptacle-book I find a list of
-                suggested and rejected names for this volume, or parts of it&#8212;such as the
-                following:
-                  <q who="Walt Whitman">
-                    <floatingText>
-                      <body rend="italic">
-                        <lg type="linegroup">
-                          <l>As the wild bee hums in May,</l>
-                          <l>&#38; August mulleins grow,</l>
-                          <l>&#38; Winter snow-flakes fall,</l>
-                          <l>&#38; stars in the sky roll round.</l>
-                        </lg>
-                        <lg type="linegroup">
-                          <l>Away from Books&#8212;away from Art,</l>
-                          <l>Now for the Day and Night&#8212;the lesson done,</l>
-                          <l>Now for the Sun and Stars.</l>
-                        </lg>
-                      </body>
-                    </floatingText>
-                  </q>
-
-                  <table rend="italic">
-                    <row>
-                      <cell>Notes of a half-Paralytic,</cell>
-                      <cell>As Voices in the Dusk, from Speak-</cell>
-                    </row>
-                    <row>
-                      <cell>Week in and Week out,</cell>
-                      <cell>ers far or hid,</cell>
-                    </row>
-                    <row>
-                      <cell>Embers of Ending Days,</cell>
-                      <cell>Autochthons.....Embryons,</cell>
-                    </row>
-                    <row>
-                      <cell>Ducks and Drakes,</cell>
-                      <cell>Wing-and-Wing,</cell>
-                    </row>
-                    <row>
-                      <cell>Flood Tide and Ebb,</cell>
-                      <cell>Notes and Recall&#233;s,</cell>
-                    </row>
-                    <row>
-                      <cell>Gossip at Early Candle-light,</cell>
-                      <cell>Only Mulleins and Bumble-Bees,</cell>
-                    </row>
-                    <row>
-                      <cell>Echoes and Escapades,</cell>
-                      <cell>Pond-Babble.....T&#234;te-a-T&#234;tes,</cell>
-                    </row>
-                    <row>
-                      <cell>Such as I.....Evening Dews,</cell>
-                      <cell>Echoes of a Life in the 19th Century</cell>
-                    </row>
-                    <row>
-                      <cell>Notes after Writing a Book,</cell>
-                      <cell>in the New World,</cell>
-                    </row>
-                    <row>
-                      <cell>Far and Near at 63,</cell>
-                      <cell>Flanges of Fifty Years,</cell>
-                    </row>
-                    <row>
-                      <cell>Drifts and Cumulus,</cell>
-                      <cell>Abandons.....Hurry Notes,</cell>
-                    </row>
-                    <row>
-                      <cell>Maize-Tassels.....Kindlings,</cell>
-                      <cell>A Life-Mosaic.....Native Moments,</cell>
-                    </row>
-                    <row>
-                      <cell>Fore and Aft.....Vestibules,</cell>
-                      <cell>Types and Semi-Tones,</cell>
-                    </row>
-                    <row>
-                      <cell>Scintilla at 60 and after,</cell>
-                      <cell>Oddments.....Sand-Drifts,</cell>
-                    </row>
-                    <row>
-                      <cell>Sands on the Shores of 64,</cell>
-                      <cell>Again and Again.</cell>
-                    </row>
-                  </table>
-              </p>
-              </note>
+              xml:id="r11" target="#n11" n="11"><metamark function="link">*</metamark></ref>)
           </p>
 
           <p>After all of which the name "Cedar-Plums Like" got its nose put out of joint; but I
             cannot afford to throw away what I pen-
+            
+            <note xml:id="n11" type="authorial" target="#r11" n="11" place="bottom"><p><metamark function="link">*</metamark> In the pocket of my receptacle-book I find a list of
+                suggested and rejected names for this volume, or parts of it&#8212;such as the
+                following:
+                <q who="Walt Whitman">
+                  <floatingText>
+                    <body rend="italic">
+                      <lg type="linegroup">
+                        <l>As the wild bee hums in May,</l>
+                        <l>&#38; August mulleins grow,</l>
+                        <l>&#38; Winter snow-flakes fall,</l>
+                        <l>&#38; stars in the sky roll round.</l>
+                      </lg>
+                      <lg type="linegroup">
+                        <l>Away from Books&#8212;away from Art,</l>
+                        <l>Now for the Day and Night&#8212;the lesson done,</l>
+                        <l>Now for the Sun and Stars.</l>
+                      </lg>
+                    </body>
+                  </floatingText>
+                </q>
+                
+                <table rend="italic">
+                  <row>
+                    <cell>Notes of a half-Paralytic,</cell>
+                    <cell>As Voices in the Dusk, from Speak-</cell>
+                  </row>
+                  <row>
+                    <cell>Week in and Week out,</cell>
+                    <cell>ers far or hid,</cell>
+                  </row>
+                  <row>
+                    <cell>Embers of Ending Days,</cell>
+                    <cell>Autochthons.....Embryons,</cell>
+                  </row>
+                  <row>
+                    <cell>Ducks and Drakes,</cell>
+                    <cell>Wing-and-Wing,</cell>
+                  </row>
+                  <row>
+                    <cell>Flood Tide and Ebb,</cell>
+                    <cell>Notes and Recall&#233;s,</cell>
+                  </row>
+                  <row>
+                    <cell>Gossip at Early Candle-light,</cell>
+                    <cell>Only Mulleins and Bumble-Bees,</cell>
+                  </row>
+                  <row>
+                    <cell>Echoes and Escapades,</cell>
+                    <cell>Pond-Babble.....T&#234;te-a-T&#234;tes,</cell>
+                  </row>
+                  <row>
+                    <cell>Such as I.....Evening Dews,</cell>
+                    <cell>Echoes of a Life in the 19th Century</cell>
+                  </row>
+                  <row>
+                    <cell>Notes after Writing a Book,</cell>
+                    <cell>in the New World,</cell>
+                  </row>
+                  <row>
+                    <cell>Far and Near at 63,</cell>
+                    <cell>Flanges of Fifty Years,</cell>
+                  </row>
+                  <row>
+                    <cell>Drifts and Cumulus,</cell>
+                    <cell>Abandons.....Hurry Notes,</cell>
+                  </row>
+                  <row>
+                    <cell>Maize-Tassels.....Kindlings,</cell>
+                    <cell>A Life-Mosaic.....Native Moments,</cell>
+                  </row>
+                  <row>
+                    <cell>Fore and Aft.....Vestibules,</cell>
+                    <cell>Types and Semi-Tones,</cell>
+                  </row>
+                  <row>
+                    <cell>Scintilla at 60 and after,</cell>
+                    <cell>Oddments.....Sand-Drifts,</cell>
+                  </row>
+                  <row>
+                    <cell>Sands on the Shores of 64,</cell>
+                    <cell>Again and Again.</cell>
+                  </row>
+                </table>
+              </p>
+            </note>
 
             <pb facs="prc_kc.00169.jpg" xml:id="leaf088v1" n="168" type="verso"/>
 
@@ -10294,21 +10310,11 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
           <p>There is surely at present an inexplicable <hi rend="italics">rapport</hi> (all the
             more piquant from its contradictoriness) between that deceas'd author and our United
             States of America&#8212;no matter whether it lasts or not.<ref xml:id="r12"
-              target="n12" n="12"/><note xml:id="n12" type="authorial" target="r12" n="12"
-              place="inline"><p>*It will be difficult for the future&#8212;judging by his books,
+              target="#n12" n="12"><metamark function="link">*</metamark></ref> As we Westerners assume definite shape, and result in for-
+            
+            <note xml:id="n12" type="authorial" target="#r12" n="12" place="bottom" next="#n12.2"><p><metamark function="link">*</metamark> It will be difficult for the future&#8212;judging by his books,
                 personal dis-sympathies, &#38;c.,&#8212;to account for the deep hold this
-                author has taken on the<pb facs="prc_kc.00172.jpg" xml:id="leaf090r2" n="171"
-                type="recto"/>present age, and the way he has color'd its method and thought. I
-                am certainly at a loss to account for it all as affecting myself. But there could be
-                no view, or even partial picture, of the middle and latter part of our Nineteenth
-                century, that did not markedly include Thomas Carlyle. In his case (as so many
-                others, literary productions, works of art, personal identities, events,) there has
-                been an impalpable something more effective than the palpable. Then I find no better
-                text, (it is always important to have a definite, special, even oppositional, living
-                man to start from,) for sending out certain speculations and comparisons for home
-                use. Let us see what they amount to those reactionary doctrines, fears, scornful
-                analyses of democracy&#8212;even from the most erudite and sincere mind of
-                Europe.</p></note> As we Westerners assume definite shape, and result in for-
+                author has taken on the</p></note>
 
             <pb facs="prc_kc.00172.jpg" xml:id="leaf090r1" n="171" type="recto"/>
 
@@ -10322,17 +10328,7 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             land. Whether I succeed or no, I, too, reaching across the Atlantic and taking the man's
             dark fortune-telling of humanity and politics, would offset it all, (such is the fancy
             that comes to me,) by a far more profound horoscope-casting of those themes&#8212;G.
-            F. Hegel's.<ref xml:id="r13" target="n13" n="13"/><note xml:id="n13" type="authorial"
-              target="r13" n="13" place="inline"><p>*Not the least mentionable part of the case, (a
-                streak, it may be, of that humor with which history and fate love to contrast their
-                gravity,) is that although neither of my great authorities during their lives
-                consider'd the United States worthy of serious mention, all the principal works of
-                both might not inappropriately be this day collected and bound up under the
-                conspicuous title: "<hi rend="italic">Speculations for the use of North America, and
-                  Democracy there, with the relations of the same to Metaphysics, including Lessons
-                  and Warnings (encouragements too, and of the vastest,) from the Old World to the
-                  New</hi>.</p></note>
-          </p>
+            F. Hegel's.<ref xml:id="r13" target="n13" n="13"><metamark function="link">*</metamark></ref></p>
 
           <p>First, about a chance, a never-fulfill'd vacuity of this pale cast of
             thought&#8212;this British Hamlet from Cheyne row, more puzzling than the Danish
@@ -10346,6 +10342,28 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             exhaling our limitless air and eligibilities&#8212;devoting his mind to the theories
             and developments of this Republic amid its practical facts as exemplified in Kansas,
             Missouri, Illinois, Tennessee, or Louisiana. I say <hi rend="italic">facts</hi>, and
+            
+            <note xml:id="n12.2" type="authorial" target="#r12" place="bottom" prev="#n12"><p>present age, and the way he has color'd its method and thought. I
+              am certainly at a loss to account for it all as affecting myself. But there could be
+              no view, or even partial picture, of the middle and latter part of our Nineteenth
+              century, that did not markedly include Thomas Carlyle. In his case (as so many
+              others, literary productions, works of art, personal identities, events,) there has
+              been an impalpable something more effective than the palpable. Then I find no better
+              text, (it is always important to have a definite, special, even oppositional, living
+              man to start from,) for sending out certain speculations and comparisons for home
+              use. Let us see what they amount to those reactionary doctrines, fears, scornful
+              analyses of democracy&#8212;even from the most erudite and sincere mind of
+              Europe.</p></note>
+            
+            <note xml:id="n13" type="authorial" target="#r13" n="13" place="bottom"><p><metamark function="link">*</metamark> Not the least mentionable part of the case, (a
+                streak, it may be, of that humor with which history and fate love to contrast their
+                gravity,) is that although neither of my great authorities during their lives
+                consider'd the United States worthy of serious mention, all the principal works of
+                both might not inappropriately be this day collected and bound up under the
+                conspicuous title: "<hi rend="italic">Speculations for the use of North America, and
+                  Democracy there, with the relations of the same to Metaphysics, including Lessons
+                  and Warnings (encouragements too, and of the vastest,) from the Old World to the
+                  New</hi>.</p></note>
 
             <pb facs="prc_kc.00173.jpg" xml:id="leaf090v1" n="172" type="verso"/>
 
