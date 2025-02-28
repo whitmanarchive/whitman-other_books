@@ -62,6 +62,7 @@
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
+      <change when="2025-02-28" who="#bb">put footnote asterisks, etc. inside paragraphs; fixed a couple of bad choice elements</change>
       <change when="2025-01-30" who="#bb">recoded footnotes; fixed miscellaneous typos as I saw them</change>
       <change when="2024-09-12" who="#km">proofed encoding</change>
       <change when="2023-08-28" who="#kc">created file, using transcription from Complete Prose Works; proofed</change>
@@ -2022,8 +2023,8 @@
             <milestone unit="undeclared" rend="horbar-full"/>
             
             <note xml:id="n2" type="authorial" target="#r2" place="bottom">
-              <metamark function="link">*</metamark>
-              <p>Long Island
+              
+              <p><metamark function="link">*</metamark> Long Island
               was settled first on the west end by the Dutch, from Holland, then on the east end
               by the English&#8212;the dividing line of the two nationalities being a little
               west of Huntington, where my father's folks lived, and where I was
@@ -2316,8 +2317,8 @@
             <milestone unit="undeclared" rend="horbar-full"/>
             
             <note xml:id="n4" type="authorial" target="#r4" place="bottom">
-              <metamark function="link">*</metamark>
-              <p>"On the visit of General
+              
+              <p><metamark function="link">*</metamark> "On the visit of General
                 Lafayette to this country, in 1824, he came over to Brooklyn in state, and rode
                 through the city. The children of the schools turn'd out to join in the welcome. An
                 edifice for a free public library for youths was just then commencing, and Lafayette
@@ -2330,8 +2331,8 @@
                 in the excavation."<hi rend="italic">&#8212;John Burroughs.</hi></p></note>
             
             <note xml:id="n5" type="authorial" target="#r5" place="bottom" next="#n5.2">
-              <metamark function="link">&#8224;</metamark>
-              <p>Of the Brooklyn of
+              
+              <p><metamark function="link">&#8224;</metamark> Of the Brooklyn of
                 that time (1830&#8211;40) hardly anything remains, except the lines of the old
                 streets. The population was then between ten and twelve thousand. For a mile Fulton
                 street was lined with magnificent elm trees. The character of the place was
@@ -3766,8 +3767,8 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             <milestone unit="undeclared" rend="horbar-full"/>
             
             <note xml:id="n6" type="authorial" target="#r6" place="bottom">
-              <metamark function="link">*</metamark>
-              <p>M<hi rend="smallcaps">R</hi>. G<hi rend="smallcaps">ARFIELD</hi>
+              
+              <p><metamark function="link">*</metamark> M<hi rend="smallcaps">R</hi>. G<hi rend="smallcaps">ARFIELD</hi>
               (<hi rend="italic">In the House of Representatives, April 15, '79.</hi>) "Do
               gentlemen know that (leaving out all the border States) there were fifty regiments
               and seven companies of white men in our army fighting for the Union from the States
@@ -4861,8 +4862,8 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             <milestone unit="undeclared" rend="horbar-full"/>
             
             <note xml:id="n7" type="authorial" target="#r7" place="bottom">
-              <metamark function="link">*</metamark>
-              <p>In the
+              
+              <p><metamark function="link">*</metamark> In the
               U. S. Surgeon-General's office since, there is a formal record and treatment of
               253,142 cases of wounds by government surgeons. What must have been the number
               unofficial, indirect&#8212;to say nothing of the Southern armies?</p></note>
@@ -4947,8 +4948,8 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
         <milestone unit="undeclared" rend="horbar-full"/>
         
         <note xml:id="n8" type="authorial" target="#r8" place="bottom" next="#n8.2">
-          <metamark function="link">*</metamark>
-          <p><hi rend="italic">From a review of "ANDERSONVILLE, A STORY OF SOUTHERN MILITARY
+          
+          <p><metamark function="link">*</metamark> <hi rend="italic">From a review of "ANDERSONVILLE, A STORY OF SOUTHERN MILITARY
               PRISONS," published serially in the "Toledo Blade," in 1879, and afterwards in book
               form.</hi>
           </p>
@@ -5556,8 +5557,8 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
         <milestone unit="undeclared" rend="horbar-full"/>
         
         <note xml:id="n9" type="authorial" target="#r9" place="bottom">
-          <metamark function="link">*</metamark>
-          <p>Without apology for the abrupt
+          
+          <p><metamark function="link">*</metamark> Without apology for the abrupt
             change of field and atmosphere&#8212;after what I have put in the preceding
             fifty or sixty pages&#8212;temporary episodes, thank heaven!&#8212;I restore
             my book to the bracing and buoyant equilibrium of concrete outdoor Nature, the only
@@ -6014,8 +6015,8 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
           <milestone unit="undeclared" rend="horbar-full"/>
           
           <note xml:id="n10" type="authorial" target="#r10" place="bottom" next="#n10.2">
-            <metamark function="link">*</metamark>
-            <p>There is a tulip poplar
+            
+            <p><metamark function="link">*</metamark> There is a tulip poplar
               within sight of Woodstown, which is twenty feet around, three feet from the
               ground, four feet across about eighteen feet up the trunk, which is broken off
               about three or four feet higher up. On the south</p></note>
@@ -10135,8 +10136,8 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             <milestone unit="undeclared" rend="horbar-full"/>
             
             <note xml:id="n11" type="authorial" target="#r11" place="bottom">
-              <metamark function="link">*</metamark>
-              <p>In the pocket of my receptacle-book I find a list of
+              
+              <p><metamark function="link">*</metamark> In the pocket of my receptacle-book I find a list of
                 suggested and rejected names for this volume, or parts of it&#8212;such as the
                 following:
                 <q who="Walt Whitman">
@@ -10360,8 +10361,8 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             <milestone unit="undeclared" rend="horbar-full"/>
             
             <note xml:id="n12" type="authorial" target="#r12" place="bottom" next="#n12.2">
-              <metamark function="link">*</metamark>
-              <p>It will be difficult for the future&#8212;judging by his books,
+              
+              <p><metamark function="link">*</metamark> It will be difficult for the future&#8212;judging by his books,
                 personal dis-sympathies, &#38;c.,&#8212;to account for the deep hold this
                 author has taken on the</p></note>
 
@@ -10408,8 +10409,8 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
               Europe.</p></note>
             
             <note xml:id="n13" type="authorial" target="#r13" place="bottom">
-              <metamark function="link">*</metamark> 
-              <p>Not the least mentionable part of the case, (a
+               
+              <p><metamark function="link">*</metamark> Not the least mentionable part of the case, (a
                 streak, it may be, of that humor with which history and fate love to contrast their
                 gravity,) is that although neither of my great authorities during their lives
                 consider'd the United States worthy of serious mention, all the principal works of
@@ -10460,8 +10461,8 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             <milestone unit="undeclared" rend="horbar-full"/>
             
             <note xml:id="n14" type="authorial" target="#r14" place="bottom">
-              <metamark function="link">*</metamark>
-              <p>I hope I shall not myself fall
+              
+              <p><metamark function="link">*</metamark> I hope I shall not myself fall
                 into the error I charge upon him, of prescribing a specific for indispensable evils.
                 My utmost pretension is probably but to offset that old claim of the exclusively
                 curative power of first-class individual men, as leaders and rulers, by the claims,
@@ -10645,8 +10646,8 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             
             <milestone unit="undeclared" rend="horbar-full"/>
             <note xml:id="n15" type="authorial" target="#r15" place="bottom">
-              <metamark function="link">*</metamark>
-              <p>I am much indebted to J. Gostick's abstract.</p></note>
+              
+              <p><metamark function="link">*</metamark> I am much indebted to J. Gostick's abstract.</p></note>
             
             <pb facs="prc_kc.00178.jpg" xml:id="leaf093r1" n="177" type="recto"/>
 
@@ -10686,8 +10687,8 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             <milestone unit="undeclared" rend="horbar-full"/>
             
             <note xml:id="n16" type="authorial" target="#r16" place="bottom">
-              <metamark function="link">*</metamark>
-              <p>I have deliberately repeated it all, not only in offset to Carlyle's
+              
+              <p><metamark function="link">*</metamark> I have deliberately repeated it all, not only in offset to Carlyle's
                 ever-lurking pessimism and world-decadence, but as presenting the most thoroughly
                   <hi rend="italic">American points of view</hi> I know. In my opinion the above
                 formulas of Hegel are an essential and crowning justification of New World democracy
@@ -10981,8 +10982,8 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             <milestone unit="undeclared" rend="horbar-full"/>
             
             <note xml:id="n17" type="authorial" target="#r17" n="17" place="bottom" next="#n17.2">
-              <metamark function="link">*</metamark>
-              <p><hi rend="italic">Samples of my common-place book down at the creek:</hi></p>
+              
+              <p><metamark function="link">*</metamark> <hi rend="italic">Samples of my common-place book down at the creek:</hi></p>
               
               <p>I have&#8212;says old Pindar&#8212;many swift
                 arrows in my quiver which speak to the wise, though they need an interpreter to
@@ -11743,8 +11744,8 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             <milestone unit="undeclared" rend="horbar-full"/>
             
             <note xml:id="n18" type="authorial" target="#r18" place="bottom" next="#n18.2">
-              <metamark function="link">*</metamark>
-              <p>"Fifty thousand years ago the constellation of the Great
+              
+              <p><metamark function="link">*</metamark> "Fifty thousand years ago the constellation of the Great
               Bear or Dipper was a starry cross; a hundred thousand years hence the imaginary
               Dipper will be upside down, and the stars which form the bowl and handle will
               have changed places. The misty nebul&#230; are moving, and besides are whirling
@@ -12080,8 +12081,8 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
           <milestone unit="undeclared" rend="horbar-full"/>
           
           <note xml:id="n19" type="authorial" target="#r19" place="bottom" next="#n19.2">
-            <metamark function="link">*</metamark>
-            <q who="Schuyler Colfax"><p>"From a territorial area of
+            
+            <q who="Schuyler Colfax"><p><metamark function="link">*</metamark> "From a territorial area of
               less than nine hundred thousand square miles, the Union has expanded into over
               four millions and a half&#8212;fifteen times larger than that of Great
               Britain and France combined&#8212;with a shore-line, including Alaska, equal
@@ -12232,8 +12233,8 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             
             
             <note xml:id="n20" type="authorial" target="#r20" place="bottom">
-              <metamark function="link">*</metamark>
-              <p>See,
+              
+              <p><metamark function="link">*</metamark> See,
               for hereditaments, specimens, Walter Scott's Border Minstrelsy, Percy's collection,
               Ellis's early English Metrical Romances, the European continental poems of Walter of
               Aquitania, and the Nibelungen, of pagan stock, but monkish-feudal redaction; the
@@ -12443,8 +12444,8 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
           <milestone unit="undeclared" rend="horbar-full"/>
                     
           <note xml:id="n21" type="authorial" target="#r21" n="21" place="bottom">
-            <metamark function="link">*</metamark>
-            <p>Of these rapidly-sketch'd hiatuses, the two which seem to me most serious are, for one,
+            
+            <p><metamark function="link">*</metamark> Of these rapidly-sketch'd hiatuses, the two which seem to me most serious are, for one,
             the condition, absence, or perhaps the singular abeyance, of moral conscientious
             fibre all through American society; and, for another, the appaling depletion of
             women in their powers of sane athletic maternity, their crowning attribute, and ever
@@ -12499,8 +12500,8 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             
             
             <note xml:id="n22" type="authorial" target="#r22" place="bottom">
-              <metamark function="link">*</metamark>
-              <p>The question hinted here is one which time only can answer. Must not the virtue of
+              
+              <p><metamark function="link">*</metamark> The question hinted here is one which time only can answer. Must not the virtue of
               modern Individualism, continually enlarging, usurping all, seriously affect, perhaps
               keep down entirely, in America, the like of the ancient virtue of Patriotism, the
               fervid and absorbing love of general country? I have no doubt myself that the two
@@ -12585,8 +12586,8 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             <milestone unit="undeclared" rend="horbar-full"/>
             
             <note xml:id="n23" type="authorial" target="#r23" place="bottom">
-              <metamark function="link">*</metamark>
-              <p>"S<hi rend="smallcaps">HOOTING</hi>
+              
+              <p><metamark function="link">*</metamark> "S<hi rend="smallcaps">HOOTING</hi>
                 N<hi rend="smallcaps">IAGARA</hi>."&#8212;I was at first roused to much anger and abuse by this essay from
                 Mr. Carlyle, so insulting to the theory of America&#8212;but happening to think
                 afterwards how I had more than once been in the like mood, during which his essay
@@ -12845,8 +12846,8 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
           <milestone unit="undeclared" rend="horbar-full"/>
           
           <note xml:id="n24" type="authorial" target="#r24" place="bottom" next="#n24.2">
-            <metamark function="link">*</metamark>
-            <p>For fear
+            
+            <p><metamark function="link">*</metamark> For fear
             of mistake, I may as well distinctly specify, as cheerfully included in the model
             and standard of these Vistas, a practical, stirring, worldly,</p></note>
 
@@ -13056,8 +13057,8 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             <milestone unit="undeclared" rend="horbar-full"/>
             
             <note xml:id="n25" type="authorial" target="#r25" place="bottom">
-              <metamark function="link">*</metamark>
-              <p>The
+              
+              <p><metamark function="link">*</metamark> The
               whole present system of the officering and personnel of the army and navy of these
               States, and the spirit and letter of their trebly-aristocratic rules and
               regulations, is a monstrous exotic, a nuisance and revolt, and belong here just as
@@ -13140,8 +13141,8 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             
             
             <note xml:id="n26" type="authorial" target="#r26" place="bottom" next="#n26.2">
-              <metamark function="link">*</metamark> 
-              <p>After the rest is satiated, all interest culminates in the field of
+               
+              <p><metamark function="link">*</metamark> After the rest is satiated, all interest culminates in the field of
                 persons, and never flags there. Accordingly in this field have the great poets and
                 literatuses signally toil'd. They too, in all ages, all lands, have been creators,
                 fashioning, making types of men and women, as Adam and Eve are made in the divine
@@ -13777,8 +13778,8 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             <milestone unit="undeclared" rend="horbar-full"/>
             
             <note xml:id="n27" type="authorial" target="#r27" place="bottom">
-              <metamark function="link">*</metamark> 
-              <p>Note, to-day, an instructive, curious spectacle and conflict. 
+               
+              <p><metamark function="link">*</metamark> Note, to-day, an instructive, curious spectacle and conflict. 
                 Science, (twin, in its fields, of Democracy in its)&#8212;Science, testing 
                 absolutely all thoughts, all works, has already burst well upon the 
                 world&#8212;a sun, mounting, most illuminating, most glorious&#8212;surely 
@@ -13950,8 +13951,8 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
            
   
           <note xml:id="n28" type="authorial" target="#r28" place="bottom" next="n28.2">
-            <metamark function="link">*</metamark>
-            <p>It is to the development, identification, and general prevalence of 
+            
+            <p><metamark function="link">*</metamark> It is to the development, identification, and general prevalence of 
               that fervid comradeship, (the adhesive love, at least rivaling the amative love 
               hitherto possessing imaginative literature, if not going beyond it,) that I look for 
               the counterbalance and offset of our materialistic and vulgar American democracy, 
@@ -14044,8 +14045,8 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             <milestone unit="undeclared" rend="horbar-full"/>
                         
   <note xml:id="n29" type="authorial" target="r29" place="bottom">
-    <metamark function="link">*</metamark>
-    <p>I am reminded as I write that out of this very 
+    
+    <p><metamark function="link">*</metamark> I am reminded as I write that out of this very 
                 conscience, or idea of conscience, of intense moral right, and in its name and 
                 strain'd construction, the worst fanaticisms, wars, persecutions, murders, 
                 &#38;c., have yet, in all lands, in the past, been broach'd, and have come to 
@@ -14084,8 +14085,8 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             <milestone unit="undeclared" rend="horbar-full"/>
           
                     <note xml:id="n30" type="authorial" target="#r30" place="bottom" next="#n30.2">
-                      <metamark function="link">*</metamark>
-                      <p>The culmination and fruit of literary artistic expression, and its final fields of 
+                      
+                      <p><metamark function="link">*</metamark> The culmination and fruit of literary artistic expression, and its final fields of 
                 pleasure for the human soul, are in metaphysics, including the mysteries of the 
                 spiritual world, the soul itself, and the question of the immortal continuation of 
                 our identity. In all ages, the mind of man has brought up here&#8212;and always 
@@ -14119,7 +14120,7 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
                 inscription is to appear, Though little or nothing can be absolutely known, 
                 perceiv'd, except from a point of view which is evanescent, yet we know at least one
                 permanency, that Time and Space, in the will of God, furnish successive chains, 
-                completions of material births and <choice>begin-</choice></p></note>
+                completions of material births and <choice><orig>begin-</orig><reg>beginnings</reg></choice></p></note>
           
           
           
@@ -15225,8 +15226,8 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             <milestone unit="undeclared" rend="horbar-full"/>
             
             <note xml:id="n31" type="authorial" target="#r31" place="bottom">
-              <metamark function="link">*</metamark>
-              <p>The problems of the achievements of this
+              
+              <p><metamark function="link">*</metamark> The problems of the achievements of this
                 crowning stage through future first-class National Singers, Orators, Artists, and
                 others&#8212;of creating in literature an imaginative New World, the
                 correspondent and counterpart of the current Scientific and Political New
@@ -15357,8 +15358,8 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             <milestone unit="undeclared" rend="horbar-full"/>
                         
             <note xml:id="n32" type="authorial" target="#r32" place="bottom" next="#n32.2">
-              <metamark function="link">*</metamark>
-              <p>P<hi rend="smallcaps">ASSAGE</hi> T<hi rend="smallcaps">O</hi> I<hi rend="smallcaps">NDIA</hi>.&#8212;As 
+              
+              <p><metamark function="link">*</metamark> P<hi rend="smallcaps">ASSAGE</hi> T<hi rend="smallcaps">O</hi> I<hi rend="smallcaps">NDIA</hi>.&#8212;As 
                 in some ancient
                 legend-play, to close the plot and the hero's career, there is a farewell gathering
                 on ship's deck and on shore, a loosing of hawsers and ties, a spreading of sails to
@@ -15368,7 +15369,7 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
                 and explain much that, without them, would not be explain'd, and to take leave, and
                 escape for good, from all that has preceded them. (Then probably "Passage to India,"
                 and its cluster, are but freer vent and fuller expression to what, from the first,
-                and so on <choice><orig>through-</orig><regthroughout></regthroughout></choice></p></note>
+                and so on <choice><orig>through-</orig><reg>throughout</reg></choice></p></note>
             
             <pb facs="prc_kc.00282.jpg" xml:id="leaf145r1" n="281" type="recto"/>
 
@@ -15378,7 +15379,7 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
           <milestone unit="undeclared" rend="horbar-full"/>
           
           <note xml:id="n32.2" type="authorial" target="#r32" place="bottom" prev="#n32" next="#n32.3">
-            <p>out, more or less lurks in my writings, underneath every page,
+            <p><choice><orig>out</orig><reg></reg></choice>, more or less lurks in my writings, underneath every page,
           every line, everywhere.)</p> 
             <p>I am not sure but the last inclosing sublimation of
             race or poem is, what it thinks of death. After the rest has been comprehended and
@@ -15511,8 +15512,8 @@ all bodily activity and comfort.]</p>
            
           
           <note xml:id="n33" type="authorial" target="#r33" place="bottom" next="#n33.2">
-            <metamark function="link">*</metamark>
-            <p>Namely, a character, making
+            
+            <p><metamark function="link">*</metamark> Namely, a character, making
               most of common and normal elements, to the superstructure of which not only the
               precious accumulations of the learning and experiences of the Old World, and the
               settled social and municipal necessities and current requirements, so long
@@ -15953,8 +15954,8 @@ all bodily activity and comfort.]</p>
             
              
           <note xml:id="n34" type="authorial" target="#r34" place="bottom">
-          <metamark function="link">*</metamark>
-          <p>A few years ago I
+          
+          <p><metamark function="link">*</metamark> A few years ago I
                 saw the question, "Has America produced any great poem?" announced as prize-subject
                 for the competition of some university in Northern Europe. I saw the item in a
                 foreign paper and made a note of it; but being taken down with paralysis, and
@@ -15966,8 +15967,8 @@ all bodily activity and comfort.]</p>
            </note>
             
             <note xml:id="n35" type="authorial" target="#r35" place="bottom">
-              <metamark function="link">&#8224;</metamark>
-              <p>In a long and prominent editorial, at the time, on the death of William Cullen Bryant.</p>
+              
+              <p><metamark function="link">&#8224;</metamark> In a long and prominent editorial, at the time, on the death of William Cullen Bryant.</p>
             </note>
             
             <pb facs="prc_kc.00294.jpg" xml:id="leaf151r1" n="293" type="recto"/>
@@ -16216,8 +16217,8 @@ all bodily activity and comfort.]</p>
             <milestone unit="undeclared" rend="horbar-full"/>
             
             <note xml:id="n36" type="authorial" target="#r36" place="bottom">
-              <metamark function="link">*</metamark>
-              <p>Whatever may be said of the few
+              
+              <p><metamark function="link">*</metamark> Whatever may be said of the few
                 principal poems&#8212;or their best passages&#8212;it is certain that the
                 overwhelming mass of poetic works, as now absorb'd into human character, exerts a
                 certain constipating, repressing, in-door, and artificial influence, impossible to
@@ -16239,8 +16240,8 @@ all bodily activity and comfort.]</p>
             <milestone unit="undeclared" rend="horbar-full"/>
 
             <note xml:id="n37" type="authorial" target="#r37" place="bottom" next="#n37.2">
-              <metamark function="link">*</metamark>
-              <p>Is there not such a thing as the philosophy of American history and politics? And if
+              
+              <p><metamark function="link">*</metamark> Is there not such a thing as the philosophy of American history and politics? And if
               so, what is it? . . . Wise men say there are two sets of wills to nations and to
               persons&#8212;one set that acts and works from explainable
               motives&#8212;from teaching, intelligence, judgment, circumstance, caprice,
