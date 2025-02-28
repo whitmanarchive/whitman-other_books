@@ -1892,8 +1892,8 @@
             <milestone unit="undeclared" rend="horbar-full"/>
             
             <note xml:id="n1" type="authorial" target="#r1" place="bottom" next="#n1.2">
-              <metamark function="link">*</metamark>
-              <p>The pages from 8 to 20 are nearly verbatim an
+              
+              <p><metamark function="link">*</metamark> The pages from 8 to 20 are nearly verbatim an
                 off-hand letter of mine in January, 1882, to an insisting friend. Following, I give
                 some gloomy experiences. The war of attempted secession has, of course, been the
                 distinguishing event of my time. I commenced at the close of 1862, and continued
