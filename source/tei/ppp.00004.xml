@@ -92,7 +92,7 @@
       
       <docAuthor><hi rend="italic">By</hi> WALT WHITMAN,</docAuthor>
         <docAuthor><hi rend="italic">Author of</hi> &quot;L<hi rend="smallcaps">EAVES OF</hi> G<hi rend="smallcaps">RASS</hi>.&quot;</docAuthor>
-      
+      <space dim="vertical" quantity="5" unit="line" />
       <docImprint>
       <pubPlace>PHILADELPHIA:</pubPlace> 
       <publisher>REES WELSH &amp; CO.,</publisher> 
