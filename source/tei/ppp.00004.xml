@@ -15,6 +15,7 @@
           <resp>Transcription and encoding</resp>
           <persName xml:id="kc">Karie Cobb</persName>
           <persName xml:id="km">Kevin McMullen</persName>
+          <persName xml:id="bb">Brett Barney</persName>
         </respStmt>
         <sponsor>Center for Digital Research in the Humanities</sponsor>
         <sponsor>University of Iowa</sponsor>
@@ -61,6 +62,8 @@
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
+      <change when="2025-02-28" who="#bb">put footnote asterisks, etc. inside paragraphs; fixed a couple of bad choice elements</change>
+      <change when="2025-01-30" who="#bb">recoded footnotes; fixed miscellaneous typos as I saw them</change>
       <change when="2024-09-12" who="#km">proofed encoding</change>
       <change when="2023-08-28" who="#kc">created file, using transcription from Complete Prose Works; proofed</change>
     </revisionDesc>
@@ -89,12 +92,12 @@
       
       <docAuthor><hi rend="italic">By</hi> WALT WHITMAN,</docAuthor>
         <docAuthor><hi rend="italic">Author of</hi> &quot;L<hi rend="smallcaps">EAVES OF</hi> G<hi rend="smallcaps">RASS</hi>.&quot;</docAuthor>
-      
+      <space dim="vertical" quantity="5" unit="line" />
       <docImprint>
       <pubPlace>PHILADELPHIA:</pubPlace> 
       <publisher>REES WELSH &amp; CO.,</publisher> 
-        <publisher>N<hi rend="smallcaps">O</hi>. 23 S<hi rend="smallcaps">OUTH</hi> N<hi rend="smallcaps">INTH</hi> S<hi rend="smallcaps">TREET.</hi></publisher> 
-        <date>1882&#8211;'83</date>
+      <pubPlace><address><addrLine>N<hi rend="smallcaps">O</hi>. 23 S<hi rend="smallcaps">OUTH</hi> N<hi rend="smallcaps">INTH</hi> S<hi rend="smallcaps">TREET.</hi></addrLine></address></pubPlace> 
+      <docDate><date>1882&#8211;'83</date></docDate>
       </docImprint>
       
       </titlePage> 
@@ -1890,6 +1893,7 @@
             <milestone unit="undeclared" rend="horbar-full"/>
             
             <note xml:id="n1" type="authorial" target="#r1" place="bottom" next="#n1.2">
+              
               <p><metamark function="link">*</metamark> The pages from 8 to 20 are nearly verbatim an
                 off-hand letter of mine in January, 1882, to an insisting friend. Following, I give
                 some gloomy experiences. The war of attempted secession has, of course, been the
@@ -1917,10 +1921,7 @@
                   summers, I spent at a secluded haunt down in Camden county, New
                   Jersey&#8212;Timber creek, quite a little river (it enters from the</p> 
             </note>
-                  
-                  
-                  <pb facs="prc_kc.00009.jpg" xml:id="leaf007v2" n="8" type="verso"/>
-            
+                              
 
             <pb facs="prc_kc.00009.jpg" xml:id="leaf007v1" n="8" type="verso"/>
 
@@ -1985,7 +1986,7 @@
 
           <p>The later years of the last century found the Van Velsor family, my mother's side,
             living on their own farm at Cold Spring, Long Island, New York State, near the eastern
-            edge of Queens county, about a mile from the harbor.<ref xml:id="r2" target="#n2" n="2"><metamark function="link">*</metamark></ref> My father's side&#8212;probably the fifth generation from the first
+            edge of Queens county, about a mile from the harbor.<ref xml:id="r2" target="#n2"><metamark function="link">*</metamark></ref> My father's side&#8212;probably the fifth generation from the first
             English arrivals in New England&#8212;were at the same time farmers on their own
             land&#8212;(and a fine domain it was, 500 acres, all good soil, gently sloping east
             and south, about one-tenth woods, plenty of grand old trees,) two or three miles off, at
@@ -2021,7 +2022,9 @@
             
             <milestone unit="undeclared" rend="horbar-full"/>
             
-            <note xml:id="n2" type="authorial" target="#r2" n="2" place="bottom"><p><metamark function="link">*</metamark> Long Island
+            <note xml:id="n2" type="authorial" target="#r2" place="bottom">
+              
+              <p><metamark function="link">*</metamark> Long Island
               was settled first on the west end by the Dutch, from Holland, then on the east end
               by the English&#8212;the dividing line of the two nationalities being a little
               west of Huntington, where my father's folks lived, and where I was
@@ -2173,9 +2176,13 @@
           <head type="main">PAUMANOK, AND MY LIFE ON IT AS CHILD AND YOUNG MAN.</head>
 
           <p>Worth fully and particularly investigating indeed this Paumanok, (to give the spot its
-            aboriginal name,<ref xml:id="r3" target="#n3" n="3"><metamark function="link">*</metamark></ref>) stretching east
+            aboriginal name,<ref xml:id="r3" target="#n3"><metamark function="link">*</metamark></ref>) stretching east
             
-            <note xml:id="n3" type="authorial" target="#r3" n="3" place="bottom"><p><metamark function="link">*</metamark> "Paumanok, (or Paumanake, or Paumanack, the Indian
+            <milestone unit="undeclared" rend="horbar-full"/>
+            
+            <note xml:id="n3" type="authorial" target="#r3" place="bottom">
+              <metamark function="link">*</metamark>
+              <p>"Paumanok, (or Paumanake, or Paumanack, the Indian
                 name of Long Island,) over a hundred miles long; shaped like a fish&#8212;plenty
                 of sea shore, sandy, stormy, uninviting, the horizon boundless, the air too strong
                 for invalids, the bays a wonderful resort for aquatic birds, the south-side meadows
@@ -2278,7 +2285,7 @@
             <pb facs="prc_kc.00016.jpg" xml:id="leaf011r1" n="15" type="recto"/>
 
             occupied them, one after the other, but they were mortgaged, and we lost them. I yet
-            remember Lafayette's visit.<ref xml:id="r4" target="#n4" n="4"><metamark function="link">*</metamark></ref> Most
+            remember Lafayette's visit.<ref xml:id="r4" target="#n4"><metamark function="link">*</metamark></ref> Most
             of these years I went to the public schools. It must have been about 1829 or '30 that I
             went with my father and mother to hear Elias Hicks preach in a ball-room on Brooklyn
             heights. At about the same time employ'd as a boy in an office, lawyers', father and two
@@ -2307,7 +2314,11 @@
             fields and country roads everywhere around.<ref xml:id="r5" target="#n5" n="5"><metamark function="link">&#8224;</metamark></ref>)
             Afterward
             
-            <note xml:id="n4" type="authorial" target="#r4" n="4" place="bottom"><p><metamark function="link">*</metamark> "On the visit of General
+            <milestone unit="undeclared" rend="horbar-full"/>
+            
+            <note xml:id="n4" type="authorial" target="#r4" place="bottom">
+              
+              <p><metamark function="link">*</metamark> "On the visit of General
                 Lafayette to this country, in 1824, he came over to Brooklyn in state, and rode
                 through the city. The children of the schools turn'd out to join in the welcome. An
                 edifice for a free public library for youths was just then commencing, and Lafayette
@@ -2319,7 +2330,9 @@
                 child a moment to his breast, and giving him a kiss, handed him down to a safe spot
                 in the excavation."<hi rend="italic">&#8212;John Burroughs.</hi></p></note>
             
-            <note xml:id="n5" type="authorial" target="#r5" n="5" place="bottom" next="#n5.2"><p><metamark function="link">&#8224;</metamark> Of the Brooklyn of
+            <note xml:id="n5" type="authorial" target="#r5" place="bottom" next="#n5.2">
+              
+              <p><metamark function="link">&#8224;</metamark> Of the Brooklyn of
                 that time (1830&#8211;40) hardly anything remains, except the lines of the old
                 streets. The population was then between ten and twelve thousand. For a mile Fulton
                 street was lined with magnificent elm trees. The character of the place was
@@ -2373,7 +2386,10 @@
             the greatest of its sort in the world for general importance, volume, variety, rapidity,
             and picturesqueness. Almost daily, later, ('50 to '60,) I
             
-            <note xml:id="n5.2" type="authorial" target="#r5" place="bottom" prev="#n5"><p>Among the former were Smith &#38;
+            <milestone unit="undeclared" rend="horbar-full"/>
+            
+            <note xml:id="n5.2" type="authorial" target="#r5" place="bottom" prev="#n5">
+              <p>Among the former were Smith &#38;
             Wood's, Coe Downing's, and other public houses at the ferry, the old Ferry itself,
             Love lane, the Heights as then, the Wallabout with the wooden bridge, and the road
             out beyond Fulton street to the old toll-gate. Among the latter were the majestic
@@ -3722,8 +3738,8 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             began, and have talk'd with them about each one in every part of the United States, and
             many of the engagements on the rivers and harbors too. I find men here from every State
             in the Union, without exception. (There are more Southerners, especially border State
-            men, in the Union army than is generally supposed.<ref xml:id="r6" target="#n6" n="6"
-              ><metamark function="link">*</metamark></ref>) I now doubt whether one can get a fair idea of what this war
+            men, in the Union army than is generally supposed.<ref xml:id="r6" target="#n6"><metamark function="link">*</metamark></ref>) 
+            I now doubt whether one can get a fair idea of what this war
             practically is, or what genuine America is, and her character, without some such
             experience as this I am having.</p>
 
@@ -3748,8 +3764,12 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             will die here in an hour or two, without the presence of kith or kin. Meantime the
             ordinary chat and business of the ward a little way off goes on indifferently.
             
-            <note xml:id="n6" type="authorial" target="#r6" n="6" place="bottom"><p><metamark function="link">*</metamark> M<hi rend="smallcaps">R</hi>. G<hi rend="smallcaps">ARFIELD</hi>
-              (<hi rend="italic">In the House of Representatives, April 15, '79.</hi>)"Do
+            <milestone unit="undeclared" rend="horbar-full"/>
+            
+            <note xml:id="n6" type="authorial" target="#r6" place="bottom">
+              
+              <p><metamark function="link">*</metamark> M<hi rend="smallcaps">R</hi>. G<hi rend="smallcaps">ARFIELD</hi>
+              (<hi rend="italic">In the House of Representatives, April 15, '79.</hi>) "Do
               gentlemen know that (leaving out all the border States) there were fifty regiments
               and seven companies of white men in our army fighting for the Union from the States
               that went into rebellion? Do they know that from the single State of Kentucky more
@@ -4813,8 +4833,8 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             the prevailing maladies are typhoid fever and the camp fevers generally, diarrh&#339;a,
             catarrhal affections and bronchitis, rheumatism and pneumonia. These forms of sickness
             lead; all the rest follow. There are twice as many sick as there are wounded. The deaths
-            range from seven to ten per cent, of those under treatment.<ref xml:id="r7" target="#n7"
-              n="7"><metamark function="link">*</metamark></ref></p>
+            range from seven to ten per cent, of those under treatment.<ref xml:id="r7" target="#n7"><metamark function="link">*</metamark>
+            </ref></p>
 
         </div>
 
@@ -4839,7 +4859,11 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             a wave&#8212;but the ranks of the ocean eternally press on. Death does its work,
             ob-
             
-            <note xml:id="n7" type="authorial" target="#r7" n="7" place="bottom"><p>In the
+            <milestone unit="undeclared" rend="horbar-full"/>
+            
+            <note xml:id="n7" type="authorial" target="#r7" place="bottom">
+              
+              <p><metamark function="link">*</metamark> In the
               U. S. Surgeon-General's office since, there is a formal record and treatment of
               253,142 cases of wounds by government surgeons. What must have been the number
               unofficial, indirect&#8212;to say nothing of the Southern armies?</p></note>
@@ -4918,11 +4942,14 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             incredible&#8212;was evidently the rule of treatment through all the southern
             military prisons. The dead there are not to be pitied as much as some of the living that
             come from there&#8212;if they can be call'd living&#8212;many of them are
-            mentally imbecile, and will never recuperate.<ref xml:id="r8" target="#n8" n="8"><metamark function="link">*</metamark></ref></p></div>
+            mentally imbecile, and will never 
+            recuperate.<ref xml:id="r8" target="#n8"><metamark function="link">*</metamark></ref></p></div>
         
-        <note xml:id="n8" type="authorial" target="#r8" n="8" place="bottom" next="#n8.2">
-          <p>
-            <hi rend="italic">*From a review of "ANDERSONVILLE, A STORY OF SOUTHERN MILITARY
+        <milestone unit="undeclared" rend="horbar-full"/>
+        
+        <note xml:id="n8" type="authorial" target="#r8" place="bottom" next="#n8.2">
+          
+          <p><metamark function="link">*</metamark> <hi rend="italic">From a review of "ANDERSONVILLE, A STORY OF SOUTHERN MILITARY
               PRISONS," published serially in the "Toledo Blade," in 1879, and afterwards in book
               form.</hi>
           </p>
@@ -4972,7 +4999,10 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             couple of weeks afterwards he was doing pretty well. I visited and sat by him
             frequently, as he was fond of having me. The last ten or
             
-            <note xml:id="n8.2" type="authorial" target="#r8" place="bottom" prev="#r8"><p>nation stands aghast at the expenditure of life which attended the two bloody
+            <milestone unit="undeclared" rend="horbar-full"/>
+            
+            <note xml:id="n8.2" type="authorial" target="#r8" place="bottom" prev="#n8">
+              <p>nation stands aghast at the expenditure of life which attended the two bloody
             campaigns of 1864, which virtually crush'd the confederacy, but no one remembers that
             moie Union soldiers died in the rear of the rebel lines than were kill'd in the front
             of them. The great military events which stamp'd out the rebellion drew attention away
@@ -5502,7 +5532,7 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
           <head type="main">NEW THEMES ENTERED UPON.</head>
 
           <p><hi rend="italic">1876, '77</hi>.&#8212;I find the woods in mid-May and early June
-            my best places for composition.<ref xml:id="r9" target="#n9" n="9"><metamark function="link">*</metamark></ref> Seated
+            my best places for composition.<ref xml:id="r9" target="#n9"><metamark function="link">*</metamark></ref> Seated
             on logs or stumps there, or resting on rails, nearly all the following memoranda have
             been jotted down. Wherever I go, indeed, winter or summer, city or country, alone at
             home or traveling, I must take notes&#8212;(the ruling passion strong in age and
@@ -5524,7 +5554,11 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
 
         </div>
         
-        <note xml:id="n9" type="authorial" target="#r9" n="9" place="bottom"><p><metamark function="link">*</metamark> Without apology for the abrupt
+        <milestone unit="undeclared" rend="horbar-full"/>
+        
+        <note xml:id="n9" type="authorial" target="#r9" place="bottom">
+          
+          <p><metamark function="link">*</metamark> Without apology for the abrupt
             change of field and atmosphere&#8212;after what I have put in the preceding
             fifty or sixty pages&#8212;temporary episodes, thank heaven!&#8212;I restore
             my book to the bracing and buoyant equilibrium of concrete outdoor Nature, the only
@@ -5953,7 +5987,7 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
                   fellow, vital, green, bushy, five feet thick at the butt, I sit under every
                   day.)</cell>
                 <cell role="data" rows="1" cols="1">ern Illinois, 140 feet high and 8 feet thick at
-                  the butt<ref xml:id="r10" target="#n10" n="10"><metamark function="link">*</metamark></ref>; does not transplant well; best rais'd from
+                  the butt<ref xml:id="r10" target="#n10"><metamark function="link">*</metamark></ref>; does not transplant well; best rais'd from
                   seeds&#8212;the lumbermen call it yellow poplar.)</cell>
               </row>
 
@@ -5978,7 +6012,11 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
 
           </p>
           
-          <note xml:id="n10" type="authorial" target="#r10" n="10" place="bottom" next="#n10.2"><p><metamark function="link">*</metamark> There is a tulip poplar
+          <milestone unit="undeclared" rend="horbar-full"/>
+          
+          <note xml:id="n10" type="authorial" target="#r10" place="bottom" next="#n10.2">
+            
+            <p><metamark function="link">*</metamark> There is a tulip poplar
               within sight of Woodstown, which is twenty feet around, three feet from the
               ground, four feet across about eighteen feet up the trunk, which is broken off
               about three or four feet higher up. On the south</p></note>
@@ -6076,7 +6114,10 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             decayed and slanting, almost fallen to the stream, yet with life and leaves in its
             mossy
             
-            <note xml:id="n10.2" type="authorial" target="#r10" place="bottom" prev="#n10"><p>side an
+            <milestone unit="undeclared" rend="horbar-full"/>
+            
+            <note xml:id="n10.2" type="authorial" target="#r10" place="bottom" prev="#n10">
+              <p>side an
               arm has shot out from which rise two stems, each to about ninety-one or
               ninety-two feet from the ground. Twenty-five (or more) years since the cavity
               in the butt was large enough for, and nine men at one time, ate dinner
@@ -10085,14 +10126,18 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             philosophy, varied sands and clumps&#8212;without bothering ourselves because
             certain pages do not present themselves to you or me as coming under their own name with
             entire fitness or amiability. (It is a profound, vexatious, never-explicable
-            matter&#8212;this of names. I have been exercised deeply about it my whole life.<ref
-              xml:id="r11" target="#n11" n="11"><metamark function="link">*</metamark></ref>)
+            matter&#8212;this of names. I have been exercised deeply about it my whole 
+            life.<ref xml:id="r11" target="#n11"><metamark function="link">*</metamark></ref>)
           </p>
 
           <p>After all of which the name "Cedar-Plums Like" got its nose put out of joint; but I
-            cannot afford to throw away what I pen-
+            cannot afford to throw away what I <choice><orig>pen-</orig><reg>pencill'd</reg></choice>
             
-            <note xml:id="n11" type="authorial" target="#r11" n="11" place="bottom"><p><metamark function="link">*</metamark> In the pocket of my receptacle-book I find a list of
+            <milestone unit="undeclared" rend="horbar-full"/>
+            
+            <note xml:id="n11" type="authorial" target="#r11" place="bottom">
+              
+              <p><metamark function="link">*</metamark> In the pocket of my receptacle-book I find a list of
                 suggested and rejected names for this volume, or parts of it&#8212;such as the
                 following:
                 <q who="Walt Whitman">
@@ -10180,7 +10225,7 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
 
             <pb facs="prc_kc.00169.jpg" xml:id="leaf088v1" n="168" type="verso"/>
 
-            cill'd down the lane there, under the shelter of my old friend, one warm October noon.
+            <choice><orig>cill'd</orig><reg></reg></choice> down the lane there, under the shelter of my old friend, one warm October noon.
             Besides, it wouldn't be civil to the cedar tree.</p>
 
         </div>
@@ -10309,16 +10354,21 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
 
           <p>There is surely at present an inexplicable <hi rend="italics">rapport</hi> (all the
             more piquant from its contradictoriness) between that deceas'd author and our United
-            States of America&#8212;no matter whether it lasts or not.<ref xml:id="r12"
-              target="#n12" n="12"><metamark function="link">*</metamark></ref> As we Westerners assume definite shape, and result in for-
+            States of America&#8212;no matter whether it lasts or 
+            not.<ref xml:id="r12" target="#n12"><metamark function="link">*</metamark></ref> 
+            As we Westerners assume definite shape, and result in <choice><orig>for-</orig><reg>formations</reg></choice>
             
-            <note xml:id="n12" type="authorial" target="#r12" n="12" place="bottom" next="#n12.2"><p><metamark function="link">*</metamark> It will be difficult for the future&#8212;judging by his books,
+            <milestone unit="undeclared" rend="horbar-full"/>
+            
+            <note xml:id="n12" type="authorial" target="#r12" place="bottom" next="#n12.2">
+              
+              <p><metamark function="link">*</metamark> It will be difficult for the future&#8212;judging by his books,
                 personal dis-sympathies, &#38;c.,&#8212;to account for the deep hold this
                 author has taken on the</p></note>
 
             <pb facs="prc_kc.00172.jpg" xml:id="leaf090r1" n="171" type="recto"/>
 
-            mations and fruitage unknown before, it is curious with what a new sense our eyes turn
+            <choice><orig>mations</orig><reg></reg></choice> and fruitage unknown before, it is curious with what a new sense our eyes turn
             to representative outgrowths of crises and personages in the Old World. Beyond question,
             since Carlyle's death, and the publication of Froude's memoirs, not only the interest in
             his books, but every personal bit regarding the famous Scotchman&#8212;his
@@ -10328,7 +10378,7 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             land. Whether I succeed or no, I, too, reaching across the Atlantic and taking the man's
             dark fortune-telling of humanity and politics, would offset it all, (such is the fancy
             that comes to me,) by a far more profound horoscope-casting of those themes&#8212;G.
-            F. Hegel's.<ref xml:id="r13" target="n13" n="13"><metamark function="link">*</metamark></ref></p>
+            F. Hegel's.<ref xml:id="r13" target="#n13"><metamark function="link">*</metamark></ref></p>
 
           <p>First, about a chance, a never-fulfill'd vacuity of this pale cast of
             thought&#8212;this British Hamlet from Cheyne row, more puzzling than the Danish
@@ -10343,7 +10393,10 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             and developments of this Republic amid its practical facts as exemplified in Kansas,
             Missouri, Illinois, Tennessee, or Louisiana. I say <hi rend="italic">facts</hi>, and
             
-            <note xml:id="n12.2" type="authorial" target="#r12" place="bottom" prev="#n12"><p>present age, and the way he has color'd its method and thought. I
+            <milestone unit="undeclared" rend="horbar-full"/>
+            
+            <note xml:id="n12.2" type="authorial" target="#r12" place="bottom" prev="#n12">
+              <p>present age, and the way he has color'd its method and thought. I
               am certainly at a loss to account for it all as affecting myself. But there could be
               no view, or even partial picture, of the middle and latter part of our Nineteenth
               century, that did not markedly include Thomas Carlyle. In his case (as so many
@@ -10355,7 +10408,9 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
               analyses of democracy&#8212;even from the most erudite and sincere mind of
               Europe.</p></note>
             
-            <note xml:id="n13" type="authorial" target="#r13" n="13" place="bottom"><p><metamark function="link">*</metamark> Not the least mentionable part of the case, (a
+            <note xml:id="n13" type="authorial" target="#r13" place="bottom">
+               
+              <p><metamark function="link">*</metamark> Not the least mentionable part of the case, (a
                 streak, it may be, of that humor with which history and fate love to contrast their
                 gravity,) is that although neither of my great authorities during their lives
                 consider'd the United States worthy of serious mention, all the principal works of
@@ -10394,7 +10449,7 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             perform'd by mortal man. But the pang and hiatus of Carlyle seem to me to consist in the
             evidence everywhere that amid a whirl of fog and fury and cross-purposes, he firmly
             believ'd he had a clue to the medication of the world's ills, and that his bounden
-            mission was to exploit it.<ref xml:id="r14" target="#n14" n="14"><metamark function="link">*</metamark></ref></p>
+            mission was to exploit it.<ref xml:id="r14" target="#n14"><metamark function="link">*</metamark></ref></p>
 
           <p>There were two anchors, or sheet-anchors, for steadying, as a last resort, the
             Carlylean ship. One will be specified presently. The other, perhaps the main, was only
@@ -10403,7 +10458,11 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             current of the Scotchman's blood something that warm'd up to this kind of trait and
             character above aught else in the world, and which makes him in my
             
-            <note xml:id="n14" type="authorial" target="#r14" n="14" place="bottom"><p><metamark function="link">*</metamark> I hope I shall not myself fall
+            <milestone unit="undeclared" rend="horbar-full"/>
+            
+            <note xml:id="n14" type="authorial" target="#r14" place="bottom">
+              
+              <p><metamark function="link">*</metamark> I hope I shall not myself fall
                 into the error I charge upon him, of prescribing a specific for indispensable evils.
                 My utmost pretension is probably but to offset that old claim of the exclusively
                 curative power of first-class individual men, as leaders and rulers, by the claims,
@@ -10573,9 +10632,8 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             inconsistent, temporary, and though having ever so great an ostensible majority, are
             certainly destin'd to failure, after causing great suffering.</p>
 
-          <p>Theology, Hegel translates into science.<ref xml:id="r15" target="n15" n="15"/><note
-              xml:id="n15" type="authorial" target="r15" n="15" place="inline"><p>*I am much indebted
-                to J. Gostick's abstract.</p></note> All apparent contradictions in the statement of
+          <p>Theology, Hegel translates into science.<ref xml:id="r15" target="#n15">
+            <metamark function="link">*</metamark></ref> All apparent contradictions in the statement of
             the Deific nature by different ages, nations, churches, points of view, are but
             fractional and imperfect expressions of one essential unity, from which they all
             proceed&#8212;crude endeavors or distorted parts, to be regarded both as distinct
@@ -10585,26 +10643,20 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             scheme, in history, science, and all life and time, present and future, is both the
             truest cosmical devotee or religioso, and the profoundest philosopher. While he who, by
             the spell of himself and his circumstance, sees darkness and despair
-
+            
+            <milestone unit="undeclared" rend="horbar-full"/>
+            <note xml:id="n15" type="authorial" target="#r15" place="bottom">
+              
+              <p><metamark function="link">*</metamark> I am much indebted to J. Gostick's abstract.</p></note>
+            
             <pb facs="prc_kc.00178.jpg" xml:id="leaf093r1" n="177" type="recto"/>
 
             in the sum of the workings of God's providence, and who, in that, denies or
             prevaricates, is, no matter how much piety plays on his lips, the most radical sinner
             and infidel.</p>
 
-          <p>I am the more assured in recounting Hegel a little freely here,<ref xml:id="r16"
-              target="n16" n="16"/><note xml:id="n16" type="authorial" target="r16" n="16"
-              place="inline"><p>*I have deliberately repeated it all, not only in offset to Carlyle's
-                ever-lurking pessimism and world-decadence, but as presenting the most thoroughly
-                  <hi rend="italic">American points of view</hi> I know. In my opinion the above
-                formulas of Hegel are an essential and crowning justification of New World democracy
-                in the creative realms of time and space. There is that about them which only the
-                vastness, the multiplicity and the vitality of America would seem able to
-                comprehend, to give scope and illustration to, or to be fit for, or even originate.
-                It is strange to me that they were born in Germany, or in the old world at all.
-                While a Carlyle, I should say, is quite the legitimate European product to be
-                expected.</p></note> not only for offsetting the Carlylean letter and
-            spirit&#8212;cutting it out all and several from the very roots, and below the
+          <p>I am the more assured in recounting Hegel a little freely 
+            here,<ref xml:id="r16" target="#n16"><metamark function="link">*</metamark></ref> not only for offsetting the Carlylean letter and spirit&#8212;cutting it out all and several from the very roots, and below the
             roots&#8212;but to counterpoise, since the late death and deserv'd apotheosis of
             Darwin, the tenets of the evolutionists. Unspeakably precious as those are to biology,
             and henceforth indispensable to a right aim and estimate in study, they neither comprise
@@ -10631,6 +10683,21 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             even scornfully on dangerous spots and liabilities. (Michel Angelo invoked heaven's
             special protection against his friends and affectionate flatterers; palpable foes 
             could manage for
+            
+            <milestone unit="undeclared" rend="horbar-full"/>
+            
+            <note xml:id="n16" type="authorial" target="#r16" place="bottom">
+              
+              <p><metamark function="link">*</metamark> I have deliberately repeated it all, not only in offset to Carlyle's
+                ever-lurking pessimism and world-decadence, but as presenting the most thoroughly
+                  <hi rend="italic">American points of view</hi> I know. In my opinion the above
+                formulas of Hegel are an essential and crowning justification of New World democracy
+                in the creative realms of time and space. There is that about them which only the
+                vastness, the multiplicity and the vitality of America would seem able to
+                comprehend, to give scope and illustration to, or to be fit for, or even originate.
+                It is strange to me that they were born in Germany, or in the old world at all.
+                While a Carlyle, I should say, is quite the legitimate European product to be
+                expected.</p></note>
 
             <pb facs="prc_kc.00179.jpg" xml:id="leaf093v1" n="178" type="verso"/>
 
@@ -10908,217 +10975,188 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
           <head type="main">SAMPLES OF MY COMMON-PLACE BOOK.</head>
 
           <p>I ought not to offer a record of these days, interests, recuperations, without
-            including a certain old, well-thumb'd common-place book,<ref xml:id="r17" target="n17"
-              n="17"/><note xml:id="n17" type="authorial" target="r17" n="17" place="inline"><p><hi
-                  rend="italic">*Samples of my common-place book down at the creek:</hi></p>
-                
-                <q who="Henry David Thoreau"><floatingText><body><p>I have&#8212;says old Pindar&#8212;many swift
-                    arrows in my quiver which speak to the wise, though they need an interpreter to
-                    the thoughtless.<lb/>Such a man as it takes ages to make, and ages to
-                      understand.<lb/><hi rend="italic">H. D. Thoreau.</hi></p></body></floatingText></q> 
-                
-                <q><floatingText><body><p>If you hate a man, don't kill him, but let him live.&#8212;<hi rend="italic"
-                      >Buddhistic</hi>.</p></body></floatingText></q> 
-                
-                <q who="Ralph Waldo Emerson"><floatingText><body><p>Famous swords
-                  are made of refuse scraps, thought worthless.<lb/> Poetry is the only verity&#8212;the
-                    expression of a sound mind speaking after the ideal&#8212;and not after the
-                    apparent.&#8212;<hi rend="italic">Emerson</hi>.</p></body></floatingText></q>
-                
-                <q who="Ralph Waldo Emerson"><floatingText><body><p>The form of oath among the Shoshone Indians is, "The
-                    earth hears me. The sun hears me. Shall I lie?"<lb/>The true test of
-                    civilization is not the census, nor the size of cities, nor the
-                    crops&#8212;no, but the kind of a man the country turns out.&#8212;<hi
-                      rend="italic">Emerson</hi>.</p></body></floatingText></q>
-                
-                <q who="Euripides"><floatingText><body> <lg
-                    type="poem"> <l>The whole wide ether is the eagle's sway:</l>
-                    <l>The whole earth is a brave man's fatherland.&#8212;<hi rend="italic"
-                      >Euripides</hi>.</l> </lg> </body></floatingText></q>
-                
-                <q who="Adam of St. Victor">
-                  <floatingText>
-                    <body> 
-                      <lg type="poem">
-                        <lg type="linegroup">
-                          <l>Spices crush'd, their pungence yield,</l>
-                          <l rend="indented1">Trodden scents their sweets respire;</l>
-                          <l>Would you have its strength reveal'd?</l>
-                          <l rend="indented1">Cast the incense in the fire.</l>
-                        </lg>
-                      </lg>
-                    </body>
-                  </floatingText>
-                </q> 
-                
-               <floatingText><body><p>Matthew Arnold speaks of "the huge Mississippi of falsehood called History."</p></body></floatingText><!-- This quote was found on page 75 of Matthew Arnold's 1865 book titled, "Essays in Criticism," in the chapter titled, "The Literary Influence of Academies." The first edition of "Essays in Criticism" was published by MACMILLAN AND CO. in London and Cambridge. -->
-                
-                <q><floatingText>
-                  <body>
+            including a certain old, well-thumb'd common-place book,<ref xml:id="r17" target="#n17">
+              <metamark function="link">*</metamark></ref> filled with favorite
+            excerpts, I carried in my 
+            
+            <milestone unit="undeclared" rend="horbar-full"/>
+            
+            <note xml:id="n17" type="authorial" target="#r17" n="17" place="bottom" next="#n17.2">
+              
+              <p><metamark function="link">*</metamark> <hi rend="italic">Samples of my common-place book down at the creek:</hi></p>
+              
+              <p>I have&#8212;says old Pindar&#8212;many swift
+                arrows in my quiver which speak to the wise, though they need an interpreter to
+                the thoughtless.</p>
+                <q who="Henry David Thoreau"><floatingText><body><p>Such a man as it takes ages to make, and ages to
+                understand.</p><p rend="italic">H. D. Thoreau.</p></body></floatingText></q> 
+              
+              <q><floatingText><body>
+                <p>If you hate a man, don't kill him, but let him live.&#8212;<hi rend="italic">Buddhistic</hi>.</p>
+              </body></floatingText></q> 
+              
+              <p>Famous swords are made of refuse scraps, thought worthless.</p> 
+              <q who="Ralph Waldo Emerson"><floatingText><body><p>Poetry is the only verity&#8212;the
+                expression of a sound mind speaking after the ideal&#8212;and not after the
+                apparent.&#8212;<hi rend="italic">Emerson</hi>.</p></body></floatingText></q>
+              
+              <p>The form of oath among the Shoshone Indians is, "The
+                earth hears me. The sun hears me. Shall I lie?"</p>
+              <q who="Ralph Waldo Emerson"><floatingText><body><p>The true test of
+                civilization is not the census, nor the size of cities, nor the
+                crops&#8212;no, but the kind of a man the country turns out.&#8212;<hi
+                  rend="italic">Emerson</hi>.</p></body></floatingText></q>
+              
+              <q who="Euripides"><floatingText><body> 
+                <lg type="poem"> <l>The whole wide ether is the eagle's sway:</l>
+                <l>The whole earth is a brave man's fatherland.&#8212;<hi rend="italic">Euripides</hi>.</l> 
+                </lg> </body></floatingText></q>
+              
+              <q who="Adam of St. Victor">
+                <floatingText>
+                  <body> 
                     <lg type="poem">
                       <lg type="linegroup">
-                        <l>The wind blows north, the wind blows south,</l>
-                        <l rend="indented1">The wind blows east and west;</l>
-                        <l>No matter how the free wind blows,</l>
-                        <l rend="indented1">Some ship will find it best.</l>
+                        <l>Spices crush'd, their pungence yield,</l>
+                        <l rend="indented1">Trodden scents their sweets respire;</l>
+                        <l>Would you have its strength reveal'd?</l>
+                        <l rend="indented1">Cast the incense in the fire.</l>
                       </lg>
                     </lg>
                   </body>
-                </floatingText></q><!-- Source identified as Harper's Weekly, July 1, 1882, Volume XXVI, No. 1332, page 411. Under section titled, "AS THE WIND BLOWS."-->
-                
-                <pb sameAs="leaf096v1"/> 
-                <q><floatingText><body><p>Preach not to others what they should eat, but
-                    eat as becomes you, and be silent.&#8212;<hi rend="italic"
-                      >Epictetus</hi>.</p></body></floatingText></q>
-                
-                <floatingText><body><p>Victor Hugo makes a donkey meditate and apostrophize thus:</p></body></floatingText>
-                <q who="Victor Hugo"><floatingText>
-                  <body>
-                    <lg type="poem">
-                      <lg type="linegroup">
-                        <l>My brother, man, if you would know the truth,</l>
-                        <l>We both are by the same dull walls shut in;</l>
-                        <l>The gate is massive and the dungeon strong.</l>
-                        <l>But you look through the key-hole out beyond,</l>
-                        <l>And call this knowledge; yet have not at hand</l>
-                        <l>The key wherein to turn the fatal lock.</l>
-                      </lg>
+                </floatingText>
+              </q> 
+              
+              <p>Matthew Arnold speaks of "the huge Mississippi of falsehood called History."</p><!-- This quote was found on page 75 of Matthew Arnold's 1865 book titled, "Essays in Criticism," in the chapter titled, "The Literary Influence of Academies." The first edition of "Essays in Criticism" was published by MACMILLAN AND CO. in London and Cambridge. -->
+              
+              <q><floatingText>
+                <body>
+                  <lg type="poem">
+                    <lg type="linegroup">
+                      <l>The wind blows north, the wind blows south,</l>
+                      <l rend="indented1">The wind blows east and west;</l>
+                      <l>No matter how the free wind blows,</l>
+                      <l rend="indented1">Some ship will find it best.</l>
                     </lg>
-                  </body>
-                </floatingText></q>
+                  </lg>
+                </body>
+              </floatingText></q><!-- Source identified as Harper's Weekly, July 1, 1882, Volume XXVI, No. 1332, page 411. Under section titled, "AS THE WIND BLOWS."-->
+            </note>
+            
+            <pb facs="prc_kc.00185.jpg" xml:id="leaf096v1" n="184" type="verso"/> 
+            
+            pocket for three summers, and absorb'd over and over again, when the
+            mood invited. I find so much in having a poem or fine 
                 
-                <floatingText><body><p>"William Cullen Bryant surprised me once," relates a writer in a New York paper,
-                "by saying that prose was the natural language of composition, and he wonder'd how
-                anybody came to write poetry."</p></body></floatingText>
+            <milestone unit="undeclared" rend="horbar-full"/>
+            
+            
+            <note xml:id="n17.2" type="authorial" place="bottom" target="#r17" prev="#n17" next="#n17.3">
+              <q><floatingText><body>
+                <p>Preach not to others what they should eat, but
+              eat as becomes you, and be silent.&#8212;<hi rend="italic">Epictetus</hi>.</p>
+              </body></floatingText></q>
+            
+            <p>Victor Hugo makes a donkey meditate and apostrophize thus:</p>
+            <q who="Victor Hugo">
+              <floatingText>
+              <body>
+                <lg type="poem">
+                  <lg type="linegroup">
+                    <l>My brother, man, if you would know the truth,</l>
+                    <l>We both are by the same dull walls shut in;</l>
+                    <l>The gate is massive and the dungeon strong.</l>
+                    <l>But you look through the key-hole out beyond,</l>
+                    <l>And call this knowledge; yet have not at hand</l>
+                    <l>The key wherein to turn the fatal lock.</l>
+                  </lg>
+                </lg>
+              </body>
+            </floatingText></q>
+            
+            <floatingText><body><p>"William Cullen Bryant surprised me once," relates a writer in a New York paper,
+              "by saying that prose was the natural language of composition, and he wonder'd how
+              anybody came to write poetry."</p></body></floatingText>
+            
+            <q who="Thomas Hood"><floatingText>
+              <body>
+                <lg type="poem">
+                  <lg type="linegroup">
+                    <l>Farewell! I did not know thy worth;</l>
+                    <l rend="indented1">But thou art gone, and now 'tis prized:</l>
+                    <l>So angels walk'd unknown on earth,</l>
+                    <l rend="indented1">But when they flew were recognized.&#8212;<hi rend="italic">Hood</hi>.</l>
+                  </lg>
+                </lg>
+              </body>
+            </floatingText></q>
+            
+            <p>John Burroughs, writing of Thoreau, says: <q who="John Burroughs">"He improves with age&#8212;in fact requires 
+              age to take off a little of his asperity, and fully ripen him. The world likes a good hater
+              and refuser almost as well as it likes a good lover and accepter&#8212;only it
+              likes him farther off."</q></p>
+            
+            <p><hi rend="italic">Louise Michel at the burial of Blanqui, (1881.)</hi></p> 
+              <q who="Louise Michel"><floatingText>
+                <body><p>Blanqui drill'd his body to subjection to his grand
+              conscience and his noble passions, and commencing as a young man, broke with all
+              that is sybaritish in modern civilization. Without the power to sacrifice self,
+              great ideas will never bear fruit.</p></body></floatingText></q> 
+            
+            <q who="F.E. Weatherly"><floatingText>
+              <body>
                 
-                <q who="Thomas Hood"><floatingText>
-                  <body>
-                    <lg type="poem">
-                      <lg type="linegroup">
-                        <l>Farewell! I did not know thy worth;</l>
-                        <l rend="indented1">But thou art gone, and now 'tis prized:</l>
-                        <l>So angels walk'd unknown on earth,</l>
-                        <l rend="indented1">But when they flew were recognized.&#8212;<hi rend="italic">Hood</hi>.</l>
-                      </lg>
-                    </lg>
-                  </body>
-                </floatingText></q>
+                <lg type="linegroup">
+                  <l>Out of the leaping furnace flame</l>
+                  <l>A mass of molten silver came;</l>
+                  <l>Then, beaten into pieces three,</l>
+                  <l>Went forth to meet its destiny.</l>
+                  <l>The first a crucifix was made,</l>
+                  <l>Within a soldier's knapsack laid;</l>
+                  <l>The second was a locket fair,</l>
+                  <l>Where a mother kept her dead child's hair;</l>
+                  <l>The third&#8212;a bangle, bright and warm,</l>
+                  <l>Around a faithless woman's arm.</l>
+                </lg>
                 
-                <floatingText><body><p>John Burroughs, writing of Thoreau, says: "He improves with age&#8212;in fact requires 
-                age to take off a little of his asperity, and fully ripen him. The world likes a good hater
-                and refuser almost as well as it likes a good lover and accepter&#8212;only it
-                likes him farther off."</p></body></floatingText>
-                
-                <p><hi rend="italic">Louise Michel at the burial of Blanqui, (1881.)</hi></p> 
-                <p>Blanqui drill'd his body to subjection to his grand
-                conscience and his noble passions, and commencing as a young man, broke with all
-                that is sybaritish in modern civilization. Without the power to sacrifice self,
-                great ideas will never bear fruit.</p> 
-                
-                <q who="F.E. Weatherly"><floatingText>
-                  <body>
-                   
-                      <lg type="linegroup">
-                      <l>Out of the leaping furnace flame</l>
-                      <l>A mass of molten silver came;</l>
-                      <l>Then, beaten into pieces three,</l>
-                      <l>Went forth to meet its destiny.</l>
-                      <l>The first a crucifix was made,</l>
-                      <l>Within a soldier's knapsack laid;</l>
-                      <l>The second was a locket fair,</l>
-                      <l>Where a mother kept her dead child's hair;</l>
-                      <l>The third&#8212;a bangle, bright and warm,</l>
-                      <l>Around a faithless woman's arm.</l>
-                    </lg>
-                 
-                  </body>
-                </floatingText></q><!-- Source identified as appearing in Potter's American Monthly, January 1882, Vol. XVIII, No. 121, pg. 516. Under the section titled, "Fate."-->       
-                      
-                <q who="Abraham Crowley"><floatingText>
-                  <body>
-                    <lg type="poem">
-                      <lg type="linegroup">       
-                       <l>A mighty pain to love it is,</l>
-                       <l>And 'tis a pain that pain to miss;</l>
-                       <l>But of all pain the greatest pain;</l>
-                       <l>It is to love, but love in vain.</l> 
-                      </lg>
-                    </lg>
-                  </body>
-                </floatingText></q>
-                  
-                <p><hi rend="italic">Maurice F. Egan on De Gu&#232;rin</hi>.</p> 
-                <q who="Maurice F. Egan"><floatingText>
-                  <body>
-                    <lg type="poem">
-                      <lg type="linegroup"> 
-                        <l>A pagan heart, a Christian soul had he,</l>
-                        <l rend="indented1">He follow'd Christ, yet for dead Pan he sigh'd,</l>
-                        <l rend="indented1">Till earth and heaven met within his breast:</l>
-                        <l>As if Theocritus in Sicily</l>
-                        <l rend="indented1">Had come upon the Figure crucified,</l>
-                        <l rend="indented1">And lost his gods in deep, Christ-given rest.</l> 
-                      </lg> 
-                    </lg>
-                  </body></floatingText></q>
-                
-                      <pb sameAs="leaf097r1"/> 
-                
-                <q who="Emily Brot&#235;"><floatingText>
-                  <body>
-                    <lg type="poem">
-                      <lg type="linegroup"> 
-                        <l>And if I pray, the only prayer</l>
-                        <l rend="indented1">That moves my lips for me,</l>
-                        <l>Is, leave the mind that now I bear,</l>
-                        <l rend="indented1">And give me Liberty.&#8212;<hi rend="italic">Emily
-                          Bront&#235;</hi>.</l> 
-                      </lg> 
-                    </lg>
-                  </body>
-                </floatingText></q>
-                      
-                <q><floatingText>
-                  <body>
-                    <lg type="poem">
-                      <lg type="linegroup">  
-                          <l>I travel on not knowing,</l>
-                          <l rend="indented1">I would not if I might;</l>
-                          <l>I would rather walk with God in the dark,</l>
-                          <l rend="indented1">Than go alone in the light;</l>
-                          <l>I would rather walk with Him by faith</l>
-                          <l rend="indented1">Than pick my way by sight.</l> 
-                        </lg> 
-                      </lg>
-                  </body>
-                </floatingText></q>
-                
-                <p><hi rend="italic">Prof. Huxley in a late lecture</hi>.</p>
-                <q who="Thomas Henry Huxley"><floatingText><body><p>I myself agree with the sentiment of Thomas Hobbes, of
-                    Malmesbury, that "the scope of all speculation is the performance of some action
-                    or thing to be done." I have not any very great respect for, or interest in,
-                    mere "knowing," as such.</p></body></floatingText></q>
-                
-                <p><hi rend="italic">Prince Metternich</hi>.</p> 
-                <q who="Prince Klemens von Metternich"><floatingText><body><p>Napoleon was of all men in the world
-                    the one who most profoundly despised the race. He had a marvellous insight into
-                    the weaker sides of human nature, (and all our passions are either foibles
-                    themselves, or the cause of foibles.) He was a very small man of imposing
-                    character. He was ignorant, as a sub-lieutenant generally is: a remarkable
-                    instinct supplied the lack of knowledge. From his mean opinion of men, he never
-                    had any anxiety lest he should go wrong. He ventur'd everything, and gain'd
-                    thereby an immense step toward success. Throwing himself upon a prodigious
-                    arena, he amaz'd the world, and made himself master of it, while others cannot
-                    even get so far as being masters of their own hearth. Then he went on and on,
-                    until he broke his neck.</p></body></floatingText></q></note> filled with favorite
-            excerpts, I carried in my <pb facs="prc_kc.00185.jpg" xml:id="leaf096v1" n="184"
-              type="verso"/> pocket for three summers, and absorb'd over and over again, when the
-            mood invited. I find so much in having a poem or fine <pb facs="prc_kc.00186.jpg"
-              xml:id="leaf097r1" n="185" type="recto"/> suggestion sink into me (a little then goes
+              </body>
+            </floatingText></q><!-- Source identified as appearing in Potter's American Monthly, January 1882, Vol. XVIII, No. 121, pg. 516. Under the section titled, "Fate."-->       
+            
+            <q who="Abraham Crowley"><floatingText>
+              <body>
+                <lg type="poem">
+                  <lg type="linegroup">       
+                    <l>A mighty pain to love it is,</l>
+                    <l>And 'tis a pain that pain to miss;</l>
+                    <l>But of all pain the greatest pain;</l>
+                    <l>It is to love, but love in vain.</l> 
+                  </lg>
+                </lg>
+              </body>
+            </floatingText></q>
+            
+            <p><hi rend="italic">Maurice F. Egan on De Gu&#232;rin</hi>.</p> 
+            <q who="Maurice F. Egan"><floatingText>
+              <body>
+                <lg type="poem">
+                  <lg type="linegroup"> 
+                    <l>A pagan heart, a Christian soul had he,</l>
+                    <l rend="indented1">He follow'd Christ, yet for dead Pan he sigh'd,</l>
+                    <l rend="indented1">Till earth and heaven met within his breast:</l>
+                    <l>As if Theocritus in Sicily</l>
+                    <l rend="indented1">Had come upon the Figure crucified,</l>
+                    <l rend="indented1">And lost his gods in deep, Christ-given rest.</l> 
+                  </lg> 
+                </lg>
+              </body></floatingText></q>
+            </note>
+            
+            <pb facs="prc_kc.00186.jpg" xml:id="leaf097r1" n="185" type="recto"/>
+        
+        suggestion sink into me (a little then goes
             a great ways) prepar'd by these vacant-sane and natural influences.</p>
 
         </div>
-
         <div type="essay">
 
           <head type="main">MY NATIVE SAND AND SALT ONCE MORE.</head>
@@ -11139,7 +11177,61 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             plainly&#8212;the long pulsating <hi rend="italic">swash</hi> as our boat steams
             seaward&#8212;the hills of Navesink and many passing vessels&#8212;the air the
             best part of all. At Long
-
+            
+            <milestone unit="undeclared" rend="horbar-full"/>
+            
+            <note xml:id="n17.3" type="authorial" place="bottom" target="#r17" prev="#n17.2">
+              
+              <q who="Emily Bront&#235;"><floatingText>
+                <body>
+                  <lg type="poem">
+                    <lg type="linegroup"> 
+                      <l>And if I pray, the only prayer</l>
+                      <l rend="indented1">That moves my lips for me,</l>
+                      <l>Is, leave the mind that now I bear,</l>
+                      <l rend="indented1">And give me Liberty.&#8212;<hi rend="italic">Emily
+                        Bront&#235;</hi>.</l> 
+                    </lg> 
+                  </lg>
+                </body>
+              </floatingText></q>
+              
+              <q><floatingText>
+                <body>
+                  <lg type="poem">
+                    <lg type="linegroup">  
+                      <l>I travel on not knowing,</l>
+                      <l rend="indented1">I would not if I might;</l>
+                      <l>I would rather walk with God in the dark,</l>
+                      <l rend="indented1">Than go alone in the light;</l>
+                      <l>I would rather walk with Him by faith</l>
+                      <l rend="indented1">Than pick my way by sight.</l> 
+                    </lg> 
+                  </lg>
+                </body>
+              </floatingText></q>
+              
+              <p><hi rend="italic">Prof. Huxley in a late lecture</hi>.</p>
+              <q who="Thomas Henry Huxley"><floatingText><body><p>I myself agree with the sentiment of Thomas Hobbes, of
+                Malmesbury, that "the scope of all speculation is the performance of some action
+                or thing to be done." I have not any very great respect for, or interest in,
+                mere "knowing," as such.</p></body></floatingText></q>
+              
+              <p><hi rend="italic">Prince Metternich</hi>.</p> 
+              <q who="Prince Klemens von Metternich"><floatingText><body><p>Napoleon was of all men in the world
+                the one who most profoundly despised the race. He had a marvellous insight into
+                the weaker sides of human nature, (and all our passions are either foibles
+                themselves, or the cause of foibles.) He was a very small man of imposing
+                character. He was ignorant, as a sub-lieutenant generally is: a remarkable
+                instinct supplied the lack of knowledge. From his mean opinion of men, he never
+                had any anxiety lest he should go wrong. He ventur'd everything, and gain'd
+                thereby an immense step toward success. Throwing himself upon a prodigious
+                arena, he amaz'd the world, and made himself master of it, while others cannot
+                even get so far as being masters of their own hearth. Then he went on and on,
+                until he broke his neck.</p></body></floatingText></q>
+              
+            </note>
+            
             <pb facs="prc_kc.00187.jpg" xml:id="leaf097v1" n="186" type="verso"/>
 
             Branch the bulk of the day, stopt at a good hotel, took all very leisurely, had an
@@ -11645,20 +11737,24 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
           <p>My thoughts went floating on vast and mystic currents as I sat to-day in solitude and
             half-shade by the creek&#8212;returning mainly to two principal centres. One of my cherish'd
             themes for a never-achiev'd poem has been the two impetuses of man and the
-            universe&#8212;in the latter, creation's incessant unrest,<ref xml:id="r18" target="n18" n="18"/><note xml:id="n18" type="authorial" target="r18" n="18" place="inline"><p>*"Fifty thousand years ago the constellation of the Great
-                    Bear or Dipper was a starry cross; a hundred thousand years hence the imaginary
-                    Dipper will be upside down, and the stars which form the bowl and handle will
-                    have changed places. The misty nebul&#230; are moving, and besides are whirling
-                    around in great spirals, some one way, some another. Every molecule of<pb
-                      facs="prc_kc.00198.jpg" xml:id="leaf103r2" n="197" type="recto"/>matter in
-                    the whole universe is swinging to and fro; every particle of ether which fills
-                    space is in jelly-like vibration. Light is one kind of motion, heat another,
-                    electricity another, magnetism another, sound another. Every human sense is the
-                    result of emotion; every perception, every thought is but motion of the molecules
-                    of the brain translated by that incomprehensible thing we call mind. The
-                    processes of growth, of existence, of decay, whether in worlds, or in the
-                    minutest organisms, are but motion."</p></note> ex-<pb
-                      facs="prc_kc.00198.jpg" xml:id="leaf103r1" n="197" type="recto"/> foliation,
+            universe&#8212;in the latter, creation's incessant 
+            unrest,<ref xml:id="r18" target="#n18"><metamark function="link">*</metamark></ref>
+             <choice><orig>ex-</orig><reg>exfoliation</reg></choice>
+            
+            <milestone unit="undeclared" rend="horbar-full"/>
+            
+            <note xml:id="n18" type="authorial" target="#r18" place="bottom" next="#n18.2">
+              
+              <p><metamark function="link">*</metamark> "Fifty thousand years ago the constellation of the Great
+              Bear or Dipper was a starry cross; a hundred thousand years hence the imaginary
+              Dipper will be upside down, and the stars which form the bowl and handle will
+              have changed places. The misty nebul&#230; are moving, and besides are whirling
+              around in great spirals, some one way, some another. Every molecule of</p>
+              </note>
+            
+            <pb  facs="prc_kc.00198.jpg" xml:id="leaf103r1" n="197" type="recto"/>
+            
+            <choice><orig>foliation</orig><reg></reg></choice>,
             (Darwin's evolution, I suppose.) Indeed, what is Nature but change, in all its visible,
             and still more its invisible processes? Or what is humanity in its faith, love, heroism,
             poetry, even morals, but <hi rend="italic">emotion?</hi></p>
@@ -11710,6 +11806,20 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             ourselves and daily work from him.</p>
 
         </div>
+        
+        <milestone unit="undeclared" rend="horbar-full"/>
+        
+        <note xml:id="n18.2" type="authorial" place="bottom" target="#r18" prev="#n18">
+          
+          <p>matter in
+            the whole universe is swinging to and fro; every particle of ether which fills
+            space is in jelly-like vibration. Light is one kind of motion, heat another,
+            electricity another, magnetism another, sound another. Every human sense is the
+            result of emotion; every perception, every thought is but motion of the molecules
+            of the brain translated by that incomprehensible thing we call mind. The
+            processes of growth, of existence, of decay, whether in worlds, or in the
+            minutest organisms, are but motion."</p>
+        </note>
 
         <pb facs="prc_kc.00199.jpg" xml:id="leaf103v1" n="198" type="verso"/>
 
@@ -11965,50 +12075,33 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             future of their business, geographic and productive departments, on larger scales and
             in more varieties than ever, is certain. In those respects the republic must soon (if
             she does not already) outstrip all examples hitherto afforded, and dominate the
-              world.*<ref xml:id="r19" target="n19" n="19"/></p><note xml:id="n19" type="authorial"
-                target="r19" n="19" place="inline"><p><q who="Schuyler Colfax">*"From a territorial area of
-                      less than nine hundred thousand square miles, the Union has expanded into over
-                      four millions and a half&#8212;fifteen times larger than that of Great
-                      Britain and France combined&#8212;with a shore-line, including Alaska, equal
-                      to the entire circumference of the earth, and with a domain within these lines
-                      far wider than that of the Romans in their proudest days of conquest and renown.
-                      With a river, lake, and coastwise commerce estimated at over two thousand
-                      millions of dollars per year; with a railway traffic of four to six thousand
-                      millions per year, and the annual domestic exchanges of the country running up
-                      to nearly ten thousand millions per year; with over two thousand millions of
-                      dollars invested in manufacturing, mechanical, and mining industry; with over
-                      five hundred millions of acres of land in actual occupancy, valued, with their
-                      appurtenances, at over seven thousand millions of dollars, and producing
-                      annually crops valued at over three thousand millions of dollars; with a realm
-                      which, if the density of Belgium's population were possible, would be vast
-                      enough to include all the present inhabitants of the world; and with equal
-                      rights guaranteed to even the poorest and humblest of our forty millions of
-                      people&#8212;we can, with a manly pride akin to that which
-                      <pb facs="prc_kc.00206.jpg" xml:id="leaf107r2" n="205" type="recto"/>
-                      distinguish'd the palmiest days of Rome, claim,"</q> &#38;c., &#38;c.,
-                      &#38;c.&#8212;<hi rend="italic">Vice-President Colfax's Speech, July
-                        4, 1870</hi>.</p>
-                      
-                <ab rend="center">L<hi rend="smallcaps">ATER</hi>&#8212;<hi rend="italic">London "Times," (Weekly,) June 23, '82</hi>.</ab>
-                
-                        <q><p>"The wonderful wealth-producing power of the United States defies and sets at naught
-                          the grave drawbacks of a mischievous protective tariff, and has already
-                          obliterated, almost wholly, the traces of the greatest of modern civil wars.
-                          What is especially remarkable in the present development of American energy and
-                          success is its wide and equable distribution. North and south, east and west, on
-                          the shores of the Atlantic and the Pacific, along the chain of the great lakes,
-                          in the valley of the Mississippi, and on the coasts of the gulf of Mexico, the
-                          creation of wealth and the increase of population are signally exhibited. It is
-                          quite true, as has been shown by the recent apportionment of population in the
-                          House of Representatives, that some sections of the Union have advanced,
-                          relatively to the rest, in an extraordinary and unexpected degree. But this does
-                          not imply that the States which have gain'd no additional representatives or
-                          have actually lost some have been stationary or have receded. The fact is that
-                          the present tide of prosperity has risen so high that it has overflow'd all
-                          barriers, and has fill'd up the back-waters, and establish'd something like an
-                          approach to uniform success."</p></q></note>
+              world.<ref xml:id="r19" target="#n19"><metamark function="link">*</metamark></ref></p>
 
 
+          <milestone unit="undeclared" rend="horbar-full"/>
+          
+          <note xml:id="n19" type="authorial" target="#r19" place="bottom" next="#n19.2">
+            
+            <q who="Schuyler Colfax"><p><metamark function="link">*</metamark> "From a territorial area of
+              less than nine hundred thousand square miles, the Union has expanded into over
+              four millions and a half&#8212;fifteen times larger than that of Great
+              Britain and France combined&#8212;with a shore-line, including Alaska, equal
+              to the entire circumference of the earth, and with a domain within these lines
+              far wider than that of the Romans in their proudest days of conquest and renown.
+              With a river, lake, and coastwise commerce estimated at over two thousand
+              millions of dollars per year; with a railway traffic of four to six thousand
+              millions per year, and the annual domestic exchanges of the country running up
+              to nearly ten thousand millions per year; with over two thousand millions of
+              dollars invested in manufacturing, mechanical, and mining industry; with over
+              five hundred millions of acres of land in actual occupancy, valued, with their
+              appurtenances, at over seven thousand millions of dollars, and producing
+              annually crops valued at over three thousand millions of dollars; with a realm
+              which, if the density of Belgium's population were possible, would be vast
+              enough to include all the present inhabitants of the world; and with equal
+              rights guaranteed to even the poorest and humblest of our forty millions of
+              people&#8212;we can, with a manly pride akin to that which</p></q>
+          </note>
+            
                     <pb facs="prc_kc.00206.jpg" xml:id="leaf107r1" n="205" type="recto"/>
 
           <p>Admitting all this, with the priceless value of our political institutions, general
@@ -12034,7 +12127,35 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             attention, there is one need, a hiatus the profoundest, that no eye seems to perceive,
             no voice to state. Our fundamental want to-day in the United States, with closest,
             amplest reference to present conditions, and to the future, is of a class, and the
-
+            
+            <milestone unit="undeclared" rend="horbar-full"/>
+            
+            <note xml:id="n19.2" type="authorial" place="bottom" target="#r19" prev="#n19">
+            <p>
+              <q who="Schuyler Colfax">distinguish'd the palmiest days of Rome, claim,"</q> &#38;c., &#38;c.,
+            &#38;c.&#8212;<hi rend="italic">Vice-President Colfax's Speech, July
+              4, 1870</hi>.</p>
+            
+            <ab rend="center">L<hi rend="smallcaps">ATER</hi>&#8212;<hi rend="italic">London "Times," (Weekly,) June 23, '82</hi>.</ab>
+            
+            <q><p>"The wonderful wealth-producing power of the United States defies and sets at naught
+              the grave drawbacks of a mischievous protective tariff, and has already
+              obliterated, almost wholly, the traces of the greatest of modern civil wars.
+              What is especially remarkable in the present development of American energy and
+              success is its wide and equable distribution. North and south, east and west, on
+              the shores of the Atlantic and the Pacific, along the chain of the great lakes,
+              in the valley of the Mississippi, and on the coasts of the gulf of Mexico, the
+              creation of wealth and the increase of population are signally exhibited. It is
+              quite true, as has been shown by the recent apportionment of population in the
+              House of Representatives, that some sections of the Union have advanced,
+              relatively to the rest, in an extraordinary and unexpected degree. But this does
+              not imply that the States which have gain'd no additional representatives or
+              have actually lost some have been stationary or have receded. The fact is that
+              the present tide of prosperity has risen so high that it has overflow'd all
+              barriers, and has fill'd up the back-waters, and establish'd something like an
+              approach to uniform success."</p></q>            
+            
+</note>
             <pb facs="prc_kc.00207.jpg" xml:id="leaf107v1" n="206" type="verso"/>
 
             clear idea of a class, of native authors, literatuses, far different, far higher in
@@ -12080,19 +12201,8 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
 
             of men, that it still prevails powerful to this day, in defiance of the mighty changes
             of time&#8212;was its literature, permeating to the very marrow, especially that
-            major part, its enchanting songs, ballads, and poems.<ref xml:id="r20" target="n20"
-              n="20"/><note xml:id="n20" type="authorial" target="r20" n="20" place="inline"><p>*See,
-                for hereditaments, specimens, Walter Scott's Border Minstrelsy, Percy's collection,
-                Ellis's early English Metrical Romances, the European continental poems of Walter of
-                Aquitania, and the Nibelungen, of pagan stock, but monkish-feudal redaction; the
-                history of the Troubadours, by Fauriel; even the far-back cumbrous old Hindu epics,
-                as indicating the Asian eggs out of which European chivalry was hatch'd; Ticknor's
-                chapters on the Cid, and on the Spanish poems and poets of Calderon's time. Then
-                always, and, of course, as the superbest poetic culmination-expression of feudalism,
-                the Shaksperean dramas, in the attitudes, dialogue, characters, &#38;c., of the
-                princes, lords and gentlemen, the pervading atmosphere, the implied and express'd
-                standard of manners, the high port and proud stomach, the regal embroidery of style,
-                &#38;c.</p></note></p>
+            major part, its enchanting songs, ballads, and 
+            poems.<ref xml:id="r20" target="#n20"><metamark function="link">*</metamark></ref></p>
 
           <p>To the ostent of the senses and eyes, I know, the influences which stamp the world's
             history are wars, uprisings or downfalls of dynasties, changeful movements of trade,
@@ -12118,6 +12228,25 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             Painting, sculpture, and the dramatic theatre, it would seem, no longer play an
             indispensable or even important part in the workings and mediumship of intellect,
             utility, or even high esthetics. Architecture remains, doubtless
+            
+            <milestone unit="undeclared" rend="horbar-full"/>            
+            
+            
+            <note xml:id="n20" type="authorial" target="#r20" place="bottom">
+              
+              <p><metamark function="link">*</metamark> See,
+              for hereditaments, specimens, Walter Scott's Border Minstrelsy, Percy's collection,
+              Ellis's early English Metrical Romances, the European continental poems of Walter of
+              Aquitania, and the Nibelungen, of pagan stock, but monkish-feudal redaction; the
+              history of the Troubadours, by Fauriel; even the far-back cumbrous old Hindu epics,
+              as indicating the Asian eggs out of which European chivalry was hatch'd; Ticknor's
+              chapters on the Cid, and on the Spanish poems and poets of Calderon's time. Then
+              always, and, of course, as the superbest poetic culmination-expression of feudalism,
+              the Shaksperean dramas, in the attitudes, dialogue, characters, &#38;c., of the
+              princes, lords and gentlemen, the pervading atmosphere, the implied and express'd
+              standard of manners, the high port and proud stomach, the regal embroidery of style,
+              &#38;c.</p></note>
+            
 
             <pb facs="prc_kc.00209.jpg" xml:id="leaf108v1" n="208" type="verso"/>
 
@@ -12297,20 +12426,8 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             unhealthy forms, male, female, painted, padded, dyed, chignon'd, muddy complexions, bad
             blood, the capacity for good mother-hood deceasing or deceas'd, shallow notions of
             beauty, with a range of manners, or rather lack of manners, (considering the advantages
-            enjoy'd,) probably the meanest to be seen in the world.<ref xml:id="r21" target="n21"
-              n="21"/><note xml:id="n21" type="authorial" target="r21" n="21" place="inline"><p>*Of
-                these rapidly-sketch'd hiatuses, the two which seem to me most serious are, for one,
-                the condition, absence, or perhaps the singular abeyance, of moral conscientious
-                fibre all through American society; and, for another, the appaling depletion of
-                women in their powers of sane athletic maternity, their crowning attribute, and ever
-                making the woman, in loftiest spheres, superior to the man.</p> <p>I have sometimes
-                thought, indeed, that the sole avenue and means of a reconstructed sociology
-                depended, primarily, on a new birth, elevation, expansion, invigoration of woman,
-                affording, for races to come, (as the conditions that antedate birth are
-                indispensable,) a perfect motherhood. Great, great, indeed, far greater than they
-                know, is the sphere of women. But doubtless the question of such new sociology all
-                goes together, includes many varied and complex influences and premises, and the man
-                as well as the woman, and the woman as well as the man.</p></note></p>
+            enjoy'd,) probably the meanest to be seen in the 
+            world.<ref xml:id="r21" target="#n21"><metamark function="link">*</metamark></ref></p>
 
           <p>Of all this, and these lamentable conditions, to breathe into them the breath
             recuperative of sane and heroic life, I say a new founded literature, not merely to copy
@@ -12323,7 +12440,24 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             and webs of silliness, millinery, and every kind of dyspeptic depletion&#8212;and
             thus insuring to the States a strong and sweet Female Race, a race of perfect
             Mothers&#8212;is what is needed.</p>
-
+                    
+          <milestone unit="undeclared" rend="horbar-full"/>
+                    
+          <note xml:id="n21" type="authorial" target="#r21" n="21" place="bottom">
+            
+            <p><metamark function="link">*</metamark> Of these rapidly-sketch'd hiatuses, the two which seem to me most serious are, for one,
+            the condition, absence, or perhaps the singular abeyance, of moral conscientious
+            fibre all through American society; and, for another, the appaling depletion of
+            women in their powers of sane athletic maternity, their crowning attribute, and ever
+            making the woman, in loftiest spheres, superior to the man.</p> <p>I have sometimes
+              thought, indeed, that the sole avenue and means of a reconstructed sociology
+              depended, primarily, on a new birth, elevation, expansion, invigoration of woman,
+              affording, for races to come, (as the conditions that antedate birth are
+              indispensable,) a perfect motherhood. Great, great, indeed, far greater than they
+              know, is the sphere of women. But doubtless the question of such new sociology all
+              goes together, includes many varied and complex influences and premises, and the man
+              as well as the woman, and the woman as well as the man.</p></note>
+          
                     <pb facs="prc_kc.00214.jpg" xml:id="leaf111r1" n="213" type="recto"/>
 
           <p>And now, in the full conception of these facts and points, and all that they infer, pro
@@ -12340,15 +12474,9 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             opposite ideas. But the mass, or lump character, for imperative reasons, is to be ever
             carefully weigh'd, borne in mind, and provided for. Only from it, and from its proper
             regulation and potency, comes the other, comes the chance of individualism. The two are
-            contradictory, but our task is to reconcile them.<ref xml:id="r22" target="n22" n="22"
-              /><note xml:id="n22" type="authorial" target="r22" n="22" place="inline"><p>*The
-                question hinted here is one which time only can answer. Must not the virtue of
-                modern Individualism, continually enlarging, usurping all, seriously affect, perhaps
-                keep down entirely, in America, the like of the ancient virtue of Patriotism, the
-                fervid and absorbing love of general country? I have no doubt myself that the two
-                will merge, and will mutually profit and brace each other, and that from them a
-                greater product, a third, will arise. But I feel that at present they and their
-                oppositions form a serious problem and paradox in the United States.</p></note></p>
+            contradictory, but our task is to reconcile 
+            them.<ref xml:id="r22" target="#n22"><metamark function="link">*</metamark></ref>
+            </p>
 
           <p>The political history of the past may be summ'd up as having grown out of what
             underlies the words, order, safety, caste, and especially out of the need of some prompt
@@ -12366,6 +12494,20 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             and relations in society is thoroughly conn'd over and exhausted&#8212;it remains to
             bring forward and modify everything else with the idea of that Something a man is, (last
             precious consolation of the drudging
+            
+            
+            <milestone unit="undeclared" rend="horbar-full"/>
+            
+            
+            <note xml:id="n22" type="authorial" target="#r22" place="bottom">
+              
+              <p><metamark function="link">*</metamark> The question hinted here is one which time only can answer. Must not the virtue of
+              modern Individualism, continually enlarging, usurping all, seriously affect, perhaps
+              keep down entirely, in America, the like of the ancient virtue of Patriotism, the
+              fervid and absorbing love of general country? I have no doubt myself that the two
+              will merge, and will mutually profit and brace each other, and that from them a
+              greater product, a third, will arise. But I feel that at present they and their
+              oppositions form a serious problem and paradox in the United States.</p></note>
 
             <pb facs="prc_kc.00215.jpg" xml:id="leaf111v1" n="214" type="verso"/>
 
@@ -12416,17 +12558,8 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             make up all of the past, and a large part of the present)&#8212;leaving unanswer'd,
             at least by any specific and local answer, many a well-wrought argument and instance,
             and many a conscientious declamatory cry and warning&#8212;as, very lately, from an
-            eminent and venerable person abroad<ref xml:id="r23" target="n23" n="23"/><note
-              xml:id="n23" type="authorial" target="r23" n="23" place="inline"><p>*"S<hi rend="smallcaps">HOOTING</hi>
-                N<hi rend="smallcaps">IAGARA</hi>."&#8212;I was at first roused to much anger and abuse by this essay from
-                Mr. Carlyle, so insulting to the theory of America&#8212;but happening to think
-                afterwards how I had more than once been in the like mood, during which his essay
-                was evidently cast, and seen persons and things in the same light, (indeed some
-                might say there are signs of the same feeling in these Vistas)&#8212;I have
-                since read it again, not only as a study, expressing as it does certain judgments
-                from the highest feudal point of view, but have read it with respect as coming from
-                an earnest soul, and as contributing certain sharp-cutting metallic grains, which,
-                if not gold or silver, may be good hard, honest iron.</p></note>&#8212;things,
+            eminent and venerable person 
+            abroad<ref xml:id="r23" target="#n23"><metamark function="link">*</metamark></ref>&#8212;things,
             problems, full of doubt, dread, suspense, (not new to me, but old occupiers of many an
             anxious hour in city's din, or night's silence,) we still may give a page or so, whose
             drift is opportune. Time alone can finally answer these things. But as a substitute in
@@ -12449,7 +12582,22 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             so. There is plenty of glamour about the most damnable crimes and hoggish meannesses,
             special and general, of the feudal and dynastic world over there, with its <hi
               rend="italic">personnel</hi> of lords and queens and courts, so well-dress'd
-
+            
+            <milestone unit="undeclared" rend="horbar-full"/>
+            
+            <note xml:id="n23" type="authorial" target="#r23" place="bottom">
+              
+              <p><metamark function="link">*</metamark> "S<hi rend="smallcaps">HOOTING</hi>
+                N<hi rend="smallcaps">IAGARA</hi>."&#8212;I was at first roused to much anger and abuse by this essay from
+                Mr. Carlyle, so insulting to the theory of America&#8212;but happening to think
+                afterwards how I had more than once been in the like mood, during which his essay
+                was evidently cast, and seen persons and things in the same light, (indeed some
+                might say there are signs of the same feeling in these Vistas)&#8212;I have
+                since read it again, not only as a study, expressing as it does certain judgments
+                from the highest feudal point of view, but have read it with respect as coming from
+                an earnest soul, and as contributing certain sharp-cutting metallic grains, which,
+                if not gold or silver, may be good hard, honest iron.</p></note>
+            
             <pb facs="prc_kc.00217.jpg" xml:id="leaf112v1" n="216" type="verso"/>
 
             and so handsome. But the People are ungrammatical, untidy, and their sins gaunt and
@@ -12691,20 +12839,17 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             on those out of business. She asks for men and women with occupations, well-off, owners
             of houses and acres, and with cash in the bank&#8212;and with some cravings for
             literature, too; and must have them, and hastens to make them. Luckily, the seed is
-            already well-sown, and has taken ineradicable root.<ref xml:id="r24" target="n24" n="24"
-              /><note xml:id="n24" type="authorial" target="r24" n="24" place="inline"><p>For fear
-                of mistake, I may as well distinctly specify, as cheerfully included in the model
-                and standard of these Vistas, a practical, stirring, worldly,<pb
-                  facs="prc_kc.00223.jpg" xml:id="leaf115v" n="222" type="verso"/>money-making,
-                even materialistic character. It is undeniable that our farms, stores, offices,
-                dry-goods, coal and groceries, enginery, cash-accounts, trades, earnings, markets,
-                &#38;c., should be attended to in earnest, and actively pursued, just as if they
-                had a real and permanent existence. I perceive clearly that the extreme business
-                energy, and this almost maniacal appetite for wealth prevalent in the United States,
-                are parts of amelioration and progress, indispensably needed to prepare the very
-                results I demand. My theory includes riches, and the getting of riches, and the
-                amplest products, power, activity, inventions, movements, &#38;c. Upon them, as
-                upon substrata, I raise the edifice design'd in these Vistas.</p></note></p>
+            already well-sown, and has taken ineradicable 
+            root.<ref xml:id="r24" target="#n24"><metamark function="link">*</metamark></ref>
+            </p>
+          
+          <milestone unit="undeclared" rend="horbar-full"/>
+          
+          <note xml:id="n24" type="authorial" target="#r24" place="bottom" next="#n24.2">
+            
+            <p><metamark function="link">*</metamark> For fear
+            of mistake, I may as well distinctly specify, as cheerfully included in the model
+            and standard of these Vistas, a practical, stirring, worldly,</p></note>
 
                     <pb facs="prc_kc.00223.jpg" xml:id="leaf115v1" n="222" type="verso"/>
 
@@ -12736,6 +12881,20 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             newer, hardier, purely native stock. A giant growth, composite from the rest, getting
             their contribution, absorbing it, to make it more illustrious. From the north,
             intellect, the sun of things, also the idea of unswayable justice, an-
+            
+            <milestone unit="undeclared" rend="horbar-full"/>
+            
+            <note xml:id="n24.2" type="authorial" place="bottom" target="r24" prev="#n24">
+              <p>money-making,
+            even materialistic character. It is undeniable that our farms, stores, offices,
+            dry-goods, coal and groceries, enginery, cash-accounts, trades, earnings, markets,
+            &#38;c., should be attended to in earnest, and actively pursued, just as if they
+            had a real and permanent existence. I perceive clearly that the extreme business
+            energy, and this almost maniacal appetite for wealth prevalent in the United States,
+            are parts of amelioration and progress, indispensably needed to prepare the very
+            results I demand. My theory includes riches, and the getting of riches, and the
+            amplest products, power, activity, inventions, movements, &#38;c. Upon them, as
+            upon substrata, I raise the edifice design'd in these Vistas.</p></note>
 
             <pb facs="prc_kc.00224.jpg" xml:id="leaf116r1" n="223" type="recto"/>
 
@@ -12878,14 +13037,9 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             a party name? I say democracy is only of use there that it may pass on and come to its
             flower and fruits in manners, in the highest forms of interaction between men, and their
             beliefs&#8212;in religion, literature, colleges, and schools&#8212;democracy in
-            all public and private life, and in the army and navy.<ref xml:id="r25" target="n25"
-              n="25"/><note xml:id="n25" type="authorial" target="r25" n="25" place="inline"><p>*The
-                whole present system of the officering and personnel of the army and navy of these
-                States, and the spirit and letter of their trebly-aristocratic rules and
-                regulations, is a monstrous exotic, a nuisance and revolt, and belong here just as
-                much as orders of nobility, or the Pope's council of cardinals. I say if the present
-                theory of our army and navy is sensible and true, then the rest of America is an
-                unmitigated fraud.</p></note> I have intimated that, as a paramount scheme, it has
+            all public and private life, and in the army and 
+            navy.<ref xml:id="r25" target="#n25"><metamark function="link">*</metamark></ref> 
+            I have intimated that, as a paramount scheme, it has
             yet few or no full realizers and believers. I do not see, either, that it owes any
             serious thanks to noted propagandists or champions, or has been essentially help'd,
             though often harm'd, by them. It has been and is carried on by all the moral forces, and
@@ -12899,6 +13053,19 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             resides altogether in the future. As, under any profound and comprehensive view of the
             gorgeous-composite feudal world, we see in it, through the long ages and cycles of ages,
             the results of a deep, integral, human and divine princi-
+            
+            <milestone unit="undeclared" rend="horbar-full"/>
+            
+            <note xml:id="n25" type="authorial" target="#r25" place="bottom">
+              
+              <p><metamark function="link">*</metamark> The
+              whole present system of the officering and personnel of the army and navy of these
+              States, and the spirit and letter of their trebly-aristocratic rules and
+              regulations, is a monstrous exotic, a nuisance and revolt, and belong here just as
+              much as orders of nobility, or the Pope's council of cardinals. I say if the present
+              theory of our army and navy is sensible and true, then the rest of America is an
+              unmitigated fraud.</p></note>
+            
 
             <pb facs="prc_kc.00228.jpg" xml:id="leaf118r1" n="227" type="recto"/>
 
@@ -12966,9 +13133,16 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             and plants the seed, and gives fair play, that its claims now precede the rest. The
             literature, songs, esthetics, &#38;c., of a country are of importance principally
             because they furnish the materials and suggestions of personality for the women and men
-            of that country, and enforce them in a thousand effective ways.<ref xml:id="r26"
-              target="n26" n="26"/><note xml:id="n26" type="authorial" target="r26" n="26"
-              place="inline"><p>*After the rest is satiated, all interest culminates in the field of
+            of that country, and enforce them in a thousand effective 
+            ways.<ref xml:id="r26" target="#n26"><metamark function="link">*</metamark></ref> As the top-
+            
+            <milestone unit="undeclared" rend="horbar-full"/>
+            
+            
+            
+            <note xml:id="n26" type="authorial" target="#r26" place="bottom" next="#n26.2">
+               
+              <p><metamark function="link">*</metamark> After the rest is satiated, all interest culminates in the field of
                 persons, and never flags there. Accordingly in this field have the great poets and
                 literatuses signally toil'd. They too, in all ages, all lands, have been creators,
                 fashioning, making types of men and women, as Adam and Eve are made in the divine
@@ -12984,14 +13158,10 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
                 Roland and Oliver; Roustam in the Shah-Nemah; and so on to Milton's Satan,
                 Cervantes' Don Quixote, Shakspere's Hamlet, Richard II., Lear, Marc Antony,
                 &#38;c., and the modern Faust. These, I say, are models, combined, adjusted to
-                other standards than America's, but of priceless value to her and hers.</p> <p>Among
-                women, the goddesses of the Egyptian, Indian and Greek mythologies, certain Bible
-                characters, especially the Holy Mother; Cleopatra, Penel-<pb
-                  facs="prc_kc.00230.jpg" xml:id="leaf119r2" n="229" type="recto"/>ope; the
-                portraits of Brunhelde and Chriemhilde in the Nibelungen; Oriana, Una, &#38;c.;
-                the modern Consuelo, Walter Scott's Jeanie and Effie Deans, &#38;c., &#38;c.
-                (Yet woman portray'd or outlin'd at her best, or as perfect human mother, does not
-                hitherto, it seems to me, fully appear in literature.)</p></note> As the top-
+                other standards than America's, but of priceless value to her and hers.</p> 
+              <p>Among
+                  women, the goddesses of the Egyptian, Indian and Greek mythologies, certain Bible
+                  characters, especially the Holy Mother; Cleopatra, <choice><orig>Penel-</orig><reg>Penelope</reg></choice></p></note>
 
             <pb facs="prc_kc.00230.jpg" xml:id="leaf119r1" n="229" type="recto"/>
 
@@ -13030,6 +13200,15 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             identity&#8212;yours for you, whoever you are, as mine for me. Miracle of miracles,
             beyond statement, most spiritual and vaguest of earth's dreams, yet
 
+            <milestone unit="undeclared" rend="horbar-full"/>
+
+            <note xml:id="n26.2" type="authorial" place="bottom" target="r26" prev="#n26">
+              <p><choice><orig>ope</orig><reg></reg></choice>; the
+            portraits of Brunhelde and Chriemhilde in the Nibelungen; Oriana, Una, &#38;c.;
+            the modern Consuelo, Walter Scott's Jeanie and Effie Deans, &#38;c., &#38;c.
+            (Yet woman portray'd or outlin'd at her best, or as perfect human mother, does not
+            hitherto, it seems to me, fully appear in literature.)</p></note>
+            
             <pb facs="prc_kc.00231.jpg" xml:id="leaf119v1" n="230" type="verso"/>
 
             hardest basic fact, and only entrance to all facts. In such devout hours, in the midst
@@ -13574,17 +13753,9 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             principles, never to be overturn'd, offering a sure basis for all the rest. With that, 
             their future religious forms, sociology, literature, teachers, schools, costumes, 
             &#38;c., are of course to make a compact whole, uniform, on tallying principles. For 
-            how can we remain, divided, contradicting ourselves, this way?<ref xml:id="r27" 
-              target="n27" n="27"/><note xml:id="n27" type="authorial" target="r27" n="27" 
-              place="inline"><p>*Note, to-day, an instructive, curious spectacle and conflict. 
-                Science, (twin, in its fields, of Democracy in its)&#8212;Science, testing 
-                absolutely all thoughts, all works, has already burst well upon the 
-                world&#8212;a sun, mounting, most illuminating, most glorious&#8212;surely 
-                never again to set. But against it, deeply entrench'd, holding possession, yet 
-                remains, (not only through the churches and schools, but by imaginative literature, 
-                and unregenerate poetry,) the fossil theology of the mythic-materialistic, 
-                superstitious, untaught and credulous, fable-loving, primitive ages of 
-              humanity.</p></note> I say we can only attain harmony and stability by consulting 
+            how can we remain, divided, contradicting ourselves, this 
+            way?<ref xml:id="r27" target="#n27"><metamark function="link">*</metamark></ref> 
+            I say we can only attain harmony and stability by consulting 
             ensemble and the ethic purports, and faithfully building upon them. For the New World, 
             indeed, after two grand stages of preparation-strata, I perceive that now a third stage, 
             being ready for, (and without which the other two were useless,) with unmistakable signs 
@@ -13604,6 +13775,20 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             schools, books, newspapers, a currency for money circulation, &#38;c. The Third 
             stage, rising out of 
   
+            <milestone unit="undeclared" rend="horbar-full"/>
+            
+            <note xml:id="n27" type="authorial" target="#r27" place="bottom">
+               
+              <p><metamark function="link">*</metamark> Note, to-day, an instructive, curious spectacle and conflict. 
+                Science, (twin, in its fields, of Democracy in its)&#8212;Science, testing 
+                absolutely all thoughts, all works, has already burst well upon the 
+                world&#8212;a sun, mounting, most illuminating, most glorious&#8212;surely 
+                never again to set. But against it, deeply entrench'd, holding possession, yet 
+                remains, (not only through the churches and schools, but by imaginative literature, 
+                and unregenerate poetry,) the fossil theology of the mythic-materialistic, 
+                superstitious, untaught and credulous, fable-loving, primitive ages of 
+                humanity.</p></note>
+            
             <pb facs="prc_kc.00245.jpg" xml:id="leaf126v1" n="244" type="verso"/> 
   
             the previous ones, to make them and all illustrious, I, now, for one, promulge, 
@@ -13757,23 +13942,30 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             man&#8212;which, hard to define, underlies the lessons and ideals of the profound 
             saviours of every land and age, and which seems to promise, when thoroughly develop'd, 
             cultivated and recognized in manners and literature, the most substantial hope and 
-            safety of the future of these States, will then be fully express'd.<ref xml:id="r28" 
-              target="n28" n="28"/><note xml:id="n28" type="authorial" target="r28" n="28" 
-              place="inline"><p>*It is to the development, identification, and general prevalence of 
-                that fervid comradeship, (the adhesive love, at least rivaling the amative love 
-                hitherto possessing imaginative literature, if not going beyond it,) that I look for 
-                the counterbalance and offset of our materialistic and vulgar American democracy, 
-                and for the spiritualization thereof. Many will say it is a dream, and will not 
-                follow my inferences: but I confidently expect a time when there will be seen, 
-                running like a half-hid warp through all the myriad audible and visible worldly 
-                interests of America, threads of manly friendship, fond and loving, pure and sweet, 
-                strong and life-long, carried to degrees hitherto unknown&#8212;not only giving 
-                tone to individual character, and making it unprecedently emotional, muscular, 
-                heroic, and refined, but having the deepest relations to general politics. I say 
-                democracy infers such loving comradeship,<pb facs="prc_kc.00249.jpg" 
-                xml:id="leaf128v2" n="248" type="verso"/>as its most inevitable twin or 
-                counterpart, without which it will be incomplete, in vain, and incapable of 
-                perpetuating itself.</p></note></p> 
+            safety of the future of these States, will then be fully 
+            express'd.<ref xml:id="r28" target="#n28"><metamark function="link">*</metamark></ref></p> 
+  
+  
+          <milestone unit="undeclared" rend="horbar-full"/>
+          
+           
+  
+          <note xml:id="n28" type="authorial" target="#r28" place="bottom" next="n28.2">
+            
+            <p><metamark function="link">*</metamark> It is to the development, identification, and general prevalence of 
+              that fervid comradeship, (the adhesive love, at least rivaling the amative love 
+              hitherto possessing imaginative literature, if not going beyond it,) that I look for 
+              the counterbalance and offset of our materialistic and vulgar American democracy, 
+              and for the spiritualization thereof. Many will say it is a dream, and will not 
+              follow my inferences: but I confidently expect a time when there will be seen, 
+              running like a half-hid warp through all the myriad audible and visible worldly 
+              interests of America, threads of manly friendship, fond and loving, pure and sweet, 
+              strong and life-long, carried to degrees hitherto unknown&#8212;not only giving 
+              tone to individual character, and making it unprecedently emotional, muscular, 
+              heroic, and refined, but having the deepest relations to general politics. I say 
+              democracy infers such loving comradeship,</p></note>
+  
+  
   
                     <pb facs="prc_kc.00249.jpg" xml:id="leaf128v1" n="248" type="verso"/> 
   
@@ -13811,30 +14003,19 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             carries its dynamics on forever sure and safe. Its lack, and the persistent shirking of 
             it, as in life, sociology, literature, politics, business, and even sermonizing, these 
             times, or any times, still leaves the abysm, the mortal flaw and smutch, mocking 
-            civi- 
+            <choice><orig>civi-</orig><reg>civilization</reg></choice> 
+            
+            <milestone unit="undeclared" rend="horbar-full"/>
+            
+            <note xml:id="n28.2" type="authorial" target="#r28" place="bottom" prev="#n28"><p>as its most inevitable twin or 
+              counterpart, without which it will be incomplete, in vain, and incapable of 
+              perpetuating itself.</p></note>
   
             <pb facs="prc_kc.00250.jpg" xml:id="leaf129r1" n="249" type="recto"/> 
   
-            lization to-day, with all its unquestion'd triumphs, and all the civilization so far 
-              known.<ref xml:id="r29" target="n29" n="29"/><note xml:id="n29" type="authorial" 
-              target="r29" n="29" place="inline"><p>*I am reminded as I write that out of this very 
-                conscience, or idea of conscience, of intense moral right, and in its name and 
-                strain'd construction, the worst fanaticisms, wars, persecutions, murders, 
-                &#38;c., have yet, in all lands, in the past, been broach'd, and have come to 
-                their devilish fruition. Much is to be said&#8212;but I may say here, and in 
-                response, that side by side with the unflagging stimulation of the elements of 
-                religion and conscience must henceforth move with equal sway, science, absolute 
-                reason, and the general proportionate development of the whole man. These scientific 
-                facts, deductions, are divine too&#8212;precious counted parts of moral 
-                civilization, and, with physical health, indispensable to it, to prevent fanaticism. 
-                For abstract religion, I perceive, is easily led astray, ever credulous, and is 
-                capable of devouring, remorseless, like fire and flame. Conscience, too, isolated 
-                from all else, and from the emotional nature, may but attain the beauty and purity 
-                of glacial, snowy ice. We want, for these States, for the general character, a 
-                cheerful, religious fervor, endued with the ever-present modifications of the human 
-                emotions, friendship, benevolence, with a fair field for scientific inquiry, the 
-                right of individual judgment, and always the cooling influences of material 
-                Nature.</p></note></p> 
+            <choice><orig>lization</orig><reg></reg></choice> to-day, with all its unquestion'd triumphs, 
+            and all the civilization so far 
+            known.<ref xml:id="r29" target="#n29"><metamark function="link">*</metamark></ref></p> 
   
           <p>Present literature, while magnificently fulfilling certain popular demands, with 
             plenteous knowledge and verbal smartness, is profoundly sophisticated, insane, and its 
@@ -13860,7 +14041,31 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             hedges, poseys and nightingales of the English poets, but the whole orb, with its 
             geologic history, the kosmos, carrying fire and snow, that rolls through the 
             illimitable 
-  
+            
+            <milestone unit="undeclared" rend="horbar-full"/>
+                        
+  <note xml:id="n29" type="authorial" target="r29" place="bottom">
+    
+    <p><metamark function="link">*</metamark> I am reminded as I write that out of this very 
+                conscience, or idea of conscience, of intense moral right, and in its name and 
+                strain'd construction, the worst fanaticisms, wars, persecutions, murders, 
+                &#38;c., have yet, in all lands, in the past, been broach'd, and have come to 
+                their devilish fruition. Much is to be said&#8212;but I may say here, and in 
+                response, that side by side with the unflagging stimulation of the elements of 
+                religion and conscience must henceforth move with equal sway, science, absolute 
+                reason, and the general proportionate development of the whole man. These scientific 
+                facts, deductions, are divine too&#8212;precious counted parts of moral 
+                civilization, and, with physical health, indispensable to it, to prevent fanaticism. 
+                For abstract religion, I perceive, is easily led astray, ever credulous, and is 
+                capable of devouring, remorseless, like fire and flame. Conscience, too, isolated 
+                from all else, and from the emotional nature, may but attain the beauty and purity 
+                of glacial, snowy ice. We want, for these States, for the general character, a 
+                cheerful, religious fervor, endued with the ever-present modifications of the human 
+                emotions, friendship, benevolence, with a fair field for scientific inquiry, the 
+                right of individual judgment, and always the cooling influences of material 
+                Nature.</p></note>
+            
+            
             <pb facs="prc_kc.00251.jpg" xml:id="leaf129v1" n="250" type="verso"/> 
   
             areas, light as a feather, though weighing billions of tons. Furthermore, as by what we 
@@ -13874,9 +14079,14 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             observations for our Vistas, breathing rarest air. What is I believe called Idealism 
             seems to me to suggest, (guarding against extravagance, and ever modified even by its 
             opposite,) the course of inquiry and desert of favor for our New World metaphysics, 
-            their foundation of and in literature, giving hue to all.<ref xml:id="r30" target="n30" 
-              n="30"/><note xml:id="n30" type="authorial" target="r30" n="30" place="inline"><p>*The 
-                culmination and fruit of literary artistic expression, and its final fields of 
+            their foundation of and in literature, giving hue to 
+            all.<ref xml:id="r30" target="#n30"><metamark function="link">*</metamark></ref></p> 
+  
+            <milestone unit="undeclared" rend="horbar-full"/>
+          
+                    <note xml:id="n30" type="authorial" target="#r30" place="bottom" next="#n30.2">
+                      
+                      <p><metamark function="link">*</metamark> The culmination and fruit of literary artistic expression, and its final fields of 
                 pleasure for the human soul, are in metaphysics, including the mysteries of the 
                 spiritual world, the soul itself, and the question of the immortal continuation of 
                 our identity. In all ages, the mind of man has brought up here&#8212;and always 
@@ -13895,7 +14105,8 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
                 religious tone, the consciousness of mystery, the recognition of the future, of the 
                 unknown, of Deity over and under all, and of the divine purpose, are never absent, 
                 but indirectly give tone to all&#8212;exhibit literature's real heights and 
-                elevations, towering up like the great mountains of the earth.</p> <p>Standing on 
+                elevations, towering up like the great mountains of the earth.</p> 
+                      <p>Standing on 
                   this ground&#8212;the last, the highest, only permanent ground&#8212;and sternly 
                 criticising, from it, all works, either of the literary, or any art, we have 
                 peremptorily to dismiss every pretensive production, however fine its esthetic or 
@@ -13909,18 +14120,12 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
                 inscription is to appear, Though little or nothing can be absolutely known, 
                 perceiv'd, except from a point of view which is evanescent, yet we know at least one
                 permanency, that Time and Space, in the will of God, furnish successive chains, 
-                completions of material births and begin-<pb facs="prc_kc.00252.jpg" 
-                xml:id="leaf130r2" n="251" type="recto"/>nings, solve all discrepancies, fears 
-                and doubts, and eventually fulfil happiness&#8212;and that the prophecy of those 
-                births, namely spiritual results, throws the true arch over all teaching, all 
-                science. The local considerations of sin, disease, deformity, ignorance, death, 
-                &#38;c., and their measurement by the superficial mind, and ordinary legislation 
-                and theology, are to be met by science, boldly accepting, promulging this faith, and 
-                planting the seeds of superber laws&#8212;of the explication of the physical 
-                universe through the spiritual&#8212;and clearing the way for a religion, sweet 
-                and unimpugnable alike to little child or great savan.</p></note></p> 
-  
-                    <pb facs="prc_kc.00252.jpg" xml:id="leaf130r1" n="251" type="recto"/> 
+                completions of material births and <choice><orig>begin-</orig><reg>beginnings</reg></choice></p></note>
+          
+          
+          
+          
+          <pb facs="prc_kc.00252.jpg" xml:id="leaf130r1" n="251" type="recto"/> 
   
           <p>The elevating and etherealizing ideas of the unknown and of unreality must be brought 
             forward with authority, as they are the legitimate heirs of the known, and of reality, 
@@ -13953,6 +14158,19 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             literature, especially verse, must get its inspiration and throbbing blood. Then may we 
             at- 
   
+            <milestone unit="undeclared" rend="horbar-full"/>
+  
+            <note xml:id="n30.2" type="authorial" target="#r30" place="bottom" prev="#n30">
+              <choice><orig>nings</orig><reg></reg></choice>, solve all discrepancies, fears 
+            and doubts, and eventually fulfil happiness&#8212;and that the prophecy of those 
+            births, namely spiritual results, throws the true arch over all teaching, all 
+            science. The local considerations of sin, disease, deformity, ignorance, death, 
+            &#38;c., and their measurement by the superficial mind, and ordinary legislation 
+            and theology, are to be met by science, boldly accepting, promulging this faith, and 
+            planting the seeds of superber laws&#8212;of the explication of the physical 
+            universe through the spiritual&#8212;and clearing the way for a religion, sweet 
+            and unimpugnable alike to little child or great savan.</note>
+            
             <pb facs="prc_kc.00253.jpg" xml:id="leaf130v1" n="252" type="verso"/> 
   
             tain to a poetry worthy the immortal soul of man, and which, while absorbing materials, 
@@ -14992,17 +15210,8 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
               <hi rend="italic">materials</hi>, ampler, better, (worse also,) than previously
             known&#8212;eligible to be used to carry towards its crowning stage, and build for
             good, the great ideal nationality of the future, the nation of the body and the
-              soul,<ref xml:id="r31" target="n31" n="31"/><note xml:id="n31" type="authorial"
-              target="r31" n="31" place="inline"><p>*The problems of the achievements of this
-                crowning stage through future first-class National Singers, Orators, Artists, and
-                others&#8212;of creating in literature an imaginative New World, the
-                correspondent and counterpart of the current Scientific and Political New
-                Worlds,&#8212;and the perhaps distant, but still delightful prospect, (for our
-                children, if not in our own day,) of delivering America, and, indeed, all Christian
-                lands everywhere, from the thin moribund and watery, but appallingly extensive
-                nuisance of conventional poetry&#8212;by putting something really alive and
-                substantial in its place&#8212;I have undertaken to grapple with, and argue, in
-                the preceding "Democratic Vistas."</p></note>&#8212;no limit here to land, help,
+            soul,<ref xml:id="r31" target="#n31"><metamark function="link">*</metamark></ref>&#8212;no 
+            limit here to land, help,
             opportunities, mines, products, demands, supplies, &#38;c.;&#8212;with (I think)
             our political organization, National, State, and Municipal, permanently establish'd, as
             far ahead as we can calculate&#8212;but, so far, no social, literary, religious, or
@@ -15013,6 +15222,21 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             of a late well-written book on civilization seems to be that the only real
             foundation-walls and bases&#8212;and also sine qua non afterward&#8212;of true
             and
+            
+            <milestone unit="undeclared" rend="horbar-full"/>
+            
+            <note xml:id="n31" type="authorial" target="#r31" place="bottom">
+              
+              <p><metamark function="link">*</metamark> The problems of the achievements of this
+                crowning stage through future first-class National Singers, Orators, Artists, and
+                others&#8212;of creating in literature an imaginative New World, the
+                correspondent and counterpart of the current Scientific and Political New
+                Worlds,&#8212;and the perhaps distant, but still delightful prospect, (for our
+                children, if not in our own day,) of delivering America, and, indeed, all Christian
+                lands everywhere, from the thin moribund and watery, but appallingly extensive
+                nuisance of conventional poetry&#8212;by putting something really alive and
+                substantial in its place&#8212;I have undertaken to grapple with, and argue, in
+                the preceding "Democratic Vistas."</p></note>
 
             <pb facs="prc_kc.00279.jpg" xml:id="leaf143v1" n="278" type="verso"/>
 
@@ -15129,8 +15353,14 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
 
           <p>And e'en for flush and proof of our America&#8212;for reminder, just as much, or
             more, in moods of towering pride and joy, I keep my special chants of death and
-              immortality<ref xml:id="r32" target="n32" n="32"/><note xml:id="n32" type="authorial"
-                target="r32" n="32" place="inline"><p>*P<hi rend="smallcaps">ASSAGE</hi> T<hi rend="smallcaps">O</hi> I<hi rend="smallcaps">NDIA</hi>.&#8212;As in some ancient
+            immortality<ref xml:id="r32" target="#n32"><metamark function="link">*</metamark></ref> to stamp the
+            
+            <milestone unit="undeclared" rend="horbar-full"/>
+                        
+            <note xml:id="n32" type="authorial" target="#r32" place="bottom" next="#n32.2">
+              
+              <p><metamark function="link">*</metamark> P<hi rend="smallcaps">ASSAGE</hi> T<hi rend="smallcaps">O</hi> I<hi rend="smallcaps">NDIA</hi>.&#8212;As 
+                in some ancient
                 legend-play, to close the plot and the hero's career, there is a farewell gathering
                 on ship's deck and on shore, a loosing of hawsers and ties, a spreading of sails to
                 the wind&#8212;a starting out on unknown seas, to fetch up no one knows
@@ -15139,39 +15369,51 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
                 and explain much that, without them, would not be explain'd, and to take leave, and
                 escape for good, from all that has preceded them. (Then probably "Passage to India,"
                 and its cluster, are but freer vent and fuller expression to what, from the first,
-                and so on through-<pb facs="prc_kc.00282.jpg" xml:id="leaf145r2" n="281"
-                type="recto"/>out, more or less lurks in my writings, underneath every page,
-                every line, everywhere.)</p> <p>I am not sure but the last inclosing sublimation of
-                race or poem is, what it thinks of death. After the rest has been comprehended and
-                said, even the grandest&#8212;after those contributions to mightiest
-                nationality, or to sweetest song, or to the best personalism, male or female, have
-                been glean'd from the rich and varied themes of tangible life, and have been fully
-                accepted and sung, and the pervading fact of visible existence, with the duty it
-                devolves, is rounded and apparently completed, it still remains to be really
-                completed by suffusing through the whole and several, that other pervading invisible
-                fact, so large a part, (is it not the largest part?) of life here, combining the
-                rest, and furnishing, for person or State, the only permanent and unitary meaning to
-                all, even the meanest life, consistently with the dignity of the universe, in Time.
-                As from the eligibility to this thought, and the cheerful conquest of this fact,
-                flash forth the first distinctive proofs of the soul, so to me, (extending it only a
-                little further,) the ultimate Democratic purports, the ethereal and spiritual ones,
-                are to concentrate here, and as fixed stars, radiate hence. For, in my opinion, it
-                is no less than this idea of immortality, above all other ideas, that is to enter
-                into, and vivify, and give crowning religious stamp, to democracy in the New
-                World.</p> <p>It was originally my intention, after chanting in "Leaves of Grass"
-                the songs of the body and existence, to then compose a further, equally needed
-                volume, based on those convictions of perpetuity and conservation which, enveloping
-                all precedents, make the unseen soul govern absolutely at last. I meant, while in a
-                sort continuing the theme of my first chants, to shift the slides, and exhibit the
-                problem and paradox of the same ardent and fully appointed personality entering the
-                sphere of the resistless gravitation of spiritual law, and with cheerful face
-                estimating death, not at all as the cessation, but as somehow what I feel it must
-                be, the entrance upon by far the greatest part of existence, and something that life
-                is at least as much for, as it is for itself. But the full construction of such a
-                work is beyond my powers, and must remain for some bard in the future. The physical
-                and the sensuous, in themselves or in their immediate continuations, retain holds
-                upon me which I think are never entirely releas'd; and those holds I have not only
-                not denied, but hardly wish'd to weaken.</p> <p>Meanwhile, not entirely to give the
+                and so on <choice><orig>through-</orig><reg>throughout</reg></choice></p></note>
+            
+            <pb facs="prc_kc.00282.jpg" xml:id="leaf145r1" n="281" type="recto"/>
+
+            coloring-finish of all, present and past. For terminus and temperer to all, they were
+            originally written; and that shall be their office at the last.</p>
+          
+          <milestone unit="undeclared" rend="horbar-full"/>
+          
+          <note xml:id="n32.2" type="authorial" target="#r32" place="bottom" prev="#n32" next="#n32.3">
+            <p><choice><orig>out</orig><reg></reg></choice>, more or less lurks in my writings, underneath every page,
+          every line, everywhere.)</p> 
+            <p>I am not sure but the last inclosing sublimation of
+            race or poem is, what it thinks of death. After the rest has been comprehended and
+            said, even the grandest&#8212;after those contributions to mightiest
+            nationality, or to sweetest song, or to the best personalism, male or female, have
+            been glean'd from the rich and varied themes of tangible life, and have been fully
+            accepted and sung, and the pervading fact of visible existence, with the duty it
+            devolves, is rounded and apparently completed, it still remains to be really
+            completed by suffusing through the whole and several, that other pervading invisible
+            fact, so large a part, (is it not the largest part?) of life here, combining the
+            rest, and furnishing, for person or State, the only permanent and unitary meaning to
+            all, even the meanest life, consistently with the dignity of the universe, in Time.
+            As from the eligibility to this thought, and the cheerful conquest of this fact,
+            flash forth the first distinctive proofs of the soul, so to me, (extending it only a
+            little further,) the ultimate Democratic purports, the ethereal and spiritual ones,
+            are to concentrate here, and as fixed stars, radiate hence. For, in my opinion, it
+            is no less than this idea of immortality, above all other ideas, that is to enter
+            into, and vivify, and give crowning religious stamp, to democracy in the New
+            World.</p> 
+            <p>It was originally my intention, after chanting in "Leaves of Grass"
+              the songs of the body and existence, to then compose a further, equally needed
+              volume, based on those convictions of perpetuity and conservation which, enveloping
+              all precedents, make the unseen soul govern absolutely at last. I meant, while in a
+              sort continuing the theme of my first chants, to shift the slides, and exhibit the
+              problem and paradox of the same ardent and fully appointed personality entering the
+              sphere of the resistless gravitation of spiritual law, and with cheerful face
+              estimating death, not at all as the cessation, but as somehow what I feel it must
+              be, the entrance upon by far the greatest part of existence, and something that life
+              is at least as much for, as it is for itself. But the full construction of such a
+              work is beyond my powers, and must remain for some bard in the future. The physical
+              and the sensuous, in themselves or in their immediate continuations, retain holds
+              upon me which I think are never entirely releas'd; and those holds I have not only
+              not denied, but hardly wish'd to weaken.</p> 
+            <p>Meanwhile, not entirely to give the
                 go-by to my original plan, and far more to avoid a mark'd hiatus in it, than to
                 entirely fulfil it, I end my books with thoughts, or radiations from thoughts, on
                 death, immortality, and a free entrance into the spiritual world. In those thoughts,
@@ -15183,33 +15425,9 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
                 notion of leaving that cluster to you, O unknown reader of the future, as "something
                 to remember me by," more especially than all else. Written in former days of perfect
                 health, little did I think the pieces had the purport that now, under present
-                circumstances, opens to me.</p> <p>[As I write these lines, May 31, 1875, it is
-                  again early summer&#8212;again my<pb facs="prc_kc.00283.jpg"
-                xml:id="leaf145v2" n="282" type="verso"/>birth-day&#8212;now my fifty-sixth.
-                Amid the outside beauty and freshness, the sunlight and verdure of the delightful
-                season, O how different the moral atmosphere amid which I now revise this Volume,
-                from the jocund influence surrounding the growth and advent of "Leaves of Grass." I
-                occupy myself, arranging these pages for publication, still envelopt in thoughts of
-                the death two years since of my dear Mother, the most perfect and magnetic
-                character, the rarest combination of practical, moral and spiritual, and the least
-                selfish, of all and any I have ever known&#8212;and by me O so much the most
-                deeply loved&#8212;and also under the physical affliction of a tedious attack of
-                paralysis, obstinately lingering and keeping its hold upon me, and quite suspending
-                all bodily activity and comfort.]</p> <p>Under these influences, therefore, I still
-                feel to keep "Passage to India" for last words even to this centennial dithyramb.
-                Not as, in antiquity, at highest festival of Egypt, the noisome skeleton of death
-                was sent on exhibition to the revelers, for zest and shadow to the occasion's joy
-                and light&#8212;but as the marble statue of the normal Greeks at Elis,
-                suggesting death in the form of a beautiful and perfect young man, with closed eyes,
-                leaning on an inverted torch&#8212;emblem of rest and aspiration after
-                action&#8212;of crown and point which all lives and poems should steadily have
-                reference to, namely, the justified and noble termination of our identity, this
-                grade of it, and outlet-preparation to another grade.</p></note> to stamp the
-
-            <pb facs="prc_kc.00282.jpg" xml:id="leaf145r1" n="281" type="recto"/>
-
-            coloring-finish of all, present and past. For terminus and temperer to all, they were
-            originally written; and that shall be their office at the last.</p>
+                circumstances, opens to me.</p> 
+            <p>[As I write these lines, May 31, 1875, it is again early summer&#8212;again my</p>
+          </note>
 
           <pb facs="prc_kc.00283.jpg" xml:id="leaf145v1" n="282" type="verso"/>
 
@@ -15236,6 +15454,32 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             growth? weeds, annuals, of the rank, rich soil&#8212;not central, enduring,
             perennial things? The
 
+            <milestone unit="undeclared" rend="horbar-full"/>
+
+<note xml:id="n32.3" type="authorial" target="#r32" place="bottom" prev="#n32.2">
+  <p>birth-day&#8212;now my fifty-sixth.
+Amid the outside beauty and freshness, the sunlight and verdure of the delightful
+season, O how different the moral atmosphere amid which I now revise this Volume,
+from the jocund influence surrounding the growth and advent of "Leaves of Grass." I
+occupy myself, arranging these pages for publication, still envelopt in thoughts of
+the death two years since of my dear Mother, the most perfect and magnetic
+character, the rarest combination of practical, moral and spiritual, and the least
+selfish, of all and any I have ever known&#8212;and by me O so much the most
+deeply loved&#8212;and also under the physical affliction of a tedious attack of
+paralysis, obstinately lingering and keeping its hold upon me, and quite suspending
+all bodily activity and comfort.]</p> 
+  <p>Under these influences, therefore, I still
+  feel to keep "Passage to India" for last words even to this centennial dithyramb.
+  Not as, in antiquity, at highest festival of Egypt, the noisome skeleton of death
+  was sent on exhibition to the revelers, for zest and shadow to the occasion's joy
+  and light&#8212;but as the marble statue of the normal Greeks at Elis,
+  suggesting death in the form of a beautiful and perfect young man, with closed eyes,
+  leaning on an inverted torch&#8212;emblem of rest and aspiration after
+  action&#8212;of crown and point which all lives and poems should steadily have
+  reference to, namely, the justified and noble termination of our identity, this
+  grade of it, and outlet-preparation to another grade.</p>
+</note>
+  
             <pb facs="prc_kc.00284.jpg" xml:id="leaf146r1" n="283" type="recto"/>
 
             other, that all the hitherto experience of the States, their first century, has been
@@ -15260,112 +15504,104 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             the superstitions, and all the long, tenacious and stifling anti-democratic authorities
             of the Asiatic and European past&#8212;my enclosing purport being to express, above
             all artificial regulation and aid, the eternal bodily composite, cumulative, natural
-            character of one's self.<ref xml:id="r33" target="n33" n="33"/><note xml:id="n33"
-              type="authorial" target="r33" n="33" place="inline"><p>*Namely, a character, making
-                most of common and normal elements, to the superstructure of which not only the
-                precious accumulations of the learning and experiences of the Old World, and the
-                settled social and municipal necessities and current requirements, so long
-                a-building, shall still faithfully contribute, but which at its foundations and
-                carried up thence, and receiving its impetus from the democratic spirit, and
-                accepting its gauge in all departments from the democratic formulas, shall again
-                directly be vitalized by the perennial influences of Nature at first hand, and the
-                old heroic stamina of Nature, the strong air of prairie and mountain, the dash of
-                the briny sea, the primary antiseptics&#8212;of the passions, in all their
-                fullest heat and potency, of courage, rankness, amativeness, and of immense pride.
-                Not to lose at all, therefore, the benefits of artificial progress and civilization,
-                but to re-occupy for Western tenancy the oldest though ever-fresh fields, and reap
-                from them the savage and sane nourishment indispensable to a hardy nation, and the
-                absence of which, threatening to become worse and worse, is the most serious lack
-                and defect to-day of our New World literature.</p> <p>Not but what the brawn of
+            character of one's self.<ref xml:id="r33" target="#n33"><metamark function="link">*</metamark></ref>
+          </p>
+          
+          <milestone unit="undeclared" rend="horbar-full"/>
+          
+           
+          
+          <note xml:id="n33" type="authorial" target="#r33" place="bottom" next="#n33.2">
+            
+            <p><metamark function="link">*</metamark> Namely, a character, making
+              most of common and normal elements, to the superstructure of which not only the
+              precious accumulations of the learning and experiences of the Old World, and the
+              settled social and municipal necessities and current requirements, so long
+              a-building, shall still faithfully contribute, but which at its foundations and
+              carried up thence, and receiving its impetus from the democratic spirit, and
+              accepting its gauge in all departments from the democratic formulas, shall again
+              directly be vitalized by the perennial influences of Nature at first hand, and the
+              old heroic stamina of Nature, the strong air of prairie and mountain, the dash of
+              the briny sea, the primary antiseptics&#8212;of the passions, in all their
+              fullest heat and potency, of courage, rankness, amativeness, and of immense pride.
+              Not to lose at all, therefore, the benefits of artificial progress and civilization,
+              but to re-occupy for Western tenancy the oldest though ever-fresh fields, and reap
+              from them the savage and sane nourishment indispensable to a hardy nation, and the
+              absence of which, threatening to become worse and worse, is the most serious lack
+              and defect to-day of our New World literature.</p> 
+            <p>Not but what the brawn of
                 "Leaves of Grass" is, I hope, thoroughly spiritualized everywhere, for final
                 estimate, but, from the very subjects, the direct effect is a sense of the life, as
                 it should be, of flesh and blood, and physical urge, and animalism. While there are
                 other themes, and plenty of abstract thoughts and poems in the
                 volume&#8212;while I have put in it passing and rapid but actual glimpses of the
                 great struggle between the nation and the slave-power, (1861&#8211;'65,) as the
-                fierce and bloody panorama of that contest<pb facs="prc_kc.00285.jpg"
-                xml:id="leaf146v2" n="284" type="verso"/>unroll'd itself: while the whole book,
-                indeed, revolves around that four years' war, which, as I was in the midst of it,
-                becomes, in "Drum-Taps," pivotal to the rest entire&#8212;and here and there,
-                before and afterward, not a few episodes and speculations&#8212;<hi
-                  rend="italic">that</hi>&#8212;namely, to make a type-portrait for living,
-                active, worldly, healthy personality, objective as well as subjective, joyful and
-                potent, and modern and free, distinctively for the use of the United States, male
-                and female, through the long future&#8212;has been, I say, my general object.
-                (Probably, indeed, the whole of these varied songs, and all my writings, both
-                volumes, only ring changes in some sort, on the ejaculation, How vast, how eligible,
-                how joyful, how real, is a human being, himself or herself.)</p> <p>Though from no
-                definite plan at the time, I see now that I have unconsciously sought, by
-                indirections at least as much as directions, to express the whirls and rapid growth
-                and intensity of the United States, the prevailing tendency and events of the
-                Nineteenth century, and largely the spirit of the whole current world, my time; for
-                I feel that I have partaken of that spirit, as I have been deeply interested in all
-                those events, the closing of long-stretch'd eras and ages, and, illustrated in the
-                history of the United States, the opening of larger ones. (The death of President
-                Lincoln, for instance, fitly, historically closes, in the civilization of feudalism,
-                many old influences&#8212;drops on them, suddenly, a vast, gloomy, as it were,
-                separating curtain.)</p> <p>Since I have been ill, (1873&#8211;74&#8211;75,)
-                mostly without serious pain, and with plenty of time and frequent inclination to
-                judge my poems, (never composed with eye on the book-market, nor for fame, nor for
-                any pecuniary profit,) I have felt temporary depression more than once, for fear
-                that in "Leaves of Grass" the <hi rend="italic">moral</hi> parts were not
-                sufficiently pronounc'd. But in my clearest and calmest moods I have realized that
-                as those "Leaves," all and several, surely prepare the way for, and necessitate
-                morals, and are adjusted to them, just the same as Nature does and is, they are
-                what, consistently with my plan, they must and probably should be. (In a certain
-                sense, while the Moral is the purport and last intelligence of all Nature, there is
-                absolutely nothing of the moral in the works, or laws, or shows of Nature. Those
-                only lead inevitably to it&#8212;begin and necessitate it.)</p> <p>Then I meant
-                "Leaves of Grass," as publish'd, to be the Poem of average Identity, (of <hi
-                  rend="italic">yours</hi>, whoever you are, now reading these lines.) A man is not
-                greatest as victor in war, nor inventor or explorer, nor even in science, or in his
-                intellectual or artistic capacity, or exemplar in some vast benevolence. To the
-                highest democratic view, man is most acceptable in living well the practical life
-                and lot which happens to him as ordinary farmer, sea-farer, mechanic, clerk,
-                laborer, or driver&#8212;upon and from which position as a central basis or
-                pedestal, while performing its labors, and his duties as citizen, son, husband,
-                father and employ'd person, he preserves his physique, ascends, developing,
-                radiating himself in other regions&#8212;and especially where and when,
-                (greatest of all, and nobler than the proudest mere genius or magnate in any field,)
-                he fully realizes the conscience, the spiritual, the divine faculty, cultivated
-                well, exemplified in all his deeds and words, through life, uncompromising to the
-                end&#8212;a flight loftier than any of Homer's or Shakspere's&#8212;broader
-                than all poems and bibles&#8212;namely, Nature's own, and in the midst of it,
-                Yourself, your own Identity, body and soul. (All serves, helps&#8212;but in the
-                centre of all, absorbing all, giving, for your purpose, the only meaning and
-                vitality to all, master or mistress of all, under the law, stands Yourself.) To sing
-                the<pb facs="prc_kc.00286.jpg" xml:id="leaf147r2" n="285" type="recto"/>
-                Song of that law of average Identity, and of Yourself, consistently with the
-                divine law of the universal, is a main intention of those "Leaves."</p> <p>Something
-                more may be added&#8212;for, while I am about it, I would make a full
-                confession. I also sent out "Leaves of Grass" to arouse and set flowing in men's and
-                women's hearts, young and old, endless streams of living, pulsating love and
-                friendship, directly from them to myself, now and ever. To this terrible,
-                irrepressible yearning, (surely more or less down underneath in most human
-                souls)&#8212;this never-satisfied appetite for sympathy, and this boundless
-                offering of sympathy&#8212;this universal democratic comradeship&#8212;this
-                old, eternal, yet ever-new interchange of adhesiveness, so fitly emblematic of
-                America&#8212;I have given in that book, undisguisedly, declaredly, the openest
-                expression. Besides, important as they are in my purpose as emotional expressions
-                for humanity, the special meaning of the "Calamus" cluster of "Leaves of Grass,"
-                (and more or less running through the book, and cropping out in "Drum-Taps,") mainly
-                resides in its political significance. In my opinion, it is by a fervent, accepted
-                development of comradeship, the beautiful and sane affection of man for man, latent
-                in all the young fellows, north and south, east and west&#8212;it is by this, I
-                say, and by what goes directly and indirectly along with it, that the United States
-                of the future, (I cannot too often repeat,) are to be most effectually welded
-                together, intercalated, anneal'd into a living union.</p> <p>Then, for enclosing
-                clue of all, it is imperatively and ever to be borne in mind that "Leaves of Grass"
-                entire is not to be construed as an intellectual or scholastic effort or poem
-                mainly, but more as a radical utterance out of the Emotions and the
-                Physique&#8212;an utterance adjusted to, perhaps born of, Democracy and the
-                Modern&#8212;in its very nature regardless of the old conventions, and, under
-                the great laws, following only its own impulses.</p></note></p>
+                fierce and bloody panorama of that contest</p>
+          </note>
 
           <pb facs="prc_kc.00285.jpg" xml:id="leaf146v1" n="284" type="verso"/>
 
           <p>Estimating the American Union as so far, and for some time to come, in its yet
             formative condition, I bequeath poems and essays
+            
+            <milestone unit="undeclared" rend="horbar-full"/>
+
+<note xml:id="n33.2" type="authorial" target="#r33" place="bottom" prev="#n33" next="#n33.3">
+  <p>unroll'd itself: while the whole book,
+  indeed, revolves around that four years' war, which, as I was in the midst of it,
+  becomes, in "Drum-Taps," pivotal to the rest entire&#8212;and here and there,
+  before and afterward, not a few episodes and speculations&#8212;<hi
+    rend="italic">that</hi>&#8212;namely, to make a type-portrait for living,
+  active, worldly, healthy personality, objective as well as subjective, joyful and
+  potent, and modern and free, distinctively for the use of the United States, male
+  and female, through the long future&#8212;has been, I say, my general object.
+  (Probably, indeed, the whole of these varied songs, and all my writings, both
+  volumes, only ring changes in some sort, on the ejaculation, How vast, how eligible,
+  how joyful, how real, is a human being, himself or herself.)</p> 
+  <p>Though from no
+    definite plan at the time, I see now that I have unconsciously sought, by
+    indirections at least as much as directions, to express the whirls and rapid growth
+    and intensity of the United States, the prevailing tendency and events of the
+    Nineteenth century, and largely the spirit of the whole current world, my time; for
+    I feel that I have partaken of that spirit, as I have been deeply interested in all
+    those events, the closing of long-stretch'd eras and ages, and, illustrated in the
+    history of the United States, the opening of larger ones. (The death of President
+    Lincoln, for instance, fitly, historically closes, in the civilization of feudalism,
+    many old influences&#8212;drops on them, suddenly, a vast, gloomy, as it were,
+    separating curtain.)</p> 
+  <p>Since I have been ill, (1873&#8211;74&#8211;75,)
+      mostly without serious pain, and with plenty of time and frequent inclination to
+      judge my poems, (never composed with eye on the book-market, nor for fame, nor for
+      any pecuniary profit,) I have felt temporary depression more than once, for fear
+      that in "Leaves of Grass" the <hi rend="italic">moral</hi> parts were not
+      sufficiently pronounc'd. But in my clearest and calmest moods I have realized that
+      as those "Leaves," all and several, surely prepare the way for, and necessitate
+      morals, and are adjusted to them, just the same as Nature does and is, they are
+      what, consistently with my plan, they must and probably should be. (In a certain
+      sense, while the Moral is the purport and last intelligence of all Nature, there is
+      absolutely nothing of the moral in the works, or laws, or shows of Nature. Those
+      only lead inevitably to it&#8212;begin and necessitate it.)</p> 
+  <p>Then I meant
+        "Leaves of Grass," as publish'd, to be the Poem of average Identity, (of <hi
+          rend="italic">yours</hi>, whoever you are, now reading these lines.) A man is not
+        greatest as victor in war, nor inventor or explorer, nor even in science, or in his
+        intellectual or artistic capacity, or exemplar in some vast benevolence. To the
+        highest democratic view, man is most acceptable in living well the practical life
+        and lot which happens to him as ordinary farmer, sea-farer, mechanic, clerk,
+        laborer, or driver&#8212;upon and from which position as a central basis or
+        pedestal, while performing its labors, and his duties as citizen, son, husband,
+        father and employ'd person, he preserves his physique, ascends, developing,
+        radiating himself in other regions&#8212;and especially where and when,
+        (greatest of all, and nobler than the proudest mere genius or magnate in any field,)
+        he fully realizes the conscience, the spiritual, the divine faculty, cultivated
+        well, exemplified in all his deeds and words, through life, uncompromising to the
+        end&#8212;a flight loftier than any of Homer's or Shakspere's&#8212;broader
+        than all poems and bibles&#8212;namely, Nature's own, and in the midst of it,
+        Yourself, your own Identity, body and soul. (All serves, helps&#8212;but in the
+        centre of all, absorbing all, giving, for your purpose, the only meaning and
+        vitality to all, master or mistress of all, under the law, stands Yourself.) To sing
+        the</p>
+</note>
 
             <pb facs="prc_kc.00286.jpg" xml:id="leaf147r1" n="285" type="recto"/>
 
@@ -15388,6 +15624,39 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             in the future. That, rising like pinnacles, gives its main significance to all You and I
             are doing to-day. Without it, there were little meaning in lands or poems&#8212;
 
+            <milestone unit="undeclared" rend="horbar-full"/>
+            
+            <note xml:id="n33.3" type="authorial" target="#r33" place="bottom" prev="#n33.2">
+              <p>Song of that law of average Identity, and of Yourself, consistently with the
+              divine law of the universal, is a main intention of those "Leaves."</p> 
+              <p>Something
+                more may be added&#8212;for, while I am about it, I would make a full
+                confession. I also sent out "Leaves of Grass" to arouse and set flowing in men's and
+                women's hearts, young and old, endless streams of living, pulsating love and
+                friendship, directly from them to myself, now and ever. To this terrible,
+                irrepressible yearning, (surely more or less down underneath in most human
+                souls)&#8212;this never-satisfied appetite for sympathy, and this boundless
+                offering of sympathy&#8212;this universal democratic comradeship&#8212;this
+                old, eternal, yet ever-new interchange of adhesiveness, so fitly emblematic of
+                America&#8212;I have given in that book, undisguisedly, declaredly, the openest
+                expression. Besides, important as they are in my purpose as emotional expressions
+                for humanity, the special meaning of the "Calamus" cluster of "Leaves of Grass,"
+                (and more or less running through the book, and cropping out in "Drum-Taps,") mainly
+                resides in its political significance. In my opinion, it is by a fervent, accepted
+                development of comradeship, the beautiful and sane affection of man for man, latent
+                in all the young fellows, north and south, east and west&#8212;it is by this, I
+                say, and by what goes directly and indirectly along with it, that the United States
+                of the future, (I cannot too often repeat,) are to be most effectually welded
+                together, intercalated, anneal'd into a living union.</p> 
+              <p>Then, for enclosing
+                  clue of all, it is imperatively and ever to be borne in mind that "Leaves of Grass"
+                  entire is not to be construed as an intellectual or scholastic effort or poem
+                  mainly, but more as a radical utterance out of the Emotions and the
+                  Physique&#8212;an utterance adjusted to, perhaps born of, Democracy and the
+                  Modern&#8212;in its very nature regardless of the old conventions, and, under
+                  the great laws, following only its own impulses.</p>
+            </note>
+            
             <pb facs="prc_kc.00287.jpg" xml:id="leaf147v1" n="286" type="verso"/>
 
             little purport in human lives. All ages, all Nations and States, have been such
@@ -15671,8 +15940,22 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
           <p>It is, perhaps, time we paid our respects directly to the honorable party, the real
             object of these preambles But we must make <hi rend="italic">reconnaissance</hi> a
             little further still. Not the least part of our lesson were to realize the curiosity and
-            interest of friendly foreign experts,<ref xml:id="r34" target="n34" n="34"/><note
-              xml:id="n34" type="authorial" target="r34" n="34" place="inline"><p>*A few years ago I
+            interest of friendly foreign 
+            experts,<ref xml:id="r34" target="#n34"><metamark function="link">*</metamark></ref> and
+            how our situation looks to them. "American poetry," says the London 
+            "Times,"<ref xml:id="r35" target="#n35"><metamark function="link">&#8224;</metamark></ref> 
+            "is the poetry of apt pupils, but it is
+            afflicted from first to last with a fatal want of raciness. Bryant has been long passed
+            as a poet by Professor Longfellow; but in Longfellow, with all his scholarly grace and
+            tender feeling, the defect is more apparent than it was in Bryant. Mr. Lowell can
+            overflow with American humor when
+            
+            <milestone unit="undeclared" rend="horbar-full"/>
+            
+             
+          <note xml:id="n34" type="authorial" target="#r34" place="bottom">
+          
+          <p><metamark function="link">*</metamark> A few years ago I
                 saw the question, "Has America produced any great poem?" announced as prize-subject
                 for the competition of some university in Northern Europe. I saw the item in a
                 foreign paper and made a note of it; but being taken down with paralysis, and
@@ -15680,16 +15963,14 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
                 since to get hold of any essay presented for the prize, or report of the discussion,
                 nor to learn for certain whether there was any essay or discussion, nor can I now
                 remember the place. It may have been Upsala, or possibly Heidelberg. Perhaps some
-                German or Scandinavian can give particulars. I think it was in 1872.</p></note> and
-            how our situation looks to them. "American poetry," says the London "Times,"<ref
-              xml:id="r35" target="n35" n="35"/><note xml:id="n35" type="authorial" target="r35"
-              n="35" place="inline"><p>&#8224;In a long and prominent editorial, at the time, on the death
-                of William Cullen Bryant.</p></note>"is the poetry of apt pupils, but it is
-            afflicted from first to last with a fatal want of raciness. Bryant has been long passed
-            as a poet by Professor Longfellow; but in Longfellow, with all his scholarly grace and
-            tender feeling, the defect is more apparent than it was in Bryant. Mr. Lowell can
-            overflow with American humor when
-
+                German or Scandinavian can give particulars. I think it was in 1872.</p>
+           </note>
+            
+            <note xml:id="n35" type="authorial" target="#r35" place="bottom">
+              
+              <p><metamark function="link">&#8224;</metamark> In a long and prominent editorial, at the time, on the death of William Cullen Bryant.</p>
+            </note>
+            
             <pb facs="prc_kc.00294.jpg" xml:id="leaf151r1" n="293" type="recto"/>
 
             politics inspire his muse; but in the realm of pure poetry he is no more American than
@@ -15898,13 +16179,8 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             imported art-works, treatises, systems, from Lucretius down, there is a constantly
             lurking, often pervading something, that will have to be eliminated, as not only
             unsuited to modern democracy and science in America, but insulting to them, and
-            disproved by them.<ref xml:id="r36" target="n36" n="36"/><note xml:id="n36"
-              type="authorial" target="r36" n="36" place="inline"><p>*Whatever may be said of the few
-                principal poems&#8212;or their best passages&#8212;it is certain that the
-                overwhelming mass of poetic works, as now absorb'd into human character, exerts a
-                certain constipating, repressing, in-door, and artificial influence, impossible to
-                elude&#8212;seldom or never that freeing, dilating, joyous one, with which
-                uncramp'd Nature works on every individual without exception.</p></note></p>
+            disproved by them.<ref xml:id="r36" target="#n36"><metamark function="link">*</metamark></ref>
+          </p>
 
           <p>Still, the rule and demesne of poetry will always be not the exterior, but interior;
             not the macrocosm, but microcosm; not Nature, but Man. I haven't said anything about the
@@ -15937,6 +16213,18 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             and receptive of importations, but entirely adjusted to the West, to ourselves, to our
             own days, combinations, differences, superiorities. Indeed, I am fond of thinking that
             the whole series of concrete and political
+            
+            <milestone unit="undeclared" rend="horbar-full"/>
+            
+            <note xml:id="n36" type="authorial" target="#r36" place="bottom">
+              
+              <p><metamark function="link">*</metamark> Whatever may be said of the few
+                principal poems&#8212;or their best passages&#8212;it is certain that the
+                overwhelming mass of poetic works, as now absorb'd into human character, exerts a
+                certain constipating, repressing, in-door, and artificial influence, impossible to
+                elude&#8212;seldom or never that freeing, dilating, joyous one, with which
+                uncramp'd Nature works on every individual without exception.</p>
+            </note>
 
             <pb facs="prc_kc.00300.jpg" xml:id="leaf154r1" n="299" type="recto"/>
 
@@ -15945,20 +16233,27 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             four or five millions of square miles.</p>
 
           <p>Long, long are the processes of the development of a nationality. Only to the rapt
-            vision does the seen become the prophecy of the unseen.<ref xml:id="r37" target="n37"
-              n="37"/><note xml:id="n37" type="authorial" target="r37" n="37" place="inline"><p>*Is
-                there not such a thing as the philosophy of American history and politics? And if
-                so, what is it? . . . Wise men say there are two sets of wills to nations and to
-                persons&#8212;one set that acts and works from explainable
-                motives&#8212;from teaching, intelligence, judgment, circumstance, caprice,
-                emulation, greed, &#38;c.&#8212;and then another set, perhaps deep, hidden,
-                unsuspected, yet often more potent than the first, refusing to be argued with,
-                rising as it were out of abysses, resistlessly urging on speakers, doers,
-                communities, unwitting to themselves&#8212;the poet to his fieriest
-                words&#8212;the race to pursue its loftiest ideal. Indeed, the paradox of a
-                nation's life and career, with all its wondrous contradictions, can probably only be
-                explain'd from these two wills, sometimes conflicting, each operating in its sphere,
-                combining in races or in persons, and producing strangest results.</p> <p>Let us
+            vision does the seen become the prophecy of the 
+            unseen.<ref xml:id="r37" target="#n37"><metamark function="link">*</metamark></ref>
+            Democracy, so far attending only to the real, is
+
+            <milestone unit="undeclared" rend="horbar-full"/>
+
+            <note xml:id="n37" type="authorial" target="#r37" place="bottom" next="#n37.2">
+              
+              <p><metamark function="link">*</metamark> Is there not such a thing as the philosophy of American history and politics? And if
+              so, what is it? . . . Wise men say there are two sets of wills to nations and to
+              persons&#8212;one set that acts and works from explainable
+              motives&#8212;from teaching, intelligence, judgment, circumstance, caprice,
+              emulation, greed, &#38;c.&#8212;and then another set, perhaps deep, hidden,
+              unsuspected, yet often more potent than the first, refusing to be argued with,
+              rising as it were out of abysses, resistlessly urging on speakers, doers,
+              communities, unwitting to themselves&#8212;the poet to his fieriest
+              words&#8212;the race to pursue its loftiest ideal. Indeed, the paradox of a
+              nation's life and career, with all its wondrous contradictions, can probably only be
+              explain'd from these two wills, sometimes conflicting, each operating in its sphere,
+              combining in races or in persons, and producing strangest results.</p> 
+              <p>Let us
                 hope there is (indeed, can there be any doubt there is?) this great unconscious and
                 abysmic second will also running through the average nationality and career of
                 America. Let us hope that, amid all the dangers and defections of the present, and
@@ -15974,53 +16269,26 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
                 and finish to it, conscience, morals, and all the spiritual attributes, shall surely
                 rise, like spires above some group of edifices, firm-footed on the earth, yet
                 scaling space and heaven.</p> <p>Great as they are, and greater far to be, the
-                United States, too, are but a series of steps in the eternal process of creative
-                thought. And here is, to my mind, their final justification, and certain perpetuity.
-                There is in that sublime process, in the laws of the universe&#8212;and, above
-                all, in the moral law&#8212;something that would make unsatisfactory, and<choice><sic>.</sic><corr>,</corr></choice> even
-                vain and contemptible, all the triumphs of war, the gains of peace, and the proudest
-                worldly grandeur of all the nations that have ever existed, or that (ours included)
-                now exist, except that we constantly see, through all their worldly career, however
-                struggling and blind and lame, attempts, by all ages, all peoples, according to
-                their development, to reach, to press, to progress on, and ever farther on, to more
-                and more advanced ideals.</p> <p>The glory of the republic of the United States, in
-                my opinion, is to be that, emerging in the light of the modern and the splendor of
-                science, and solidly based on the past, it is to cheerfully range itself, and its
-                politics are henceforth to come, under those universal laws, and embody them, and
-                carry them out, to serve them. And as only that individual becomes truly great who
-                understands well that, while complete in himself in a certain sense, he is but a
-                part of the divine, eternal scheme, and whose special life and laws are ad-<pb
-                  facs="prc_kc.00301.jpg" xml:id="leaf154v2" n="300" type="verso"/>justed to move
-                in harmonious relations with the general laws of Nature, and especially with the
-                moral law, the deepest and highest of all, and the last vitality of man or
-                state&#8212;so the United States may only become the greatest and the most
-                continuous, by understanding well their harmonious relations with entire humanity
-                and history, and all their laws and progress, sublimed with the creative thought of
-                Deity, through all time, past, present, and future. Thus will they expand to the
-                amplitude of their destiny, and become illustrations and culminating parts of the
-                cosmos, and of civilization.</p> <p>No more considering the States as an incident,
-                or series of incidents, however vast, coming accidentally along the path of time,
-                and shaped by casual emergencies as they happen to arise, and the mere result of
-                modern improvements, vulgar and lucky, ahead of other nations and times, I would
-                finally plant, as seeds, these thoughts or speculations in the growth of our
-                republic&#8212;that it is the deliberate culmination and result of all the
-                past&#8212;that here, too, as in all departments of the universe, regular laws
-                (slow and sure in planting, slow and sure in ripening) have controll'd and govern'd,
-                and will yet control and govern; and that those laws can no more be baffled or
-                steer'd clear of, or vitiated, by chance, or any fortune or opposition, than the
-                laws of winter and summer, or darkness and light.</p> <p>The summing up of the
-                tremendous moral and military perturbations of 1861&#8211;5, and their
-                results&#8212;and indeed of the entire hundred years of the past of our national
-                experiment, from its inchoate movement down to the present day
-                (1780&#8211;1881)&#8212;is, that they all now launch the United States
-                fairly forth, consistently with the entirety of civilization and humanity, and in
-                main sort the representative of them, leading the van, leading the fleet of the
-                modern and democratic, on the seas and voyages of the future.</p> <p>And the real
-                history of the United States&#8212;starting from that great convulsive struggle
-                for unity, the secession war, triumphantly concluded, and <hi rend="italic">the South</hi> victorious after
-                all&#8212;is only to be written at the remove of hundreds, perhaps a thousand,
-                years hence.</p></note> Democracy, so far attending only to the real, is
-
+                  United States, too, are but a series of steps in the eternal process of creative
+                  thought. And here is, to my mind, their final justification, and certain perpetuity.
+                  There is in that sublime process, in the laws of the universe&#8212;and, above
+                  all, in the moral law&#8212;something that would make unsatisfactory, and<choice><sic>.</sic><corr>,</corr></choice> even
+                  vain and contemptible, all the triumphs of war, the gains of peace, and the proudest
+                  worldly grandeur of all the nations that have ever existed, or that (ours included)
+                  now exist, except that we constantly see, through all their worldly career, however
+                  struggling and blind and lame, attempts, by all ages, all peoples, according to
+                  their development, to reach, to press, to progress on, and ever farther on, to more
+                  and more advanced ideals.</p> 
+              <p>The glory of the republic of the United States, in
+                    my opinion, is to be that, emerging in the light of the modern and the splendor of
+                    science, and solidly based on the past, it is to cheerfully range itself, and its
+                    politics are henceforth to come, under those universal laws, and embody them, and
+                    carry them out, to serve them. And as only that individual becomes truly great who
+                    understands well that, while complete in himself in a certain sense, he is but a
+                    part of the divine, eternal scheme, and whose special life and laws are 
+                <choice><orig>ad-</orig><reg>adjusted</reg></choice></p>
+            </note>
+            
             <pb facs="prc_kc.00301.jpg" xml:id="leaf154v1" n="300" type="verso"/>
 
             not for the real only, but the grandest ideal&#8212;to justify the modern by that,
@@ -16040,6 +16308,44 @@ day more, and so on for many days. Quite often they arrive at the rate of 1000 a
             country, presents a magnificent mass of material, never before equaled on earth. It is
             this material, quite unexpress'd by literature or art, that in every respect insures the
             future of the repub-
+            
+            <milestone unit="undeclared" rend="horbar-full"/>
+            
+            <note xml:id="n37.2" type="authorial" target="#r37" place="bottom" prev="#n37">            
+            <p><choice><orig>justed</orig><reg></reg></choice> to move
+            in harmonious relations with the general laws of Nature, and especially with the
+            moral law, the deepest and highest of all, and the last vitality of man or
+            state&#8212;so the United States may only become the greatest and the most
+            continuous, by understanding well their harmonious relations with entire humanity
+            and history, and all their laws and progress, sublimed with the creative thought of
+            Deity, through all time, past, present, and future. Thus will they expand to the
+            amplitude of their destiny, and become illustrations and culminating parts of the
+            cosmos, and of civilization.</p> 
+          <p>No more considering the States as an incident,
+            or series of incidents, however vast, coming accidentally along the path of time,
+            and shaped by casual emergencies as they happen to arise, and the mere result of
+            modern improvements, vulgar and lucky, ahead of other nations and times, I would
+            finally plant, as seeds, these thoughts or speculations in the growth of our
+            republic&#8212;that it is the deliberate culmination and result of all the
+            past&#8212;that here, too, as in all departments of the universe, regular laws
+            (slow and sure in planting, slow and sure in ripening) have controll'd and govern'd,
+            and will yet control and govern; and that those laws can no more be baffled or
+            steer'd clear of, or vitiated, by chance, or any fortune or opposition, than the
+            laws of winter and summer, or darkness and light.</p> 
+          <p>The summing up of the
+            tremendous moral and military perturbations of 1861&#8211;5, and their
+            results&#8212;and indeed of the entire hundred years of the past of our national
+            experiment, from its inchoate movement down to the present day
+            (1780&#8211;1881)&#8212;is, that they all now launch the United States
+            fairly forth, consistently with the entirety of civilization and humanity, and in
+            main sort the representative of them, leading the van, leading the fleet of the
+            modern and democratic, on the seas and voyages of the future.</p> 
+          <p>And the real
+            history of the United States&#8212;starting from that great convulsive struggle
+            for unity, the secession war, triumphantly concluded, and <hi rend="italic">the South</hi> victorious after
+            all&#8212;is only to be written at the remove of hundreds, perhaps a thousand,
+            years hence.</p>
+            </note>
 
             <pb facs="prc_kc.00302.jpg" xml:id="leaf155r1" n="301" type="recto"/>
 
