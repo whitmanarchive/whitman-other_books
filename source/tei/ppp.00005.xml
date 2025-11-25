@@ -74,7 +74,8 @@
         
         <milestone unit="undeclared" rend="horbar-short-center"/>
       
-      <p>AMERICA, filling the present with greatest deeds and problems, cheerfully accepting the
+     <div type="section"> 
+       <p>AMERICA, filling the present with greatest deeds and problems, cheerfully accepting the
         past, including Feudalism, (as, indeed, the present is but the legitimate birth of the
         past, including feudalism,) counts, as I reckon, for her justification and success, (for
         who, as yet, dare claim success?) almost entirely on the future. Nor is that hope
@@ -88,11 +89,11 @@
         speculations of ages, long, long deferred, the Democratic Republican principle, and the
         theory of development and perfection by voluntary standards, and self-suppliance. Who
         else, indeed, except the United States, in history, so far, have accepted in unwitting faith, and, as we now see,
-        stand, act upon, and go security for, these things?</p>
+        stand, act upon, and go security for, these things?</p></div>
       
       <!-- How do we account for this extra space? KM -->
       
-      <p>But let me strike at once the key-note of my purpose in the following strain. First
+      <div type="section"><p>But let me strike at once the key-note of my purpose in the following strain. First
         premising that, though the passages of it have been written at widely different times,
         (it is, in fact, a collection of memoranda, perhaps for future designers,
         comprehenders,) and though it may be open to the charge of one part contradicting
@@ -122,7 +123,6 @@
         in more varieties than ever, is certain. In those respects the Republic must soon (if
         she does not already) outstrip all examples hitherto afforded, and dominate the
         world.<ref xml:id="r1" target="#n1"><metamark function="link">*</metamark></ref></p>
-      
       <milestone unit="undeclared" rend="horbar-full"/>
       
       <note xml:id="n1" type="authorial" target="#r1" place="bottom" next="#n1.2">
@@ -142,6 +142,7 @@
           annually crops valued at over three thousand millions of dollars; with a realm
           which, if the density of Belgium's</p> 
       </note>
+      </div>
                 
     </body>
   </text>
