@@ -2,7 +2,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ppp.01968">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -24,7 +24,7 @@
          </titleStmt>
          <editionStmt>
             <edition>
-               <date>2022</date>
+               <date>2026</date>
             </edition>
          </editionStmt>
          <publicationStmt>
@@ -39,7 +39,8 @@
             <availability>
                <p>The text of the original item is in the public domain.</p><p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of this material should credit the <title level="m">Walt Whitman Archive</title>.</p><p>Permission to reproduce the graphic images of the original item has been granted by the owners of the original for this publication only.</p>
             </availability>
-            <idno>ppp.02000</idno></publicationStmt>
+            <idno>ppp.01968</idno>
+         </publicationStmt>
          <sourceDesc>
             <biblStruct>
                <monogr>
@@ -69,7 +70,7 @@
          <change who="#bb" when="2022-11-07">created file, derived from ppp.00707</change>
       </revisionDesc>
    </teiHeader>
-  <text>
+   <text type="printed"><!-- For the poetry, we can use transcription/encoding from Deathbed edition (it uses the same plates, just changes page numbers); the prose portion can be taken from Complete Prose Works (same plates, just changes page numbers). Brett thinks the encoding for Complete Prose Works is messy and will need to fairly substantial updating. -->
      <body>
         <pb facs="prc_bb.00011.jpg" xml:id="leaf014r" n="19" type="recto"/>
         <div1 type="section">
