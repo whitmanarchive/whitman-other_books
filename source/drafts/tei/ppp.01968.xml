@@ -17,6 +17,7 @@
                <resp>Transcription and encoding</resp>
                <persName xml:id="bb">Brett Barney</persName>
                <persName xml:id="km">Kevin McMullen</persName>
+               <persName xml:id="kmh">Kenneth Michael Hoover</persName>
             </respStmt>
             <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
             <sponsor>University of Iowa</sponsor>
@@ -31,7 +32,7 @@
             <distributor>The Walt Whitman Archive</distributor>
             <address>
                <addrLine>Center for Digital Research in the Humanities</addrLine>
-               <addrLine>319 Love Library</addrLine>
+               <addrLine>318 Love Library</addrLine>
                <addrLine>University of Nebraska-Lincoln</addrLine>
                <addrLine>P.O. Box 884100</addrLine>
                <addrLine>Lincoln, NE 68588-4100</addrLine>
@@ -65,6 +66,7 @@
          <p>The original e-text for this file was prepared by Primary Source Media for <title level="m">Major Authors on CD-ROM: Walt Whitman</title> (1997). The source text for the Primary Source Media edition was Walt Whitman, <title level="m">Complete Poetry and Collected Prose</title>, ed. Justin Kaplan (New York: Literary Classics of the United States, 1982). After receiving the e-text from Primary Source Media, <title level="m">Whitman Archive</title> staff checked and corrected the transcription against images of a copy of the 1891&#8211;1892 issue of <hi rend="italic">Leaves of Grass</hi> at the University of Virginia. In 2022, the base text of <hi rend="italic">Good-Bye My Fancy</hi> was derived from the most current version of the "deathbed edition" at the Whitman Archive and corrected against an original copy owned by Kenneth M. Price.</p>
       </encodingDesc>
       <revisionDesc>
+         <change who="#kmh" when="2026-06-30">corrected transcription and encoding against new images of an original copy own by Kenneth M. Price</change>
          <change who="#bb" when="2022-11-14">corrected pb attributes</change>
          <change who="#km" when="2022-11-14">added transcription, encoding for "Health (old style)", derived from ppp.00504</change>
          <change who="#bb" when="2022-11-07">created file, derived from ppp.00707</change>
@@ -72,6 +74,36 @@
    </teiHeader>
    <text type="printed"><!-- For the poetry, we can use transcription/encoding from Deathbed edition (it uses the same plates, just changes page numbers); the prose portion can be taken from Complete Prose Works (same plates, just changes page numbers). Brett thinks the encoding for Complete Prose Works is messy and will need to fairly substantial updating. -->
      <body>
+        
+        <pb facs="prc_kmh.00002.jpg" xml:id="" type="recto"/>
+        <head type="main">Good-ByE My Fancy</head>
+        <signed>Walt Whitman</signed>
+        
+        <pb facs="prc_kmh.00003.jpg" xml:id="" type="verso"/>
+        <addSpan rend="pasteon" spanTo="#a001"/>
+        <p>The University Libraries, UNL</p>
+        <anchor xml:id="a001"/>
+        
+        <pb facs="prc_kmh.00004.jpg" xml:id="" type="recto"/>
+        <p>From R.M.B.</p>
+        <p>To Miss Fanny B. Morrison</p>
+        <p>With all best and kindest wishes</p>
+        <p>Christmas 1900</p>
+        <p>"I swear the Earth shall surely<lb/> be complete to him or her<lb/> who shall be complete,</p>
+        <p>The Earth remains jagged and<lb/> broken only to him or her<lb/> who remains jagged<lb/> and broken."</p>
+        <p>S. of the R. E.</p>
+        
+        <pb facs="prc_kmh.00005.jpg" xml:id="" type="verso"/>
+        
+        <pb facs="prc_kmh.00006.jpg" xml:id="" type="recto"/>
+        
+        <pb facs="prc_kmh.00007.jpg" xml:id="" type="verso"/>
+        
+        <pb facs="prc_kmh.00008.jpg" xml:id="" type="recto"/>
+        
+        <pb facs="prc_kmh.00009.jpg" xml:id="" type="verso"/>
+        <figure><figDesc>A photographic portrait of Walt Whitman's left side profile.</figDesc></figure>
+        
         <pb facs="prc_bb.00011.jpg" xml:id="leaf014r" n="19" type="recto"/>
         <div1 type="section">
                 <lg type="poem" xml:id="ppp.02001">
