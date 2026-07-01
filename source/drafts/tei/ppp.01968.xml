@@ -43,18 +43,14 @@
             <idno>ppp.01968</idno>
          </publicationStmt>
          <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <author key="Whitman, Walt">Walt Whitman</author>
-                  <title>Good-Bye My Fancy</title>
+            <bibl>
+                <author key="Whitman, Walt">Walt Whitman</author>
+                  <title type="main">Good-Bye My Fancy</title>
                   <title type="sub">2d Annex to Leaves of Grass</title>
-                  <imprint>
                      <pubPlace>Philadelphia</pubPlace>
                      <publisher>David McKay</publisher>
-                     <date when="1891">1891</date>
-                  </imprint>
-               </monogr>
-            </biblStruct>
+                     <date when="1891">1891</date>ke
+            </bibl>
             <msDesc>
                <msIdentifier>
                   <repository>Personal collection of Kenneth M. Price</repository>
@@ -75,34 +71,38 @@
    <text type="printed"><!-- For the poetry, we can use transcription/encoding from Deathbed edition (it uses the same plates, just changes page numbers); the prose portion can be taken from Complete Prose Works (same plates, just changes page numbers). Brett thinks the encoding for Complete Prose Works is messy and will need to fairly substantial updating. -->
      <body>
         
-        <pb facs="prc_kmh.00002.jpg" xml:id="" type="recto"/>
-        <head type="main">Good-ByE My Fancy</head>
+        <pb facs="prc_kmh.00002.jpg" xml:id="leaf001r" type="recto"/>
+        <head type="main">Good-Bye My Fancy</head>
         <signed>Walt Whitman</signed>
         
-        <pb facs="prc_kmh.00003.jpg" xml:id="" type="verso"/>
+        <pb facs="prc_kmh.00003.jpg" xml:id="leaf001v" type="verso"/>
         <addSpan rend="pasteon" spanTo="#a001"/>
         <p>The University Libraries, UNL</p>
         <anchor xml:id="a001"/>
         
-        <pb facs="prc_kmh.00004.jpg" xml:id="" type="recto"/>
-        <p>From R.M.B.</p>
-        <p>To Miss Fanny B. Morrison</p>
-        <p>With all best and kindest wishes</p>
-        <p>Christmas 1900</p>
-        <p>"I swear the Earth shall surely<lb/> be complete to him or her<lb/> who shall be complete,</p>
-        <p>The Earth remains jagged and<lb/> broken only to him or her<lb/> who remains jagged<lb/> and broken."</p>
-        <p>S. of the R. E.</p>
+        <pb facs="prc_kmh.00004.jpg" xml:id="leaf002r" type="recto"/>
+        <ab>From R.M.B.<lb/>
+        To Miss Fanny B. Morrison</ab>
+        <ab>With all best and kindest wishes<lb/>
+        Christmas 1900</ab>
+        <floatingText><body><q><lg type="poem"><l>"I swear the Earth shall surely<lb/> be complete to him or her<lb/> who shall be complete,</l>
+        <l>The Earth remains jagged and<lb/> broken only to him or her<lb/> who remains jagged<lb/> and broken."</l> <closer>S. of the R. E.</closer></lg></q></body></floatingText>
         
-        <pb facs="prc_kmh.00005.jpg" xml:id="" type="verso"/>
+        <pb facs="prc_kmh.00005.jpg" xml:id="leaf002v" type="verso"/>
         
-        <pb facs="prc_kmh.00006.jpg" xml:id="" type="recto"/>
+        <pb facs="prc_kmh.00006.jpg" xml:id="leaf003r" type="recto"/>
         
-        <pb facs="prc_kmh.00007.jpg" xml:id="" type="verso"/>
+        <pb facs="prc_kmh.00007.jpg" xml:id="leaf003v" type="verso"/>
         
-        <pb facs="prc_kmh.00008.jpg" xml:id="" type="recto"/>
+        <pb facs="prc_kmh.00008.jpg" xml:id="leaf004r" type="recto"/>
         
-        <pb facs="prc_kmh.00009.jpg" xml:id="" type="verso"/>
-        <figure><figDesc>A photographic portrait of Walt Whitman's left side profile.</figDesc></figure>
+        <pb facs="prc_kmh.00009.jpg" xml:id="leaf004v" type="verso"/>
+        <figure><figDesc>A photographic portrait by Samuel Murray of Walt Whitman's left side profile.</figDesc></figure>
+        
+        <pb facs="prc_kmh.00012.jpg" xml:id="leaf005r" type="recto"/>
+        <head type="main">Good-Bye My Fancy</head>
+        <head type="sub">2<hi rend="smallcaps">D</hi> A<hi rend="smallcaps">NNEX TO</hi> L<hi rend="smallcaps">EAVES OF</hi> G<hi rend="smallcaps">RASS</hi></head>
+        <
         
         <pb facs="prc_bb.00011.jpg" xml:id="leaf014r" n="19" type="recto"/>
         <div1 type="section">
