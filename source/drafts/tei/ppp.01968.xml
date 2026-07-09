@@ -97,12 +97,304 @@
         <pb facs="prc_kmh.00008.jpg" xml:id="leaf004r" type="recto"/>
         
         <pb facs="prc_kmh.00009.jpg" xml:id="leaf004v" type="verso"/>
-        <figure><figDesc>A photographic portrait by Samuel Murray of Walt Whitman's left side profile.</figDesc></figure>
+        <figure><figDesc>A photograph by Samuel Murray of Walt Whitman's left side profile.</figDesc></figure>
         
+
+
         <pb facs="prc_kmh.00012.jpg" xml:id="leaf005r" type="recto"/>
-        <head type="main">Good-Bye My Fancy</head>
-        <head type="sub">2<hi rend="smallcaps">D</hi> A<hi rend="smallcaps">NNEX TO</hi> L<hi rend="smallcaps">EAVES OF</hi> G<hi rend="smallcaps">RASS</hi></head>
-        <
+        <titlePage>           
+           <titlePart type="main-authorial">
+              Good-Bye<lb/>
+              My Fancy
+           </titlePart>
+           
+           <titlePart type="sub">
+              2<hi rend="smallcaps">D</hi> A<hi rend="smallcaps">NNEX TO</hi> L<hi rend="smallcaps">EAVES OF</hi> G<hi rend="smallcaps">RASS</hi>
+           </titlePart>
+           
+           <titlePart type="publisher">
+              PHILADELPHIA<lb/>
+              DAVID McKAY, PUBLISHER
+              23 S<hi rend="smallcaps">OUTH</hi> N<hi rend="smallcaps">INTH</hi> S<hi rend="smallcaps">TREET</hi>
+              1891
+           </titlePart>        
+        </titlePage>
+        
+        <pb facs="prc_kmh.00013.jpg" xml:id="leaf005v" type="verso"/>
+        <titlePage>           
+           <titlePart type="copyright">
+              C<hi rend="smallcaps">OPYRIGHT</hi><lb/>
+              B<hi rend="smallcaps">Y</hi> WALT WHITMAN<lb/>
+              <hi rend="ital">All rights reserved</hi>
+           </titlePart>           
+        </titlePage>
+        
+
+
+        <pb facs="prc_kmh.00014.jpg" xml:id="leaf006r" type="recto"/>
+        <div1 type="contents">
+           <head type="main-authorial">CONTENTS.</head>
+           <milestone unit="undeclared" rend="horbar-short-center"/>
+           <p>
+              P<hi rend="smallcaps">REFACE</hi> N<hi rend="smallcaps">OTE TO 2D</hi> A<hi rend="smallcaps">NNEX</hi>, 5<lb/>
+              G<hi rend="smallcaps">OOD</hi>-B<hi rend="smallcaps">YE MY</hi> F<hi rend="smallcaps">ANCY</hi>:<lb/>
+              <table>
+                 <row>
+                    <cell>Sail Out for Good, Eidólon Yacht,<lb/>
+                       7</cell>
+                 </row>
+                 <row>
+                    <cell>Lingering Last Drops, 7</cell>
+                 </row>
+                 <row>
+                    <cell>Good-Bye my Fancy, 7</cell>
+                 </row>
+                 <row>
+                    <cell>On, on the Same, ye Jocund<lb/>
+                       Twain, 8</cell>
+                 </row>
+                 <row>
+                    <cell>My 71st Year, 8</cell>
+                 </row>
+                 <row>
+                    <cell>Apparitions, 8</cell>
+                 </row>
+                 <row>
+                    <cell>The Pallid Wreath, 9</cell>
+                 </row>
+                 <row>
+                    <cell>An Ended Day, 9</cell>
+                 </row>
+                 <row>
+                    <cell>Old Age's Ship and Crafty Death's,<lb/>
+                       10</cell>
+                 </row>
+                 <row>
+                    <cell>To the Pending Year, 10</cell>
+                 </row>
+                 <row>
+                    <cell>Shakspere-Bacon's Cipher, 10</cell>
+                 </row>
+                 <row>
+                    <cell>Long, Long Hence, 10</cell>
+                 </row>
+                 <row>
+                    <cell>Bravo, Paris Exposition, 11</cell>
+                 </row>
+                 <row>
+                    <cell>Interpolation Sounds, 11</cell>
+                 </row>
+                 <row>
+                    <cell>To the Sunset Breeze, 12</cell>
+                 </row>
+                 <cb/>
+                 <row>
+                    <cell>Old Chants, 12</cell>
+                 </row>
+                 <row>
+                    <cell>A Christmas Greeting, 13</cell>
+                 </row>
+                 <row>
+                    <cell>Sounds of the Winter, 13</cell>
+                 </row>
+                 <row>
+                    <cell>A Twilight Song, 14</cell>
+                 </row>
+                 <row>
+                    <cell>When the Full-grown Poet Came,<lb/>
+                       14</cell>
+                 </row>
+                 <row>
+                    <cell>Osceola, 15</cell>
+                 </row>
+                 <row>
+                    <cell>A Voice from Death, 15</cell>
+                 </row>
+                 <row>
+                    <cell>A Persian Lesson, 16</cell>
+                 </row>
+                 <row>
+                    <cell>The Commonplace, 17</cell>
+                 </row>
+                 <row>
+                    <cell>"The Rounded Catalogue Divine<lb/>
+                       Complete," 17</cell>
+                 </row>
+                 <row>
+                    <cell>Mirages, 18</cell>
+                 </row>
+                 <row>
+                    <cell>L. of G.'s Purport, 18</cell>
+                 </row>
+                 <row>
+                    <cell>The Unexpress'd, 19</cell>
+                 </row>
+                 <row>
+                    <cell>Grand is the Seen, 19</cell>
+                 </row>
+                 <row>
+                    <cell>Unseen Buds, 19</cell>
+                 </row>
+                 <row>
+                    <cell>Good-Bye my Fancy, 20</cell>
+                 </row>
+              </table><lb/>
+              A<hi rend="smallcaps">N</hi> O<hi rend="smallcaps">LD</hi> M<hi rend="smallcaps">AN'S</hi> R<hi rend="smallcaps">EJOINDER</hi>, 21<lb/>
+              O<hi rend="smallcaps">LD</hi> P<hi rend="smallcaps">OETS</hi>, 24<lb/>
+              S<hi rend="smallcaps">HIP</hi> A<hi rend="smallcaps">HOY</hi>! 28<lb/>
+              F<hi rend="smallcaps">OR</hi> Q<hi rend="smallcaps">UEEN</hi> V<hi rend="smallcaps">ICTORIA'S</hi> B<hi rend="smallcaps">IRTHDAY</hi>, 28
+          
+        
+        <fw type="footer" place="right">(3)</fw>
+        
+        <pb facs="prc_kmh.00015.jpg" xml:id="leaf006v" type="verso"/>
+        <fw type="header" place="left">4</fw><fw type="header" place="center" rend="ital">CONTENTS.</fw>
+              A<hi rend="smallcaps">MERICAN</hi> N<hi rend="smallcaps">ATIONAL</hi> L<hi rend="smallcaps">ITERATURE</hi>, 29<lb/>
+              G<hi rend="smallcaps">ATHERING THE</hi> C<hi rend="smallcaps">ORN</hi>, 35<lb/>
+              A D<hi rend="smallcaps">EATH</hi> B<hi rend="smallcaps">OUQUET</hi>, 37<lb/>
+              S<hi rend="smallcaps">OME</hi> L<hi rend="smallcaps">AGGARDS</hi> Y<hi rend="smallcaps">ET</hi>:<lb/>
+              <table>
+                 <row>
+                    <cell>The Perfect Human Voice, 39</cell>
+                 </row>
+                 <row>
+                    <cell>Shakspere for America, 39</cell>
+                 </row>
+                 <row>
+                    <cell>"Unassail'd Renown," 40</cell>
+                 </row>
+                 <row>
+                    <cell>Inscription for a Little Book on<lb/>
+                       Giordano Bruno, 41</cell>
+                 </row>
+                 <row>
+                    <cell>Splinters, 41</cell>
+                 </row>
+                 <cb/>
+                 <row>
+                    <cell>Health (Old Style), 42</cell>
+                 </row>
+                 <row>
+                    <cell>Gay-heartedness, 43</cell>
+                 </row>
+                 <row>
+                    <cell>As in a Swoon, 44</cell>
+                 </row>
+                 <row>
+                    <cell>L. of G., 44</cell>
+                 </row>
+                 <row>
+                    <cell>After the Argument, 44</cell>
+                 </row>
+                 <row>
+                    <cell>For Us Two, Reader Dear, 44</cell>
+                 </row>
+              </table><lb/>
+              M<hi rend="smallcaps">EMORANDA</hi>:<lb/>
+              <table>
+                 <row>
+                    <cell>A World's Show, 45</cell>
+                 </row>
+                 <row>
+                    <cell>New York&#8212;the Bay&#8212;the Old<lb/>
+                       Name, 45</cell>
+                 </row>
+                 <row>
+                    <cell>A Sick Spell, 46</cell>
+                 </row>
+                 <row>
+                    <cell>To be Present Only, 47</cell>
+                 </row>
+                 <row>
+                    <cell>"Intestinal Agitation," 47</cell>
+                 </row>
+                 <row>
+                    <cell>"Walt Whitman's Last 'Public,'"<lb/>
+                       47</cell>
+                 </row>
+                 <row>
+                    <cell>Ingersoll's Speech, 49</cell>
+                 </row>
+                 <row>
+                    <cell>Feeling Fairly, 50</cell>
+                 </row>
+                 <row>
+                    <cell>Old Brooklyn Days, 50</cell>
+                 </row>
+                 <cb/>
+                 <row>
+                    <cell>Two Questions, 51</cell>
+                 </row>
+                 <row>
+                    <cell>Preface to a Volume, 51</cell>
+                 </row>
+                 <row>
+                    <cell>An Engineer's Obituary, 53</cell>
+                 </row>
+                 <row>
+                    <cell>Old Actors, Singers, Shows, etc.,<lb/>
+                       in New York, 55</cell>
+                 </row>
+                 <row>
+                    <cell>Some Personal and Old Age <choice><orig>Jot&#8211;<lb/>
+                       tings</orig><reg>Jottings</reg></choice>, 59</cell>
+                 </row>
+                 <row>
+                    <cell>Out in the Open Again, 64</cell>
+                 </row>
+                 <row>
+                    <cell>America's Bulk Average, 64</cell>
+                 </row>
+                 <row>
+                    <cell>Last Saved Items, 65</cell>
+                 </row>
+              </table>
+        </p>
+        </div1>
+        
+        
+        
+        <pb facs="prc_kmh.00016.jpg" xml:id="leaf007r" type="recto"/>
+        <div1 type="preface">
+        <head type="main-authorial" place="center">PREFACE NOTE TO 2d ANNEX,</head><lb/>
+        <head type="sub" place="center"><hi rend="smallcaps">CONCLUDING</hi> L. <hi rend="smallcaps">OF</hi> G.&#8212;1891.</head>
+        <p>H<hi rend="smallcaps">ad</hi> I not better withhold (in this old age and paralysis of me) such little tags and fringe-dots (maybe specks, stains,) as follow a long dusty journey, and witness it afterward? I have probably not been enough afraid of careless touches, from the first—and am not now—nor of parrot-like repetitions—nor platitudes and the commonplace. Perhaps I am too democratic for such avoidances. Besides, is not the verse-field, as originally plann'd by my theory, now sufficiently illustrated—and full time for me to silently retire?—(indeed amid no loud call or market for my sort of poetic utterance.) </p>
+        <p>In answer, or rather defiance, to that kind of well-put interrogation, here comes this little cluster, and conclusion of my preceding clusters. Though not at all clear that, as here collated, it is worth printing (certainly I have nothing fresh to write)—I while away the hours of my 72d year—hours of forced confinement in my den—by putting in shape this small old age collation:</p>
+        <lg type="poem">
+           <l>Last droplets of and after spontaneous rain,</l>
+           <l>From many limpid distillations and past showers;</l>
+           <l>(Will they germinate anything? mere exhalations as they all are—<lb/>
+              the land's and sea's—America's;</l>
+           <l>Will they filter to any deep emotion? any heart and brain?)</l>
+        </lg>
+        <p>However that may be, I feel like improving to-day's opportunity and wind up. During the last two years I have sent out, in the lulls of illness and exhaustion, certain chirps—lingering-dying ones probably (undoubtedly)—which now I may as well gather and put in fair type while able to see correctly—(for my eyes plainly warn me they are dimming, and my brain more and more palpably neglects or refuses, month after month, even slight tasks or revisions.) </p>
+        <p>In fact, here I am these current years 1890 and '91, (each successive fortnight getting stiffer and stuck deeper) much like some hard-cased dilapidated grim ancient shell-fish or time-bang'd conch (no legs, utterly non-locomotive) cast up high and
+        <fw type="footer" place="right">(5)</fw>
+        
+        
+           
+        <pb facs="prc_kmh.00017.jpg" xml:id="leaf007v" type="verso"/>
+        <fw type="header" place="left">6</fw><fw type="header" place="center" rend="ital">PREFACE NOTE TO 2d ANNEX.</fw>
+        dry on the shore-sands, helpless to move anywhere—nothing left but behave myself quiet, and while away the days yet assign'd, and discover if there is anything for the said grim and time-bang'd conch to be got at last out of inherited good spirits and primal buoyant centre-pulses down there deep somewhere within his gray-blurr'd old shell . . . . . . . . . . . . (Reader, you must allow a little fun here—for one reason there are too many of the following poemets about death, &amp;c., and for another the passing hours (July 5, 1890) are so sunny-fine. And old as I am I feel to-day almost a part of some frolicsome wave, or for sporting yet like a kid or kitten—probably a streak of physical adjustment and perfection here and now. I believe I have it in me perennially anyhow.) </p>
+        <p>Then behind all, the deep-down consolation (it is a glum one, but I dare not be sorry for the fact of it in the past, nor refrain from dwelling, even vaunting here at the end) that this late-years palsied old shorn and shell-fish condition of me is the indubitable
+           outcome and growth, now near for 20 years along, of too overzealous, over-continued bodily and emotional excitement and action through the times of 1862, '3, '4 and '5, visiting and waiting on wounded and sick army volunteers, both sides, in campaigns or contests, or after them, or in hospitals or fields south of Washington City, or in that place and elsewhere—those hot, sad, wrenching times—the army volunteers, all States,—or North or South—the wounded, suffering, dying—the exhausting, sweating summers, marches, battles, carnage—those trenches hurriedly heap'd by the corpse-thousands, mainly unknown—Will the America of the future—will this vast rich Union ever realize what itself cost, back there after all?—those hecatombs of battle-deaths—Those times of which, O far-off reader, this whole book is indeed finally but a reminiscent memorial from thence by me to you?</p>
+        </div1>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         <pb facs="prc_bb.00011.jpg" xml:id="leaf014r" n="19" type="recto"/>
         <div1 type="section">
