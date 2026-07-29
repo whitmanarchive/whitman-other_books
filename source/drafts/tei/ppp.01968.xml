@@ -70,27 +70,16 @@
    </teiHeader>
    <text type="printed"><!-- For the poetry, we can use transcription/encoding from Deathbed edition (it uses the same plates, just changes page numbers); the prose portion can be taken from Complete Prose Works (same plates, just changes page numbers). Brett thinks the encoding for Complete Prose Works is messy and will need to fairly substantial updating. -->
       
-      <!-- We need a <front> (front matter) tag before <body>, which will contain the title pages and such. KM -->
-      
-     <body>
+        <front>
         
         <pb facs="prc_kmh.00002.jpg" xml:id="leaf001r" type="recto"/>
-        <head type="main">Good-Bye My Fancy</head>
-        <signed>Walt Whitman</signed>
+        <head type="main-authorial">Good-Bye My Fancy<lb/>
+        <hi rend="ital">Walt Whitman</hi></head>
         
         <pb facs="prc_kmh.00003.jpg" xml:id="leaf001v" type="verso"/>
-        <addSpan rend="pasteon" spanTo="#a001"/>
-        <p>The University Libraries, UNL</p>
-        <anchor xml:id="a001"/>
-        
+                
         <pb facs="prc_kmh.00004.jpg" xml:id="leaf002r" type="recto"/>
-        <ab>From R.M.B.<lb/>
-        To Miss Fanny B. Morrison</ab>
-        <ab>With all best and kindest wishes<lb/>
-        Christmas 1900</ab>
-        <floatingText><body><q><lg type="poem"><l>"I swear the Earth shall surely<lb/> be complete to him or her<lb/> who shall be complete,</l>
-        <l>The Earth remains jagged and<lb/> broken only to him or her<lb/> who remains jagged<lb/> and broken."</l> <closer>S. of the R. E.</closer></lg></q></body></floatingText>
-        
+               
         <pb facs="prc_kmh.00005.jpg" xml:id="leaf002v" type="verso"/>
         
         <pb facs="prc_kmh.00006.jpg" xml:id="leaf003r" type="recto"/>
@@ -117,25 +106,21 @@
            
            <titlePart type="publisher">
               PHILADELPHIA<lb/>
-              DAVID McKAY, PUBLISHER
-              23 S<hi rend="smallcaps">OUTH</hi> N<hi rend="smallcaps">INTH</hi> S<hi rend="smallcaps">TREET</hi>
+              DAVID McKAY, PUBLISHER<lb/>
+              23 S<hi rend="smallcaps">OUTH</hi> N<hi rend="smallcaps">INTH</hi> S<hi rend="smallcaps">TREET</hi><lb/>
               1891
            </titlePart>        
         </titlePage>
         
         <pb facs="prc_kmh.00013.jpg" xml:id="leaf005v" type="verso"/>
-        <titlePage>           <!-- This shouldn't be <titlePage> (look at ppp.00004). KM -->
-           <titlePart type="copyright">
-              C<hi rend="smallcaps">OPYRIGHT</hi><lb/>
-              B<hi rend="smallcaps">Y</hi> WALT WHITMAN<lb/>
-              <hi rend="ital">All rights reserved</hi>
-           </titlePart>           
-        </titlePage>
+           <docImprint>C<hi rend="smallcaps">OPYRIGHT</hi> 1891</docImprint> 
+           <docImprint>B<hi rend="smallcaps">Y</hi> WALT WHITMAN</docImprint> 
+           <docImprint><hi rend="italic">All rights reserved</hi></docImprint>
         
 <!-- For now, you don't need to do anything more with the TOC. Brett and Kevin will take care of that. KM -->
 
         <pb facs="prc_kmh.00014.jpg" xml:id="leaf006r" type="recto"/>
-        <div1 type="contents"><!-- We'll want to use <div> (not <div1>, <div2>, etc.). KM -->
+        <div type="contents"><!-- We'll want to use <div> (not <div1>, <div2>, etc.). KM -->
            <head type="main-authorial">CONTENTS.</head>
            <milestone unit="undeclared" rend="horbar-short-center"/>
            <p>
@@ -353,35 +338,35 @@
                  </row>
               </table>
         </p>
-        </div1>
+        </div>
         
+
         
-        
-        <pb facs="prc_kmh.00016.jpg" xml:id="leaf007r" type="recto"/>
-        <div1 type="preface"><!-- We'll want to use <div> (not <div1>, <div2>, etc.). KM -->
+        <pb facs="prc_kmh.00016.jpg" xml:id="leaf007r" n="5" type="recto"/>
+        <div type="preface">
         <head type="main-authorial" place="center">PREFACE NOTE TO 2d ANNEX,</head><lb/>
         <head type="sub" place="center"><hi rend="smallcaps">CONCLUDING</hi> L. <hi rend="smallcaps">OF</hi> G.&#8212;1891.</head>
-        <p>H<hi rend="smallcaps">AD</hi> I not better withhold (in this old age and paralysis of me) such little tags and fringe-dots (maybe specks, stains,) as follow a long dusty journey, and witness it afterward? I have probably not been enough afraid of careless touches, from the first—and am not now—nor of parrot-like repetitions—nor platitudes and the commonplace. Perhaps I am too democratic for such avoidances. Besides, is not the verse-field, as originally plann'd by my theory, now sufficiently illustrated—and full time for me to silently retire?—(indeed amid no loud call or market for my sort of poetic utterance.) </p>
-        <p>In answer, or rather defiance, to that kind of well-put interrogation, here comes this little cluster, and conclusion of my preceding clusters. Though not at all clear that, as here collated, it is worth printing (certainly I have nothing fresh to write)—I while away the hours of my 72d year—hours of forced confinement in my den—by putting in shape this small old age collation:</p>
+        <p>H<hi rend="smallcaps">AD</hi> I not better withhold (in this old age and paralysis of me) such little tags and fringe-dots (maybe specks, stains,) as follow a long dusty journey, and witness it afterward? I have probably not been enough afraid of careless touches, from the first&#8212;and am not now&#8212;nor of parrot-like repetitions&#8212;nor platitudes and the commonplace. Perhaps I am too democratic for such avoidances. Besides, is not the verse-field, as originally plann'd by my theory, now sufficiently illustrated&#8212;and full time for me to silently retire?&#8212;(indeed amid no loud call or market for my sort of poetic utterance.)</p>
+        <p>In answer, or rather defiance, to that kind of well-put interrogation, here comes this little cluster, and conclusion of my preceding clusters. Though not at all clear that, as here collated, it is worth printing (certainly I have nothing fresh to write)&#8212;I while away the hours of my 72d year&#8212;hours of forced confinement in my den&#8212;by putting in shape this small old age collation:</p>
         <lg type="poem">
            <l>Last droplets of and after spontaneous rain,</l>
            <l>From many limpid distillations and past showers;</l>
-           <l>(Will they germinate anything? mere exhalations as they all are—<lb/>
-              the land's and sea's—America's;</l>
+           <l>(Will they germinate anything? mere exhalations as they all are&#8212;<lb/>
+              the land's and sea's&#8212;America's;</l>
            <l>Will they filter to any deep emotion? any heart and brain?)</l>
         </lg>
-        <p>However that may be, I feel like improving to-day's opportunity and wind up. During the last two years I have sent out, in the lulls of illness and exhaustion, certain chirps—lingering-dying ones probably (undoubtedly)—which now I may as well gather and put in fair type while able to see correctly—(for my eyes plainly warn me they are dimming, and my brain more and more palpably neglects or refuses, month after month, even slight tasks or revisions.) </p>
+        <p>However that may be, I feel like improving to-day's opportunity and wind up. During the last two years I have sent out, in the lulls of illness and exhaustion, certain chirps&#8212;lingering-dying ones probably (undoubtedly)&#8212;which now I may as well gather and put in fair type while able to see correctly&#8212;(for my eyes plainly warn me they are dimming, and my brain more and more palpably neglects or refuses, month after month, even slight tasks or revisions.) </p>
         <p>In fact, here I am these current years 1890 and '91, (each successive fortnight getting stiffer and stuck deeper) much like some hard-cased dilapidated grim ancient shell-fish or time-bang'd conch (no legs, utterly non-locomotive) cast up high and
-        <fw type="footer" place="right">(5)</fw><!-- We do not transcribe or encode signatures or any other formeworks (running heads, page numbers) in printed books. KM -->
         
         
            
-        <pb facs="prc_kmh.00017.jpg" xml:id="leaf007v" type="verso"/>
-        <fw type="header" place="left">6</fw><fw type="header" place="center" rend="ital">PREFACE NOTE TO 2d ANNEX.</fw><!-- Same here (see previous note). KM -->
-        dry on the shore-sands, helpless to move anywhere—nothing left but behave myself quiet, and while away the days yet assign'd, and discover if there is anything for the said grim and time-bang'd conch to be got at last out of inherited good spirits and primal buoyant centre-pulses down there deep somewhere within his gray-blurr'd old shell . . . . . . . . . . . . (Reader, you must allow a little fun here—for one reason there are too many of the following poemets about death, &amp;c., and for another the passing hours (July 5, 1890) are so sunny-fine. And old as I am I feel to-day almost a part of some frolicsome wave, or for sporting yet like a kid or kitten—probably a streak of physical adjustment and perfection here and now. I believe I have it in me perennially anyhow.) </p>
-        <p>Then behind all, the deep-down consolation (it is a glum one, but I dare not be sorry for the fact of it in the past, nor refrain from dwelling, even vaunting here at the end) that this late-years palsied old shorn and shell-fish condition of me is the indubitable
-           outcome and growth, now near for 20 years along, of too overzealous, over-continued bodily and emotional excitement and action through the times of 1862, '3, '4 and '5, visiting and waiting on wounded and sick army volunteers, both sides, in campaigns or contests, or after them, or in hospitals or fields south of Washington City, or in that place and elsewhere—those hot, sad, wrenching times—the army volunteers, all States,—or North or South—the wounded, suffering, dying—the exhausting, sweating summers, marches, battles, carnage—those trenches hurriedly heap'd by the corpse-thousands, mainly unknown—Will the America of the future—will this vast rich Union ever realize what itself cost, back there after all?—those hecatombs of battle-deaths—Those times of which, O far-off reader, this whole book is indeed finally but a reminiscent memorial from thence by me to you?</p>
-        </div1>
+        <pb facs="prc_kmh.00017.jpg" xml:id="leaf007v" n="6" type="verso"/>
+        dry on the shore-sands, helpless to move anywhere&#8212;nothing left but behave myself quiet, and while away the days yet assign'd, and discover if there is anything for the said grim and time-bang'd conch to be got at last out of inherited good spirits and primal buoyant centre-pulses down there deep somewhere within his gray-blurr'd old shell . . . . . . . . . . . . (Reader, you must allow a little fun here&#8212;for one reason there are too many of the following poemets about death, &amp;c., and for another the passing hours (July 5, 1890) are so sunny-fine. And old as I am I feel to-day almost a part of some frolicsome wave, or for sporting yet like a kid or kitten&#8212;probably a streak of physical adjustment and perfection here and now. I believe I have it in me perennially anyhow.)</p>
+        <lb/>   
+        <p>Then behind all, the deep-down consolation (it is a glum one, but I dare not be sorry for the fact of it in the past, nor refrain from dwelling, even vaunting here at the end) that this late-years palsied old shorn and shell-fish condition of me is the indubitable outcome and growth, now near for 20 years along, of too over-zealous, over-continued bodily and emotional excitement and action through the times of 1862, '3, '4 and '5, visiting and waiting on wounded and sick army volunteers, both sides, in campaigns or contests, or after them, or in hospitals or fields south of Washington City, or in that place and elsewhere&#8212;those hot, sad, wrenching times&#8212;the army volunteers, all States,&#8212;or North or South&#8212;the wounded, suffering, dying&#8212;the exhausting, sweating summers, marches, battles, carnage&#8212;those trenches hurriedly heap'd by the corpse-thousands, mainly unknown&#8212;Will the America of the future&#8212;will this vast rich Union ever realize what itself cost, back there after all?&#8212;those hecatombs of battle-deaths&#8212;Those times of which, O far-off reader, this whole book is indeed finally but a reminiscent memorial from thence by me to you?</p>
+        </div>
+        
+        </front>
         
         
         
@@ -395,9 +380,7 @@
         
         
         
-        
-        
-        
+        <body>
         
         <pb facs="prc_bb.00011.jpg" xml:id="leaf014r" n="19" type="recto"/>
         <div1 type="section">
@@ -542,6 +525,6 @@
         </div1>
         
         
-      </body>
+      
   </text>
 </TEI>
