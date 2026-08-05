@@ -369,6 +369,7 @@
       
       <body>
          <pb facs="prc_kmh.00018.jpg" xml:id="leaf008r" n="7" type="recto"/>
+         <div type="">
          <head type="main-authorial">GOOD-BYE MY FANCY.</head>
          <lg type="poem" xml:id="ppp.01059">
             <!--               <relations>
@@ -377,11 +378,11 @@
             <note type="work_relations" target="xxx.00380"></note>
             <head type="main-authorial">SAIL OUT FOR GOOD, EIDÓLON YACHT!</head>
             <l>H<hi rend="smallcaps">EAVE</hi> the anchor short!</l>
-            <l>Raise main-sail and jib—steer forth,</l>
+            <l>Raise main-sail and jib&#8212;steer forth,</l>
             <l>O little white-hull'd sloop, now speed on really deep waters,</l>
             <l>(I will not call it our concluding voyage,</l>
             <l>But outset and sure entrance to the truest, best, maturest;)</l>
-            <l>Depart, depart from solid earth—no more returning to these  <lb/>shores,</l>
+            <l>Depart, depart from solid earth&#8212;no more returning to these  <lb/>shores,</l>
             <l>Now on for aye our infinite free venture wending,</l>
             <l>Spurning all yet tried ports, seas, hawsers, densities, gravitation,</l>
             <l>Sail out for good, eidólon yacht of me!</l>
@@ -398,7 +399,7 @@
             <lg type="linegroup">
                <l>We know not whence, (was the answer,)</l>
                <l>We only know that we drift here with the rest,</l>
-               <l>That we linger'd and lagg'd—but were wafted at last, and are <lb/>now here,</l>
+               <l>That we linger'd and lagg'd&#8212;but were wafted at last, and are <lb/>now here,</l>
                <l>To make the passing shower's concluding drops.</l>
             </lg>
          </lg>
@@ -409,12 +410,12 @@
             <note type="work_relations" target="xxx.00378"></note>
             <head type="main-authorial">GOOD-BYE MY FANCY.</head>
             <l>G<hi rend="smallcaps">OOD-BYE</hi>
-               <ref target="n3" xml:id="r3">*</ref> my fancy—(I had a word to say,</l>
-            <l>But 'tis not quite the time—The best of any man's word or say,</l>
-            <l>Is when its proper place arrives—and for its meaning,</l>
+               <ref target="n3" xml:id="r3">*</ref> my fancy&#8212;(I had a word to say,</l>
+            <l>But 'tis not quite the time&#8212;The best of any man's word or say,</l>
+            <l>Is when its proper place arrives&#8212;and for its meaning,</l>
             <l>I keep mine till the last.)</l>
             <note type="authorial" place="bottom" target="r3" xml:id="n3" anchored="true">
-               <p>*Behind a Good-bye there lurks much of the salutation of another beginning—to me, Development, Continuity, Immortality, Transformation, are the chiefest life-meanings of Nature and Humanity, and are the <hi rend="italic">sine qua non</hi> of all facts, and each fact. </p>
+               <p>*Behind a Good-bye there lurks much of the salutation of another beginning&#8212;to me, Development, Continuity, Immortality, Transformation, are the chiefest life-meanings of Nature and Humanity, and are the <hi rend="italic">sine qua non</hi> of all facts, and each fact. </p>
                <p>Why do folks dwell so fondly on the last words, advice, appearance, of the departing? Those last words are not samples of the best, which involve vitality at its full, and balance, and perfect control and scope. But they are valuable beyond measure to confirm and endorse the varied train, facts, theories and faith of the whole preceding life.</p>
             </note>
          </lg>
@@ -429,13 +430,13 @@
             <head type="main-authorial">ON, ON THE SAME, YE JOCUND TWAIN!</head>
             <l>O<hi rend="smallcaps">N</hi>, on the same, ye jocund twain!</l>
             <l>My life and recitative, containing birth, youth, mid-age years,</l>
-            <l>Fitful as motley-tongues of flame, inseparably twined and merged  <lb/>in one—combining all,</l>
-            <l>My single soul—aims, confirmations, failures, joys—Nor single  <lb/>soul alone,</l>
-            <l>I chant my nation's crucial stage, (America's, haply humanity's)  <lb/>—the trial great, the victory great,</l>
+            <l>Fitful as motley-tongues of flame, inseparably twined and merged  <lb/>in one&#8212;combining all,</l>
+            <l>My single soul&#8212;aims, confirmations, failures, joys&#8212;Nor single  <lb/>soul alone,</l>
+            <l>I chant my nation's crucial stage, (America's, haply humanity's)  <lb/>&#8212;the trial great, the victory great,</l>
             <l>A strange <hi rend="italic">eclaircissement</hi> of all the masses past, the eastern  <lb/>world, the ancient, medieval,</l>
-            <l>Here, here from wanderings, strayings, lessons, wars, defeats— <lb/>here at the west a voice triumphant—justifying all,</l>
-            <l>A gladsome pealing cry—a song for once of utmost pride and  <lb/>satisfaction;</l>
-            <l>I chant from it the common bulk, the general average horde,  <lb/>(the best no sooner than the worst)—And now I chant old  <lb/>age,</l>
+            <l>Here, here from wanderings, strayings, lessons, wars, defeats&#8212; <lb/>here at the west a voice triumphant&#8212;justifying all,</l>
+            <l>A gladsome pealing cry&#8212;a song for once of utmost pride and  <lb/>satisfaction;</l>
+            <l>I chant from it the common bulk, the general average horde,  <lb/>(the best no sooner than the worst)&#8212;And now I chant old  <lb/>age,</l>
             <l>(My verses, written first for forenoon life, and for the summer's,  <lb/>autumn's spread,</l>
             <l>I pass to snow-white hairs the same, and give to pulses winter- <lb/>cool'd the same;)</l>
             <l>As here in careless trill, I and my recitatives, with faith and  <lb/>love,</l>
@@ -481,7 +482,7 @@
             <l>One wither'd rose put years ago for thee, dear friend;</l>
             <l>But I do not forget thee. Hast thou then faded?</l>
             <l>Is the odor exhaled? Are the colors, vitalities, dead?</l>
-            <l>No, while memories subtly play—the past vivid as ever;</l>
+            <l>No, while memories subtly play&#8212;the past vivid as ever;</l>
             <l>For but last night I woke, and in that spectral ring saw thee,</l>
             <l>Thy smile, eyes, face, calm, silent, loving as ever:</l>
             <l>So let the wreath hang still awhile within my eye-reach,</l>
@@ -498,9 +499,9 @@
             <l>Now triumph! transformation! jubilate!<ref target="n4" xml:id="r4">*</ref> 
             </l>
             <note type="authorial" place="bottom" target="r4" xml:id="n4" anchored="true">
-               <p>*N<hi rend="smallcaps">OTE</hi>.—<hi rend="italic">Summer country life.—Several years.</hi>—In my rambles and explorations I found a woody place near the creek, where for some reason the birds in happy mood seem'd to resort in unusual numbers. Especially at the beginning of the day, and again at the ending, I was sure to get there the most copious bird-concerts. I repair'd there frequently at sunrise—and also at sunset, or just before . . . Once the question arose in me: Which is the best singing, the first or the lattermost? The first always exhilerated, and perhaps seem'd more joyous and stronger; but I always felt the sunset or late afternoon sounds more penetrating and sweeter—seem'd to touch the soul—often the evening thrushes, two or three of them, responding and perhaps blending. Though I miss'd some of the mornings, I found myself getting to be quite strictly punctual at the evening utterances.</p>
+               <p>*N<hi rend="smallcaps">OTE</hi>.&#8212;<hi rend="italic">Summer country life.&#8212;Several years.</hi>&#8212;In my rambles and explorations I found a woody place near the creek, where for some reason the birds in happy mood seem'd to resort in unusual numbers. Especially at the beginning of the day, and again at the ending, I was sure to get there the most copious bird-concerts. I repair'd there frequently at sunrise&#8212;and also at sunset, or just before . . . Once the question arose in me: Which is the best singing, the first or the lattermost? The first always exhilerated, and perhaps seem'd more joyous and stronger; but I always felt the sunset or late afternoon sounds more penetrating and sweeter&#8212;seem'd to touch the soul&#8212;often the evening thrushes, two or three of them, responding and perhaps blending. Though I miss'd some of the mornings, I found myself getting to be quite strictly punctual at the evening utterances.</p>
                
-               <p>A<hi rend="smallcaps">NOTHER</hi> N<hi rend="smallcaps">OTE</hi>.—"He went out with the tide and the sunset," was a phrase I heard from a surgeon describing an old sailor's death under peculiarly gentle conditions. </p>
+               <p>A<hi rend="smallcaps">NOTHER</hi> N<hi rend="smallcaps">OTE</hi>.&#8212;"He went out with the tide and the sunset," was a phrase I heard from a surgeon describing an old sailor's death under peculiarly gentle conditions. </p>
                <p>During the Secession War, 1863 and '4, visiting the Army Hospitals around Washington, I form'd the habit, and continued it to the end, whenever the ebb or flood tide began the latter part of day, of punctually visiting those at that time populous wards of suffering men. Somehow (or I thought it so) the effect of the hour was palpable. The badly wounded would get some ease, and would like to talk a little, or be talk'd to. Intellectual and emotional natures would be at their best: Deaths were always easier; medicines seem'd to have better effect when given then, and a lulling atmosphere would pervade the wards. </p>
                <p>Similar influences, similar circumstances and hours, day-close, after great battles, even with all their horrors. I had more than once the same experience on the fields cover'd with fallen or dead.</p>
             </note>
@@ -516,12 +517,12 @@
             <head type="main-authorial">OLD AGE'S SHIP &amp; CRAFTY DEATH'S.</head>
             <l>F<hi rend="smallcaps">ROM</hi> east and west across the horizon's edge,</l>
             <l>Two mighty masterful vessels sailers steal upon us:</l>
-            <l>But we'll make race a-time upon the seas—a battle-contest yet!  <lb/>bear lively there!</l>
+            <l>But we'll make race a-time upon the seas&#8212;a battle-contest yet!  <lb/>bear lively there!</l>
             <l>(Our joys of strife and derring-do to the last!)</l>
             <l>Put on the old ship all her power to-day!</l>
             <l>Crowd top-sail, top-gallant and royal studding-sails,</l>
-            <l>Out challenge and defiance—flags and flaunting pennants added,</l>
-            <l>As we take to the open—take to the deepest, freest waters.</l>
+            <l>Out challenge and defiance&#8212;flags and flaunting pennants added,</l>
+            <l>As we take to the open&#8212;take to the deepest, freest waters.</l>
          </lg>
          <lg type="poem" xml:id="ppp.01068">
             <!--               <relations>
@@ -530,13 +531,13 @@
             <note type="work_relations" target="xxx.00389"></note>
             <head type="main-authorial">TO THE PENDING YEAR.</head>
             <lg type="linegroup">
-               <l>H<hi rend="smallcaps">AVE</hi> I no weapon-word for thee—some message brief and <lb/>fierce?</l>
+               <l>H<hi rend="smallcaps">AVE</hi> I no weapon-word for thee&#8212;some message brief and <lb/>fierce?</l>
                <l>(Have I fought out and done indeed the battle?) Is there no shot <lb/>left,</l>
                <l>For all thy affectations, lisps, scorns, manifold silliness?</l>
-               <l>Nor for myself—my own rebellious self in thee?</l>
+               <l>Nor for myself&#8212;my own rebellious self in thee?</l>
             </lg>
             <lg type="linegroup">
-               <l>Down, down, proud gorge!—though choking thee;</l>
+               <l>Down, down, proud gorge!&#8212;though choking thee;</l>
                <l>Thy bearded throat and high-borne forehead to the gutter;</l>
                <l>Crouch low thy neck to eleemosynary gifts.</l>
             </lg>
@@ -548,11 +549,11 @@
             <note type="work_relations" target="xxx.00390"></note>
             <head type="main-authorial">
                <choice><orig>SHAKSPERE</orig><reg>Shakespeare</reg></choice>-BACON'S CIPHER.</head>
-            <l>I <hi rend="smallcaps">DOUBT</hi> it not—then more, far more;</l>
-            <l>In each old song bequeath'd—in every noble page or text,</l>
-            <l>(Different—something unreck'd before—some unsuspected  <lb/>author,)</l>
-            <l>In every object, mountain, tree, and star—in every birth and  <lb/>life,</l>
-            <l>As part of each—evolv'd from each—meaning, behind the <choice><orig>os-<lb/>tent</orig><reg>ostent</reg></choice>,</l>
+            <l>I <hi rend="smallcaps">DOUBT</hi> it not&#8212;then more, far more;</l>
+            <l>In each old song bequeath'd&#8212;in every noble page or text,</l>
+            <l>(Different&#8212;something unreck'd before&#8212;some unsuspected  <lb/>author,)</l>
+            <l>In every object, mountain, tree, and star&#8212;in every birth and  <lb/>life,</l>
+            <l>As part of each&#8212;evolv'd from each&#8212;meaning, behind the <choice><orig>os-<lb/>tent</orig><reg>ostent</reg></choice>,</l>
             <l>A mystic cipher waits infolded.</l>
          </lg>
          <lg type="poem" xml:id="ppp.01070">
@@ -564,7 +565,7 @@
             <l>A<hi rend="smallcaps">FTER</hi> a long, long course, hundreds of years, denials,</l>
             <l>Accumulations, rous'd love and joy and thought,</l>
             <l>Hopes, wishes, aspirations, ponderings, victories, myriads of  <lb/>readers,</l>
-            <l>Coating, compassing, covering—after ages' and ages' <choice><orig>encrus-<lb/>tations</orig><reg>encrustations</reg></choice>,</l>
+            <l>Coating, compassing, covering&#8212;after ages' and ages' <choice><orig>encrus-<lb/>tations</orig><reg>encrustations</reg></choice>,</l>
             <l>Then only may these songs reach fruition.</l>
          </lg>
          
@@ -594,14 +595,14 @@
             <note type="authorial" place="inline">[General Philip Sheridan was buried at the Cathedral, Washington, D. C., August, 1888, with all the pomp, music and ceremonies of the Roman Catholic service.]</note> 
             <l>O<hi rend="smallcaps">VER</hi> and through the burial chant,</l>
             <l>Organ and solemn service, sermon, bending priests,</l>
-            <l>To me come interpolation sounds not in the show—plainly to  <lb/>me, crowding up the aisle and from the window,</l>
-            <l>Of sudden battle's hurry and harsh noises—war's grim game to  <lb/>sight and ear in earnest;</l>
-            <l>The scout call'd up and forward—the general mounted and his  <lb/>aids around him—the new-brought word—the instantaneous  <lb/>order issued;</l>
-            <l>The rifle crack—the cannon thud—the rushing forth of men  <lb/>from their tents;</l>
-            <l>The clank of cavalry—the strange celerity of forming ranks— <lb/>the slender bugle note;</l>
-            <l>The sound of horses' hoofs departing—saddles, arms, <choice><orig>accoutre-<lb/>ments</orig><reg>accoutrements</reg></choice>.</l>
+            <l>To me come interpolation sounds not in the show&#8212;plainly to  <lb/>me, crowding up the aisle and from the window,</l>
+            <l>Of sudden battle's hurry and harsh noises&#8212;war's grim game to  <lb/>sight and ear in earnest;</l>
+            <l>The scout call'd up and forward&#8212;the general mounted and his  <lb/>aids around him&#8212;the new-brought word&#8212;the instantaneous  <lb/>order issued;</l>
+            <l>The rifle crack&#8212;the cannon thud&#8212;the rushing forth of men  <lb/>from their tents;</l>
+            <l>The clank of cavalry&#8212;the strange celerity of forming ranks&#8212; <lb/>the slender bugle note;</l>
+            <l>The sound of horses' hoofs departing&#8212;saddles, arms, <choice><orig>accoutre-<lb/>ments</orig><reg>accoutrements</reg></choice>.</l>
             <note type="authorial" place="bottom">
-               <p>N<hi rend="smallcaps">OTE</hi>.—C<hi rend="smallcaps">AMDEN</hi>, N. J., August 7, 1888.—Walt Whitman asks the <hi rend="italic">New York Herald</hi> "to add his tribute to Sheridan:"</p>
+               <p>N<hi rend="smallcaps">OTE</hi>.&#8212;C<hi rend="smallcaps">AMDEN</hi>, N. J., August 7, 1888.&#8212;Walt Whitman asks the <hi rend="italic">New York Herald</hi> "to add his tribute to Sheridan:"</p>
                <p>"In the grand constellation of five or six names, under Lincoln's Presidency, that history will bear for ages in her firmament as marking the last life-throbs of secession, and beaming on its dying gasps, Sheridan's will be bright. One consideration rising out of the now dead soldier's example as it passes my mind, is worth taking notice of. If the war had continued any long time these States, in my opinion, would have shown and proved the most conclusive military talents ever evinced by any nation on earth. That they posses'd a rank and file ahead of all other known in points of quality and limitlessness of number are easily admitted. But we have, too, the eligibility of organizing, handling and officering equal to the other. These two, with modern arms, transportation, and inventive American genius, would make the United States, with earnestness, not only able to stand the whole world, but conquer that world united against us."</p>
             </note>
          </lg>
@@ -619,13 +620,13 @@
             <l>Thou, laving, tempering all, cool-freshing, gently vitalizing</l>
             <l>Me, old, alone, sick, weak-down, melted-worn with sweat;</l>
             <l>Thou, nestling, folding close and firm yet soft, companion <choice><orig>bet-<lb/>ter</orig><reg>better</reg></choice> than talk, book, art,</l>
-            <l>(Thou hast, O Nature! elements! utterance to my heart beyond  <lb/>the rest—and this is of them,)</l>
-            <l>So sweet thy primitive taste to breathe within—thy soothing  <lb/>fingers on my face and hands,</l>
+            <l>(Thou hast, O Nature! elements! utterance to my heart beyond  <lb/>the rest&#8212;and this is of them,)</l>
+            <l>So sweet thy primitive taste to breathe within&#8212;thy soothing  <lb/>fingers on my face and hands,</l>
             <l>Thou, messenger-magical strange bringer to body and spirit of  <lb/>me,</l>
-            <l>(Distances balk'd—occult medicines penetrating me from head  <lb/>to foot,)</l>
-            <l>I feel the sky, the prairies vast—I feel the mighty northern  <lb/>lakes,</l>
-            <l>I feel the ocean and the forest—somehow I feel the globe itself  <lb/>swift-swimming in space;</l>
-            <l>Thou blown from lips so loved, now gone—haply from endless  <lb/>store, God-sent,</l>
+            <l>(Distances balk'd&#8212;occult medicines penetrating me from head  <lb/>to foot,)</l>
+            <l>I feel the sky, the prairies vast&#8212;I feel the mighty northern  <lb/>lakes,</l>
+            <l>I feel the ocean and the forest&#8212;somehow I feel the globe itself  <lb/>swift-swimming in space;</l>
+            <l>Thou blown from lips so loved, now gone&#8212;haply from endless  <lb/>store, God-sent,</l>
             <l>(For thou art spiritual, Godly, most of all known to my  <lb/>sense,)</l>
             <l>Minister to speak to me, here and now, what word has never  <lb/>told, and cannot tell,</l>
             <l>Art thou not universal concrete's distillation? Law's, all <choice><orig>As-<lb/>tronomy's</orig><reg>Astronomy's</reg></choice> last refinement?</l>
@@ -684,11 +685,11 @@
             <head type="main-authorial">A CHRISTMAS GREETING.</head>
             <head type="sub">
                <hi rend="italic">From a Northern Star-Group to a Southern.</hi> 1889-'90.</head>
-            <l>W<hi rend="smallcaps">ELCOME</hi>, Brazilian brother—thy ample place is ready;</l>
-            <l>A loving hand—a smile from the north—a sunny instant hail!</l>
+            <l>W<hi rend="smallcaps">ELCOME</hi>, Brazilian brother&#8212;thy ample place is ready;</l>
+            <l>A loving hand&#8212;a smile from the north&#8212;a sunny instant hail!</l>
             <l>(Let the future care for itself, where it reveals its troubles, <choice><orig>im-<lb/>pedimentas</orig><reg>impedimentas</reg></choice>,</l>
             <l>Ours, ours the present throe, the democratic aim, the acceptance  <lb/>and the faith;)</l>
-            <l>To thee to-day our reaching arm, our turning neck—to thee  <lb/>from us the expectant eye,</l>
+            <l>To thee to-day our reaching arm, our turning neck&#8212;to thee  <lb/>from us the expectant eye,</l>
             <l>Thou cluster free! thou brilliant lustrous one! thou, learning well,</l>
             <l>The true lesson of a nation's light in the sky,</l>
             <l>(More shining than the Cross, more than the Crown,)</l>
@@ -701,10 +702,10 @@
             <note type="work_relations" target="xxx.00397"></note>
             <head type="main-authorial">SOUNDS OF THE WINTER.</head>
             <l>S<hi rend="smallcaps">OUNDS</hi> of the winter too,</l>
-            <l>Sunshine upon the mountains—many a distant strain</l>
-            <l>From cheery railroad train—from nearer field, barn, house,</l>
-            <l>The whispering air—even the mute crops, garner'd apples, corn,</l>
-            <l>Children's and women's tones—rhythm of many a farmer and  <lb/>of flail,</l>
+            <l>Sunshine upon the mountains&#8212;many a distant strain</l>
+            <l>From cheery railroad train&#8212;from nearer field, barn, house,</l>
+            <l>The whispering air&#8212;even the mute crops, garner'd apples, corn,</l>
+            <l>Children's and women's tones&#8212;rhythm of many a farmer and  <lb/>of flail,</l>
             <l>An old man's garrulous lips among the rest, <hi rend="italic">Think not we give </hi>
                <lb/>
                <hi rend="italic">out yet,</hi>
@@ -723,16 +724,16 @@
             <note type="work_relations" target="xxx.00398"></note>
             <head type="main-authorial">A TWILIGHT SONG.</head>
             <l>A<hi rend="smallcaps">S</hi> I sit in twilight late alone by the flickering oak-flame,</l>
-            <l>Musing on long-pass'd war-scenes—of the countless buried <choice><orig>un-<lb/>known</orig><reg>unknown</reg></choice> soldiers,</l>
-            <l>Of the vacant names, as unindented air's and sea's—the <choice><orig>un-<lb/>return'd</orig><reg>unreturn'd</reg></choice>,</l>
+            <l>Musing on long-pass'd war-scenes&#8212;of the countless buried <choice><orig>un-<lb/>known</orig><reg>unknown</reg></choice> soldiers,</l>
+            <l>Of the vacant names, as unindented air's and sea's&#8212;the <choice><orig>un-<lb/>return'd</orig><reg>unreturn'd</reg></choice>,</l>
             <l>The brief truce after battle, with grim burial-squads, and the  <lb/>deep-fill'd trenches</l>
             <l>Of gather'd dead from all America, North, South, East, West,  <lb/>whence they came up,</l>
             <l>From wooded Maine, New-England's farms, from fertile <choice><orig>Penn-<lb/>sylvania</orig><reg>Pennsylvania</reg></choice>, Illinois, Ohio,</l>
             <l>From the measureless West, Virginia, the South, the Carolinas,  <lb/>Texas,</l>
             <l>(Even here in my room-shadows and half-lights in the noiseless  <lb/>flickering flames,</l>
-            <l>Again I see the stalwart ranks on-filing, rising—I hear the  <lb/>rhythmic tramp of the armies;)</l>
-            <l>You million unwrit names all, all—you dark bequest from all the  <lb/>war,</l>
-            <l>A special verse for you—a flash of duty long neglected—your  <lb/>mystic roll strangely gather'd here,</l>
+            <l>Again I see the stalwart ranks on-filing, rising&#8212;I hear the  <lb/>rhythmic tramp of the armies;)</l>
+            <l>You million unwrit names all, all&#8212;you dark bequest from all the  <lb/>war,</l>
+            <l>A special verse for you&#8212;a flash of duty long neglected&#8212;your  <lb/>mystic roll strangely gather'd here,</l>
             <l>Each name recall'd by me from out the darkness and death's  <lb/>ashes,</l>
             <l>Henceforth to be, deep, deep within my heart recording, for  <lb/>many a future year,</l>
             <l>Your mystic roll entire of unknown names, or North or  <lb/>South,</l>
@@ -749,7 +750,7 @@
             </l>
             <l>But out spake too the Soul of man, proud, jealous and <choice><orig>unrec-<lb/>onciled</orig><reg>unreconciled</reg></choice>, <hi rend="italic">Nay, he is mine alone;</hi> 
             </l>
-            <l>—Then the full-grown poet stood between the two, and took  <lb/>each by the hand;</l>
+            <l>&#8212;Then the full-grown poet stood between the two, and took  <lb/>each by the hand;</l>
             <l>And to-day and ever so stands, as blender, uniter, tightly <choice><orig>hold-<lb/>ing</orig><reg>holding</reg></choice> hands,</l>
             <l>Which he will never release until he reconciles the two,</l>
             <l>And wholly and joyously blends them.</l>
@@ -763,16 +764,16 @@
                </relations>-->
             <note type="work_relations" target="xxx.00400"></note>
             <head type="main-authorial">OSCEOLA.</head>
-            <note type="authorial" place="inline">[When I was nearly grown to manhood in Brooklyn, New York, (middle of 1838,) I met one of the return'd U. S. Marines from Fort Moultrie, S. C., and had long talks with him—learn'd the occurrence below described—death of Osceola. The latter was a young, brave, leading Seminole in the Florida war of that time—was surrender'd to our troops, imprison'd and literally died of "a broken heart," at Fort Moultrie. He sicken'd of his confinement—the doctor and officers made every allowance and kindness possible for him; then the close:]</note>
+            <note type="authorial" place="inline">[When I was nearly grown to manhood in Brooklyn, New York, (middle of 1838,) I met one of the return'd U. S. Marines from Fort Moultrie, S. C., and had long talks with him&#8212;learn'd the occurrence below described&#8212;death of Osceola. The latter was a young, brave, leading Seminole in the Florida war of that time&#8212;was surrender'd to our troops, imprison'd and literally died of "a broken heart," at Fort Moultrie. He sicken'd of his confinement&#8212;the doctor and officers made every allowance and kindness possible for him; then the close:]</note>
             <l>W<hi rend="smallcaps">HEN</hi> his hour for death had come,</l>
             <l>He slowly rais'd himself from the bed on the floor,</l>
             <l>Drew on his war-dress, shirt, leggings, and girdled the belt  <lb/>around his waist,</l>
             <l>Call'd for vermilion paint (his looking-glass was held before  <lb/>him,)</l>
             <l>Painted half his face and neck, his wrists, and back-hands.</l>
-            <l>Put the scalp-knife carefully in his belt—then lying down, resting  <lb/>a moment,</l>
+            <l>Put the scalp-knife carefully in his belt&#8212;then lying down, resting  <lb/>a moment,</l>
             <l>Rose again, half sitting, smiled, gave in silence his extended  <lb/>hand to each and all,</l>
             <l>Sank faintly low to the floor (tightly grasping the tomahawk  <lb/>handle,)</l>
-            <l>Fix'd his look on wife and little children—the last:</l>
+            <l>Fix'd his look on wife and little children&#8212;the last:</l>
             <l>(And here a line in memory of his name and death.)</l>
          </lg>
          <lg type="poem" xml:id="ppp.01080">
@@ -784,11 +785,11 @@
             <head type="sub">(The Johnstown, Penn., cataclysm, May 31, 1889.)</head>
             <lg type="linegroup">
                <l>A <hi rend="smallcaps">VOICE</hi> from Death, solemn and strange, in all his sweep and <lb/>power,</l>
-               <l>With sudden, indescribable blow—towns drown'd—humanity by <lb/>thousands slain,</l>
+               <l>With sudden, indescribable blow&#8212;towns drown'd&#8212;humanity by <lb/>thousands slain,</l>
                <l>The vaunted work of thrift, goods, dwellings, forge, street, iron <lb/>bridge,</l>
-               <l>Dash'd pell-mell by the blow—yet usher'd life continuing on,</l>
+               <l>Dash'd pell-mell by the blow&#8212;yet usher'd life continuing on,</l>
                <l>(Amid the rest, amid the rushing, whirling, wild debris,</l>
-               <l>A suffering woman saved—a baby safely born!)</l>
+               <l>A suffering woman saved&#8212;a baby safely born!)</l>
             </lg>
             <lg type="linegroup">
                <l>Although I come and unannounc'd, in horror and in pang,</l>
@@ -809,7 +810,7 @@
             <lg type="linegroup">
                <l>Then after burying, mourning the dead,</l>
                <l>(Faithful to them found or unfound, forgetting not, bearing the <lb/>past, here new musing,)</l>
-               <l>A day—a passing moment or an hour—America itself bends low,</l>
+               <l>A day&#8212;a passing moment or an hour&#8212;America itself bends low,</l>
                <l>Silent, resign'd, submissive.</l>
             </lg>
             <lg type="linegroup">
@@ -858,14 +859,14 @@
         <pb facs="prc_kmh.00028.jpg" xml:id="leaf013r" n="17" type="recto"/>
             <lg type="linegroup">
                <l>"Finally my children, to envelop each word, each part of the <lb/>rest,</l>
-               <l>Allah is all, all, all—is immanent in every life and object,</l>
-               <l>May-be at many and many-a-more removes—yet Allah, Allah, <lb/>Allah is there.</l>
+               <l>Allah is all, all, all&#8212;is immanent in every life and object,</l>
+               <l>May-be at many and many-a-more removes&#8212;yet Allah, Allah, <lb/>Allah is there.</l>
             </lg>
             <lg type="linegroup">
                <l>"Has the estray wander'd far? Is the reason-why strangely <lb/>hidden?</l>
                <l>Would you sound below the restless ocean of the entire world?</l>
                <l>Would you know the dissatisfaction? the urge and spur of every <lb/>life;</l>
-               <l>The something never still'd—never entirely gone? the invisible <lb/>need of every seed?</l>
+               <l>The something never still'd&#8212;never entirely gone? the invisible <lb/>need of every seed?</l>
             </lg>
             <lg type="linegroup">
                <l>"It is the central urge in every atom,</l>
@@ -884,9 +885,9 @@
             <l>How cheap is health! how cheap nobility!</l>
             <l>Abstinence, no falsehood, no gluttony, lust;</l>
             <l>The open air I sing, freedom, toleration,</l>
-            <l>(Take here the mainest lesson—less from books—less from the  <lb/>schools,)</l>
-            <l>The common day and night—the common earth and waters,</l>
-            <l>Your farm—your work, trade, occupation,</l>
+            <l>(Take here the mainest lesson&#8212;less from books&#8212;less from the  <lb/>schools,)</l>
+            <l>The common day and night&#8212;the common earth and waters,</l>
+            <l>Your farm&#8212;your work, trade, occupation,</l>
             <l>The democratic wisdom underneath, like solid ground for all.</l>
          </lg>
          <lg type="poem" xml:id="ppp.01083">
@@ -895,7 +896,7 @@
                </relations>-->
             <note type="work_relations" target="xxx.00404"></note>
             <head type="main-authorial">"THE ROUNDED CATALOGUE DIVINE COMPLETE."</head>
-            <note type="authorial" place="inline">[Sunday,–– – ––.–Went this forenoon to church. A college professor, Rev. Dr.——, gave us a fine sermon, during which I caught the above words; but the minister included in his "rounded catalogue" letter and spirit, only the esthetic things, and entirely ignored what I name in the following:]</note>
+            <note type="authorial" place="inline">[Sunday,–– – ––.–Went this forenoon to church. A college professor, Rev. Dr.&#8212;&#8212;, gave us a fine sermon, during which I caught the above words; but the minister included in his "rounded catalogue" letter and spirit, only the esthetic things, and entirely ignored what I name in the following:]</note>
             <l>The devilish and the dark, the dying and diseas'd,</l>
             <l>The countless (nineteen-twentieths) low and evil, crude and  <lb/>savage,</l>
             <l>The crazed, prisoners in jail, the horrible, rank, malignant,</l>
@@ -918,8 +919,8 @@
             <l>Times again, now mostly just after sunrise or before sunset,</l>
             <l>Sometimes in spring, oftener in autumn, perfectly clear weather,  <lb/>in plain sight,</l>
             <l>Camps far or near, the crowded streets of cities and the <choice><orig>shop-<lb/>fronts</orig><reg>shopfronts</reg></choice>,</l>
-            <l>(Account for it or not—credit or not—it is all true,</l>
-            <l>And my mate there could tell you the like—we have often <choice><orig>con-<lb/>fab'd</orig><reg>confab'd</reg></choice> about it,)</l>
+            <l>(Account for it or not&#8212;credit or not&#8212;it is all true,</l>
+            <l>And my mate there could tell you the like&#8212;we have often <choice><orig>con-<lb/>fab'd</orig><reg>confab'd</reg></choice> about it,)</l>
             <l>People and scenes, animals, trees, colors and lines, plain as could  <lb/>be,</l>
             <l>Farms and dooryards of home, paths border'd with box, lilacs  <lb/>in corners,</l>
             <l>Weddings in churches, thanksgiving dinners, returns of <choice><orig>long-<lb/>absent</orig><reg>long-absent</reg></choice> sons,</l>
@@ -939,33 +940,29 @@
             <head type="main-authorial">L. OF G.'S PURPORT.</head>
             <lg type="linegroup">
                <l>N<hi rend="smallcaps">OT</hi> to exclude or demarcate, or pick out evils from their <choice><orig>formid-<lb/>able</orig><reg>formidable</reg></choice> masses (even to expose them,)</l>
-               <l>But add, fuse, complete, extend—and celebrate the immortal and <lb/>the good.</l>
+               <l>But add, fuse, complete, extend&#8212;and celebrate the immortal and <lb/>the good.</l>
             </lg>
             <lg type="linegroup">
                <l>Haughty this song, its words and scope,</l>
                <l>To span vast realms of space and time,</l>
-               <l>Evolution—the cumulative—growths and generations.</l>
+               <l>Evolution&#8212;the cumulative&#8212;growths and generations.</l>
             </lg>
             <lg type="linegroup">
                <l>Begun in ripen'd youth and steadily pursued,</l>
-               <l>Wandering, peering, dallying with all—war, peace, day and <lb/>night absorbing,</l>
+               <l>Wandering, peering, dallying with all&#8212;war, peace, day and <lb/>night absorbing,</l>
                <l>Never even for one brief hour abandoning my task,</l>
                <l>I end it here in sickness, poverty, and old age.</l>
             </lg>
             <lg type="linegroup">
                <l>I sing of life, yet mind me well of death:</l>
-               <l>To-day shadowy Death dogs my steps, my seated shape, and <lb/>has for years—</l>
+               <l>To-day shadowy Death dogs my steps, my seated shape, and <lb/>has for years&#8212;</l>
                <l>Draws sometimes close to me, as face to face.</l>
             </lg>
          </lg>
          
-      </body>
-        
-        
-        <body>
-        <pb facs="prc_bb.00011.jpg" xml:id="leaf014r" n="19" type="recto"/>
-        <div1 type="section">
-                <lg type="poem" xml:id="ppp.02001">
+      
+         <pb facs="prc_kmh.00030.jpg" xml:id="leaf014r" n="19" type="recto"/>
+         <lg type="poem" xml:id="ppp.02001">
              <note type="work_relations" target="xxx.00407"></note>
              <head type="main-authorial">THE UNEXPRESS'D.</head>
              <l>H<hi rend="smallcaps">OW</hi> dare one say it?</l>
@@ -978,10 +975,643 @@
              <l>After the countless songs, or long or short, all tongues, all lands,</l>
                 <l>Still something not yet told in poesy's voice or print&#8212;something<lb/> lacking,</l>
              <l>(Who knows? the best yet unexpress'd and lacking.)</l>
-              </lg>
-        </div1>
+         </lg>
+         <lg type="poem" xml:id="ppp.01087">
+            <!--               <relations>
+                  <work ref="xxx.00408"/>
+               </relations>-->
+            <note type="work_relations" target="xxx.00408"></note>
+            <head type="main-authorial">GRAND IS THE SEEN.</head>
+            <l>G<hi rend="smallcaps">RAND</hi> is the seen, the light, to me&#8212;grand are the sky and  <lb/>stars,</l>
+            <l>Grand is the earth, and grand are lasting time and space,</l>
+            <l>And grand their laws, so multiform, puzzling, evolutionary;</l>
+            <l>But grander far the unseen soul of me, comprehending, <choice><orig>endow-<lb/>ing</orig><reg>endowing</reg></choice> all those,</l>
+            <l>Lighting the light, the sky and stars, delving the earth, sailing  <lb/>the sea,</l>
+            <l>(What were all those, indeed, without thee, unseen soul? of  <lb/>what amount without thee?)</l>
+            <l>More evolutionary, vast, puzzling, O my soul!</l>
+            <l>More multiform far&#8212;more lasting thou than they.</l>
+         </lg>
+         <lg type="poem" xml:id="ppp.01088">
+            <!--               <relations>
+                  <work ref="xxx.00409"/>
+               </relations>-->
+            <note type="work_relations" target="xxx.00409"></note>
+            <head type="main-authorial">UNSEEN BUDS.</head>
+            <l>U<hi rend="smallcaps">NSEEN</hi> buds, infinite, hidden well,</l>
+            <l>Under the snow and ice, under the darkness, in every square or  <lb/>cubic inch,</l>
+            <l>Germinal, exquisite, in delicate lace, microscopic, unborn,</l>
+            <l>Like babes in wombs, latent, folded, compact, sleeping;</l>
+            <l>Billions of billions, and trillions of trillions of them waiting,</l>
+            <l>(On earth and in the sea&#8212;the universe&#8212;the stars there in the  <lb/>heavens,)</l>
+            <l>Urging slowly, surely forward, forming endless,</l>
+            <l>And waiting ever more, forever more behind.</l>
+         </lg>
+
         
-        <pb facs="prc_bb.00012.jpg" xml:id="leaf025v" n="42" type="verso"/>
+        <pb facs="prc_kmh.00031.jpg" xml:id="leaf014v" n="20" type="verso"/>
+         <lg type="poem" xml:id="ppp.01089">
+            <!--               <relations>
+                  <work ref="xxx.00378"/>
+               </relations>-->
+            <note type="work_relations" target="xxx.00378"></note>
+            <head type="main-authorial">GOOD-BYE MY FANCY!</head>
+            <lg type="linegroup">
+               <l>G<hi rend="smallcaps">OOD-BYE</hi> my Fancy!</l>
+               <l>Farewell dear mate, dear love!</l>
+               <l>I'm going away, I know not where,</l>
+               <l>Or to what fortune, or whether I may ever see you again,</l>
+               <l>So Good-bye my Fancy.</l>
+            </lg>
+            <lg type="linegroup">
+               <l>Now for my last&#8212;let me look back a moment;</l>
+               <l>The slower fainter ticking of the clock is in me,</l>
+               <l>Exit, nightfall, and soon the heart-thud stopping.</l>
+            </lg>
+            <lg type="linegroup">
+               <l>Long have we lived, joy'd, caress'd together;</l>
+               <l>Delightful!&#8212;now separation&#8212;Good-bye my Fancy.</l>
+            </lg>
+            <lg type="linegroup">
+               <l>Yet let me not be too hasty,</l>
+               <l>Long indeed have we lived, slept, filter'd, become really blended <lb/>into one;</l>
+               <l>Then if we die we die together, (yes, we'll remain one,)</l>
+               <l>If we go anywhere we'll go together to meet what happens,</l>
+               <l>May-be we'll be better off and blither, and learn something,</l>
+               <l>May-be it is yourself now really ushering me to the true songs, <lb/>(who knows?)</l>
+               <l>May-be it is you the mortal knob really undoing, turning&#8212;so <lb/>now finally,</l>
+               <l>Good-bye&#8212;and hail! my Fancy.</l>
+            </lg>
+         </lg>
+         </div>
+         
+         <pb facs="prc_kmh.00032.jpg" xml:id="leaf015r" n="21" type="recto"/>
+         <div type="essay">
+         <head type="main">AN OLD MAN'S REJOINDER.</head>         
+         <p>IN the domain of Literature loftily consider'd (an accomplish'd and veteran critic in
+            his just out work<ref xml:id="r43" target="n43" n="43"/><note xml:id="n43" type="authorial" target="r43" n="43" place="foot"><p>Two new volumes, 'Essays
+               Speculative and Suggestive,' by John Addington Symonds. One of the Essays is on
+               Democratic Art,' in which I and my books are largely alluded to and cited and
+               dissected. It is this part of the vols. that has caused the off-hand lines
+               above&#8212;(first thanking Mr. S.for his invariable courtesy of personal
+               treatment).</p></note> now says,) 'the kingdom of the Father has pass'd; the kingdom
+            of the Son is passing; the kingdom of the Spirit begins.' Leaving the reader to chew on
+            and extract the juice and meaning of this, I will proceed to say in melanged form what I
+            have had brought out by the English author's essay (he discusses the poetic art mostly)
+            on my own, real, or by him supposed, views and purports. If I give any answers to him,
+            or explanations of what my books intend, they will be not direct but indirect and
+            derivative. Of course this brief jotting is personal. Something very like querulous
+            egotism and growling may break through the narrative (for I have been and am rejected by
+            all the great magazines, carry now my 72d annual burden, and have been a paralytic for
+            18 years.)</p>
+         
+         <p>No great poem or other literary or artistic work of any scope, old or new, can be
+            essentially consider'd without weighing first the age, politics (or want of politics)
+            and aim, visible forms, unseen soul, and current times, out of the midst of which it
+            rises and is formulated: as the Biblic canticles and their days and spirit&#8212;as
+            the Homeric, or Dante's utterance, or Shakspere's, or the old Scotch or Irish ballads,
+            or Ossian, or Omar Khayyam. So I have conceiv'd and launch'd, and work'd for years at,
+            my 'Leaves of Grass'&#8212;personal emanations only at best, but with specialty of
+            emergence and background&#8212;the ripening of the nineteenth century, the thought
+            and fact and radiation of individuality, of America, the Secession war, and showing the
+            democratic conditions supplanting everything that insults them or impedes their
+            aggregate way. Doubtless my poems illustrate (one of novel thousands to come for a long
+            period) those conditions; but 'democratic art' will have to wait long before it is
+            satisfactorily formulated and defined&#8212;if it ever is.</p>
+         
+         <pb facs="prc_kmh.00032.jpg" xml:id="leaf00015v" n="22" type="verso"/>
+            <p>I will now for one indicative moment lock horns with what many think the greatest
+               thing, the question of art, so-call'd. I have not seen without learning something
+               therefrom, how, with hardly an exception, the poets of this age devote themselves,
+               always mainly, sometimes altogether, to fine rhyme, spicy verbalism, the fabric and cut
+               of the garment, jewelry, <hi rend="italic">concetti</hi>, style, art. To-day these
+               adjuncts are certainly the effort, beyond all else. Yet the lesson of Nature undoubtedly
+               is, to proceed with single purpose toward the result necessitated, and for which the
+               time has arrived, utterly regardless of the outputs of shape, appearance or criticism,
+               which are always left to settle themselves. I have not only not bother'd much about
+               style, form, art, etc., but confess to more or less apathy (I believe I have sometimes
+               caught myself in decided aversion) toward them throughout, asking nothing of them but
+               negative advantages&#8212;that they should never impede me, and never under any
+               circumstances, or for their own purposes only, assume any mastery over me.</p>
+            
+            <p>From the beginning I have watch'd the sharp and sometimes heavy and deep-penetrating
+               objections and reviews against my work, and I hope entertain'd and audited them; (for I
+               have probably had an advantage in constructing from a central and unitary principle
+               since the first, but at long intervals and stages&#8212;sometimes lapses of five or
+               six years, or peace or war.) Ruskin, the Englishman, charges as a fearful and serious
+               lack that my poems have no humor. A profound German critic complains that, compared with
+               the luxuriant and well-accepted songs of the world, there is about my verse a certain
+               coldness, severity, absence of spice, polish, or of consecutive meaning and plot. (The
+               book is autobiographic at bottom, and may-be I do not exhibit and make ado about the
+               stock passions: I am partly of Quaker stock.) Then E. C. Stedman finds (or found) mark'd
+               fault with me because while celebrating the common people <hi rend="italic">en
+                  masse</hi>, I do not allow enough heroism and moral merit and good intentions to the
+               choicer classes, the college-bred, the <hi rend="italic">etat-major</hi>. It is quite
+               probable that S. is right in the matter. In the main I myself look, and have from the
+               first look'd, to the bulky democratic <hi rend="italic">torso</hi> of the United States
+               even for esthetic and moral attributes of serious account&#8212;and refused to aim
+               at or accept anything less. If America is only for the rule and fashion and small
+               typicality of other lands (the rule of the <hi rend="italic">etat-major</hi>) it is not
+               the land I take it for, and should to-day feel that my literary aim and theory had been
+               blanks and misdirections. Strictly judged, most modern poems are but larger or smaller
+               lumps of sugar, or slices of toothsome sweet cake&#8212;even the banqueters dwelling
+               on those glucose flavors as a main part of the dish. Which perhaps
+               
+               
+         <pb facs="prc_kmh.00034.jpg" xml:id="leaf016r" n="23" type="recto"/>
+               leads to something: to have great heroic poetry we need great readers&#8212;a
+               heroic appetite and audience. Have we at present any such?</p>
+            
+            <p>Then the thought at the centre, never too often repeated. Boundless material wealth,
+               free political organization, immense geographic area, and unprecedented 'business' and
+               products&#8212;even the most active intellect and 'culture'&#8212;will not place
+               this Commonwealth of ours on the topmost range of history and humanity&#8212;or any
+               eminence of 'democratic art'&#8212;to say nothing of its pinnacle. Only the
+               production (and on the most copious scale) of loftiest moral, spiritual and heroic
+               personal illustrations&#8212;a great native Literature headed with a Poetry stronger
+               and sweeter than any yet. If there can be any such thing as a kosmic modern and original
+               song, America needs it, and is worthy of it.</p>
+            
+            <p>In my opinion to-day (bitter as it is to say so) the outputs through civilized nations
+               everywhere from the great words Literature, Art, Religion, etc., with their conventional
+               administerers, stand squarely in the way of what the vitalities of those great words
+               signify, more than they really prepare the soil for them&#8212;or plant the seeds,
+               or cultivate or garner the crop. My own opinion has long been, that for New World
+               service our ideas of beauty (inherited from the Greeks, and so on to
+               Shakspere&#8212;<hi rend="italic">query</hi>&#8212;perverted from them?) need
+               to be radically changed, and made anew for to-day's purposes and finer standards. But if
+               so, it will all come in due time&#8212;the real change will be an autochthonic,
+               interior, constitutional, even local one, from which our notions of beauty (lines and
+               colors are wondrous lovely, but character is lovelier) will branch or offshoot.</p>
+            
+            <p>So much have I now rattled off (old age's garrulity,) that there is not space for
+               explaining the most important and pregnant principle of all, viz., that <hi rend="italic">Art is one</hi>, is not partial, but includes all times and forms and
+               sorts&#8212;is not exclusively aristocratic or democratic, or oriental or
+               occidental. My favorite symbol would be a good font of type, where the impeccable
+               long-primer rejects nothing. Or the old Dutch flour-miller who said, 'I never bother
+               myself what road the folks come&#8212;I only want good wheat and rye.'</p>
+            
+            <p>The font is about the same forever. Democratic art results of democratic development,
+               from tinge, true nationality, belief, in the one setting up from it.</p>
+         </div>
+        
+         
+         <pb facs="prc_kmh.00035.jpg" xml:id="leaf016v" n="24" type="verso"/>
+         <div type="essay">
+            <head type="main">OLD POETS.</head>            
+            <p>P<hi rend="smallcaps">OETRY</hi> (I am clear) is eligible of something far more ripen'd and ample, our lands
+               and pending days, than it has yet produced from any utterance old or new. Modern or
+               new poetry, too, (viewing or challenging it with severe criticism,) is largely
+               avoid&#8212;while the very cognizance, or even suspicion of that void, and the
+               need of filling it, proves a certainty of the hidden and waiting supply. Leaving other
+               lands and languages to speak for themselves, we can abruptly but deeply suggest it
+               best from our own&#8212;going first to oversea illustrations, and standing on
+               them. Think of Byron, Burns, Shelley, Keats, (even first-raters, "the brothers of the
+               radiant summit," as William O'Connor calls them,) as having done only their precursory
+               and 'prentice work, and all their best and real poems being left yet unwrought,
+               untouch'd. Is it difficult to imagine ahead of us and them, evolv'd from them, poesy
+               completer far than any they themselves fulfill'd? One has in his eye and mind some
+               very large, very old, entirely sound and vital tree or vine, like certain hardy,
+               ever-fruitful specimens in California and Canada, or down in Mexico, (and indeed in
+               all lands) beyond the chronological records&#8212;illustrations of growth,
+               continuity, power, amplitude and <hi rend="italic">exploitation</hi>, almost beyond
+               statement, but proving fact and possibility, out-side of argument.</p>
+            
+            <p>Perhaps, indeed, the rarest and most blessed quality of transcendent noble
+               poetry&#8212;as of law, and of the profoundest wisdom and
+               æstheticism&#8212;is, (I would suggest,) from sane, completed, vital, capable old
+               age. The final proof of song or personality is a sort of matured, accreted, superb,
+               evoluted, almost divine, impalpable diffuseness and atmosphere or invisible magnetism,
+               dissolving and embracing all&#8212;and not any special achievement of passion,
+               pride, metrical form, epigram, plot, thought, or what is call'd beauty. The bud of the
+               rose or the half- blown flower is beautiful, of course, but only the perfected bloom
+               or apple or finish'd wheat-head is beyond the rest. Completed fruitage like this comes
+               (in my opinion) to a grand age, in man or woman, through an essentially sound
+               continuated physiology and psychology (both important) and is the culminating glorious
+               aureole of all and several preceding. Like the tree or vine just mention'd,
+               
+               
+         <pb facs="prc_kmh.00036.jpg" xml:id="leaf017r" n="25" type="recto"/>
+               it stands at last in a beauty, power and productiveness of its own, above all others,
+               and of a sort and style uniting all criticisms, proofs and adherences.</p>
+            
+            <p>Let us diversify the matter a little by portraying some of the American poets from
+               our own point of view.</p>
+            
+            <p>Longfellow, reminiscent, polish'd, elegant, with the air of finest conventional
+               library, picture-gallery or parlor, with ladies and gentlemen in them, and plush and
+               rosewood, and ground-glass lamps, and mahogany and ebony furniture, and a silver
+               inkstand and scented satin paper to write on.</p>
+            
+            <p>Whittier stands for morality (not in any all-accepting philosophic or Hegelian sense,
+               but) filter'd through a Puritanical or Quaker filter&#8212;is incalculably
+               valuable as a genuine utterance, (and the finest,)&#8212;with many local and
+               Yankee and <hi rend="italic">genre</hi> bits&#8212;all hued with anti-slavery
+               coloring&#8212;(the <hi rend="italic">genre</hi> and anti-slavery contributions
+               all precious all help.) Whittier's is rather a grand figure, but pretty lean and
+               ascetic&#8212;no Greek&#8212;not universal and composite enough (don't
+               try&#8212;don't wish to be) for ideal Americanism. Ideal Americanism would take
+               the Greek spirit and law, and democratize and scientize and (thence) truly
+               Christianize them for the whole, the globe, all history, all ranks and lands, all
+               facts, all good and bad. (Ah this <hi rend="italic">bad</hi>&#8212;this
+               nineteen-twen-tieths of us all! What a stumbling-block it remains for poets and
+               metaphysicians&#8212;what a chance (the strange, clear-as-ever inscription on the
+               old dug-up tablet) it offers yet for being translated&#8212;what can be its
+               purpose in the God-scheme of this universe, and all?)</p>
+            
+            <p>Then William Cullen Bryant&#8212;meditative, serious, from first to last tending
+               to threnodies&#8212;his genius mainly lyrical&#8212;when reading his pieces
+               who could expect or ask for more magnificent ones than such as "The Battle-Field," and
+               "A Forest Hymn"? Bryant, unrolling, prairie-like, notwithstanding his mountains and
+               lakes&#8212;moral enough (yet worldly and conventional)&#8212;a naturalist,
+               pedestrian, gardener and fruiter&#8212;well aware of books, but mixing to the last
+               in cities and society. I am not sure but his name ought to lead the list of American
+               bards. Years ago I thought Emerson preeminent (and as to the last polish and
+               intellectual cuteness may-be I think so still)&#8212;but, for reasons, I have been
+               gradually tending to give the file-leading place for American native poesy to W. C.
+               B.</p>
+            
+            <p>Of Emerson I have to confirm my already avow'd opinion re-garding his highest bardic
+               and personal attitude. Of the galaxy of the past&#8212;of Poe, Halleck, Mrs.
+               Sigourney, Allston, Willis, Dana, John Pierpont, W. G. Simms, Robert Sands, Drake,
+               Hill-house, Theodore Fay, Margaret Fuller, Epes Sargent, Boker, Paul
+               
+               
+         <pb facs="prc_kmh.00037.jpg" xml:id="leaf017v" n="26" type="verso"/>
+               Hayne, Lanier, and others, I fitly in essaying such a theme as this, and reverence
+               for their memories, may at least give a heart-benison on the list of their names.</p>
+            
+            <p>Time and New World humanity having the venerable resemblances more than anything
+               else, and being "the same subject continued," just here in 1890, one gets a curious
+               nourishment and lift (I do) from all those grand old veterans, Bancroft, Kossuth, von
+               Moltke&#8212;and such typical specimen-reminiscences as Sophocles and Goethe,
+               genius, health, beauty of person, riches, rank, renown and length of days, all
+               combining and centering in one case.</p>
+            
+            <p>Above everything, what could humanity and literature do without the mellow,
+               last-justifying, averaging, bringing-up of many, many years&#8212;a great old age
+               amplified? Every really first-class production has likely to pass through the crucial
+               tests of a generation, perhaps several generations. Lord Bacon says the first sight of
+               any work really new and first-rate in beauty and originality always arouses something
+               disagreeable and repulsive. Voltaire term'd the Shaksperean works "a huge dunghill";
+               Hamlet he described (to the Academy, whose members listen'd with approbation) as "the
+               dream of a drunken savage, with a few flashes of beautiful thoughts." And not the
+               Ferney sage alone; the orthodox judges and law-givers of France, such as La Harpe, J.
+               L. Geoffrey, and Chateaubriand, either join'd in Voltaire's verdict, or went further.
+               Indeed the classicists and regulars there still hold to it. The lesson is very
+               significant in all departments. People resent anything new as a personal insult. When
+               umbrellas were first used in England, those who carried them were hooted and pelted so
+               furiously that their lives were endanger'd. The same rage encounter'd the attempt in
+               theatricals to perform women's parts by real women, which was publicly consider'd
+               disgusting and outrageous. Byron thought Pope's verse incomparably ahead of Homer and
+               Shakspere. One of the prevalent objections, in the days of Columbus was, the learn'd
+               men boldly asserted that if a ship should reach India she would never get back again,
+               because the rotundity of the globe would present a kind of mountain, up which it would
+               be impossible to sail even with the most favorable wind.</p>
+            
+            <p>"Modern poets," says a leading Boston journal, "enjoy longevity. Browning lived to be
+               seventy-seven. Wordsworth, Bryant, Emerson, and Longfellow were old men. Whittier,
+               Tennyson, and Walt Whitman still live." Started out by that item on Old Poets and
+               Poetry for chyle to inner American sustenance&#8212;I have thus gossipp'd about it
+               all, and treated it from my own point of view, taking the privilege of rambling
+               wherever the talk carried
+               
+         <pb facs="prc_kmh.00038.jpg" xml:id="leaf018r" n="27" type="recto"/>
+               me. Browning is lately dead; Bryant, Emerson and Longfellow have not long pass'd
+               away; and yes, Whittier and Tennyson remain, over eighty years old&#8212;the
+               latter having sent out not long since a fresh volume, which the English-speaking Old
+               and New Worlds are yet reading. I have already put on record my notions of T. and his
+               effusions: they are very attractive and flowery to me&#8212;but flowers, too, are
+               at least as profound as anything; and by common consent T. is settled as the poetic
+               cream-skimmer of our age's melody, <hi rend="italic">ennui</hi> and polish&#8212;a
+               verdict in which I agree, and should say that nobody (not even Shakspere) goes deeper
+               in those exquisitely touch'd and half-hidden hints and indirections left like faint
+               perfumes in the crevices of his lines. Of Browning I don't know enough to say much; he
+               must be studied deeply out, too, and quite certainly repays the trouble&#8212;but
+               I am old and indolent, and cannot study (and never did.)</p>
+            
+            <p>Grand as to-day's accumulative fund of poetry is, there is certainly something
+               unborn, not yet come forth, different from anything now formulated in any verse, or
+               contributed by the past in any land&#8212;something waited for, craved, hitherto
+               non-express'd. What it will be, and how, no one knows. It will probably have to prove
+               itself by itself and its readers. One thing, it must run through entire humanity (this
+               new word and meaning Solidarity has arisen to us moderns) twining all lands like a
+               divine thread, stringing all beads, pebbles or gold, from God and the soul, and like
+               God's dynamics and sunshine illustrating all and having reference to all. From
+               anything like a cosmical point of view, the entirety of imaginative literature's
+               themes and results as we get them to-day seems painfully narrow. All that has been put
+               in statement, tremendous as it is, what is it compared with the vast fields and values
+               and varieties left unreap'd? Of our own country, the splendid races North or South,
+               and especially of the Western and Pacific regions, it sometimes seems to me their
+               myriad noblest Homeric and Biblic elements are all untouch'd, left as if ashamed of,
+               and only certain very minor occasional <hi rend="italic">delirium tremens</hi> glints
+               studiously sought and put in print, in short tales, "poetry" or books.</p>
+            
+            <p>I give these speculations, or notions, in all their audacity, for the comfort of
+               thousands&#8212;perhaps a majority of ardent minds, women's and young men's
+               who&#8212;stand in awe and despair before the immensity of suns and stars already
+               in the firmament. Even in the Iliad and Shakspere there is (is there not?) a certain
+               humiliation produced to us by the absorption of them, unless we sound in equality, or
+               above them, the songs due our own democratic era and surroundings, and the full
+               assertion of ourselves. And in vain (such is my opinion) will America seek
+               successfully
+               
+               
+         <pb facs="prc_kmh.00039.jpg" xml:id="leaf018v" n="28" type="verso"/>
+               to tune any superb national song unless the heart-strings of the people start it from
+               their own breasts&#8212;to be return'd and echoed there again.</p>
+         </div>
+
+         <div type="poem">
+            <head type="main-authorial">SHIP AHOY!</head>
+            <lg type="poem">
+               <lg type="linegroup">
+                  <l>IN dreams I was a ship, and sail'd the boundless seas,</l>
+                  <l>Sailing and ever sailing—all seas and into every port, or out upon the
+                     offing,</l>
+                  <l>Saluting, cheerily hailing each mate, met or pass'd, little or big,</l>
+                  <l>"Ship ahoy!" thro' trumpet or by voice—if nothing more, some friendly
+                     merry word at least,</l>
+                  <l>For companionship and good will for ever to all and each.</l>
+               </lg>
+            </lg>
+         </div>
+         <div type="poem">
+            <head type="main-authorial">FOR QUEEN VICTORIA's BIRTHDAY</head>
+            <epigraph>
+               <p><hi rend="italic">An American arbutus bunch to be put in a little vase on the royal breakfast
+                     table, May 24th, 1890.</hi></p>
+            </epigraph>
+            <lg type="poem">
+               <lg type="linegroup">
+                  <l><choice><orig>L<hi rend="smallcaps">ADY</hi></orig><reg>Lady</reg></choice>, accept a birth-day thought—haply an idle gift and token,</l>
+                  <l>Right from the scented soil's May-utterance here,</l>
+                  <l>(Smelling of countless blessings, prayers, and old-time thanks,)*</l>
+                  <l>A bunch of white and pink arbutus, silent, spicy, shy,</l>
+                  <l>From Hudson's, Delaware's, or Potomac's woody banks.</l>
+               </lg>
+            </lg>
+         </div>
+         
+         <p>*NOTE.—Very little, as we Americans stand this day, with our
+            sixty-five or seventy millions of population, an immense surplus in the treasury, and
+            all that actual power or reserve power (land and sea) so dear to
+            nations—very little I say do we realize that curious crawling national
+            shudder when the "Trent affair" promis'd to bring upon us a war with Great
+            Britain—follow'd unquestionably, as that war would have, by recognition of
+            the Southern Confederacy from all the leading European nations. It is now certain that
+            all this then inevitable train of calamity hung on arrogant and peremptory phrases in
+            the prepared and written missive of the British Minister, to America, which the Queen
+            (and Prince Albert latent) positively and promptly cancell'd; and which her firm
+            attitude did alone actually erase and leave out, against all the other official
+            prestige and Court of St. James's. On such minor and personal incidents (so to call
+            them,) often depend the great growths and turns of civilization. This moment of a
+            woman and a queen surely swung the grandest oscillation of modern history's pendulum.
+            Many sayings and doings of that period, from foreign potentates and powers, might well
+            be dropt in oblivion by America—but never <hi rend="italic">this</hi>, if I
+            could have my way. W, W.</p>
+
+         
+         <pb facs="prc_kmh.00040.jpg" xml:id="leaf019r" n="29" type="recto"/>
+         <div type="essay">
+            <head type="main">AMERICAN NATIONAL LITERATURE.</head>            
+            <p><hi rend="italic">Is there any such thing—or can there ever be?</hi></p>
+            <p>So you want an essay about American National Literature, (tremendous and fearful
+               subject!) do you?<ref xml:id="r44" target="n44" n="44"/><note xml:id="n44" type="authorial" target="r44" n="44" place="foot"><p>The essay was for the <hi rend="italic">North American Review</hi>, in answer to the formal request of the
+                  editor. It appear'd in March, 1891.</p></note> Well, if you will let me put down
+               some melanged cogitations regarding the matter, haphazard, and from my own points of
+               view, I will try. Horace Greeley wrote a book named "Hints toward Reforms," and the
+               title-line was consider'd the best part of all. In the present case I will give a few
+               thoughts and suggestions, of good and ambitious intent enough anyhow—first
+               reiterating the question right out plainly: American National Literature—is
+               there distinctively any such thing, or can there ever be? First to me comes an almost
+               indescribably august form, the People, with varied typical shapes and
+               attitudes—then the divine mirror, Literature.</p>
+            
+            <p>As things are, probably no more puzzling question ever offer'd itself than (going back
+               to old Nile for a trope,) What bread-seeds of printed mentality shall we cast upon
+               America's waters, to grow and return after many days? Is there for the future authorship
+               of the United States any better way than submission to the teeming facts, events,
+               activities, and importations already vital through and beneath them all? I have often
+               ponder'd it, and felt myself disposed to let it go at that. Indeed, are not those facts
+               and activities and importations potent and certain to fulfil themselves all through our
+               Commonwealth, irrespective of any attempt from individual guidance? But allowing all,
+               and even at that, a good part of the matter being honest discussion, examination, and
+               earnest personal presentation, we may even for sanitary exercise and contact plunge
+               boldly into the spread of the many waves and cross-tides, as follows. Or, to change the
+               figure, I will present my varied little collation (what is our Country itself but an
+               infinitely vast and varied collation?) in the hope that the show itself indicates a duty
+               getting more and more incumbent every day.</p>
+            
+            <p>In general, civilization's totality or real representative Na-
+               
+               <pb facs="ppp.00504.492.jpg" xml:id="leaf246v1" n="486" type="verso"/>
+               
+               tional Literature formates itself (like language, or "the weather") not from two or
+               three influences, however important, nor from any learned syllabus, or criticism, or
+               what ought to be, nor from any minds or advice of toploftical quarters—and
+               indeed not at all from the influences and ways ostensibly supposed (though they too are
+               adopted, after a sort)—but slowly, slowly, curiously, from many more and more,
+               deeper mixings and siftings (especially in America) and generations and years and races,
+               and what largely appears to be chance—but is not chance at all. First of all,
+               for future National Literature in America, New England (the technically moral and
+               schoolmaster region, as a cynical fellow I know calls it) and the three or four great
+               Atlantic-coast cities, highly as they to-day suppose they dominate the whole, will have
+               to haul in their horns. <hi rend="italic">Ensemble</hi> is the tap-root of National
+               Literature. America is become already a huge world of peoples, rounded and orbic
+               climates, idiocrasies, and geographies—forty-four Nations curiously and
+               irresistibly blent and aggregated in ONE NATION, with one imperial language, and one
+               unitary set of social and legal standards over all—and (I predict) a yet to be
+               National Literature. (In my mind this last, if it ever comes, is to prove grander and
+               more important for the Commonwealth than its politics and material wealth and trade,
+               vast and indispensable as those are.)</p>
+            
+            <p>Think a moment what must, beyond peradventure, be the real permanent sub-bases, or lack
+               of them. Books profoundly consider'd show a great nation more than anything
+               else—more than laws or manners. (This is, of course, probably the deep-down
+               meaning of that well-buried but ever-vital platitude, Let me sing the people's songs,
+               and I don't care who makes their laws.) Books too reflect humanity <hi rend="italic">en
+                  masse</hi>, and surely show them splendidly, or the reverse, and prove or celebrate
+               their prevalent traits (these last the main things.) Homer grew out of and has held the
+               ages, and holds to-day, by the universal admiration for personal prowess, courage,
+               rankness, <hi rend="italic">amour propre</hi>, leadership, inherent in the whole human
+               race. Shakspere concentrates the brilliancy of the centuries of feudalism on the proud
+               personalities they produced, and paints the amorous passion. The books of the Bible
+               stand for the final superiority of devout emotions over the rest, and of religious
+               adoration, and ultimate absolute justice, more powerful than haughtiest kings or
+               millionares or majorities.</p>
+            
+            <p>What the United States are working out and establishing needs imperatively the
+               connivance of something subtler than ballots and legislators. The Goethean theory and
+               lesson (if I may briefly state it so) of the exclusive sufficiency of artistic,
+               scientific, literary equipment to the character, irrespective of any strong claims
+               
+               <pb facs="ppp.00504.493.jpg" xml:id="leaf247r1" n="487" type="recto"/>
+               
+               of the political ties of nation, state, or city, could have answer'd under the
+               conventionality and pettiness of Weimar, or the Germany, or even Europe, of those times;
+               but it will not do for America to-day at all. We have not only to exploit our own theory
+               above any that has preceded us, but we have entirely different, and deeper-rooted, and
+               infinitely broader themes.</p>
+            
+            <p>When I have had a chance to see and observe a sufficient crowd of American boys or
+               maturer youths or well-grown men, all the States, as in my experiences in the Secession
+               War among the soldiers, or west, east, north, or south, or my wanderings and loiterings
+               through cities (especially New York and in Washington,) I have invariably found coming
+               to the front three prevailing personal traits, to be named here for brevity's sake under
+               the heads Good-Nature, Decorum, and Intelligence. (I make Good-Nature first, as it
+               deserves to be—it is a splendid resultant of all the rest, like health or fine
+               weather.) Essentially these lead the inherent list of the' high average personal born
+               and bred qualities of the young fellows everywhere through the United States, as any
+               sharp observer can find out for himself. Surely these make the vertebral stock of
+               superbest and noblest nations! May the destinies show it so forthcoming. I mainly
+               confide the whole future of our Commonwealth to the fact of these three bases. Need I
+               say I demand the same in the elements and spirit and fruitage of National
+               Literature?</p>
+            
+            <p>Another, perhaps a born root or branch, comes under the words <hi rend="italic">Noblesse Oblige</hi>, even for a national rule or motto. My opinion is that this
+               foregoing phrase, and its spirit, should influence and permeate official America and its
+               representatives in Congress, the Executive Departments, the Presidency, and the
+               individual States—should be one of their chiefest mottoes, and be carried out
+               practically. (I got the idea from my dear friend the democratic Englishwoman, Mrs. Anne
+               Gilchrist, now dead. "The beautiful words <hi rend="italic">Noblesse Oblige</hi>" said
+               she to me once, "are not best for some develop'd gentleman or lord, but some rich and
+               develop'd nation—and especially for your America.")</p>
+            
+            <p>Then another and very grave point (for this discussion is deep, deep—not for
+               trifles, or pretty seemings.) I am not sure but the establish'd and old (and superb and
+               profound, and, one may say, needed as old) conception of Deity as mainly of moral
+               constituency (goodness, purity, sinlessness, &amp;c.) has been undermined by
+               nineteenth-century ideas and science. What does this immense and almost abnormal
+               development of Philanthropy mean among the moderns? One doubts if there ever will come a
+               day when the moral laws and moral standards will be supplanted as over all: while time
+               proceeds (I find it so myself) they will probably
+               
+               <pb facs="ppp.00504.494.jpg" xml:id="leaf247v1" n="488" type="verso"/>
+               
+               be intrench'd deeper and expanded wider. Then the expanded Scientific and democratic
+               and truly philosophic and poetic quality of modernism demands aDeific identity and scope
+               superior to all limitations, and essentially including just as well the so-call'd evil
+               and crime and criminals—all the malformations, the defective and abortions of
+               the universe.</p>
+            
+            <p>Sometimes the bulk of the common people (who are far more 'cute than the critics
+               suppose) relish a well-hidden allusion or hint carelessly dropt, faintly indicated, and
+               left to be disinterr'd or not. Some of the very old ballads have delicious morsels of
+               this kind. Greek Aristophanes and Pindar abounded in them. (I sometimes fancy the old
+               Hellenic audiences must have been as generally keen and knowing as any of their poets.)
+               Shakspere is full of them. Tennyson has them. It is always a capital compliment from
+               author to reader, and worthy the peering brains of America. The mere smartness of the
+               common folks, however, does not need encouraging, but qualities more solid and
+               opportune.</p>
+            
+            <p>What are now deepest wanted in the States as roots for their literature are Patriotism,
+               Nationality, Ensemble, or the ideas of these, and the uncompromising genesis and
+               saturation of these. Not the mere bawling and braggadocio of them, but the radical
+               emotion-facts, the fervor and perennial fructifying spirit at fountain-head. And at the
+               risk of being misunderstood I should dwell on and repeat that a great imaginative <hi rend="italic">literatus</hi> for America can never be merely good and moral in the
+               conventional method. Puritanism and what radiates from it must always be mention'd by me
+               with respect; then I should say, for this vast and varied Commonwealth, geographically
+               and artistically, the puritanical standards are constipated, narrow, and
+               non-philosophic.</p>
+            
+            <p>In the main I adhere to my positions in "Democratic Vistas," and especially to my
+               summing-up of American literature as far as to-day is concern'd. In Scientism, the
+               Medical Profession, Practical Inventions, and Journalism, the United States have press'd
+               forward to the glorious front rank of advanced civilized lands, as also in the popular
+               dissemination of printed matter (of a superficial nature perhaps, but that is an
+               indispensable preparatory stage,) and have gone in common education, so-call'd, far
+               beyond any other land or age. Yet the high-pitch'd taunt of Margaret Fuller, forty years
+               ago, still sounds in the air: "It does not follow, because the United States print and
+               read more books, magazines, and newspapers than all the rest of the world, that they
+               really have therefore a literature." For perhaps it is not alone the free schools and
+               newspapers, nor railroads and factories, nor all the iron, cotton, wheat, pork, and
+               petroleum, nor
+               
+               <pb facs="ppp.00504.495.jpg" xml:id="leaf248r1" n="489" type="recto"/>
+               
+               the gold and silver, nor the surplus of a hundred or several hundred millions, nor the
+               Fourteenth and Fifteenth Amendments, nor the last national census, that can put this
+               Commonweal high or highest on the cosmical scale of history. Something else is
+               indispensable. All that record is lofty, but there is a loftier.</p>
+            
+            <p>The great current points are perhaps simple, after all: first, that the highest
+               developments of the New World and Democracy, and probably the best society of the
+               civilized world all over, are to be only reach'd and spinally nourish'd (in my notion)
+               by a new evolutionary sense and treatment; and, secondly, that the evolution-principle,
+               which is the greatest law through nature, and of course in these States, has now reach'd
+               us markedly for and in our literature.</p>
+            
+            <p>In other writings I have tried to show how vital to any aspiring Nationality must ever
+               be its autochthonic song, and how for a really great people there can be no complete and
+               glorious Name, short of emerging out of and even rais'd on such born poetic expression,
+               coming from its own soil and soul, its area, spread, idiosyncrasies, and (like showers
+               of rain, originally rising impalpably, distill'd from land and sea,) duly returning
+               there again. Nor do I forget what we all owe to our ancestry; though perhaps we are apt
+               to forgive and bear too much for that alone.</p>
+            
+            <p>One part of the national American literatus's task is (and it is not an easy one) to
+               treat the old hereditaments, legends, poems, theologies, and even customs, with fitting
+               respect and toleration, and at the same time clearly understand and justify, and be
+               devoted to and exploit our own day, its diffused light, freedom, responsibilities, with
+               all it necessitates, and that our New World circumstances and stages of development
+               demand and make proper. For American literature we want mighty authors, not even
+               Carlyle- and Heine-like, born and brought up in (and more or less essentially partaking
+               and giving out) that vast abnormal ward or hysterical sick-chamber which in many
+               respects Europe, with all its glories, would seem to be. The greatest feature in current
+               poetry (perhaps in literature anyhow) is the almost total lack of first-class power, and
+               simple, natural health, flourishing and produced at first hand, typifying our own era.
+               Modern verse generally lacks quite altogether the modern, and is oftener possess'd in
+               spirit with the past and feudal, dressed may-be in late fashions. For novels and plays
+               often the plots and surfaces are contemporary—but the spirit, even the fun, is
+               morbid and effete.</p>
+            
+            <p>There is an essential difference between the Old and New. The poems of Asia and Europe
+               are rooted in the long past. They celebrate man and his intellections and relativenesses
+               as they
+               
+               <pb facs="ppp.00504.496.jpg" xml:id="leaf248v1" n="490" type="verso"/>
+               
+               have been. But America, in as high a strain as ever, is to sing them all as they are
+               and are to be. (I know, of course, that the past is probably a main factor in what we
+               are and know and must be.) At present the States are absorb'd in business, money-making,
+               politics, agriculture, the development of mines, inter-communications, and other
+               material attents—which all shove for-ward and appear at their
+               height—as, consistently with modern civilization, they must be and should be.
+               Then even these are but the inevitable precedents and providers for home-born,
+               transcendent, democratic literature—to be shown in superior, more heroic, more
+               spiritual, more emotional, personalities and songs. A national literature is, of course,
+               in one sense, a great mirror or reflector. There must however be something
+               before—something to reflect. I should say now, since the Secession War, there
+               has been, and to-day unquestionably exists, that something.</p>
+            
+            <p>Certainly, anyhow, the United States do not so far utter poetry, first-rate literature,
+               or any of the so-call'd arts, to any lofty admiration or advantage—are not
+               dominated or penetrated from actual inherence or plain bent to the said poetry and arts.
+               Other work, other needs, current inventions, productions, have occupied and to-day
+               mainly occupy them. They are very 'cute and imitative and proud—can't bear
+               being left too glaringly away far behind the other high-class nations—and so
+               we set up some home "poets," "artists," painters, musicians, <hi rend="italic">literati</hi>, and so forth, all our own (thus claim'd.) The whole matter has gone
+               on, and exists to-day, probably as it should have been, and should be; as, for the
+               present, it must be. To all which we conclude, and repeat the terrible query: American
+               National Literature—is there distinctively any such thing, or can there ever
+               be?</p>
+            
+         </div>
+         
+         
+         
+         
+         <div>
+            <div type="laggard"></div>
+            <div type="laggard"></div>
+            <div type="poem">
+               <lg>
+                 <l></l>
+               </lg>
+            </div>
+         </div>
+         
+         <!--<pb facs="prc_bb.00012.jpg" xml:id="leaf025v" n="42" type="verso"/>
         
         
         <div1 type="section">
@@ -1103,9 +1733,9 @@
               </body>
            </floatingText>
            
-        </div1>
-        
-        
-      
+        </div1>-->
+         
+         
+      </body>
   </text>
 </TEI>

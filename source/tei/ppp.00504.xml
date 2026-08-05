@@ -17,6 +17,7 @@
           <persName xml:id="bb">Brett Barney</persName>
           <persName xml:id="nhg">Nicole Gray</persName>
           <persName xml:id="km">Kevin McMullen</persName>
+          <persName xml:id="kmh">Kenneth Michael Hoover</persName>
         </respStmt>
         <sponsor>Center for Digital Research in the Humanities</sponsor>
         <sponsor>University of Iowa</sponsor>
@@ -70,6 +71,7 @@
     <profileDesc> </profileDesc>
 
     <revisionDesc>
+      <change when="2025-08-05" who="kmh">corrected typo on p. 484</change>
       <change when="2023-08-11" who="#bb">corrected numerous errors in table of contents; corrected encoding of ellipses on pages 28, 443, and 444; removed extraneous hyphen on page 56</change>
       <change when="2021-01-22" who="#bb">corrected "show" to "how" on last page (522)</change>
       <change when="2020-05-26" who="#bb">on the advice of Ken, Ed, and Matt, reverted the change on page 163</change>
@@ -25090,7 +25092,7 @@ friends Mr. and Mrs. Williams, Churchie, May, Gurney, and little Aubrey.........
               woman and a queen surely swung the grandest oscillation of modern history's pendulum.
               Many sayings and doings of that period, from foreign potentates and powers, might well
               be dropt in oblivion by America—but never <hi rend="italic">this</hi>, if I
-              could have my way. W, W.</p>
+              could have my way. W. W.</p>
 
           </div3>
 
