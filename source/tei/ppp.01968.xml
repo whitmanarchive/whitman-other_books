@@ -601,7 +601,7 @@
                </relations>-->
             <note type="work_relations" target="xxx.00393"></note>
             <head type="main">INTERPOLATION SOUNDS.</head>
-            <note type="authorial" place="inline">[General Philip Sheridan was buried at the Cathedral, Washington, D. C., August, 1888, with all the pomp, music and ceremonies of the Roman Catholic service.]</note> 
+            <note type="textual">[General Philip Sheridan was buried at the Cathedral, Washington, D. C., August, 1888, with all the pomp, music and ceremonies of the Roman Catholic service.]</note> 
             <l>O<hi rend="smallcaps">VER</hi> and through the burial chant,</l>
             <l>Organ and solemn service, sermon, bending priests,</l>
             <l>To me come interpolation sounds not in the show&#8212;plainly to  <lb/>me, crowding up the aisle and from the window,</l>
@@ -699,8 +699,7 @@
                </relations>-->
             <note type="work_relations" target="xxx.00396"></note>
             <head type="main">A CHRISTMAS GREETING.</head>
-            <head type="sub">
-               <hi rend="italic">From a Northern Star-Group to a Southern.</hi> 1889-'90.</head>
+            <head type="sub"><hi rend="italic">From a Northern Star-Group to a Southern.</hi> 1889-'90.</head>
             <l>W<hi rend="smallcaps">ELCOME</hi>, Brazilian brother&#8212;thy ample place is ready;</l>
             <l>A loving hand&#8212;a smile from the north&#8212;a sunny instant hail!</l>
             <l>(Let the future care for itself, where it reveals its troubles, <choice><orig>im-<lb/>pedimentas</orig><reg>impedimentas</reg></choice>,</l>
@@ -912,7 +911,7 @@
                </relations>-->
             <note type="work_relations" target="xxx.00404"></note>
             <head type="main">"THE ROUNDED CATALOGUE DIVINE COMPLETE."</head>
-            <note type="authorial" place="inline">[Sunday,–– – ––.–Went this forenoon to church. A college professor, Rev. Dr.&#8212;&#8212;, gave us a fine sermon, during which I caught the above words; but the minister included in his "rounded catalogue" letter and spirit, only the esthetic things, and entirely ignored what I name in the following:]</note>
+            <note type="textual">[Sunday,–– – ––.–Went this forenoon to church. A college professor, Rev. Dr.&#8212;&#8212;, gave us a fine sermon, during which I caught the above words; but the minister included in his "rounded catalogue" letter and spirit, only the esthetic things, and entirely ignored what I name in the following:]</note>
             <l>The devilish and the dark, the dying and diseas'd,</l>
             <l>The countless (nineteen-twentieths) low and evil, crude and  <lb/>savage,</l>
             <l>The crazed, prisoners in jail, the horrible, rank, malignant,</l>
@@ -930,7 +929,7 @@
                </relations>-->
             <note type="work_relations" target="xxx.00405"></note>
             <head type="main">MIRAGES.</head>
-            <note type="textual">(<hi rend="italic">Noted verbatim after a supper-talk out doors in Nevada with two old miners.</hi>)</note>
+            <head type="sub">(<hi rend="italic">Noted verbatim after a supper-talk out doors in Nevada with two old miners.</hi>)</head>
             <l>M<hi rend="smallcaps">ORE</hi> experiences and sights, stranger, than you'd think for;</l>
             <l>Times again, now mostly just after sunrise or before sunset,</l>
             <l>Sometimes in spring, oftener in autumn, perfectly clear weather,  <lb/>in plain sight,</l>
@@ -1729,7 +1728,7 @@
          <div type="essay">            
             <head type="main">A DEATH-BOUQUET.</head>
             
-            <p><hi rend="italic">Pick'd Noontime, Early January</hi>, 1890.</p>
+            <head type="sub"><hi rend="italic">Pick'd Noontime, Early January</hi>, 1890.</head>
             
             <p>DEATH—too great a subject to be treated so—indeed the greatest
                subject—and yet I am giving you but a few random lines about it—as
