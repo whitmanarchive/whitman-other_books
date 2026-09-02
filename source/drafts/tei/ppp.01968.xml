@@ -369,7 +369,7 @@
       
       <body>
          <pb facs="prc_kmh.00018.jpg" xml:id="leaf008r" n="7" type="recto"/>
-         <div type="">
+         <div>
          <head type="main-authorial">GOOD-BYE MY FANCY.</head>
          <lg type="poem" xml:id="ppp.01059">
             <!--               <relations>
@@ -1817,7 +1817,7 @@
          
          
         <pb facs="prc_kmh.00050.jpg" xml:id="leaf024r" n="39" type="recto"/>
-        <div type="">
+        <div>
           <head type="main">SOME LAGGARDS YET.</head>
           <div type="essay">
             <head type="main">THE PERFECT HUMAN VOICE.</head>
@@ -2170,7 +2170,7 @@
          
          
          <pb facs="prc_kmh.00056.jpg" xml:id="leaf027r" n="45" type="recto"/>
-         <div type="">
+         <div>
           <head type="main">MEMORANDA.</head>
           <div type="essay">
 
