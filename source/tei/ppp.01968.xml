@@ -45,11 +45,11 @@
          <sourceDesc>
             <bibl>
                 <author key="Whitman, Walt">Walt Whitman</author>
-                  <title type="main">Good-Bye My Fancy</title>
-                  <title type="sub">2d Annex to Leaves of Grass</title>
+                  <title level="m" type="main">Good-Bye My Fancy</title>
+                  <title level="m" type="sub">2d Annex to Leaves of Grass</title>
                      <pubPlace>Philadelphia</pubPlace>
                      <publisher>David McKay</publisher>
-                     <date when="1891">1891</date>ke
+                     <date when="1891">1891</date>
             </bibl>
             <msDesc>
                <msIdentifier>
@@ -62,6 +62,7 @@
          <p>The original e-text for this file was prepared by Primary Source Media for <title level="m">Major Authors on CD-ROM: Walt Whitman</title> (1997). The source text for the Primary Source Media edition was Walt Whitman, <title level="m">Complete Poetry and Collected Prose</title>, ed. Justin Kaplan (New York: Literary Classics of the United States, 1982). After receiving the e-text from Primary Source Media, <title level="m">Whitman Archive</title> staff checked and corrected the transcription against images of a copy of the 1891&#8211;1892 issue of <hi rend="italic">Leaves of Grass</hi> at the University of Virginia. In 2022, the base text of <hi rend="italic">Good-Bye My Fancy</hi> was derived from the most current version of the "deathbed edition" at the Whitman Archive and corrected against an original copy owned by Kenneth M. Price.</p>
       </encodingDesc>
       <revisionDesc>
+        <change who="#km" when="2026-09-02">proofed</change>
          <change who="#kmh" when="2026-06-30">corrected transcription and encoding against new images of an original copy own by Kenneth M. Price</change>
          <change who="#bb" when="2022-11-14">corrected pb attributes</change>
          <change who="#km" when="2022-11-14">added transcription, encoding for "Health (old style)", derived from ppp.00504</change>
@@ -73,8 +74,6 @@
         <front>
         
         <pb facs="prc_kmh.00002.jpg" xml:id="leaf001r" n="front cover" type="recto"/>
-        <head type="main-authorial">Good-Bye My Fancy<lb/>
-        <hi rend="ital">Walt Whitman</hi></head>
         
         <pb facs="prc_kmh.00003.jpg" xml:id="leaf001v" n="front reverse" type="verso"/>
                 
@@ -89,20 +88,25 @@
         <pb facs="prc_kmh.00008.jpg" xml:id="leaf004r" type="recto"/>
         
         <pb facs="prc_kmh.00009.jpg" xml:id="leaf004v" type="verso"/>
-        <figure><figDesc>A photograph by Samuel Murray of Walt Whitman's left side profile.</figDesc></figure>
-        
-
-
+          
+        <figure>
+          <figDesc>A photograph by Samuel Murray of Walt Whitman's left side profile.</figDesc>
+        </figure>
+          
         <pb facs="prc_kmh.00012.jpg" xml:id="leaf005r" n="title page" type="recto"/>
         <titlePage>           
-           <titlePart type="main-authorial">
+           <docTitle>
+             <titlePart type="main">
               Good-Bye<lb/>
               My Fancy
            </titlePart>
+             <titlePart type="sub">
+               2<hi rend="smallcaps">D</hi> A<hi rend="smallcaps">NNEX TO</hi> L<hi rend="smallcaps">EAVES OF</hi> G<hi rend="smallcaps">RASS</hi>
+             </titlePart>
+           </docTitle>
+         
            
-           <titlePart type="sub">
-              2<hi rend="smallcaps">D</hi> A<hi rend="smallcaps">NNEX TO</hi> L<hi rend="smallcaps">EAVES OF</hi> G<hi rend="smallcaps">RASS</hi>
-           </titlePart>
+           
            
            <titlePart type="publisher">
               PHILADELPHIA<lb/>
