@@ -105,15 +105,12 @@
              </titlePart>
            </docTitle>
          
-           
-           
-           
-           <titlePart type="publisher">
-              PHILADELPHIA<lb/>
-              DAVID McKAY, PUBLISHER<lb/>
-              23 S<hi rend="smallcaps">OUTH</hi> N<hi rend="smallcaps">INTH</hi> S<hi rend="smallcaps">TREET</hi><lb/>
-              1891
-           </titlePart>        
+           <docImprint>
+             <pubPlace>PHILADELPHIA</pubPlace>
+             <publisher>DAVID McKAY, PUBLISHER</publisher>
+             <pubPlace>23 S<hi rend="smallcaps">OUTH</hi> N<hi rend="smallcaps">INTH</hi> S<hi rend="smallcaps">TREET</hi></pubPlace>
+             <docDate>1891</docDate>
+           </docImprint>     
         </titlePage>
         
         <pb facs="prc_kmh.00013.jpg" xml:id="leaf005v" n="2" type="verso"/>
