@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.4.0.0/tei_all.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ppp.20001"><!-- Need to change this -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ppp.01969"><!-- Need to change this -->
 
   <teiHeader>
     <fileDesc>
@@ -12,6 +12,7 @@
         <editor>Ed Folsom</editor>
         <respStmt>
           <resp>Transcription and encoding</resp>
+          <persName xml:id="kmh">Kenneth Michael Hoover</persName>
           <persName xml:id="km">Kevin McMullen</persName>
         </respStmt>
         <sponsor>Center for Digital Research in the Humanities</sponsor>
@@ -43,21 +44,22 @@
         </p>
         <p>Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
         </availability>
-        <idno>ppp.20001</idno><!-- Need to change this -->
+        <idno>ppp.01969</idno>
       </publicationStmt>
 
       <sourceDesc>
         <bibl><!-- Need to update this -->
             <author xml:id="ww">Walt Whitman</author>
-          <title level="m">Specimen Days &amp; Collect</title>
-          <date xml:id="dat1" cert="high" notBefore="1882" notAfter="1883">1882&#8211;'83</date>
-            <publisher>Rees Welsh &amp; Co.</publisher>
+          <title level="m">November Boughs</title>
+          <date xml:id="dat1" cert="high" when="1888">1888</date>
+            <publisher>David McKay</publisher>
             <pubPlace>Philadelphia</pubPlace> 
-          <note type="project">Original transcription derived from our transcription of <hi rend="italic">Complete Prose Works</hi> and proofed against a copy of the original volume.</note>
+            <note type="project">Original transcription derived from our transcription of <hi rend="italic">Complete Prose Works</hi> and proofed against a copy of the original volume.</note>
         </bibl>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
+      <change when="2026-08-26" who="kmh">transcribed and encoded</change>
       <change when="2026-05-19" who="#km">created file</change>
     </revisionDesc>
 
@@ -67,29 +69,54 @@
 
     <front>
   
-      <pb facs="prc_kc.00388.jpg" xml:id="leaf001v1" n="N/A" type="verso"/><!-- Need to update image links -->
-
-      <pb facs="prc_kc.00389.jpg" xml:id="leaf002r1" n="N/A" type="recto"/>
-
-      <pb facs="prc_kc.00390.jpg" xml:id="leaf002v1" n="N/A" type="verso"/>
+      <pb facs="prc_kmh.00083.jpg" xml:id="leaf001r" n="front cover" type="recto"/>
+        <head type="main">November Boughs
+        <hi rend="italic">Walt Whitman</hi></head>
       
-      <pb facs="prc_kc.00391.jpg" xml:id="leaf003r1" n="N/A" type="recto"/>
-      <pb facs="prc_kc.00392.jpg" xml:id="leaf003v1" n="N/A" type="verso"/>
-      <pb facs="prc_kc.00393.jpg" xml:id="leaf004r1" n="N/A" type="recto"/>
-      <titlePage>
-      <docTitle> 
-        <titlePart type="main"> 
-          <hi rend="italic">Specimen Days &amp; Collect</hi>
-        </titlePart> 
-      </docTitle> 
+      <pb facs="prc_kmh.00084.jpg" xml:id="leaf001v" n="front reverse" type="verso"/>
+
+      <pb facs="prc_kmh.00085.jpg" xml:id="leaf002r" n="N/A" type="recto"/>
       
+      <pb facs="prc_kmh.00086.jpg" xml:id="leaf002v" n="N/A" type="verso"/>
+      
+      <pb facs="prc_kmh.00087.jpg" xml:id="leaf003r" n="N/A" type="recto"/>
+      
+      <pb facs="prc_kmh.00088.jpg" xml:id="leaf003v" n="N/A" type="verso"/>
+      
+      <pb facs="prc_kmh.00089.jpg" xml:id="leaf004r" n="N/A" type="recto"/>
+      
+      <pb facs="prc_kmh.00090.jpg" xml:id="leaf004v" n="N/A" type="verso"/>
+      <figure><figDesc>A photograph/engraving combination by Frederick Gutekunst</figDesc></figure>
+      
+      <pb facs="prc_kmh.00091.jpg" xml:id="leaf005r" n="N/A" type="recto"/>
+      
+      <pb facs="prc_kmh.00092.jpg" xml:id="leaf005v" n="N/A" type="verso"/>
+      
+      <pb facs="prc_kmh.00093.jpg" xml:id="leaf006r" n="N/A" type="recto"/>
+      
+      <titlePage>           
+        <titlePart type="main-authorial">
+          November<lb/>
+          Boughs
+        </titlePart>
+        
+        <titlePart type="byline">
+          <hi rend="italic">BY WALT WHITMAN</hi>
+        </titlePart>
+        
+        <titlePart type="publisher">
+          PHILADELPHIA<lb/>
+          DAVID McKAY, 23 S<hi rend="smallcaps">OUTH</hi> N<hi rend="smallcaps">INTH</hi> S<hi rend="smallcaps">TREET</hi><lb/>
+          1888
+        </titlePart>        
       </titlePage> 
       
-      <pb facs="prc_kc.00394.jpg" xml:id="leaf004v1" n="N/A" type="verso"/> 
-      
-      <docImprint>C<hi rend="smallcaps">OPYRIGHT</hi>, 1882.</docImprint> 
-      <docImprint>B<hi rend="smallcaps">Y</hi> WALT WHITMAN.</docImprint> 
-      <docImprint><hi rend="italic">All Rights Reserved.</hi></docImprint> 
+      <pb facs="prc_kmh.00094.jpg" xml:id="leaf006v" n="N/A" type="verso"/>
+            
+      <milestone unit="undeclared" rend="horbar-short"/>
+      <docImprint>Copyright, 1888, by W<hi rend="smallcaps">ALT</hi> W<hi rend="smallcaps">HITMAN</hi>.</docImprint>
+      <milestone unit="undeclared" rend="horbar-short"/>
+
 
       <div type="contents">
         
