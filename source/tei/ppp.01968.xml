@@ -612,7 +612,7 @@
             <l>The sound of horses' hoofs departing&#8212;saddles, arms, <choice><orig>accoutre-<lb/>ments</orig><reg>accoutrements</reg></choice>.</l>
          </lg>
            
-            <note type="authorial" place="bottom">
+            <note type="textual" place="bottom">
                <p>N<hi rend="smallcaps">OTE</hi>.&#8212;C<hi rend="smallcaps">AMDEN</hi>, N. J., August 7, 1888.&#8212;Walt Whitman asks the <hi rend="italic">New York Herald</hi> "to add his tribute to Sheridan:"
               
                <floatingText>
@@ -930,7 +930,7 @@
                </relations>-->
             <note type="work_relations" target="xxx.00405"></note>
             <head type="main">MIRAGES.</head>
-            <note type="authorial" place="inline">(<hi rend="italic">Noted verbatim after a supper-talk out doors in Nevada with two old miners.</hi>)</note>
+            <note type="textual">(<hi rend="italic">Noted verbatim after a supper-talk out doors in Nevada with two old miners.</hi>)</note>
             <l>M<hi rend="smallcaps">ORE</hi> experiences and sights, stranger, than you'd think for;</l>
             <l>Times again, now mostly just after sunrise or before sunset,</l>
             <l>Sometimes in spring, oftener in autumn, perfectly clear weather,  <lb/>in plain sight,</l>
@@ -1064,12 +1064,7 @@
          <div type="essay">
          <head type="main">AN OLD MAN'S REJOINDER.</head>         
          <p>IN the domain of Literature loftily consider'd (an accomplish'd and veteran critic in
-            his just out work<ref xml:id="r43" target="n43" n="43"/><note xml:id="n43" type="authorial" target="r43" n="43" place="foot"><p>Two new volumes, 'Essays
-               Speculative and Suggestive,' by John Addington Symonds. One of the Essays is on
-               Democratic Art,' in which I and my books are largely alluded to and cited and
-               dissected. It is this part of the vols. that has caused the off-hand lines
-               above&#8212;(first thanking Mr. S.for his invariable courtesy of personal
-               treatment).</p></note> now says,) 'the kingdom of the Father has pass'd; the kingdom
+            his just out work now says,) 'the kingdom of the Father has pass'd; the kingdom
             of the Son is passing; the kingdom of the Spirit begins.' Leaving the reader to chew on
             and extract the juice and meaning of this, I will proceed to say in melanged form what I
             have had brought out by the English author's essay (he discusses the poetic art mostly)
@@ -1093,6 +1088,13 @@
             aggregate way. Doubtless my poems illustrate (one of novel thousands to come for a long
             period) those conditions; but 'democratic art' will have to wait long before it is
             satisfactorily formulated and defined&#8212;if it ever is.</p>
+           
+           <note type="textual">Two new volumes, 'Essays
+             Speculative and Suggestive,' by John Addington Symonds. One of the Essays is on
+             Democratic Art,' in which I and my books are largely alluded to and cited and
+             dissected. It is this part of the vols. that has caused the off-hand lines
+             above&#8212;(first thanking Mr. S.for his invariable courtesy of personal
+             treatment).</note>
          
          <pb facs="prc_kmh.00032.jpg" xml:id="leaf00015v" n="22" type="verso"/>
             <p>I will now for one indicative moment lock horns with what many think the greatest
