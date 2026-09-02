@@ -118,16 +118,21 @@
            <docImprint>B<hi rend="smallcaps">Y</hi> WALT WHITMAN</docImprint> 
            <docImprint><hi rend="italic">All rights reserved</hi></docImprint>
         
-<!-- For now, you don't need to do anything more with the TOC. Brett and Kevin will take care of that. KM -->
-
         <pb facs="prc_kmh.00014.jpg" xml:id="leaf006r" n="3" type="recto"/>
-        <div type="contents"><!-- We'll want to use <div> (not <div1>, <div2>, etc.). KM -->
-           <head type="main-authorial">CONTENTS.</head>
-           <milestone unit="undeclared" rend="horbar-short-center"/>
-           <p>
-              P<hi rend="smallcaps">REFACE</hi> N<hi rend="smallcaps">OTE TO 2D</hi> A<hi rend="smallcaps">NNEX</hi>, 5<lb/>
-              G<hi rend="smallcaps">OOD</hi>-B<hi rend="smallcaps">YE MY</hi> F<hi rend="smallcaps">ANCY</hi>:<lb/>
+          
+        <div type="contents">
+          
+           <head type="main">CONTENTS.</head>
+          
+           <milestone unit="undeclared" rend="horbar-short-center"/><!-- Kevin is going to mark up the TOC in two different ways and we'll see what we like best. One way would be a two-columned table (for the two-columned portions of the TOC) that tries to approximate the layout of the page; and another way would be a single-columned table, in which we simply list the pieces sequentially, with less concern for the look of the page. See ppp.01500 for an example of two-columned TOC. KM -->
+              
               <table>
+                <row>
+                  <cell>P<hi rend="smallcaps">REFACE</hi> N<hi rend="smallcaps">OTE TO 2D</hi> A<hi rend="smallcaps">NNEX</hi>, 5</cell>
+                </row>
+                <row>
+                    <cell>G<hi rend="smallcaps">OOD</hi>-B<hi rend="smallcaps">YE MY</hi> F<hi rend="smallcaps">ANCY</hi>:<lb/></cell>
+                </row>
                  <row>
                     <cell>Sail Out for Good, Eidólon Yacht,<lb/>
                        7</cell>
@@ -335,7 +340,7 @@
                     <cell>Last Saved Items, 65</cell>
                  </row>
               </table>
-        </p>
+        
         </div>
         
         
