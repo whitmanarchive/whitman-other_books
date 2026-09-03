@@ -2037,8 +2037,9 @@
          
          
         <pb facs="prc_kmh.00050.jpg" xml:id="leaf024r" n="39" type="recto"/>
-        <div>
+        <div type="section">
           <head type="main">SOME LAGGARDS YET.</head>
+          <!-- ASK BRETT. What do we do with title types here? -->
           <div type="essay">
             <head type="main">THE PERFECT HUMAN VOICE.</head>
 
@@ -2073,8 +2074,11 @@
             <head type="main">SHAKSPERE FOR AMERICA.</head>
 
             <p>Let me send you a supplementary word to that "view" of Shakspere attributed to me,
-              publish'd in your July number,* and               
-            <note type="textual" place="bottom"><p>This bit was in "Poet-lore" monthly for September, 1890.</p></note>
+              publish'd in your July number,* and     
+              
+              <milestone unit="undeclared" rend="horbar-full"/>
+              
+            <note type="textual" rend="small">*This bit was in "Poet-lore" monthly for September, 1890.</note>
                
 
          <pb facs="prc_kmh.00051.jpg" xml:id="leaf024v" n="40" type="verso"/>
