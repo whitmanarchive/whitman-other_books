@@ -2147,7 +2147,7 @@
               reverent admiration, as well as beacons. And typical of this, and standing for it and
               all perhaps, Giordano Bruno may well be put, to-day and to come, in our New World's
               thankfulest heart and memory. W. W.</p>
-<!-- ASK BRETT. Dateline? -->
+<!-- ASK BRETT. Dateline? (styling doesn't work though) -->
             <dateline>February 24th, 1890.</dateline>
 
             <dateline>Camden, N. J.</dateline>
@@ -2218,7 +2218,8 @@
               treasur'd—found originally in some scrap-book fifty years ago—a
               favorite of mine (but quite a glaring contrast to my present bodily state:)</p>
 
-            <floatingText>
+            <q>
+              <floatingText>
               <body>
                 <lg type="poem">
                   <lg type="linegroup">
@@ -2311,6 +2312,7 @@
                 </lg>
               </body>
             </floatingText>
+            </q>
 
           </div>
 
