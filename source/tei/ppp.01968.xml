@@ -2342,12 +2342,10 @@
           <div type="poem">
             <head type="main">AS IN A SWOON.</head>
             <lg type="poem">
-              <lg type="linegroup">
               <l>As in a swoon, one instant,</l>
               <l>Another sun, ineffable, full-dazzles me,</l>
               <l>And all the orbs I knew—and brighter, unknown orbs;</l>
               <l>One instant of the future land, Heaven's land.</l>
-                </lg>
             </lg>
           </div>
 
@@ -2374,22 +2372,18 @@
           </div>
 
           <div type="poem">
-            <head type="main" rend="underline">AFTER THE ARGUMENT.</head>
+            <head type="main">AFTER THE ARGUMENT.</head>
             <lg type="poem">
-              <lg type="linegroup">
               <l>A GROUP of little children with their ways and chatter flow in,</l>
               <l>Like welcome rippling water o'er my heated nerves and flesh.</l>
-                </lg>
             </lg>
           </div>
 
           <div type="poem">
-            <head type="main" rend="underline">FOR US TWO, READER DEAR.</head>
+            <head type="main">FOR US TWO, READER DEAR.</head>
             <lg type="poem">
-              <lg type="linegroup">
               <l>SIMPLE, spontaneous, curious, two souls interchanging,</l>
-              <l>With the original testimony for us continued to the last.</l>
-                </lg>
+              <l>With the original testimony for us continued to the last.</l> 
             </lg>
           </div>
         </div>
