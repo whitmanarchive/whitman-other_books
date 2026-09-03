@@ -784,7 +784,7 @@
                </relations>-->
             <note type="work_relations" target="xxx.00393"></note>
             <head type="main">INTERPOLATION SOUNDS.</head>
-            <note type="textual">[General Philip Sheridan was buried at the Cathedral, Washington, D. C., August, 1888, with all the pomp, music and ceremonies of the Roman Catholic service.]</note> 
+            <note type="textual">[General Philip Sheridan was buried at the Cathedral, Washington, D. C., August, 1888, with all the pomp, music and ceremonies of the Roman Catholic service.]*</note> 
             <l>O<hi rend="smallcaps">VER</hi> and through the burial chant,</l>
             <l>Organ and solemn service, sermon, bending priests,</l>
             <l>To me come interpolation sounds not in the show&#8212;plainly to  <lb/>me, crowding up the aisle and from the window,</l>
@@ -795,8 +795,8 @@
             <l>The sound of horses' hoofs departing&#8212;saddles, arms, <choice><orig>accoutre-<lb/>ments</orig><reg>accoutrements</reg></choice>.</l>
          </lg>
            
-            <note type="textual" place="bottom">
-               <p>N<hi rend="smallcaps">OTE</hi>.&#8212;C<hi rend="smallcaps">AMDEN</hi>, N. J., August 7, 1888.&#8212;Walt Whitman asks the <hi rend="italic">New York Herald</hi> "to add his tribute to Sheridan:"
+            <note type="textual" rend="small">
+               <p>*N<hi rend="smallcaps">OTE</hi>.&#8212;C<hi rend="smallcaps">AMDEN</hi>, N. J., August 7, 1888.&#8212;Walt Whitman asks the <hi rend="italic">New York Herald</hi> "to add his tribute to Sheridan:"
               
                <floatingText>
                  <body>
@@ -882,7 +882,7 @@
                </relations>-->
             <note type="work_relations" target="xxx.00396"></note>
             <head type="main">A CHRISTMAS GREETING.</head>
-            <head type="sub"><hi rend="italic">From a Northern Star-Group to a Southern.</hi> 1889-'90.</head>
+            <head type="sub" rend="small"><hi rend="italic">From a Northern Star-Group to a Southern.</hi> 1889-'90.</head>
             <l>W<hi rend="smallcaps">ELCOME</hi>, Brazilian brother&#8212;thy ample place is ready;</l>
             <l>A loving hand&#8212;a smile from the north&#8212;a sunny instant hail!</l>
             <l>(Let the future care for itself, where it reveals its troubles, <choice><orig>im-<lb/>pedimentas</orig><reg>impedimentas</reg></choice>,</l>
@@ -980,7 +980,7 @@
                </relations>-->
             <note type="work_relations" target="xxx.00401"></note>
             <head type="main">A VOICE FROM DEATH.</head>
-            <head type="sub">(The Johnstown, Penn., cataclysm, May 31, 1889.)</head>
+            <head type="sub" rend="small">(The Johnstown, Penn., cataclysm, May 31, 1889.)</head>
             <lg type="linegroup">
                <l>A <hi rend="smallcaps">VOICE</hi> from Death, solemn and strange, in all his sweep and <lb/>power,</l>
                <l>With sudden, indescribable blow&#8212;towns drown'd&#8212;humanity by <lb/>thousands slain,</l>
@@ -1094,7 +1094,7 @@
                </relations>-->
             <note type="work_relations" target="xxx.00404"></note>
             <head type="main">"THE ROUNDED CATALOGUE DIVINE COMPLETE."</head>
-            <note type="textual">[Sunday,–– – ––.–Went this forenoon to church. A college professor, Rev. Dr.&#8212;&#8212;, gave us a fine sermon, during which I caught the above words; but the minister included in his "rounded catalogue" letter and spirit, only the esthetic things, and entirely ignored what I name in the following:]</note>
+           <note type="textual">[Sunday,&#8212;&#8212; &#8212; &#8212;&#8212;.&#8212;Went this forenoon to church. A college professor, Rev. Dr.&#8212;&#8212;&#8212;, gave us a fine sermon, during which I caught the above words; but the minister included in his "rounded catalogue" letter and spirit, only the esthetic things, and entirely ignored what I name in the following:]</note>
             <l>The devilish and the dark, the dying and diseas'd,</l>
             <l>The countless (nineteen-twentieths) low and evil, crude and  <lb/>savage,</l>
             <l>The crazed, prisoners in jail, the horrible, rank, malignant,</l>
@@ -1112,7 +1112,7 @@
                </relations>-->
             <note type="work_relations" target="xxx.00405"></note>
             <head type="main">MIRAGES.</head>
-            <head type="sub">(<hi rend="italic">Noted verbatim after a supper-talk out doors in Nevada with two old miners.</hi>)</head>
+            <head type="sub" rend="small">(<hi rend="italic">Noted verbatim after a supper-talk out doors in Nevada with two old miners.</hi>)</head>
             <l>M<hi rend="smallcaps">ORE</hi> experiences and sights, stranger, than you'd think for;</l>
             <l>Times again, now mostly just after sunrise or before sunset,</l>
             <l>Sometimes in spring, oftener in autumn, perfectly clear weather,  <lb/>in plain sight,</l>
@@ -1541,7 +1541,7 @@
          </div>
          <div type="poem">
             <head type="main">FOR QUEEN VICTORIA's BIRTHDAY</head>
-            <epigraph>
+            <epigraph><!-- ASK BRETT -->
                <p><hi rend="italic">An American arbutus bunch to be put in a little vase on the royal breakfast
                      table, May 24th, 1890.</hi></p>
             </epigraph>
@@ -1572,7 +1572,7 @@
             woman and a queen surely swung the grandest oscillation of modern history's pendulum.
             Many sayings and doings of that period, from foreign potentates and powers, might well
             be dropt in oblivion by America—but never <hi rend="italic">this</hi>, if I
-            could have my way. W. W.</p></note>
+            could have my way. <!-- ASK BRETT. Space here? -->W. W.</p></note>
          
          </div>
 
@@ -1580,7 +1580,7 @@
          <pb facs="prc_kmh.00040.jpg" xml:id="leaf019r" n="29" type="recto"/>
          <div type="essay">
             <head type="main">AMERICAN NATIONAL LITERATURE.</head>            
-            <p><hi rend="italic">Is there any such thing—or can there ever be?</hi></p>
+            <head type="sub" rend="small"><hi rend="italic">Is there any such thing—or can there ever be?</hi></head>
             <p>So you want an essay about American National Literature, (tremendous and fearful
                subject!) do you?* Well, if you will let me put down
                some melanged cogitations regarding the matter, haphazard, and from my own points of
@@ -1824,7 +1824,8 @@
                to call out, "You that pretend to give the news, and all that's going, why not give us a
                notice?" Truly, O fields, as for the notice,
             
-            <floatingText>
+            
+            <q><floatingText>
                <body>                  
                   <lg type="poem">
                      <lg type="linegroup">
@@ -1832,7 +1833,7 @@
                      </lg>
                   </lg>                  
                </body>
-            </floatingText>
+            </floatingText></q>
             
             
                 Only we must do it our own way. Leaving the domestic, dietary, and commercial parts of
