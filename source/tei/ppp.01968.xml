@@ -133,6 +133,64 @@
                 <row>
                     <cell>G<hi rend="smallcaps">OOD</hi>-B<hi rend="smallcaps">YE MY</hi> F<hi rend="smallcaps">ANCY</hi>:</cell>
                 </row>
+                <!-- BEGINNING TEST ENCODING HERE. TWO-COLUMNED APPROACH. -->
+                <row>
+                  <cell>
+                      <table>
+                        <row>
+                          <cell>Sail Out for Good, Eidólon Yacht,<lb/> 7</cell><cell>Old Chants, 12</cell>
+                        </row>
+                        <row>
+                          <cell>Lingering Last Drops, 7</cell><cell>A Christmas Greeting, 13</cell>
+                        </row>
+                        <row>
+                          <cell>Good-Bye My Fancy, 7</cell><cell>Sounds of the Winter, 13</cell>
+                        </row>
+                        <row>
+                          <cell>On, on the Same, ye Jocund<lb/> Twain, 8</cell><cell>A Twilight Song, 14</cell>
+                        </row>
+                        <row>
+                          <cell>My 71st Year, 8</cell><cell>When the Full-Grown Poet Came,<lb/> 14</cell>
+                        </row>
+                        <row>
+                          <cell>Apparitions, 8</cell><cell>Osceola, 15</cell>
+                        </row>
+                        <row>
+                          <cell>The Pallid Wreath, 9</cell><cell>A Voice from Death, 15</cell>
+                        </row>
+                        <row>
+                          <cell>An Ended Day, 9</cell><cell>A Persian Lesson, 16</cell>
+                        </row>
+                        <row>
+                          <cell>Old Age's Ship and Crafty Death's,<lb/> 10</cell><cell>The Commonplace, 17</cell>
+                        </row>
+                        <row>
+                          <cell>To the Pending Year, 10</cell><cell>"The Rounded Catalogue Divine<lb/> Complete," 17</cell>
+                        </row>
+                        <row>
+                          <cell>Shakspere-Bacon's Cipher, 10</cell><cell>Mirages, 18</cell>
+                        </row>
+                        <row>
+                          <cell>Long, Long Hence, 10</cell><cell>L. of G.'s Purport, 18</cell>
+                        </row>
+                        <row>
+                          <cell>Bravo, Paris Exposition, 11</cell><cell>The Unexpress'd, 19</cell>
+                        </row>
+                        <row>
+                          <cell>Interpolation Sounds, 11</cell><cell>Grand is the Seen, 19</cell>
+                        </row>
+                        <row>
+                          <cell>To the Sunset Breeze, 12</cell><cell>Unseen Buds, 19</cell>
+                        </row>
+                        <row>
+                          <cell/><cell>Good-Bye my Fancy, 20</cell>
+                        </row>
+                    </table>
+                  </cell>
+                </row>
+                
+                
+                
                  <row>
                     <cell>Sail Out for Good, Eidólon Yacht,<lb/>
                        7</cell>
