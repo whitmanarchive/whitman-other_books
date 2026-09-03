@@ -1824,8 +1824,8 @@
                to call out, "You that pretend to give the news, and all that's going, why not give us a
                notice?" Truly, O fields, as for the notice,
             
-            
-            <q><floatingText>
+            <q>
+              <floatingText>
                <body>                  
                   <lg type="poem">
                      <lg type="linegroup">
@@ -1833,7 +1833,8 @@
                      </lg>
                   </lg>                  
                </body>
-            </floatingText></q>
+            </floatingText>
+            </q>
             
             
                 Only we must do it our own way. Leaving the domestic, dietary, and commercial parts of
@@ -1873,7 +1874,8 @@
                black-spotted lady-bug that has lit on the shirt-sleeve of the arm inditing this? Ending
                our list with the fall-drying grass, the Autumn days themselves,
             
-            <floatingText>
+            <q>
+              <floatingText>
                <body>
                   <lg type="poem">
                      <lg type="linegroup">
@@ -1882,6 +1884,7 @@
                   </lg>
                </body>
             </floatingText>
+            </q>
             
             (yet not so cool either, about noon)—the horse-mint, the wild carrot, the
                mullein, and the bumble-bee.</p>
@@ -1923,7 +1926,8 @@
                then poetic glints still more—put the soul in rapport with death, or toward
                it. Hear a strain from Tennyson's late "Crossing the Bar":
             
-            <floatingText>
+            <q>
+              <floatingText>
                <body>
                   <lg type="poem">
                      <lg type="linegroup">
@@ -1942,12 +1946,14 @@
                   </lg>
                </body>
             </floatingText>
+            </q>
             </p>
             
             <p>Am I starting the sail-craft of poets in line? Here then a quatrain of Phrynichus long
                ago to one of old Athens' favorites:
             
-            <floatingText>
+            <q>
+              <floatingText>
                <body>
                   
                   <lg type="poem">
@@ -1960,6 +1966,7 @@
                   </lg>
                </body>
             </floatingText>
+            </q>
             </p>
             
             <p>Certain music, indeed, especially voluntaries by a good player, at
