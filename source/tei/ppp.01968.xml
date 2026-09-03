@@ -2739,13 +2739,15 @@
               candid and free and fair-intention'd a nature as ever vivified our race.</p>
 
             <p>In Boston, 1860, I first met WILLIAM DOUGLAS O' CONNOR.*</p>
-            <note type="textual" place="bottom">
-              <p>Born Jan. 2d, 1832. When grown, lived several years in Boston, and edited journals
+            
+            <milestone unit="undeclared" rend="horbar-full"/>
+            
+            <note type="textual" place="bottom">*Born Jan. 2d, 1832. When grown, lived several years in Boston, and edited journals
                 and magazines there&#8212;went about 1861 to Washington, D. C., and became a U.
                 S. clerk, first in the Light-House Bureau, and then in the U. S. Life-Saving
                 Service, in which branch he was Assistant Superintendent for many
                 years&#8212;sicken'd in 188&#8212;died there at Washington, May 9th,
-                1889.</p>
+                1889.
             </note>
              
 
@@ -2820,7 +2822,7 @@
           </div>
 
           <div type="essay">
-            <head type="main">
+            <head type="sub"><!-- ASK BRETT. Head? -->
               <hi rend="italic">F'm the Engineering Record, New York, Dec. 13, 1890.</hi>
             </head>
             <head type="main">AN ENGINEER'S OBITUARY.</head>
