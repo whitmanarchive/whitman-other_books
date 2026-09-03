@@ -1985,7 +1985,8 @@
                every thing from that minute till the time of its occurrence. And yet here is something
                (Whittier's "Burning Driftwood") of an opposite coloring:</p>
             
-            <floatingText>
+            <q>
+              <floatingText>
                <body>
                   <lg type="poem">
                      <lg type="linegroup">
@@ -2001,6 +2002,7 @@
                   </lg>
                </body>
             </floatingText>
+            </q>
             
             <p>Like an invisible breeze after a long and sultry day, death sometimes sets in at last,
                soothingly and refreshingly, almost vitally. In not a few cases the termination even
@@ -2012,7 +2014,8 @@
             
             <p>Then to give the following, and cease before the thought gets threadbare:</p>
             
-            <floatingText>
+            <q>
+              <floatingText>
                <body>                  
                   <lg type="poem">
                      <lg type="linegroup">
@@ -2028,7 +2031,8 @@
                      </lg>
                   </lg>
                </body>
-            </floatingText>            
+            </floatingText>
+            </q>            
          </div>
          
          
