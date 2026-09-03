@@ -126,6 +126,8 @@
           
            <milestone unit="undeclared" rend="horbar-short-center"/><!-- Kevin is going to mark up the TOC in two different ways and we'll see what we like best. One way would be a two-columned table (for the two-columned portions of the TOC) that tries to approximate the layout of the page; and another way would be a single-columned table, in which we simply list the pieces sequentially, with less concern for the look of the page. See ppp.01500 for an example of two-columned TOC. KM -->
               
+              
+          <!-- BEGINNING TEST ENCODING #1 HERE. TWO-COLUMNED APPROACH. -->
               <table>
                 <row>
                   <cell>P<hi rend="smallcaps">REFACE</hi> N<hi rend="smallcaps">OTE TO 2D</hi> A<hi rend="smallcaps">NNEX</hi>, 5</cell>
@@ -133,7 +135,6 @@
                 <row>
                     <cell>G<hi rend="smallcaps">OOD</hi>-B<hi rend="smallcaps">YE MY</hi> F<hi rend="smallcaps">ANCY</hi>:</cell>
                 </row>
-                <!-- BEGINNING TEST ENCODING #1 HERE. TWO-COLUMNED APPROACH. -->
                 <row>
                   <cell>
                       <table>
@@ -330,6 +331,95 @@
               </row>
               </table>
           <!-- END TEST ENCODING #2. IF WE LIKE THIS APPROACH, THE TABLE WOULD CONTINUE. KM -->
+          <lb/>
+          <lb/>
+          <lb/>
+          <lb/>
+          <lb/>
+          <lb/>
+          <lb/>
+          <lb/>
+          
+          <!-- BEGINNING TEST ENCODING #3 HERE. MODIFIED TWO-COLUMNED APPROACH. -->
+          
+          <table>
+            <row>
+              <cell>P<hi rend="smallcaps">REFACE</hi> N<hi rend="smallcaps">OTE TO 2D</hi> A<hi rend="smallcaps">NNEX</hi>, 5</cell>
+            </row>
+            <row>
+              <cell>G<hi rend="smallcaps">OOD</hi>-B<hi rend="smallcaps">YE MY</hi> F<hi rend="smallcaps">ANCY</hi>:</cell>
+            </row>
+            <row>
+              <cell>
+                <table>
+                  <row>
+                    <cell>Sail Out for Good, Eidólon Yacht,</cell><cell>Old Chants, 12</cell>
+                  </row>
+                  <row><cell><space dim="horizontal" extent="five characters"/> 7</cell><cell>A Christmas Greeting, 13</cell></row>
+                  <row>
+                    <cell>Lingering Last Drops, 7</cell><cell>Sounds of the Winter, 13</cell>
+                  </row>
+                  <row>
+                    <cell>Good-Bye My Fancy, 7</cell><cell>A Twilight Song, 14</cell>
+                  </row>
+                  <row>
+                    <cell>On, on the Same, ye Jocund</cell><cell>When the Full-Grown Poet Came,</cell>
+                  </row>
+                  <row>
+                    <cell><space dim="horizontal" extent="five characters"/> Twain, 8</cell><cell><space dim="horizontal" extent="five characters"/> 14</cell>
+                  </row>
+                  <row>
+                    <cell>My 71st Year, 8</cell><cell>Osceola, 15</cell>
+                  </row>
+                  <row>
+                    <cell>Apparitions, 8</cell><cell>A Voice from Death, 15</cell>
+                  </row>
+                  <row>
+                    <cell>The Pallid Wreath, 9</cell><cell>A Persian Lesson, 16</cell>
+                  </row>
+                  <row>
+                    <cell>An Ended Day, 9</cell><cell>The Commonplace, 17</cell>
+                  </row>
+                  <row>
+                    <cell>Old Age's Ship and Crafty Death's,</cell><cell>"The Rounded Catalogue Divine</cell>
+                  </row>
+                  <row>
+                    <cell><space dim="horizontal" extent="five characters"/> 10</cell><cell><space dim="horizontal" extent="five characters"/> Complete," 17</cell>
+                  </row>
+                  <row>
+                    <cell>To the Pending Year, 10</cell><cell>Mirages, 18</cell>
+                  </row>
+                  <row>
+                    <cell>Shakspere-Bacon's Cipher, 10</cell><cell>L. of G.'s Purport, 18</cell>
+                  </row>
+                  <row>
+                    <cell>Long, Long Hence, 10</cell><cell>The Unexpress'd, 19</cell>
+                  </row>
+                  <row>
+                    <cell>Bravo, Paris Exposition, 11</cell><cell>Grand is the Seen, 19</cell>
+                  </row>
+                  <row>
+                    <cell>Interpolation Sounds, 11</cell><cell>Unseen Buds, 19</cell>
+                  </row>
+                  <row>
+                    <cell>To the Sunset Breeze, 12</cell><cell>Good-Bye my Fancy, 20</cell>
+                  </row>
+                </table>
+              </cell>
+            </row>
+            <row>
+              <cell>A<hi rend="smallcaps">N</hi> O<hi rend="smallcaps">LD</hi> M<hi rend="smallcaps">AN'S</hi> R<hi rend="smallcaps">EJOINDER</hi>, 21</cell>
+            </row>
+            <row>
+              <cell>O<hi rend="smallcaps">LD</hi> P<hi rend="smallcaps">OETS</hi>, 24</cell>
+            </row>
+            <row>
+              <cell>S<hi rend="smallcaps">HIP</hi> A<hi rend="smallcaps">HOY</hi>! 28</cell>
+            </row>
+            <row>
+              <cell>F<hi rend="smallcaps">OR</hi> Q<hi rend="smallcaps">UEEN</hi> V<hi rend="smallcaps">ICTORIA'S</hi> B<hi rend="smallcaps">IRTHDAY</hi>, 28</cell>
+            </row>
+          </table>
         
 
         <pb facs="prc_kmh.00015.jpg" xml:id="leaf006v" n="4" type="verso"/>
