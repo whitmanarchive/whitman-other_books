@@ -2887,9 +2887,9 @@
     <pb facs="prc_kmh.00066.jpg" xml:id="leaf032r" n="55" type="recto"/>
           <div type="essay">
             <head type="main">OLD ACTORS, SINGERS, SHOWS, &amp;c., IN NEW YORK.</head>
-            <p>
+            <head type="sub">
               <hi rend="italic">Flitting mention&#8212;(with much left out.)</hi>
-            </p>
+            </head>
 
             <p>SEEMS to me I ought acknowledge my debt to actors, singers, public speakers,
               conventions, and the Stage in New York, my youthful days, from 1835
@@ -2974,20 +2974,19 @@
               some superior voice, and it was common to give a favorite song between the acts. "The
               Sea" at the bijou Olympic, (Broadway near Grand,) was always welcome from a little
               Englishman named Edwin, a good balladist. At the Bowery the loves of "Sweet
-              William,"</p>
+              William,"
 
-            <floatingText>
+            <q>
+              <floatingText>
               <body>
-                <lg type="poem">
                   <lg type="linegroup">
                   <l>"When on the Downs the fleet was moor'd,"</l>
                     </lg>
-                </lg>
-
               </body>
             </floatingText>
+            </q>
 
-            <p>always bro't an encore, and sometimes a treble.</p>
+            always bro't an encore, and sometimes a treble.</p>
 
             <p>I remember Jenny Lind and heard her (1850 I think) several times. She had the most
               brilliant, captivating, popular musical style and expression of any one known; (the
@@ -3282,8 +3281,8 @@
 
           </div>
 
-          <div type="essay">
-            <head type="main"><hi rend="italic">From the Camden Post, April</hi> 16, '91.</head>
+          <div type="essay"><!-- ASK BRETT. Head? -->
+            <head type="sub"><hi rend="italic">From the Camden Post, April</hi> 16, '91.</head>
             <head type="main">OUT IN THE OPEN AGAIN.</head>
             <p>WALT WHITMAN got out in the mid-April sun and warmth of yesterday, propelled in his
               wheel chair, the first time after four months of imprisonment in his sick room. He has
@@ -3340,9 +3339,9 @@
 
           </div>
 
-          <div type="essay">
+          <div type="essay"><!-- ASK BRETT. Head? -->
             <head type="main">LAST SAVED ITEMS.</head>
-            <p><hi rend="italic">f'm a vast batch left to oblivion</hi>.</p>
+            <head type="sub" rend="small"><hi rend="italic">f'm a vast batch left to oblivion</hi>.</head>
 
             <p>IN its highest aspect, and striking its grandest average, essential Poetry expresses
               and goes along with essential Religion&#8212;has been and is more the adjunct, and
