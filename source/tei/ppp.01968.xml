@@ -2519,8 +2519,8 @@
 
           </div>
 
-          <div type="essay">
-            <head type="sub"><hi rend="italic">Fm Pall-Mall Gazette, London, England, Feb. 8,
+          <div type="essay"><!-- ASK BRETT. About heads (also compare to "Ingersoll's Speech" below. -->
+            <head type="sub"><hi rend="italic">F'm Pall-Mall Gazette, London, England, Feb. 8,
                 1890</hi>.</head>
             <head type="main">"INTESTINAL AGITATION."</head>
             <p>Mr. Ernest Rhys has just receiv'd an interesting letter from Walt Whitman, dated
@@ -2546,11 +2546,15 @@
 
       <pb facs="prc_kmh.00059.jpg" xml:id="leaf028v" n="48" type="verso"/>
 
-            <lg type="poem">
-              <lg type="linegroup">
-              <l>Dangers retreat when boldly they're confronted,</l>
-                </lg>
-            </lg>
+            <q>
+              <floatingText>
+                <body>
+                  <lg type="linegroup">
+                  <l>Dangers retreat when boldly they're confronted,</l>
+                    </lg>
+                </body>
+            </floatingText>
+            </q>
 
             <p>and went over, hoarse and half blind, to deliver his memoranda and essay on the death
               of Abraham Lincoln, on the twenty-fifth anniversary of that tragedy. He led off with
@@ -2596,7 +2600,7 @@
           </div>
 
           <div type="essay">
-            <head type="main"><hi rend="italic">From the Camden Post, N.J., June 2</hi>, 1890.</head>
+            <byline><hi rend="italic">From the Camden Post, N.J., June 2</hi>, 1890.</byline><!-- ASK BRETT. What the hell do we call this? <byline>? (It was a <head> but that clearly seems wrong.) -->
             <head type="main">INGERSOLL'S SPEECH.</head>
             <p><hi rend="italic">He attends and makes a speech at the celebration of Walt Whitman's
                 birthday</hi>.&#8212;Walt Whitman is now in his seventy-second year. His younger
