@@ -51,7 +51,7 @@
                   <publisher>David McKay</publisher>
                   <date when="1891" xml:id="dat1">1891</date>
                   <orgName>Personal collection of Kenneth M. Price</orgName>
-              <note type="project">Transcribed from digital images of original copy.</note><!-- ASK BRETT. Do we need this if we have encodingDesc? -->
+              <note type="project">Transcribed from digital images of original copy.</note><!-- ASK BRETT. Do we need this if we have encodingDesc? Also, this note isn't strictly true (see encodingDesc) -->
             </bibl>
             
          </sourceDesc>
@@ -603,7 +603,7 @@
             <l>Is when its proper place arrives&#8212;and for its meaning,</l>
             <l>I keep mine till the last.)</l>
          </lg>
-            <note type="textual" place="bottom">
+            <note type="textual" rend="small">
                <p>*Behind a Good-bye there lurks much of the salutation of another beginning&#8212;to me, Development, Continuity, Immortality, Transformation, are the chiefest life-meanings of Nature and Humanity, and are the <hi rend="italic">sine qua non</hi> of all facts, and each fact.</p>
                <p>Why do folks dwell so fondly on the last words, advice, appearance, of the departing? Those last words are not samples of the best, which involve vitality at its full, and balance, and perfect control and scope. But they are valuable beyond measure to confirm and endorse the varied train, facts, theories and faith of the whole preceding life.</p>
             </note>
@@ -688,9 +688,9 @@
             <l>Now triumph! transformation! jubilate!*</l>
          </lg>
            
-            <note type="textual" place="bottom">*N<hi rend="smallcaps">OTE</hi>.&#8212;<hi rend="italic">Summer country life.&#8212;Several years.</hi>&#8212;In my rambles and explorations I found a woody place near the creek, where for some reason the birds in happy mood seem'd to resort in unusual numbers. Especially at the beginning of the day, and again at the ending, I was sure to get there the most copious bird-concerts. I repair'd there frequently at sunrise&#8212;and also at sunset, or just before . . . Once the question arose in me: Which is the best singing, the first or the lattermost? The first always exhilerated, and perhaps seem'd more joyous and stronger; but I always felt the sunset or late afternoon sounds more penetrating and sweeter&#8212;seem'd to touch the soul&#8212;often the evening thrushes, two or three of them, responding and perhaps blending. Though I miss'd some of the mornings, I found myself getting to be quite strictly punctual at the evening utterances.</note>
+            <note type="textual" rend="small">*N<hi rend="smallcaps">OTE</hi>.&#8212;<hi rend="italic">Summer country life.&#8212;Several years.</hi>&#8212;In my rambles and explorations I found a woody place near the creek, where for some reason the birds in happy mood seem'd to resort in unusual numbers. Especially at the beginning of the day, and again at the ending, I was sure to get there the most copious bird-concerts. I repair'd there frequently at sunrise&#8212;and also at sunset, or just before . . . Once the question arose in me: Which is the best singing, the first or the lattermost? The first always exhilerated, and perhaps seem'd more joyous and stronger; but I always felt the sunset or late afternoon sounds more penetrating and sweeter&#8212;seem'd to touch the soul&#8212;often the evening thrushes, two or three of them, responding and perhaps blending. Though I miss'd some of the mornings, I found myself getting to be quite strictly punctual at the evening utterances.</note>
                
-           <note type="textual" place="bottom">   
+           <note type="textual" rend="small">   
            <p>A<hi rend="smallcaps">NOTHER</hi> N<hi rend="smallcaps">OTE</hi>.&#8212;"He went out with the tide and the sunset," was a phrase I heard from a surgeon describing an old sailor's death under peculiarly gentle conditions. </p>
                <p>During the Secession War, 1863 and '4, visiting the Army Hospitals around Washington, I form'd the habit, and continued it to the end, whenever the ebb or flood tide began the latter part of day, of punctually visiting those at that time populous wards of suffering men. Somehow (or I thought it so) the effect of the hour was palpable. The badly wounded would get some ease, and would like to talk a little, or be talk'd to. Intellectual and emotional natures would be at their best: Deaths were always easier; medicines seem'd to have better effect when given then, and a lulling atmosphere would pervade the wards. </p>
                <p>Similar influences, similar circumstances and hours, day-close, after great battles, even with all their horrors. I had more than once the same experience on the fields cover'd with fallen or dead.</p>
@@ -782,7 +782,7 @@
                </relations>-->
             <note type="work_relations" target="xxx.00393"></note>
             <head type="main">INTERPOLATION SOUNDS.</head>
-            <note type="textual">[General Philip Sheridan was buried at the Cathedral, Washington, D. C., August, 1888, with all the pomp, music and ceremonies of the Roman Catholic service.]*</note> 
+            <note type="textual" rend="small">[General Philip Sheridan was buried at the Cathedral, Washington, D. C., August, 1888, with all the pomp, music and ceremonies of the Roman Catholic service.]*</note> 
             <l>O<hi rend="smallcaps">VER</hi> and through the burial chant,</l>
             <l>Organ and solemn service, sermon, bending priests,</l>
             <l>To me come interpolation sounds not in the show&#8212;plainly to  <lb/>me, crowding up the aisle and from the window,</l>
@@ -960,7 +960,7 @@
                </relations>-->
             <note type="work_relations" target="xxx.00400"></note>
             <head type="main">OSCEOLA.</head>
-            <note type="authorial" place="inline">[When I was nearly grown to manhood in Brooklyn, New York, (middle of 1838,) I met one of the return'd U. S. Marines from Fort Moultrie, S. C., and had long talks with him&#8212;learn'd the occurrence below described&#8212;death of Osceola. The latter was a young, brave, leading Seminole in the Florida war of that time&#8212;was surrender'd to our troops, imprison'd and literally died of "a broken heart," at Fort Moultrie. He sicken'd of his confinement&#8212;the doctor and officers made every allowance and kindness possible for him; then the close:]</note>
+            <note type="textual" rend="small">[When I was nearly grown to manhood in Brooklyn, New York, (middle of 1838,) I met one of the return'd U. S. Marines from Fort Moultrie, S. C., and had long talks with him&#8212;learn'd the occurrence below described&#8212;death of Osceola. The latter was a young, brave, leading Seminole in the Florida war of that time&#8212;was surrender'd to our troops, imprison'd and literally died of "a broken heart," at Fort Moultrie. He sicken'd of his confinement&#8212;the doctor and officers made every allowance and kindness possible for him; then the close:]</note>
             <l>W<hi rend="smallcaps">HEN</hi> his hour for death had come,</l>
             <l>He slowly rais'd himself from the bed on the floor,</l>
             <l>Drew on his war-dress, shirt, leggings, and girdled the belt  <lb/>around his waist,</l>
@@ -1092,7 +1092,7 @@
                </relations>-->
             <note type="work_relations" target="xxx.00404"></note>
             <head type="main">"THE ROUNDED CATALOGUE DIVINE COMPLETE."</head>
-           <note type="textual">[Sunday,&#8212;&#8212; &#8212; &#8212;&#8212;.&#8212;Went this forenoon to church. A college professor, Rev. Dr.&#8212;&#8212;&#8212;, gave us a fine sermon, during which I caught the above words; but the minister included in his "rounded catalogue" letter and spirit, only the esthetic things, and entirely ignored what I name in the following:]</note>
+           <note type="textual" rend="small">[Sunday,&#8212;&#8212; &#8212; &#8212;&#8212;.&#8212;Went this forenoon to church. A college professor, Rev. Dr.&#8212;&#8212;&#8212;, gave us a fine sermon, during which I caught the above words; but the minister included in his "rounded catalogue" letter and spirit, only the esthetic things, and entirely ignored what I name in the following:]</note>
             <l>The devilish and the dark, the dying and diseas'd,</l>
             <l>The countless (nineteen-twentieths) low and evil, crude and  <lb/>savage,</l>
             <l>The crazed, prisoners in jail, the horrible, rank, malignant,</l>
@@ -1271,7 +1271,7 @@
            
            <milestone unit="undeclared" rend="horbar-full"/>
            
-           <note type="textual">* Two new volumes, 'Essays
+           <note type="textual" rend="small">* Two new volumes, 'Essays
              Speculative and Suggestive,' by John Addington Symonds. One of the Essays is on
              Democratic Art,' in which I and my books are largely alluded to and cited and
              dissected. It is this part of the vols. that has caused the off-hand lines
@@ -2598,7 +2598,7 @@
           </div>
 
           <div type="essay">
-            <byline><hi rend="italic">From the Camden Post, N.J., June</hi> 2, 1890.</byline><!-- ASK BRETT. What the hell do we call this? <byline>? (It was a <head> but that clearly seems wrong.) -->
+            <byline rend="small"><hi rend="italic">From the Camden Post, N.J., June</hi> 2, 1890.</byline><!-- ASK BRETT. What the hell do we call this? <byline>? (It was a <head> but that clearly seems wrong.) -->
             <head type="main">INGERSOLL'S SPEECH.</head>
             <p><hi rend="italic">He attends and makes a speech at the celebration of Walt Whitman's
                 birthday</hi>.&#8212;Walt Whitman is now in his seventy-second year. His younger
