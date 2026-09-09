@@ -1539,10 +1539,8 @@
          </div>
          <div type="poem">
             <head type="main">FOR QUEEN VICTORIA's BIRTHDAY</head>
-            <epigraph><!-- ASK BRETT -->
-               <p><hi rend="italic">An American arbutus bunch to be put in a little vase on the royal breakfast
-                     table, May 24th, 1890.</hi></p>
-            </epigraph>
+            <head type="sub" rend="small"><hi rend="italic">An American arbutus bunch to be put in a little vase on the royal breakfast
+                     table, May 24th, 1890.</hi></head>
             <lg type="poem">
                <lg type="linegroup">
                   <l><choice><orig>L<hi rend="smallcaps">ADY</hi></orig><reg>Lady</reg></choice>, accept a birth-day thought&#8212;haply an idle gift and token,</l>
@@ -2518,8 +2516,8 @@
           </div>
 
           <div type="essay"><!-- ASK BRETT. About heads (also compare to "Ingersoll's Speech" below. -->
-            <head type="sub"><hi rend="italic">F'm Pall-Mall Gazette, London, England, Feb. 8,
-                1890</hi>.</head>
+            <note type="textual"><hi rend="italic">F'm Pall-Mall Gazette, London, England, Feb. 8,
+                1890</hi>.</note>
             <head type="main">"INTESTINAL AGITATION."</head>
             <p>Mr. Ernest Rhys has just receiv'd an interesting letter from Walt Whitman, dated
               "Camden, January 22, 1890." The following is an extract from it:</p>
