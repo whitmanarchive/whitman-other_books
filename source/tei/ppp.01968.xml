@@ -122,223 +122,7 @@
           
            <head type="main">CONTENTS.</head>
           
-           <milestone unit="undeclared" rend="horbar-short-center"/><!-- Kevin is going to mark up the TOC in two different ways and we'll see what we like best. One way would be a two-columned table (for the two-columned portions of the TOC) that tries to approximate the layout of the page; and another way would be a single-columned table, in which we simply list the pieces sequentially, with less concern for the look of the page. See ppp.01500 for an example of two-columned TOC. KM -->
-              
-              
-          <!-- BEGINNING TEST ENCODING #1 HERE. TWO-COLUMNED APPROACH. -->
-              <table>
-                <row>
-                  <cell>P<hi rend="smallcaps">REFACE</hi> N<hi rend="smallcaps">OTE TO 2D</hi> A<hi rend="smallcaps">NNEX</hi>, 5</cell>
-                </row>
-                <row>
-                    <cell>G<hi rend="smallcaps">OOD</hi>-B<hi rend="smallcaps">YE MY</hi> F<hi rend="smallcaps">ANCY</hi>:</cell>
-                </row>
-                <row>
-                  <cell>
-                      <table>
-                        <row>
-                          <cell>Sail Out for Good, Eidólon Yacht,<lb/> 7</cell><cell>Old Chants, 12</cell>
-                        </row>
-                        <row>
-                          <cell>Lingering Last Drops, 7</cell><cell>A Christmas Greeting, 13</cell>
-                        </row>
-                        <row>
-                          <cell>Good-Bye My Fancy, 7</cell><cell>Sounds of the Winter, 13</cell>
-                        </row>
-                        <row>
-                          <cell>On, on the Same, ye Jocund<lb/> Twain, 8</cell><cell>A Twilight Song, 14</cell>
-                        </row>
-                        <row>
-                          <cell>My 71st Year, 8</cell><cell>When the Full-Grown Poet Came,<lb/> 14</cell>
-                        </row>
-                        <row>
-                          <cell>Apparitions, 8</cell><cell>Osceola, 15</cell>
-                        </row>
-                        <row>
-                          <cell>The Pallid Wreath, 9</cell><cell>A Voice from Death, 15</cell>
-                        </row>
-                        <row>
-                          <cell>An Ended Day, 9</cell><cell>A Persian Lesson, 16</cell>
-                        </row>
-                        <row>
-                          <cell>Old Age's Ship and Crafty Death's,<lb/> 10</cell><cell>The Commonplace, 17</cell>
-                        </row>
-                        <row>
-                          <cell>To the Pending Year, 10</cell><cell>"The Rounded Catalogue Divine<lb/> Complete," 17</cell>
-                        </row>
-                        <row>
-                          <cell>Shakspere-Bacon's Cipher, 10</cell><cell>Mirages, 18</cell>
-                        </row>
-                        <row>
-                          <cell>Long, Long Hence, 10</cell><cell>L. of G.'s Purport, 18</cell>
-                        </row>
-                        <row>
-                          <cell>Bravo, Paris Exposition, 11</cell><cell>The Unexpress'd, 19</cell>
-                        </row>
-                        <row>
-                          <cell>Interpolation Sounds, 11</cell><cell>Grand is the Seen, 19</cell>
-                        </row>
-                        <row>
-                          <cell>To the Sunset Breeze, 12</cell><cell>Unseen Buds, 19</cell>
-                        </row>
-                        <row>
-                          <cell/><cell>Good-Bye my Fancy, 20</cell>
-                        </row>
-                    </table>
-                  </cell>
-                </row>
-                <row>
-                  <cell>A<hi rend="smallcaps">N</hi> O<hi rend="smallcaps">LD</hi> M<hi rend="smallcaps">AN'S</hi> R<hi rend="smallcaps">EJOINDER</hi>, 21</cell>
-                </row>
-                <row>
-                  <cell>O<hi rend="smallcaps">LD</hi> P<hi rend="smallcaps">OETS</hi>, 24</cell>
-                </row>
-                <row>
-                  <cell>S<hi rend="smallcaps">HIP</hi> A<hi rend="smallcaps">HOY</hi>! 28</cell>
-                </row>
-                <row>
-                  <cell>F<hi rend="smallcaps">OR</hi> Q<hi rend="smallcaps">UEEN</hi> V<hi rend="smallcaps">ICTORIA'S</hi> B<hi rend="smallcaps">IRTHDAY</hi>, 28</cell>
-                </row>
-              </table><!-- END TEST ENCODING #1. IF WE LIKE THIS APPROACH, THE TABLE WOULD CONTINUE. KM -->
-                <lb/>
-                <lb/>
-                <lb/>
-                <lb/>
-                <lb/>
-                <lb/>
-                <lb/>
-                <lb/>
-          <!-- BEGINNING TEST ENCODING #2 HERE. ONE-COLUMNED APPROACH. -->          
-            <table>
-                <row>
-                  <cell>P<hi rend="smallcaps">REFACE</hi> N<hi rend="smallcaps">OTE TO 2D</hi> A<hi rend="smallcaps">NNEX</hi>, 5</cell>
-                </row>
-                <row>
-                  <cell>G<hi rend="smallcaps">OOD</hi>-B<hi rend="smallcaps">YE MY</hi> F<hi rend="smallcaps">ANCY</hi>:</cell>
-                </row>
-                 <row>
-                    <cell>Sail Out for Good, Eidólon Yacht,<lb/>
-                       7</cell>
-                 </row>
-                 <row>
-                    <cell>Lingering Last Drops, 7</cell>
-                 </row>
-                 <row>
-                    <cell>Good-Bye my Fancy, 7</cell>
-                 </row>
-                 <row>
-                    <cell>On, on the Same, ye Jocund<lb/>
-                       Twain, 8</cell>
-                 </row>
-                 <row>
-                    <cell>My 71st Year, 8</cell>
-                 </row>
-                 <row>
-                    <cell>Apparitions, 8</cell>
-                 </row>
-                 <row>
-                    <cell>The Pallid Wreath, 9</cell>
-                 </row>
-                 <row>
-                    <cell>An Ended Day, 9</cell>
-                 </row>
-                 <row>
-                    <cell>Old Age's Ship and Crafty Death's,<lb/>
-                       10</cell>
-                 </row>
-                 <row>
-                    <cell>To the Pending Year, 10</cell>
-                 </row>
-                 <row>
-                    <cell>Shakspere-Bacon's Cipher, 10</cell>
-                 </row>
-                 <row>
-                    <cell>Long, Long Hence, 10</cell>
-                 </row>
-                 <row>
-                    <cell>Bravo, Paris Exposition, 11</cell>
-                 </row>
-                 <row>
-                    <cell>Interpolation Sounds, 11</cell>
-                 </row>
-                 <row>
-                    <cell>To the Sunset Breeze, 12</cell>
-                 </row>
-                 <cb/>
-                 <row>
-                    <cell>Old Chants, 12</cell>
-                 </row>
-                 <row>
-                    <cell>A Christmas Greeting, 13</cell>
-                 </row>
-                 <row>
-                    <cell>Sounds of the Winter, 13</cell>
-                 </row>
-                 <row>
-                    <cell>A Twilight Song, 14</cell>
-                 </row>
-                 <row>
-                    <cell>When the Full-grown Poet Came,<lb/>
-                       14</cell>
-                 </row>
-                 <row>
-                    <cell>Osceola, 15</cell>
-                 </row>
-                 <row>
-                    <cell>A Voice from Death, 15</cell>
-                 </row>
-                 <row>
-                    <cell>A Persian Lesson, 16</cell>
-                 </row>
-                 <row>
-                    <cell>The Commonplace, 17</cell>
-                 </row>
-                 <row>
-                    <cell>"The Rounded Catalogue Divine<lb/>
-                       Complete," 17</cell>
-                 </row>
-                 <row>
-                    <cell>Mirages, 18</cell>
-                 </row>
-                 <row>
-                    <cell>L. of G.'s Purport, 18</cell>
-                 </row>
-                 <row>
-                    <cell>The Unexpress'd, 19</cell>
-                 </row>
-                 <row>
-                    <cell>Grand is the Seen, 19</cell>
-                 </row>
-                 <row>
-                    <cell>Unseen Buds, 19</cell>
-                 </row>
-                 <row>
-                    <cell>Good-Bye my Fancy, 20</cell>
-                 </row>
-              <row>
-                <cell>A<hi rend="smallcaps">N</hi> O<hi rend="smallcaps">LD</hi> M<hi rend="smallcaps">AN'S</hi> R<hi rend="smallcaps">EJOINDER</hi>, 21</cell>
-              </row>
-              <row>
-                <cell>O<hi rend="smallcaps">LD</hi> P<hi rend="smallcaps">OETS</hi>, 24</cell>
-              </row>
-              <row>
-                <cell>S<hi rend="smallcaps">HIP</hi> A<hi rend="smallcaps">HOY</hi>! 28</cell>
-              </row>
-              <row>
-                <cell>F<hi rend="smallcaps">OR</hi> Q<hi rend="smallcaps">UEEN</hi> V<hi rend="smallcaps">ICTORIA'S</hi> B<hi rend="smallcaps">IRTHDAY</hi>, 28</cell>
-              </row>
-              </table>
-          <!-- END TEST ENCODING #2. IF WE LIKE THIS APPROACH, THE TABLE WOULD CONTINUE. KM -->
-          <lb/>
-          <lb/>
-          <lb/>
-          <lb/>
-          <lb/>
-          <lb/>
-          <lb/>
-          <lb/>
-          
-          <!-- BEGINNING TEST ENCODING #3 HERE. MODIFIED TWO-COLUMNED APPROACH. -->
+           <milestone unit="undeclared" rend="horbar-short-center"/>              
           
           <table>
             <row>
@@ -417,110 +201,84 @@
             <row>
               <cell>F<hi rend="smallcaps">OR</hi> Q<hi rend="smallcaps">UEEN</hi> V<hi rend="smallcaps">ICTORIA'S</hi> B<hi rend="smallcaps">IRTHDAY</hi>, 28</cell>
             </row>
+            
+            <pb facs="prc_kmh.00015.jpg" xml:id="leaf006v" n="4" type="verso"/>
+            
+            <row>
+              <cell>A<hi rend="smallcaps">MERICAN</hi> N<hi rend="smallcaps">ATIONAL</hi> L<hi rend="smallcaps">ITERATURE</hi>, 29</cell>
+            </row>
+            <row>
+              <cell>G<hi rend="smallcaps">ATHERING THE</hi> C<hi rend="smallcaps">ORN</hi>, 35</cell>
+            </row>
+            <row>
+              <cell>A D<hi rend="smallcaps">EATH</hi> B<hi rend="smallcaps">OUQUET</hi>, 37</cell>
+            </row>
+            <row>
+              <cell>S<hi rend="smallcaps">OME</hi> L<hi rend="smallcaps">AGGARDS</hi> Y<hi rend="smallcaps">ET</hi>:</cell>
+            </row>
+            <row>
+              <cell>
+                <table>
+                  <row>
+                    <cell>The Perfect Human Voice, 39</cell><cell>Health (Old Style), 42</cell>
+                  </row>
+                  <row><cell>Shakspere for America, 39</cell><cell>Gay-heartedness, 43</cell></row>
+                  <row>
+                    <cell>"Unassail'd Renown," 40</cell><cell>As in a Swoon, 44</cell>
+                  </row>
+                  <row>
+                    <cell>Inscription for a Little Book on</cell><cell>L. of G., 44</cell>
+                  </row>
+                  <row>
+                    <cell>&#160;&#160;&#160;&#160; Giordano Bruno, 41</cell><cell>After the Argument, 44</cell>
+                  </row>
+                  <row>
+                    <cell>Splinters, 41</cell><cell>For Us Two, Reader Dear, 44</cell>
+                  </row>
+                </table>
+              </cell>
+            </row>
+            <row>
+              <cell>M<hi rend="smallcaps">EMORANDA</hi>:</cell>
+            </row>
+            <row>
+              <cell>
+                <table>
+                  <row>
+                    <cell>A World's Show, 45</cell><cell>Two Questions, 51</cell>
+                  </row>
+                  <row><cell>New York&#8212;the Bay&#8212;the Old</cell><cell>Preface to a Volume, 51</cell></row>
+                  <row>
+                    <cell>&#160;&#160;&#160;&#160; Name, 45</cell><cell>An Engineer's Obituary, 53</cell>
+                  </row>
+                  <row>
+                    <cell>A Sick Spell, 46</cell><cell>Old Actors, Singers, Shows, etc.,</cell>
+                  </row>
+                  <row>
+                    <cell>To be Present Only, 47</cell><cell>&#160;&#160;&#160;&#160; in New York, 55</cell>
+                  </row>
+                  <row>
+                    <cell>"Intestional Agitation," 47</cell><cell>Some Personal and Old Age Jot-</cell>
+                  </row>
+                  <row>
+                    <cell>"Walt Whitman's Last 'Public,'"</cell><cell>&#160;&#160;&#160;&#160; tings, 59</cell>
+                  </row>
+                  <row>
+                    <cell>&#160;&#160;&#160;&#160; 47</cell><cell>Out in the Open Again, 64</cell>
+                  </row>
+                  <row>
+                    <cell>Ingersoll's Speech, 49</cell><cell>America's Bulk Average, 64</cell>
+                  </row>
+                  <row>
+                    <cell>Feeling Fairly, 50</cell><cell>Last Saved Items, 65</cell>
+                  </row>
+                  <row>
+                    <cell>Old Brooklyn Days, 50</cell><cell></cell>
+                  </row>
+                </table>
+              </cell>
+            </row>
           </table>
-        
-
-        <pb facs="prc_kmh.00015.jpg" xml:id="leaf006v" n="4" type="verso"/>
-              A<hi rend="smallcaps">MERICAN</hi> N<hi rend="smallcaps">ATIONAL</hi> L<hi rend="smallcaps">ITERATURE</hi>, 29<lb/>
-              G<hi rend="smallcaps">ATHERING THE</hi> C<hi rend="smallcaps">ORN</hi>, 35<lb/>
-              A D<hi rend="smallcaps">EATH</hi> B<hi rend="smallcaps">OUQUET</hi>, 37<lb/>
-              S<hi rend="smallcaps">OME</hi> L<hi rend="smallcaps">AGGARDS</hi> Y<hi rend="smallcaps">ET</hi>:<lb/>
-              <table>
-                 <row>
-                    <cell>The Perfect Human Voice, 39</cell>
-                 </row>
-                 <row>
-                    <cell>Shakspere for America, 39</cell>
-                 </row>
-                 <row>
-                    <cell>"Unassail'd Renown," 40</cell>
-                 </row>
-                 <row>
-                    <cell>Inscription for a Little Book on<lb/>
-                       Giordano Bruno, 41</cell>
-                 </row>
-                 <row>
-                    <cell>Splinters, 41</cell>
-                 </row>
-                 <cb/>
-                 <row>
-                    <cell>Health (Old Style), 42</cell>
-                 </row>
-                 <row>
-                    <cell>Gay-heartedness, 43</cell>
-                 </row>
-                 <row>
-                    <cell>As in a Swoon, 44</cell>
-                 </row>
-                 <row>
-                    <cell>L. of G., 44</cell>
-                 </row>
-                 <row>
-                    <cell>After the Argument, 44</cell>
-                 </row>
-                 <row>
-                    <cell>For Us Two, Reader Dear, 44</cell>
-                 </row>
-              </table><lb/>
-              M<hi rend="smallcaps">EMORANDA</hi>:<lb/>
-              <table>
-                 <row>
-                    <cell>A World's Show, 45</cell>
-                 </row>
-                 <row>
-                    <cell>New York&#8212;the Bay&#8212;the Old<lb/>
-                       Name, 45</cell>
-                 </row>
-                 <row>
-                    <cell>A Sick Spell, 46</cell>
-                 </row>
-                 <row>
-                    <cell>To be Present Only, 47</cell>
-                 </row>
-                 <row>
-                    <cell>"Intestinal Agitation," 47</cell>
-                 </row>
-                 <row>
-                    <cell>"Walt Whitman's Last 'Public,'"<lb/>
-                       47</cell>
-                 </row>
-                 <row>
-                    <cell>Ingersoll's Speech, 49</cell>
-                 </row>
-                 <row>
-                    <cell>Feeling Fairly, 50</cell>
-                 </row>
-                 <row>
-                    <cell>Old Brooklyn Days, 50</cell>
-                 </row>
-                 <cb/>
-                 <row>
-                    <cell>Two Questions, 51</cell>
-                 </row>
-                 <row>
-                    <cell>Preface to a Volume, 51</cell>
-                 </row>
-                 <row>
-                    <cell>An Engineer's Obituary, 53</cell>
-                 </row>
-                 <row>
-                    <cell>Old Actors, Singers, Shows, etc.,<lb/>
-                       in New York, 55</cell>
-                 </row>
-                 <row>
-                    <cell>Some Personal and Old Age <choice><orig>Jot&#8211;<lb/>
-                       tings</orig><reg>Jottings</reg></choice>, 59</cell>
-                 </row>
-                 <row>
-                    <cell>Out in the Open Again, 64</cell>
-                 </row>
-                 <row>
-                    <cell>America's Bulk Average, 64</cell>
-                 </row>
-                 <row>
-                    <cell>Last Saved Items, 65</cell>
-                 </row>
-              </table>
         
         </div>
         
@@ -2035,7 +1793,7 @@
         <pb facs="prc_kmh.00050.jpg" xml:id="leaf024r" n="39" type="recto"/>
         <div type="section">
           <head type="main">SOME LAGGARDS YET.</head>
-          <!-- ASK BRETT. What do we do with title types here? -->
+
           <div type="essay">
             <head type="main">THE PERFECT HUMAN VOICE.</head>
 
@@ -2387,7 +2145,7 @@
          
          <pb facs="prc_kmh.00056.jpg" xml:id="leaf027r" n="45" type="recto"/>
          <div type="section">
-          <head type="main">MEMORANDA.</head><!-- ASK BRETT. What do we think of my encoding here? -->
+          <head type="main">MEMORANDA.</head>
            
            <note type="textual" rend="small">
              <p>[Let me indeed turn upon myself a little of the light I have been so fond of casting
@@ -2515,7 +2273,7 @@
 
           </div>
 
-          <div type="essay"><!-- ASK BRETT. About heads (also compare to "Ingersoll's Speech" below. -->
+          <div type="essay">
             <note type="textual"><hi rend="italic">F'm Pall-Mall Gazette, London, England, Feb. 8,
                 1890</hi>.</note>
             <head type="main">"INTESTINAL AGITATION."</head>
@@ -2596,7 +2354,7 @@
           </div>
 
           <div type="essay">
-            <byline rend="small"><hi rend="italic">From the Camden Post, N.J., June</hi> 2, 1890.</byline><!-- ASK BRETT. What the hell do we call this? <byline>? (It was a <head> but that clearly seems wrong.) -->
+            <note type="textual" rend="small"><hi rend="italic">From the Camden Post, N.J., June</hi> 2, 1890.</note>
             <head type="main">INGERSOLL'S SPEECH.</head>
             <p><hi rend="italic">He attends and makes a speech at the celebration of Walt Whitman's
                 birthday</hi>.&#8212;Walt Whitman is now in his seventy-second year. His younger
@@ -2818,9 +2576,7 @@
           </div>
 
           <div type="essay">
-            <head type="sub"><!-- ASK BRETT. Head? -->
-              <hi rend="italic">F'm the Engineering Record, New York, Dec. 13, 1890.</hi>
-            </head>
+            <note type="textual"><hi rend="italic">F'm the Engineering Record, New York, Dec. 13, 1890.</hi></note>
             <head type="main">AN ENGINEER'S OBITUARY.</head>
             <p>THOMAS JEFFERSON WHITMAN was born July 18, 1833, in Brooklyn, N. Y., from a father of
               English stock, and mother (Louisa Van Velsor) descended from Dutch (Holland)
@@ -3277,8 +3033,8 @@
 
           </div>
 
-          <div type="essay"><!-- ASK BRETT. Head? -->
-            <head type="sub"><hi rend="italic">From the Camden Post, April</hi> 16, '91.</head>
+          <div type="essay">
+            <note type="textual" rend="small"><hi rend="italic">From the Camden Post, April</hi> 16, '91.</note>
             <head type="main">OUT IN THE OPEN AGAIN.</head>
             <p>WALT WHITMAN got out in the mid-April sun and warmth of yesterday, propelled in his
               wheel chair, the first time after four months of imprisonment in his sick room. He has
