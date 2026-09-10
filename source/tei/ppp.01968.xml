@@ -1367,8 +1367,8 @@
                
                <milestone unit="undeclared" rend="horbar-full"/>
                
-               <note type="textual" place="bottom"><p>* The essay was for the <hi rend="italic">North American Review</hi>, in answer to the formal request of the
-                  editor. It appear'd in March, 1891.</p></note>
+               <note type="textual" rend="small">* The essay was for the <hi rend="italic">North American Review</hi>, in answer to the formal request of the
+                  editor. It appear'd in March, 1891.</note>
                
                
          <pb facs="prc_kmh.00041.jpg" xml:id="leaf019v" n="30" type="verso"/>
@@ -2498,7 +2498,7 @@
             
             <milestone unit="undeclared" rend="horbar-full"/>
             
-            <note type="textual" place="bottom">*Born Jan. 2d, 1832. When grown, lived several years in Boston, and edited journals
+            <note type="textual" rend="small">* Born Jan. 2d, 1832. When grown, lived several years in Boston, and edited journals
                 and magazines there&#8212;went about 1861 to Washington, D. C., and became a U.
                 S. clerk, first in the Light-House Bureau, and then in the U. S. Life-Saving
                 Service, in which branch he was Assistant Superintendent for many
@@ -2641,7 +2641,7 @@
     <pb facs="prc_kmh.00066.jpg" xml:id="leaf032r" n="55" type="recto"/>
           <div type="essay">
             <head type="main">OLD ACTORS, SINGERS, SHOWS, &amp;c., IN NEW YORK.</head>
-            <head type="sub">
+            <head type="sub" rend="small">
               <hi rend="italic">Flitting mention&#8212;(with much left out.)</hi>
             </head>
 
