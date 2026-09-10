@@ -50,7 +50,7 @@
       <sourceDesc>
         <bibl>
             <author xml:id="ww">Walt Whitman</author>
-          <title level="m">Democratic Vistas</title>
+          <title level="m" type="main">Democratic Vistas</title>
           <date xml:id="dat1" cert="high" when="1871">1871</date>
             <publisher>J. S. Redfield</publisher>
             <pubPlace>New York</pubPlace> 

@@ -48,7 +48,7 @@
             <idno>ppp.00002</idno></publicationStmt>
             <sourceDesc>
                 <bibl>           
-                        <title level="m">Gems from Walt Whitman</title>
+                        <title level="m" type="main">Gems from Walt Whitman</title>
                         <author>Walt Whitman and Elizabeth Porter Gould</author>
                             <date xml:id="dat1" cert="high" when="1889">1889</date>
                             <publisher>David McKay</publisher>

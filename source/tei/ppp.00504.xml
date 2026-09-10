@@ -56,7 +56,7 @@
       <sourceDesc>
         <bibl>
             <author>Walt Whitman</author>
-          <title level="m">Complete Prose Works</title>
+          <title level="m" type="main">Complete Prose Works</title>
             <date xml:id="dat1" cert="high" when="1892">1892</date>
             <publisher>David McKay</publisher>
             <pubPlace>Philadelphia</pubPlace> 

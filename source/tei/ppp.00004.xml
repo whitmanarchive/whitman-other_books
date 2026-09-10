@@ -53,7 +53,7 @@
       <sourceDesc>
         <bibl>
             <author xml:id="ww">Walt Whitman</author>
-          <title level="m">Specimen Days &amp; Collect</title>
+          <title level="m" type="main">Specimen Days &amp; Collect</title>
           <date xml:id="dat1" cert="high" notBefore="1882" notAfter="1883">1882&#8211;'83</date>
             <publisher>Rees Welsh &amp; Co.</publisher>
             <pubPlace>Philadelphia</pubPlace> 
