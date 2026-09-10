@@ -66,7 +66,7 @@
          <change who="#bb" when="2022-11-07">created file, derived from ppp.00707</change>
       </revisionDesc>
    </teiHeader>
-   <text type="printed"><!-- For the poetry, we can use transcription/encoding from Deathbed edition (it uses the same plates, just changes page numbers); the prose portion can be taken from Complete Prose Works (same plates, just changes page numbers). Brett thinks the encoding for Complete Prose Works is messy and will need to fairly substantial updating. -->
+   <text type="printed">
       
         <front>
         
@@ -1327,7 +1327,7 @@
             woman and a queen surely swung the grandest oscillation of modern history's pendulum.
             Many sayings and doings of that period, from foreign potentates and powers, might well
             be dropt in oblivion by America&#8212;but never <hi rend="italic">this</hi>, if I
-            could have my way. <!-- ASK BRETT. Space here? -->W. W.</p></note>
+            could have my way. <space dim="horizontal" extent="ten characters" />W. W.</p></note>
          
          </div>
 
