@@ -28,7 +28,7 @@
           <xsl:choose>
               <xsl:when test="//bibl/descendant::title[@level='m']">
                   <xsl:choose>
-                      <xsl:when test="count(//bibl/descendant::title[@level='m'])>1">
+                      <xsl:when test="count(//bibl/descendant::title[@level='m' and @type='main'])>1">
                           <em>
                               <xsl:value-of
                                   select="//sourceDesc//bibl//title[@level='m'][1]"/>
