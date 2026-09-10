@@ -152,12 +152,14 @@
         <head type="main-authorial">
           <hi rend="italic">CONTENTS</hi>
         </head>
-        <head type="main-authorial">
-          <hi rend="italic">SPECIMEN DAYS</hi>
-        </head>
+        
         <p>
 
           <table>
+            <row>
+              <cell><hi rend="italic">SPECIMEN DAYS.</hi></cell>
+              <cell/>
+            </row>
             <row role="data">
               <cell role="data" rows="1" cols="1"> </cell>
               <cell role="data" rows="1" cols="1">PAGE</cell>
@@ -1553,11 +1555,15 @@
 
 
           </table>
-
-          <table>
-            <head type="main-authorial">
+        </p>
+        
+          
+<head type="main-authorial">
               <hi rend="italic">COLLECT.</hi>
             </head>
+          <table>
+            
+            
             <row role="data">
               <cell role="data" rows="1" cols="1">One or Two Index Items, . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . </cell>
