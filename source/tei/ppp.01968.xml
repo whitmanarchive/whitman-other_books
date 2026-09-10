@@ -51,13 +51,12 @@
                   <publisher>David McKay</publisher>
                   <date when="1891" xml:id="dat1">1891</date>
                   <orgName>Personal collection of Kenneth M. Price</orgName>
-              <note type="project">Transcribed from digital images of original copy.</note><!-- ASK BRETT. Do we need this if we have encodingDesc? Also, this note isn't strictly true (see encodingDesc) -->
             </bibl>
             
          </sourceDesc>
       </fileDesc>
-      <encodingDesc><!-- ASK BRETT. We don't have this in some "Other Books". Do we want it here? -->
-         <p>The original e-text for this file was prepared by Primary Source Media for <title level="m">Major Authors on CD-ROM: Walt Whitman</title> (1997). The source text for the Primary Source Media edition was Walt Whitman, <title level="m">Complete Poetry and Collected Prose</title>, ed. Justin Kaplan (New York: Literary Classics of the United States, 1982). After receiving the e-text from Primary Source Media, <title level="m">Whitman Archive</title> staff checked and corrected the transcription against images of a copy of the 1891&#8211;1892 issue of <hi rend="italic">Leaves of Grass</hi> at the University of Virginia. In 2022, the base text of <hi rend="italic">Good-Bye My Fancy</hi> was derived from the most current version of the "deathbed edition" at the Whitman Archive and corrected against an original copy owned by Kenneth M. Price.</p>
+      <encodingDesc>
+        <p>The text of the poetry in this file was derived from our own transcription file for the 1891&#8211;1892 issue of <hi rend="italic">Leaves of Grass</hi>. The text of the prose in this file was derived from our own transcription file for <hi rend="italic">Complete Prose Works</hi>. These texts were corrected against an original copy of <hi rend="italic">Good-Bye My Fancy</hi> owned by Kenneth M. Price. The remainder of the text was transcribed directly from digital images of the volume.</p> 
       </encodingDesc>
       <revisionDesc>
         <change who="#km" when="2026-09-02">proofed</change>
