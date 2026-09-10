@@ -60,7 +60,7 @@
                       <xsl:if test="//sourceDesc/bibl//editor[2]"><xsl:text> and </xsl:text><xsl:value-of select="//sourceDesc/bibl//editor[2]"></xsl:value-of></xsl:if>
                       <xsl:text>, ed., </xsl:text></xsl:if>
                   <em>
-                      <xsl:value-of select="//sourceDesc//bibl//title[@level='m']"/>
+                      <xsl:value-of select="//sourceDesc//bibl//title[@level='m' and @type='main']"/>
                   </em>
                   <xsl:text> (</xsl:text>
                   <xsl:value-of select="//sourceDesc//bibl//pubPlace"/>
