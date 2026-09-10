@@ -28,7 +28,7 @@
           <xsl:choose>
               <xsl:when test="//bibl/descendant::title[@level='m']">
                   <xsl:choose>
-                      <xsl:when test="count(//bibl/descendant::title[@level='m'])>1">
+                      <xsl:when test="count(//bibl/descendant::title[@level='m' and @type='main'])>1">
                           <em>
                               <xsl:value-of
                                   select="//sourceDesc//bibl//title[@level='m'][1]"/>
@@ -60,8 +60,8 @@
                       <xsl:if test="//sourceDesc/bibl//editor[2]"><xsl:text> and </xsl:text><xsl:value-of select="//sourceDesc/bibl//editor[2]"></xsl:value-of></xsl:if>
                       <xsl:text>, ed., </xsl:text></xsl:if>
                   <em>
-                      <xsl:value-of select="//sourceDesc//bibl//title[@level='m']"/>
-                  </em>
+                      <xsl:value-of select="//sourceDesc//bibl//title[@level='m' and @type='main']"/>
+                  </em><xsl:if test="//sourceDesc//bibl//title[@level='m' and @type='sub']">: <em><xsl:value-of select="//sourceDesc//bibl//title[@level='m' and @type='sub']"/></em></xsl:if>
                   <xsl:text> (</xsl:text>
                   <xsl:value-of select="//sourceDesc//bibl//pubPlace"/>
                   <xsl:if test="//sourceDesc//bibl//publisher"><xsl:text>: </xsl:text>

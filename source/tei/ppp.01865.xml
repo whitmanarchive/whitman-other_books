@@ -54,10 +54,10 @@
       <sourceDesc>
         <bibl>
           <author>Walt Whitman</author>
-          <title level="m">Drum-Taps</title>
+          <title level="m" type="main">Drum-Taps</title>
           <pubPlace>New York</pubPlace>
           <date when="1865">1865</date>
-          <title level="m">Sequel to Drum-Taps</title>
+          <title level="m" type="main">Sequel to Drum-Taps</title>
           <pubPlace>Washington, D.C.</pubPlace>
           <date xml:id="dat1" cert="high" notBefore="1865" notAfter="1866">1865–1866</date>
           <orgName>University of Iowa Libraries, Special Collections and University Archives</orgName>
