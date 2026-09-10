@@ -61,7 +61,7 @@
                       <xsl:text>, ed., </xsl:text></xsl:if>
                   <em>
                       <xsl:value-of select="//sourceDesc//bibl//title[@level='m' and @type='main']"/>
-                  </em><xsl:if test="//sourceDesc//bibl//title[@level='m' and @type='sub']">: <xsl:value-of select="//sourceDesc//bibl//title[@level='m' and @type='sub']"/></xsl:if>
+                  </em><xsl:if test="//sourceDesc//bibl//title[@level='m' and @type='sub']">: <em><xsl:value-of select="//sourceDesc//bibl//title[@level='m' and @type='sub']"/></em></xsl:if>
                   <xsl:text> (</xsl:text>
                   <xsl:value-of select="//sourceDesc//bibl//pubPlace"/>
                   <xsl:if test="//sourceDesc//bibl//publisher"><xsl:text>: </xsl:text>
