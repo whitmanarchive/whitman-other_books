@@ -152,9 +152,7 @@
         <head type="main-authorial">
           <hi rend="italic">CONTENTS</hi>
         </head>
-        <!--<head type="main-authorial">
-          <hi rend="italic">SPECIMEN DAYS</hi>
-        </head>--> 
+        
         <p>
 
           <table>
@@ -1559,9 +1557,10 @@
           </table>
 
           <table>
-            <head type="main-authorial">
-              <hi rend="italic">COLLECT.</hi>
-            </head>
+            <row>
+              <cell><hi rend="italic">COLLECT.</hi></cell>
+              <cell/>
+            </row>
             <row role="data">
               <cell role="data" rows="1" cols="1">One or Two Index Items, . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . </cell>
@@ -1647,9 +1646,10 @@
 
 
           <table>
-            <head type="main-authorial">
-              <hi rend="italic">Notes Left Over.</hi>
-            </head>
+            <row>
+              <cell><hi rend="italic">Notes Left Over.</hi></cell>
+              <cell/>
+            </row>
             <row role="data">
               <cell role="data" rows="1" cols="1">Nationality (and Yet), . . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -1791,9 +1791,10 @@
           </table>
 
           <table>
-            <head type="main-authorial">
-              <hi rend="italic">Pieces in Early Youth.</hi>
-            </head>
+            <row>
+              <cell><hi rend="italic">Pieces in Early Youth.</hi></cell>
+              <cell/>
+            </row>
             <row role="data">
               <cell role="data" rows="1" cols="1">Dough-Face Song, . . . . . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
@@ -1911,9 +1912,10 @@
 
           <table>
              
-            <head type="main-authorial">
-              <hi rend="italic">NOVEMBER BOUGHS.</hi>
-            </head>
+            <row>
+              <cell><hi rend="italic">NOVEMBER BOUGHS.</hi></cell>
+              <cell/>
+            </row>
             <row role="data">
               <cell role="data" rows="1" cols="1">Our Eminent Visitors, past, present and future . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
@@ -2119,9 +2121,10 @@
           </table>
 
           <table>
-            <head type="main-authorial">
-              <hi rend="italic">GOOD-BYE MY FANCY.</hi>
-            </head>
+            <row>
+              <cell><hi rend="italic">GOOD-BYE MY FANCY.</hi></cell>
+              <cell/>
+            </row>
             <row role="data">
               <cell role="data" rows="1" cols="1">An Old Man's Rejoinder . . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
@@ -2185,9 +2188,10 @@
           </table>
 
           <table>
-            <head type="main-authorial">
-              <hi rend="italic">SOME LAGGARDS YET.</hi>
-            </head>
+            <row>
+              <cell><hi rend="italic">SOME LAGGARDS YET.</hi></cell>
+              <cell/>
+            </row>
             <row role="data">
               <cell role="data" rows="1" cols="1">The Perfect Human Voice. . . . . . . . . . . . . .
                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</cell>
