@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.4.0.0/tei_all.rng" type="xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ppp.01969"><!-- Need to change this -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ppp.01969">
 
   <teiHeader>
     <fileDesc>
@@ -174,7 +174,7 @@
             the book and myself as author of it yet shows mark'd anger and 
             contempt more than anything else—("I find a solid line of <choice><orig>ene-<lb/>
               
-          <note type="authorial" place="bottom" anchored="true">
+          <note type="textual" place="bottom" anchored="true">
             *When Champollion, on his death-bed, handed to the printer the revised 
             proof of his "Egyptian Grammar," he said gayly, "Be careful of this&#8212;it is 
             my <hi rend="italic">carte de visite</hi> to posterity."
@@ -330,7 +330,7 @@
             to the poets&#8212;as war, in the past&#8212;in the Bible, religious 
             rapture and adoration&#8212;always love, beauty, some fine plot,
           
-          <note type="authorial" place="bottom">
+          <note type="textual" place="bottom">
             *The ferment and germination even of the United States to-day, dating 
             back to, and in my opinion mainly founded on, the Elizabethan age in English 
             history, the age of Francis Bacon and Shakspere. Indeed, when we 
@@ -393,395 +393,473 @@
 
 
       <pb facs="prc_kmh.0102.jpg" xml:id="leaf010v" n="10" type="verso"/>
-
-
-      <pb facs="prc_kc.00014.jpg" xml:id="leaf010r1" n="13" type="recto"/>
-
-            through Kings, Queens and Suffolk counties, 120 miles altogether&#8212;on the north
-            Long Island sound, a beautiful, varied and picturesque series of inlets, "necks" and
-            sea-like expansions, for a hundred miles to Orient point. On the ocean side the great
-            south bay dotted with countless hummocks, mostly small, some quite large, occasionally
-            long bars of sand out two hundred rods to a mile-and-a-half from the shore. While now
-            and then, as at Rockaway and far east along the Hamptons, the beach makes right on the
-            island, the sea dashing up without intervention. Several light-houses on the shores
-            east; a long history of wrecks tragedies, some even of late years. As a youngster, I was
-            in the atmosphere and traditions of many of these wrecks&#8212;of one or two almost
-            an observer. Off Hempstead beach for example, was the loss of the ship "Mexico" in 1840,
-            (alluded to in "the Sleepers" in L. of G.) And at Hampton, some years later, the
-            destruction of the brig "Elizabeth," a fearful affair, in one of the worst winter gales,
-            where Margaret Fuller went down, with her husband and child.</p>
-
-          <p>Inside the outer bars or beach this south bay is everywhere comparatively shallow; of
-            cold winters all thick ice on the surface. As a boy I often went forth with a chum or
-            two, on those frozen fields, with hand-sled, axe and eel-spear, after messes of eels. We
-            would cut holes in the ice, sometimes striking quite an eel-bonanza, and filling our
-            baskets with great, fat, sweet, white-meated fellows. The scenes, the ice, drawing the
-            hand-sled, cutting holes, spearing the eels, &#38;c., were of course just such fun
-            as is dearest to boyhood. The shores of this bay, winter and summer, and my doings there
-            in early life, are woven all through L. of G. One sport I was very fond of was to go on
-            a bay-party in summer to gather sea-gull's eggs. (The gulls lay two or three eggs, more
-            than half the size of hen's eggs, right on the sand, and leave the sun's heat to hatch
-            them.)</p>
-
-          <p>The eastern end of Long Island, the Peconic bay region, I knew quite well
-            too&#8212;sail'd more than once around Shelter island, and down to
-            Montauk&#8212;spent many an hour on Turtle hill by the old light-house, on the
-            extreme point, looking out over the ceaseless roll of the Atlantic. I used to like to go
-            down there and fraternize with the blue-fishers, or the annual squads of sea-bass
-            takers. Sometimes, along Montauk peninsula, (it is some 15 miles long, and good
-            grazing,) met the strange, unkempt, half-barbarous herdsmen, at that time living there
-            entirely aloof from society or civilization, in charge, on those rich pasturages, of
-            vast droves of horses, kine or sheep, own'd by farmers of the eastern towns. Sometimes,
-            too, the few remaining Indians, or
-
-            <pb facs="prc_kc.00015.jpg" xml:id="leaf010v1" n="14" type="verso"/>
-
-            half-breeds, at that period left on Montauk peninsula, but now I believe altogether
-            extinct.</p>
-
-          <p>More in the middle of the island were the spreading Hempstead plains, then
-            (1830&#8211;'40) quite prairie-like, open, uninhabited, rather sterile, cover'd with
-            kill-calf and huckleberry bushes, yet plenty of fair pasture for the cattle, mostly
-            milch-cows, who fed there by hundreds, even thousands, and at evening, (the plains too
-            were own'd by the towns, and this was the use of them in common,) might be seen taking
-            their way home, branching off regularly in the right places. I have often been out on
-            the edges of these plains toward sundown, and can yet recall in fancy the interminable
-            cow-processions, and hear the music of the tin or copper bells clanking far or near, and
-            breathe the cool of the sweet and slightly aromatic evening air, and note the
-            sunset.</p>
-
-          <p>Through the same region of the island, but further east, extended wide central tracts
-            of pine and scrub-oak, (charcoal was largely made here,) monotonous and sterile. But
-            many a good day or half-day did I have, wandering through those solitary cross-roads,
-            inhaling the peculiar and wild aroma. Here, and all along the island and its shores, I
-            spent intervals many years, all seasons, sometimes riding, sometimes boating, but
-            generally afoot, (I was always then a good walker,) absorbing fields, shores, marine
-            incidents, characters, the bay-men, farmers, pilots&#8212;always had a plentiful
-            acquaintance with the latter, and with fishermen&#8212;went every summer on sailing
-            trips&#8212;always liked the bare sea-beach, south side, and have some of my happiest hours on
-            it to this day.</p>
-
-          <p>As I write, the whole experience comes back to me after the lapse of forty and more
-            years&#8212;the soothing rustle of the waves, and the saline
-            smell&#8212;boyhood's times, the clam-digging, bare-foot, and with trowsers roll'd
-            up&#8212;hauling down the creek&#8212;the perfume of the
-            sedge-meadows&#8212;the hay-boat, and the chowder and fishing
-            excursions;&#8212;or, of later years, little voyages down and out New York bay, in
-            the pilot boats. Those same later years, also, while living in Brooklyn,
-            (1836&#8211;'50) I went regularly every week in the mild seasons down to Coney
-            island, at that time a long, bare unfrequented shore, which I had all to myself, and
-            where I loved, after bathing, to race up and down the hard sand, and declaim Homer or
-            Shakspere to the surf and sea-gulls by the hour. But I am getting ahead too rapidly, and
-            must keep more in my traces.</p>
-
-        </div>
-
-        <div type="essay">
-
-          <head type="main">MY FIRST READING.&#8212;LAFAYETTE.</head>
-
-          <p>From 1824 to '28 our family lived in Brooklyn in Front, Cranberry and Johnson streets.
-            In the latter my father built a nice house for a home, and afterwards another in Tillary
-            street. We
-
-            <pb facs="prc_kc.00016.jpg" xml:id="leaf011r1" n="15" type="recto"/>
-
-            occupied them, one after the other, but they were mortgaged, and we lost them. I yet
-            remember Lafayette's visit.<ref xml:id="r4" target="#n4"><metamark function="link">*</metamark></ref> Most
-            of these years I went to the public schools. It must have been about 1829 or '30 that I
-            went with my father and mother to hear Elias Hicks preach in a ball-room on Brooklyn
-            heights. At about the same time employ'd as a boy in an office, lawyers', father and two
-            sons, Clarke's, Fulton street, near Orange. I had a nice desk and window-nook to myself;
-            Edward C. kindly help'd me at my handwriting and composition, and, (the signal event of
-            my life up to that time,) subscribed for me to a big circulating library. For a time I
-            now revel'd in romance-reading of all kinds; first, the "Arabian Nights," all the
-            volumes, an amazing treat. Then, with sorties in very many other directions, took in
-            Walter Scott's novels, one after another, and his poetry, (and continue to enjoy novels
-            and poetry to this day.)</p>
-
-        </div>
-
-        <div type="essay">
-
-          <head type="main">PRINTING OFFICE.&#8212;OLD BROOKLYN.</head>
-
-          <p>After about two years went to work in a weekly newspaper and printing office, to learn
-            the trade. The paper was the "Long Island Patriot," owned by S. E. Clements, who was
-            also postmaster. An old printer in the office, William Hartshorne, a revolutionary
-            character, who had seen Washington, was a special friend of mine, and I had many a talk
-            with him about long past times. The apprentices, including myself, boarded with his
-            grand-daughter. I used occasionally to go out riding with the boss, who was very kind to
-            us boys; Sundays he took us all to a great old rough, fortress-looking stone church, on
-            Joralemon street, near where the Brooklyn city hall now is&#8212;(at that time broad
-            fields and country roads everywhere around.<ref xml:id="r5" target="#n5" n="5"><metamark function="link">&#8224;</metamark></ref>)
-            Afterward
             
-            <milestone unit="undeclared" rend="horbar-full"/>
+            But it seem'd to me, as the objects in Nature, the themes of 
+            ӕstheticism, and all special exploitations of the mind and soul, 
+            involve not only their own inherent quality, but the quality, just 
+            as inherent and important, of <hi rend="italic">their point of view,</hi>* the time had 
+            come to reflect all themes and things, old and new, in the lights 
+            thrown on them by the advent of America and democracy&#8212;to 
+            chant those themes through the utterance of one, not only the 
+            grateful and reverent legatee of the past, but the born child of 
+            the New World&#8212;to illustrate all through the genesis and ensemble 
+            of to-day; and that such illustration and ensemble are the 
+            chief demands of America's prospective imaginative literature. 
+            Not to carry out, in the approved style, some choice plot of 
+            fortune or misfortune, or fancy, or fine thoughts, or incidents, 
+            or courtesies—all of which has been done overwhelmingly and 
+            well, probably never to be excell'd—but that while in such 
+            ӕsthetic presentation of objects, passions, plots, thoughts, &amp;c., 
+            our lands and days do not want, and probably will never have, 
+            anything better than they already possess from the bequests of 
+            the past, it still remains to be said that there is even towards all 
+            those a subjective and contemporary point of view appropriate 
+            to ourselves alone, and to our new genius and environments, 
+            different from anything hitherto; and that such conception of 
+            current or gone-by life and art is for us the only means of their 
+            assimilation consistent with the Western world.</p>
+          
+          <p>Indeed, and anyhow, to put it specifically, has not the time 
+            arrived when, (if it must be plainly said, for democratic America's 
+            sake, if for no other) there must imperatively come a 
+            readjustment of the whole theory and nature of Poetry? The 
+            question is important, and I may turn the argument over and 
+            repeat it: Does not the best thought of our day and Republic 
+            conceive of a birth and spirit of song superior to anything past 
+            or present? To the effectual and moral consolidation of our 
+            lands (already, as materially establish'd, the greatest factors in 
+            known history, and far, far greater through what they prelude 
+            and necessitate, and are to be in future)&#8212;to conform with and 
+            build on the concrete realities and theories of the universe furnish'd 
+            by science, and henceforth the only irrefragable basis 
+            for anything, verse included&#8212;to root both influences in the 
+            emotional and imaginative action of the modern time, and 
+            dominate all that precedes or opposes them&#8212;is not either a 
+            radical advance and step forward, or a new verteber of the best 
+            song indispensable?</p>
+          
+          <note type="textual" place="bottom">
+            *According to Immanuel Kant, the last essential reality, giving shape and significance to all the rest.
+          </note>
+
+
+      <pb facs="prc_kmh.00103.jpg" xml:id="leaf011r" n="11" type="recto"/>
+
+          <p>The New World receives with joy the poems of the antique, 
+            with European feudalism's rich fund of epics, plays, ballads&#8212;
+            seeks not in the least to deaden or displace those voices from our 
+            ear and area&#8212;holds them indeed as indispensable studies, influences, 
+            records, comparisons. But though the dawn-dazzle of the 
+            sun of literature is in those poems for us of to-day&#8212;though 
+            perhaps the best parts of current character in nations, social 
+            groups, or any man's or woman's individuality, Old World or 
+            New, are from them&#8212;and though if I were ask'd to name the 
+            most precious bequest to current American civilization from all 
+            the hitherto ages, I am not sure but I would name those old and 
+            less old songs ferried hither from east and west&#8212;some serious 
+            words and debits remain; some acrid considerations demand a 
+            hearing. Of the great poems receiv'd from abroad and from the 
+            ages, and to-day enveloping and penetrating America, is there 
+            one that is consistent with these United States, or essentially 
+            applicable to them as they are and are to be? Is there one 
+            whose underlying basis is not a denial and insult to democracy? 
+            What a comment it forms, anyhow, on this era of literary 
+            fulfilment, with the splendid day-rise of science and resuscitation 
+            of history, that our chief religious and poetical works are not our 
+            own, nor adapted to our light, but have been furnish'd by far-
+            back ages out of their arriere and darkness, or, at most, twilight 
+            dimness! What is there in those works that so imperiously and 
+            scornfully dominates all our advanced civilization, and culture?</p>
+          
+          <p>Even Shakspere, who so suffuses current letters and art (which 
+            indeed have in most degrees grown out of him,) belongs essentially 
+            to the buried past. Only he holds the proud distinction 
+            for certain important phases of that past, of being the loftiest of 
+            the singers life has yet given voice to. All, however, relate to 
+            and rest upon conditions, standards, politics, sociologies, ranges 
+            of belief, that have been quite eliminated from the Eastern hemisphere, 
+            and never existed at all in the Western. As authoritative 
+            types of song they belong in America just about as much as 
+            the persons and institutes they depict. True, it may be said, the 
+            emotional, moral, and ӕsthetic natures of humanity have not 
+            radically changed&#8212;that in these the old poems apply to our times 
+            and all times, irrespective of date; and that they are of incalculable 
+            value as pictures of the past. I willingly make those 
+            admissions, and to their fullest extent; then advance the points 
+            herewith as of serious, even paramount importance.</p>
+          
+          <p>I have indeed put on record elsewhere my reverence and eulogy 
+            for those never-to-be-excell'd poetic bequests, and their indescribable 
+            preciousness as heirlooms for America. Another and separate 
+            point must now be candidly stated. If I had not stood
+
+
+      <pb facs="prc_kmh.00103.jpg" xml:id="leaf011v" n="12" type="verso"/>
             
-            <note xml:id="n4" type="authorial" target="#r4" place="bottom">
+            before those poems with uncover'd head, fully aware of their 
+            colossal grandeur and beauty of form and spirit, I could not have 
+            written "Leaves of Grass." My verdict and conclusions as 
+            illustrated in its pages are arrived at through the temper and inculcation 
+            of the old works as much as through anything else&#8212;
+            perhaps more than through anything else. As America fully and 
+            fairly construed is the legitimate result and evolutionary outcome 
+            of the past, so I would dare to claim for my verse. Without 
+            stopping to qualify the averment, the Old World has had the 
+            poems of myths, fictions, feudalism, conquest, caste, dynastic 
+            wars, and splendid exceptional characters and affairs, which have 
+            been great; but the New World needs the poems of realities and 
+            science and of the democratic average and basic equality, which 
+            shall be greater. In the centre of all, and object of all, stands 
+            the Human Being, towards whose heroic and spiritual evolution 
+            poems and everything directly or indirectly tend, Old World or 
+            New.</p>
+          
+          <p>Continuing the subject, my friends have more than once suggested
+            &#8212;or may be the garrulity of advancing age is possessing 
+            me&#8212;some further embryonic facts of "Leaves of Grass," and 
+            especially how I enter'd upon them. Dr. Bucke has, in his volume, 
+            already fully and fairly described the preparation of my 
+            poetic field, with the particular and general plowing, planting, 
+            seeding, and occupation of the ground, till everything was fertilized, 
+            rooted, and ready to start its own way for good or bad. 
+            Not till after all this, did I attempt any serious acquaintance with 
+            poetic literature. Along in my sixteenth year I had become 
+            possessor of a stout, well-cramm'd one thousand page octavo 
+            volume (I have it yet,) containing Walter Scott's poetry entire&#8212;
+            an inexhaustible mine and treasury of poetic forage (especially 
+            the endless forests and jungles of notes)&#8212;has been so to me for 
+            fifty years, and remains so to this day.*</p>
+          
+          <p>Later, at intervals, summers and falls, I used to go off, sometimes 
+            for a week at a stretch, down in the country, or to Long 
+            Island's seashores&#8212;there, in the presence of outdoor influences,
+            
+          <note type="textual" place="bottom">            
+            <p>*Sir Walter Scott's C<hi rend="smallcaps">OMPLETE</hi> P<hi rend="smallcaps">OEMS</hi>; especially including B<hi rend="smallcaps">ORDER</hi> M<hi rend="smallcaps">INSTRELSY</hi>; 
+              then Sir Tristrem; Lay of the Last Minstrel; Ballads from the 
+              German; Marmion; Lady of the Lake; Vision of Don Roderick; Lord of 
+              the Isles; Rokeby; Bridal of Triermain; Field of Waterloo; Harold the 
+              Dauntless; all the Dramas; various Introductions, endless interesting Notes, 
+              and Essays on Poetry, Romance, &amp;c.</p>            
+            <p>Lockhart's 1833 (or '34) edition with Scott's latest and copious revisions 
+              and annotations. (All the poems were thoroughly read by me, but the ballads 
+              of the Border Minstrelsy over and over again.)</p>          
+          </note>
+
+      
+      <pb facs="prc_kmh.00105.jpg" xml:id="leaf012r" n="13" type="recto"/>
+
+             I went over thoroughly the Old and New Testaments, and absorb'd 
+             (probably to better advantage for me than in any library 
+             or indoor room&#8212;it makes such difference <hi rend="italic">where</hi> you read,) Shakspere, 
+             Ossian, the best translated versions I could get of Homer, 
+             Eschylus, Sophocles, the old German Nibelungen, the ancient 
+             Hindoo poems, and one or two other masterpieces, Dante's 
+             among them. As it happen'd, I read the latter mostly in an old 
+             wood. The Iliad (Buckley's prose version,) I read first thoroughly 
+             on the peninsula of Orient, northeast end of Long Island, 
+             in a shelter'd hollow of rocks and sand, with the sea on each side. 
+             (I have wonder'd since why I was not overwhelm'd by those 
+             mighty masters. Likely because I read them, as described, in 
+             the full presence of Nature, under the sun, with the far-spreading 
+             landscape and vistas, or the sea rolling in.)</p>
+            
+          <p>Toward the last I had among much else look'd over Edgar 
+            Poe's poems&#8212;of which I was not an admirer, tho' I always 
+            saw that beyond their limited range of melody (like perpetual 
+            chimes of music bells, ringing from lower <hi rend="italic">b</hi> flat up to <hi rend="italic">g</hi>) they 
+            were melodious expressions, and perhaps never excell'd ones, of 
+            certain pronounc'd phases of human morbidity. (The Poetic 
+            area is very spacious&#8212;has room for all&#8212;has so many mansions!) 
+            But I was repaid in Poe's prose by the idea that (at any rate for 
+            our occasions, our day) there can be no such thing as a long 
+            poem. The same thought had been haunting my mind before, 
+            but Poe's argument, though short, work'd the sum out and proved 
+            it to me.</p>
+            
+          <p>Another point had an early settlement, clearing the ground 
+            greatly. I saw, from the time my enterprise and questionings 
+            positively shaped themselves (how best can I express my own 
+            distinctive era and surroundings, America, Democracy?) that the 
+            trunk and centre whence the answer was to radiate, and to which 
+            all should return from straying however far a distance, must be 
+            an identical body and soul, a personality&#8212;which personality, 
+            after many considerations and ponderings I deliberately settled 
+            should be myself&#8212;indeed could not be any other. I also felt 
+            strongly (whether I have shown it or not) that to the true and 
+            full estimate of the Present both the Past and the Future are main 
+            considerations.</p>
+            
+          <p>These, however, and much more might have gone on and come 
+            to naught (almost positively would have come to naught,) if a 
+            sudden, vast, terrible, direct and indirect stimulus for new and 
+            national declamatory expression had not been given to me. It 
+            is certain, I say, that, although I had made a start before, only 
+            from the occurrence of the Secession War, and what it show'd 
+            me as by flashes of lightning, with the emotional depths it sounded
+            
+
+      <pb facs="prc_kmh.00106.jpg" xml:id="leaf012v" n="14" type="verso"/>
+            
+            and arous'd (of course, I don't mean in my own heart only, I 
+            saw it just as plainly in others, in millions)&#8212;that only from the 
+            strong flare and provocation of that war's sights and scenes the 
+            final reasons-for-being of an autochthonic and passionate song 
+            definitely came forth.</p>
+          
+          <p>I went down to the war fields in Virginia (end of 1862), lived 
+            thenceforward in camp&#8212;saw great battles and the days and nights 
+            afterward&#8212;partook of all the fluctuations, gloom, despair, hopes 
+            again arous'd, courage evoked&#8212;death readily risk'd&#8212;<hi rend="italic">the cause</hi>, 
+            too&#8212;along and filling those agonistic and lurid following years, 
+            1863-'64-'65&#8212;the real parturition years (more than 1776-'83) 
+            of this henceforth homogeneous Union. Without those three or 
+            four years and the experiences they gave, "Leaves of Grass" 
+            would not now be existing.</p><lb/>
+          
+          <p>But I set out with the intention also of indicating or hinting 
+            some point-characteristics which I since see (though I did not 
+            then, at least not definitely) were bases and object-urgings toward 
+            those "Leaves" from the first. The word I myself put primarily 
+            for the description of them as they stand at last, is the word 
+            Suggestiveness. I round and finish little, if anything; and could 
+            not, consistently with my scheme. The reader will always have 
+            his or her part to do, just as much as I have had mine. I seek 
+            less to state or display any theme or thought, and more to bring 
+            you, reader, into the atmosphere of the theme or thought&#8212;there 
+            to pursue your own flight. Another impetus-word is Comradeship 
+            as for all lands, and in a more commanding and acknowledg'd 
+            sense than hitherto. Other word-signs would be Good Cheer, 
+            Content, and Hope.</p>
+          
+          <p>The chief trait of any given poet is always the spirit he brings 
+            to the observation of Humanity and Nature&#8212;the mood out of
+            which he contemplates his subjects. What kind of temper and 
+            what amount of faith report these things? Up to how recent a 
+            date is the song carried? What the equipment, and special raciness 
+            of the singer&#8212;what his tinge of coloring? The last value 
+            of artistic expressers, past and present&#8212;Greek ӕsthetes, Shakspere
+            &#8212;or in our own day Tennyson, Victor Hugo, Carlyle, Emerson
+            &#8212;is certainly involv'd in such questions. I say the profoundest 
+            service that poems or any other writings can do for their 
+            reader is not merely to satisfy the intellect, or supply something 
+            polish'd and interesting, nor even to depict great passions, or 
+            persons or events, but to fill him with vigorous and clean manliness, 
+            religiousness, and give him <hi rend="italic">good heart</hi> as a radical possession 
+            and habit. The educated world seems to have been growing 
+            more and more ennuyed for ages, leaving to our time the <choice><orig>inheri-
+
+      
+      <pb facs="prc_kmh.00107.jpg" xml:id="leaf013r" n="17" type="recto"/>
               
-              <p><metamark function="link">*</metamark> "On the visit of General
-                Lafayette to this country, in 1824, he came over to Brooklyn in state, and rode
-                through the city. The children of the schools turn'd out to join in the welcome. An
-                edifice for a free public library for youths was just then commencing, and Lafayette
-                consented to stop on his way and lay the corner-stone. Numerous children arriving on
-                the ground, where a huge irregular excavation for the building was already dug,
-                surrounded with heaps of rough stone, several gentlemen assisted in lifting the
-                children to safe or convenient spots to see the ceremony. Among the rest, Lafayette,
-                also helping the children, took up the five-year-old Walt Whitman, and pressing the
-                child a moment to his breast, and giving him a kiss, handed him down to a safe spot
-                in the excavation."<hi rend="italic">&#8212;John Burroughs.</hi></p></note>
+            tance</orig><reg>inheritance</reg></choice> of it all. Fortunately there is the original inexhaustible 
+            fund of buoyancy, normally resident in the race, forever eligible 
+            to be appeal'd to and relied on.</p>
+          
+          <p>As for native American individuality, though certain to come, 
+            and on a large scale, the distinctive and ideal type of Western 
+            character (as consistent with the operative political and even 
+            money-making features of United States' humanity in the Nineteenth 
+            Century as chosen knights, gentlemen and warriors were 
+            the ideals of the centuries of European feudalism) it has not yet 
+            appear'd. I have allow'd the stress of my poems from beginning 
+            to end to bear upon American individuality and assist it&#8212;not 
+            only because that is a great lesson in Nature, amid all her generalizing 
+            laws, but as counterpoise to the leveling tendencies of 
+            Democracy&#8212;and for other reasons. Defiant of ostensible literary 
+            and other conventions, I avowedly chant "the great pride of 
+            man in himself," and permit it to be more or less a <hi rend="italic">motif</hi> of 
+            nearly all my verse. I think this pride indispensable to an 
+            American. I think it not inconsistent with obedience, humility, 
+            deference, and self-questioning.</p>
+          
+          <p>Democracy has been so retarded and jeopardized by powerful 
+            personalities, that its first instincts are fain to clip, conform, 
+            bring in stragglers, and reduce everything to a dead level. While 
+            the ambitious thought of my song is to help the forming of a great 
+            aggregate Nation, it is, perhaps, altogether through the forming 
+            of myriads of fully develop'd and enclosing individuals. Welcome 
+            as are equality's and fraternity's doctrines and popular education, 
+            a certain liability accompanies them all, as we see. That 
+            primal and interior something in man, in his soul's abysms, coloring 
+            all, and, by exceptional fruitions, giving the last majesty 
+            to him&#8212;something continually touch'd upon and attain'd by the 
+            old poems and ballads of feudalism, and often the principal 
+            foundation of them&#8212;modern science and democracy appear to 
+            be endangering, perhaps eliminating. But that forms an appearance 
+            only; the reality is quite different. The new influences, 
+            upon the whole, are surely preparing the way for grander individualities 
+            than ever. To-day and here personal force is behind 
+            everything, just the same. The times and depictions from the 
+            Iliad to Shakspere inclusive can happily never again be realized&#8212;
+            but the elements of courageous and lofty manhood are unchanged.</p>
+          
+          <p>Without yielding an inch the working-man and working-woman 
+            were to be in my pages from first to last. The ranges 
+            of heroism and loftiness with which Greek and feudal poets endow'd 
+            their god-like or lordly born characters&#8212;indeed prouder 
+            and better based and with fuller ranges than those&#8212;I was to
+
+
+      <pb facs="prc_kc.00019.jpg" xml:id="leaf013v" n="18" type="verso"/>
             
-            <note xml:id="n5" type="authorial" target="#r5" place="bottom" next="#n5.2">
-              
-              <p><metamark function="link">&#8224;</metamark> Of the Brooklyn of
-                that time (1830&#8211;40) hardly anything remains, except the lines of the old
-                streets. The population was then between ten and twelve thousand. For a mile Fulton
-                street was lined with magnificent elm trees. The character of the place was
-                thoroughly rural. As a sample of comparative values, it may be mention'd that
-                twenty-five acres in what is now the most costly part of the city, bounded by
-                Flatbush and Fulton avenues, were then bought by Mr. Parmentier, a French <hi
-                  rend="italic">emigr&#233;</hi>, for $4000. Who remembers the old places as they were?
-                Who remembers the old citizens of that time?</p></note>
+            endow the democratic averages of America. I was to show that 
+            we, here and to-day, are eligible to the grandest and the best&#8212;
+            more eligible now than any times of old were. I will also want 
+            my utterances (I said to myself before beginning) to be in spirit 
+            the poems of the morning. (They have been founded and 
+            mainly written in the sunny forenoon and early midday of my 
+            life.) I will want them to be the poems of women entirely as 
+            much as men. I have wish'd to put the complete Union of the 
+            States in my songs without any preference or partiality whatever. 
+            Henceforth, if they live and are read, it must be just as much 
+            South as North&#8212;just as much along the Pacific as Atlantic&#8212;in 
+            the valley of the Mississippi, in Canada, up in Maine, down in 
+            Texas, and on the shores of Puget Sound.</p>
+          
+          <p>From another point of view "Leaves of Grass" is avowedly 
+            the song of Sex and Amativeness, and even Animality&#8212;though 
+            meanings that do not usually go along with those words are behind 
+            all, and will duly emerge; and all are sought to be lifted 
+            into a different light and atmosphere. Of this feature, intentionally 
+            palpable in a few lines, I shall only say the espousing 
+            principle of those lines so gives breath of life to my whole scheme 
+            that the bulk of the pieces might as well have been left unwritten 
+            were those lines omitted. Difficult as it will be, it has become, 
+            in my opinion, imperative to achieve a shifted attitude from superior 
+            men and women towards the thought and fact of sexuality, 
+            as an element in character, personality, the emotions, and a 
+            theme in literature. I am not going to argue the question by 
+            itself; it does not stand by itself. The vitality of it is altogether 
+            in its relations, bearings, significance&#8212;like the clef of a symphony. 
+            At last analogy the lines I allude to, and the spirit in 
+            which they are spoken, permeate all "Leaves of Grass," and the 
+            work must stand or fall with them, as the human body and soul 
+            must remain as an entirety.</p>
+          
+          <p>Universal as are certain facts and symptoms of communities or 
+            individuals all times, there is nothing so rare in modern conventions 
+            and poetry as their normal recognizance. Literature is 
+            always calling in the doctor for consultation and confession, and 
+            always giving evasions and swathing suppressions in place of that 
+            "heroic nudity"* on which only a genuine diagnosis of serious 
+            cases can be built. And in respect to editions of "Leaves of 
+            Grass" in time to come (if there should be such) I take occasion 
+            now to confirm those lines with the settled convictions and deliberate 
+            renewals of thirty years, and to hereby prohibit, as far as 
+            word of mine can do so, any elision of them.</p>
+          
+          <milestone unit="undeclared" rend="horbar-full"/>
+          <note type="textual" place="bottom">
+            *"Nineteenth Century," July, 1883.
+          </note>
 
-            <pb facs="prc_kc.00017.jpg" xml:id="leaf011v1" n="16" type="verso"/>
-
-            I work'd on the "Long Island Star," Alden Spooner's paper. My father all these years
-            pursuing his trade as carpenter and builder, with varying fortune. There was a growing
-            family of children&#8212;eight of us&#8212;my brother Jesse the oldest, myself
-            the second, my dear sisters Mary and Hannah Louisa, my brothers Andrew, George, Thomas
-            Jefferson, and then my youngest brother, Edward, born 1835, and always badly crippled,
-            as I am myself of late years.</p>
-
-        </div>
-
-        <div type="essay">
-
-          <head type="main">GROWTH&#8212;HEALTH&#8212;WORK.</head>
-
-          <p>I develop'd (1833&#8211;4&#8211;5) into a healthy, strong youth (grew too fast,
-            though, was nearly as big as a man at 15 or 16.) Our family at this period moved back to
-            the country, my dear mother very ill for a long time, but recover'd. All these years I
-            was down Long Island more or less every summer, now east, now west, sometimes months at
-            a stretch. At 16, 17, and so on, was fond of debating societies, and had an active
-            membership with them, off and on, in Brooklyn and one or two country towns on the
-            island. A most omnivorous novel-reader, these and later years, devour'd everything I
-            could get. Fond of the theatre, also, in New York, went whenever I
-            could&#8212;sometimes witnessing fine performances.</p>
-
-          <p>1836&#8211;7, work'd as compositor in printing offices in New York city. Then, when
-            little more than eighteen, and for a while afterwards, went to teaching country schools
-            down in Queens and Suffolk counties, Long Island, and "boarded round." (This latter I
-            consider one of my best experiences and deepest lessons in human nature behind the
-            scenes, and in the masses.) In '39, '40, I started and publish'd a weekly paper in my
-            native town, Huntington. Then returning to New York city and Brooklyn, work'd on as
-            printer and writer, mostly prose, but an occasional shy at "poetry."</p>
-
-        </div>
-
-        <div type="essay">
-
-          <head type="main">MY PASSION FOR FERRIES.</head>
-
-          <p>Living in Brooklyn or New York city from this time forward, my life, then, and still
-            more the following years, was curiously identified with Fulton ferry, already becoming
-            the greatest of its sort in the world for general importance, volume, variety, rapidity,
-            and picturesqueness. Almost daily, later, ('50 to '60,) I
             
-            <milestone unit="undeclared" rend="horbar-full"/>
+      <pb facs="prc_kmh.00109.jpg" xml:id="leaf014r" n="17" type="recto"/>
+
+          <p>Then still a purpose enclosing all, and over and beneath all. 
+            Ever since what might be call'd thought, or the budding of 
+            thought, fairly began in my youthful mind, I had had a desire to 
+            attempt some worthy record of that entire faith and acceptance 
+            ("to justify the ways of God to man" is Milton's well-known 
+            and ambitious phrase) which is the foundation of moral America. 
+            I felt it all as positively then in my young days as I do now in 
+            my old ones; to formulate a poem whose every thought or fact 
+            should directly or indirectly be or connive at an implicit belief 
+            in the wisdom, health, mystery, beauty of every process, every 
+            concrete object, every human or other existence, not only consider'd 
+            from the point of view of all, but of each.</p>
+          
+          <p>While I can not understand it or argue it out, I fully believe 
+            in a clue and purpose in Nature, entire and several; and that 
+            invisible spiritual results, just as real and definite as the visible, 
+            eventuate all concrete life and all materialism, through Time. 
+            My book ought to emanate buoyancy and gladness legitimately 
+            enough, for it was grown out of those elements, and has been the 
+            comfort of my life since it was originally commenced.</p>
+          
+          <p>One main genesis-motive of the "Leaves" was my conviction 
+            (just as strong to-day as ever) that the crowning growth of the 
+            United States is to be spiritual and heroic. To help start and 
+            favor that growth&#8212;or even to call attention to it, or the need of 
+            it&#8212;is the beginning, middle and final purpose of the poems. 
+            (In fact, when really cipher'd out and summ'd to the last, plowing 
+            up in earnest the interminable average fallows of humanity&#8212;
+            not "good government" merely, in the common sense&#8212;is the 
+            justification and main purpose of these United States.)</p>
+          
+          <p>Isolated advantages in any rank or grace or fortune&#8212;the direct 
+            or indirect threads of all the poetry of the past&#8212;are in my opinion 
+            distasteful to the republican genius, and offer no foundation 
+            for its fitting verse. Establish'd poems, I know, have the very 
+            great advantage of chanting the already perform'd, so full of 
+            glories, reminiscences dear to the minds of men. But my volume 
+            is a candidate for the future. "All original art," says 
+            Taine, anyhow, "is self-regulated, and no original art can be 
+            regulated from without; it carries its own counterpoise, and does 
+            not receive it from elsewhere&#8212;lives on its own blood"&#8212;a solace 
+            to my frequent bruises and sulky vanity.</p>
+          
+          <p>As the present is perhaps mainly an attempt at personal statement 
+            or illustration, I will allow myself as further help to extract 
+            the following anecdote from a book, "Annals of Old Painters," 
+            conn'd by me in youth. Rubens, the Flemish painter, in one 
+            of his wanderings through the galleries of old convents, came 
+            across a singular work. After looking at it thoughtfully for a
+
+
+      <pb facs="prc_kmh.00110.jpg" xml:id="leaf014v" n="18" type="verso"/>
             
-            <note xml:id="n5.2" type="authorial" target="#r5" place="bottom" prev="#n5">
-              <p>Among the former were Smith &#38;
-            Wood's, Coe Downing's, and other public houses at the ferry, the old Ferry itself,
-            Love lane, the Heights as then, the Wallabout with the wooden bridge, and the road
-            out beyond Fulton street to the old toll-gate. Among the latter were the majestic
-            and genial General Jeremiah Johnson, with others, Gabriel Furman, Rev. E. M.
-            Johnson, Alden Spooner, Mr. Pierrepont, Mr. Joralemon, Samuel Willoughby, Jonathan
-            Trotter, George Hall, Cyrus P. Smith, N. B. Morse, John Dikeman, Adrian Hegeman,
-            William Udall, and old Mr. Duflon, with his military garden.</p></note>
+            good while, and listening to the criticisms of his suite of students, 
+            he said to the latter, in answer to their questions (as to what 
+            school the work implied or belong'd,) "I do not believe the artist, 
+            unknown and perhaps no longer living, who has given the 
+            world this legacy, ever belong'd to any school, or ever painted 
+            anything but this one picture, which is a personal affair&#8212;a piece 
+            out of a man's life."</p>
+          
+          <p>"Leaves of Grass" indeed (I cannot too often reiterate) has 
+            mainly been the outcropping of my own emotional and other personal 
+            nature&#8212;an attempt, from first to last, to put <hi rend="italic">a Person</hi>, a 
+            human being (myself, in the latter half of the Nineteenth Century, 
+            in America,) freely, fully and truly on record. I could not 
+            find any similar personal record in current literature that satisfied 
+            me. But it is not on "Leaves of Grass" distinctively as <hi rend="italic">literature</hi>, 
+            or a specimen thereof, that I feel to dwell, or advance 
+            claims. No one will get at my verses who insists upon viewing them 
+            as a literary performance, or attempt at such performance, or as 
+            aiming mainly toward art or ӕstheticism.</p>
+          
+          <p>I say no land or people or circumstances ever existed so needing 
+            a race of singers and poems differing from all others, and 
+            rigidly their own, as the land and people and circumstances of 
+            our United States need such singers and poems to-day, and for 
+            the future. Still further, as long as the States continue to absorb 
+            and be dominated by the poetry of the Old World, and remain 
+            unsupplied with autochthonous song, to express, vitalize and give 
+            color to and define their material and political success, and minister 
+            to them distinctively, so long will they stop short of first-class 
+            Nationality and remain defective.</p>
+          
+          <p>In the free evening of my day I give to you, reader, the foregoing 
+            garrulous talk, thoughts, reminiscences,
+            <floatingText>
+              <body>
+                <lg type="poem">
+                  <l>As idly drifting down the ebb,</l>
+                  <l>Such ripples, half-caught voices, echo from the shore.</l>
+                </lg>
+              </body>
+            </floatingText></p>
+          <p>Concluding with two items for the imaginative genius of the 
+            West, when it worthily rises&#8212;First, what Herder taught to the 
+            young Goethe, that really great poetry is always (like the 
+            Homeric or Biblical canticles) the result of a national spirit, 
+            and not the privilege of a polish'd and select few; Second, that 
+            the strongest and sweetest songs yet remain to be sung.</p>
 
-            <pb facs="prc_kc.00018.jpg" xml:id="leaf012r1" n="17" type="recto"/>
 
-            cross'd on the boats, often up in the pilot-houses where I could get a full sweep,
-            absorbing shows, accompaniments, surroundings. What oceanic currents, eddies,
-            underneath&#8212;the great tides of humanity also, with ever-shifting movements.
-            Indeed, I have always had a passion for ferries; to me they afford inimitable,
-            streaming, never-failing, living poems. The river and bay scenery, all about New York
-            island, any time of a fine day&#8212;the hurrying, splashing sea-tides&#8212;the
-            changing panorama of steamers, all sizes, often a string of big ones outward bound to
-            distant ports&#8212;the myriads of white-sail'd schooners, sloops, skiffs, and the
-            marvellously beautiful yachts&#8212;the majestic sound boats as they rounded the
-            Battery and came along towards 5, afternoon, eastward bound&#8212;the prospect off
-            towards Staten island, or down the Narrows, or the other way up the
-            Hudson&#8212;what refreshment of spirit such sights and experiences gave me years
-            ago (and many a time since.) My old pilot friends, the Balsirs, Johnny Cole, Ira Smith,
-            William White, and my young ferry friend, Tom Gere&#8212;how well I remember them
-            all.</p>
-
-        </div>
-
-        <div type="essay">
-
-          <head type="main">BROADWAY SIGHTS.</head>
-
-          <p>Besides Fulton ferry, off and on for years, I knew and frequented
-            Broadway&#8212;that noted avenue of New York's crowded and mixed humanity, and of so
-            many notables. Here I saw, during those times, Andrew Jackson, Webster, Clay, Seward,
-            Martin Van Buren, filibuster Walker, Kossuth, Fitz Greene Halleck, Bryant, the Prince of
-            Wales, Charles Dickens, the first Japanese ambassadors, and lots of other celebrities of
-            the time. Always something novel or inspiriting; yet mostly to me the hurrying and vast
-            amplitude of those never-ending human currents. I remember seeing James Fenimore Cooper
-            in a court-room in Chambers street, back of the city hall, where he was carrying on a
-            law case&#8212;(I think it was a charge of libel he had brought against some one.) I
-            also remember seeing Edgar A. Poe, and having a short interview with him, (it must have
-            been in 1845 or '6,) in his office, second story of a corner building, (Duane or Pearl
-            street.) He was editor and owner or part owner of "the Broadway Journal." The visit was
-            about a piece of mine he had publish'd. Poe was very cordial, in a quiet way, appear'd
-            well in person, dress, &amp;c. I have a distinct and pleasing remembrance of his
-            looks, voice, manner and matter; very kindly and human, but subdued, perhaps a little
-            jaded. For another of my reminiscences, here on the west side, just below Houston
-            street, I once saw (it must have been about 1832, of a sharp, bright January day) a
-            bent, feeble but stout-built very old man, bearded, swathed in rich furs, with a great
-            ermine cap on his head, led and assisted, almost
-
-            <pb facs="prc_kc.00019.jpg" xml:id="leaf012v1" n="18" type="verso"/>
-
-            carried, down the steps of his high front stoop (a dozen friends and servants, emulous,
-            carefully holding, guiding him) and then lifted and tuck'd in a gorgeous sleigh,
-            envelop'd in other furs, for a ride. The sleigh was drawn by as fine a team of horses as
-            I ever saw. (You needn't think all the best animals are brought up nowadays; never was
-            such horseflesh as fifty years ago on Long Island, or south, or in New York city; folks
-            look'd for spirit and mettle in a nag, not tame speed merely.) Well, I, a boy of perhaps
-            thirteen or fourteen, stopp'd and gazed long at the spectacle of that fur-swathed old
-            man, surrounded by friends and servants, and the careful seating of him in the sleigh. I
-            remember the spirited, champing horses, the driver with his whip, and a fellow-driver by
-            his side, for extra prudence. The old man, the subject of so much attention, I can
-            almost see now. It was John Jacob Astor.</p>
-
-          <p>The years 1846, '47, and there along, see me still in New York city, working as writer
-            and printer, having my usual good health, and a good time generally.</p>
-
-        </div>
-
-        <div type="essay">
-
-          <head type="main">OMNIBUS JAUNTS AND DRIVERS.</head>
-
-          <p>One phase of those days must by no means go unrecorded&#8212;namely, the Broadway
-            omnibuses, with their drivers. The vehicles still (I write this paragraph in 1881) give
-            a portion of the character of Broadway&#8212;the Fifth avenue, Madison avenue, and
-            Twenty-third street lines yet running. But the flush days of the old Broadway stages,
-            characteristic and copious, are over. The Yellow-birds, the Red-birds, the original
-            Broadway, the Fourth avenue, the Knickerbocker, and a dozen others of twenty or thirty
-            years ago, are all gone. And the men specially identified with them, and giving vitality
-            and meaning to them&#8212;the drivers&#8212;a strange, natural, quick-eyed and
-            wondrous race&#8212;(not only Rabelais and Cervantes would have gloated upon them,
-            but Homer and Shakspere would)&#8212;how well I remember them, and must here give a
-            word about them. How many hours, forenoons and afternoons&#8212;how many
-            exhilarating night-times I have had&#8212;perhaps June or July, in cooler
-            air&#8212;riding the whole length of Broadway, listening to some yarn, (and the most
-            vivid yarns ever spun, and the rarest mimicry)&#8212;or perhaps I declaiming some
-            stormy passage from Julius Caesar or Richard, (you could roar as loudly as you chose in
-            that heavy, dense, uninterrupted street-bass.) Yes, I knew all the drivers then,
-            Broadway Jack, Dress-maker, Balky Bill, George Storms, Old Elephant, his brother Young
-            Elephant (who came afterward,) Tippy, Pop Rice, Big Frank, Yellow Joe, Pete Callahan,
-            Patsy Dee, and dozens more; for there were hundreds. They had immense qualities, largely
-            animal&#8212;eating, drinking, women&#8212;great personal pride, in their
-
-            <pb facs="prc_kc.00020.jpg" xml:id="leaf013r1" n="19" type="recto"/>
-
-            way&#8212;perhaps a few slouches here and there, but I should have trusted the
-            general run of them, in their simple good-will and honor, under all circumstances. Not
-            only for comradeship, and sometimes affection&#8212;great studies I found them also. (I
-            suppose the critics will laugh heartily, but the influence of those Broadway omnibus
-            jaunts and drivers and declamations and escapades undoubtedly enter'd into the gestation
-            of "Leaves of Grass.")</p>
-
-        </div>
-
-        <div type="essay">
-
-          <head type="main">PLAYS AND OPERAS TOO.</head>
-
-          <p>And certain actors and singers, had a good deal to do with the business. All through
-            these years, off and on, I frequented the old Park, the Bowery, Broadway and
-            Chatham-square theatres, and the Italian operas at Chambers-street, Astor-place or the
-            Battery&#8212;many seasons was on the free list, writing for papers even as quite a
-            youth. The old Park theatre&#8212;what names, reminiscences, the words bring back!
-            Placide, Clarke, Mrs. Vernon, Fisher, Clara F., Mrs. Wood, Mrs. Seguin, Ellen Tree,
-            Hackett, the younger Kean, Macready, Mrs. Richardson, Rice&#8212;singers,
-            tragedians, comedians. What perfect acting! Henry Placide in "Napoleon's Old Guard" or
-            "Grandfather Whitehead,"&#8212;or "the Provoked Husband" of Cibber, with Fanny
-            Kemble as Lady Townley&#8212;or Sheridan Knowles in his own "Virginius"&#8212;or
-            inimitable Power in "Born to Good Luck." These, and many more, the years of youth and
-            onward. Fanny Kemble&#8212;name to conjure up great mimic scenes
-            withal&#8212;perhaps the greatest. I remember well her rendering of Bianca in
-            "Fazio," and Marianna in "the Wife." Nothing finer did ever stage exhibit&#8212;the
-            veterans of all nations said so, and my boyish heart and head felt it in every minute
-            cell. The lady was just matured, strong, better than merely beautiful, born from the
-            footlights, had had three years' practice in London and through the British towns, and
-            then she came to give America that young maturity and roseate power in all their noon,
-            or rather forenoon, flush. It was my good luck to see her nearly every night she play'd
-            at the old Park&#8212;certainly in all her principal characters.</p>
-
-          <p>I heard, these years, well render'd, all the Italian and other operas in vogue,
-            "Sonnambula," "the Puritans," "Der Freischutz," "Huguenots," "Fille d' Regiment,"
-            "Faust," "Etoile du Nord," "Poliuto," and others. Verdi's "Ernani," "Rigoletto," and
-            "Trovatore," with Donnizetti's "Lucia" or "Favorita" or "Lucrezia," and Auber's
-            "Massaniello," or Rossini's "William Tell" and "Gazza Ladra," were among my special
-            enjoyments. I heard Alboni every time she sang in New York and vicinity&#8212;also
-            Grisi, the tenor Mario, and the baritone Badiali, the finest in the world.</p>
-
-          <pb facs="prc_kc.00021.jpg" xml:id="leaf013v1" n="20" type="verso"/>
-
-          <p>This musical passion follow'd my theatrical one. As boy or young man I had seen,
-            (reading them carefully the day beforehand,) quite all Shakspere's acting dramas, play'd
-            wonderfully well. Even yet I cannot conceive anything finer than old Booth in "Richard
-            Third," or "Lear," (I don't know which was best,) or Iago, (or Pescara, or Sir Giles
-            Overreach, to go outside of Shakspere)&#8212;or Tom Hamblin in
-            "Macbeth"&#8212;or old Clarke, either as the ghost in "Hamlet," or as Prospero in
-            "the Tempest," with Mrs. Austin as Ariel, and Peter Richings as Caliban. Then other
-            dramas, and fine players in them, Forrest as Metamora or Damon or Brutus&#8212;John
-            R. Scott as Tom Cringle or Rolla&#8212;or Charlotte Cushman's Lady Gay Spanker in
-            "London Assurance." Then of some years later, at Castle Garden, Battery, I yet recall
-            the splendid seasons of the Havana musical troupe under Maretzek&#8212;the fine
-            band, the cool sea-breezes, the unsurpass'd vocalism&#8212;Steffanone, Bosio,
-            Truffi, Marini in "Marino Faliero," "Don Pasquale," or "Favorita." No better playing or
-            singing ever in New York. It was here too I afterward heard Jenny Lind. (The
-            Battery&#8212;its past associations&#8212;what tales those old trees and walks
-            and sea-walls could tell!)</p>
-
-        </div>
-
-        <div type="essay">
-
-          <head type="main">THROUGH EIGHT YEARS.</head>
-
-          <p>In 1848, '49, I was occupied as editor of the "daily Eagle" newspaper, in Brooklyn. The
-            latter year went off on a leisurely journey and working expedition (my brother Jeff with
-            me) through all the middle States, and down the Ohio and Mississippi rivers. Lived
-            awhile in New Orleans, and work'd there on the editorial staff of "daily Crescent"
-            newspaper. After a time plodded back northward, up the Mississippi, and around to, and
-            by way of the great lakes, Michigan, Huron, and Erie, to Niagara falls and lower Canada,
-            finally returning through central New York and down the Hudson; traveling altogether
-            probably 8000 miles this trip, to and fro. '51, '53, occupied in house-building in
-            Brooklyn. (For a little of the first part of that time in printing a daily and weekly
-            paper, "the Freeman.") '55, lost my dear father this year by death. Commenced putting
-            "Leaves of Grass" to press for good, at the job printing office of my friends, the
-            brothers Rome, in Brooklyn, after many MS. doings and undoings&#8212;(I had great
-            trouble in leaving out the stock "poetical" touches, but succeeded at last.) I am now
-            (1856&#8211;'7) passing through my 37th year.</p>
-
-        </div>
-
-        <div type="essay">
-
-          <head type="main">SOURCES OF CHARACTER&#8212;RESULTS&#8212;1860.</head>
-
-          <p>To sum up the foregoing from the outset (and, of course, far, far more unrecorded,) I
-            estimate three leading sources and forma-
-
-            <pb facs="prc_kc.00022.jpg" xml:id="leaf014r1" n="21" type="recto"/>
+      <pb facs="prc_kc.00022.jpg" xml:id="leaf014r1" n="21" type="recto"/>
 
             tive stamps to my own character, now solidified for good or bad, and its subsequent
             literary and other outgrowth&#8212;the maternal nativity-stock brought hither from
