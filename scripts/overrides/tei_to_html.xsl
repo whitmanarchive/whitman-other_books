@@ -368,7 +368,7 @@
       <p>
         <xsl:if test="descendant::author">
          <xsl:value-of select="descendant::author"/>
-          <xsl:text>, </xsl:text>
+          <xsl:text>. </xsl:text>
         </xsl:if>
         <xsl:if test="descendant::title[@level = 'a']">
           <xsl:text>"</xsl:text>
