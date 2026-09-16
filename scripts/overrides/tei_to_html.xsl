@@ -360,9 +360,11 @@
       </xsl:if>
     </xsl:for-each>
   </xsl:template>
+  
+  <!-- -->
 
   <!-- attempting to deal with footnotes in introductions; imported template from translations overrides file. KM, 9/16/26 -->
-  <xsl:template match="text">
+  <xsl:template match="text[@type='ancillary']">
     <!-- TEI FRONT -->
     <!--<div>-->
     <xsl:apply-templates select="/TEI/text/front"></xsl:apply-templates>
