@@ -400,7 +400,7 @@
               <xsl:value-of select="descendant::biblScope[@unit = 'volume']"/>
             </xsl:if>
           </xsl:if>
-          <xsl:text> </xsl:text>
+          <xsl:text>. </xsl:text>
           <xsl:value-of select="descendant::pubPlace"/>
           <xsl:text>: </xsl:text>
           <xsl:value-of select="descendant::publisher"/>
