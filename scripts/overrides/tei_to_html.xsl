@@ -403,7 +403,7 @@
   </xsl:template>
   
   <!-- following template also imported from translations overrides file. KM, 9/16/26-->
-  <xsl:template match="note[@type='authorial']">
+  <xsl:template match="text[@type='ancillary']//note[@type='authorial']">
     <sup>
       <a>
         <xsl:attribute name="id">
