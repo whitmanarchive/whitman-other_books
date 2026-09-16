@@ -76,7 +76,7 @@
                           <xsl:if test="//sourceDesc//bibl//idno"><xsl:text>, </xsl:text><xsl:apply-templates select="//sourceDesc//bibl//idno"/><xsl:text>.</xsl:text></xsl:if>
                       </xsl:otherwise></xsl:choose>
               </xsl:when>
-              <xsl:when test="//bibl/descendant::title[@level='j']">
+              <xsl:when test="//sourceDesc/bibl/descendant::title[@level='j']">
                   <em>
                       <xsl:value-of select="//sourceDesc//bibl//title[@level='j']"/>
                   </em>
