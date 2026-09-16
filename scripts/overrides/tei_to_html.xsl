@@ -361,7 +361,7 @@
     </xsl:for-each>
   </xsl:template>
 
-<!-- attempting to deal with footnotes in introductions; imported template from translations overrides file. KM -->
+  <!-- attempting to deal with footnotes in introductions; imported template from translations overrides file. KM, 9/16/26 -->
   <xsl:template match="text">
     <!-- TEI FRONT -->
     <!--<div>-->
@@ -402,6 +402,7 @@
     
   </xsl:template>
   
+  <!-- following template also imported from translations overrides file. KM, 9/16/26-->
   <xsl:template match="note[@type='authorial']">
     <sup>
       <a>
