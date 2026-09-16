@@ -361,6 +361,48 @@
     </xsl:for-each>
   </xsl:template>
 
+<!-- attempting to deal with footnotes in introductions; imported template from translations overrides file. KM -->
+  <xsl:template match="text">
+    <!-- TEI FRONT -->
+    <!--<div>-->
+    <xsl:apply-templates select="/TEI/text/front"></xsl:apply-templates>
+    <!--</div>-->
+    <!-- END TEI FRONT -->
+    
+    <!-- TEI BODY -->
+    <!--<div>-->
+    <xsl:choose>
+      <xsl:when test="/TEI/text/group"><xsl:apply-templates select="/TEI/text/group/text/body"/></xsl:when>
+      <xsl:otherwise><xsl:apply-templates select="/TEI/text/body"/></xsl:otherwise>
+    </xsl:choose>
+    <!--</div>-->
+    <!-- END TEI BODY -->
+    
+    <!-- TEI BACK -->
+    <!--<div>-->
+    <xsl:apply-templates select="/TEI/text/back/div[not(@type='bibliography_critical' or @type='bibliography') and not(@type='notes')]"></xsl:apply-templates>
+    <!--</div>-->
+    <!-- END TEI BACK -->
+    
+    <!-- FOOTNOTES (DISPLAY AT END OF PAGE) -->
+    <!-- <xsl:if test="//text//note[@type='authorial'] | //text//note[@type='editorial']">--><!--<div>-->
+    <xsl:if test="//text//note[@type='editorial'] | //text//note[@type='authorial']">
+      <hr />
+      <h4>Notes:</h4>
+      <xsl:for-each select="//note[@type='editorial'][@resp='wwa'] | //note[@type='authorial']"><p><xsl:attribute name="id"><xsl:value-of select="@xml:id"/></xsl:attribute><xsl:number count="note[@resp='wwa'] | note[@type='authorial']" level="any" format="1."/><xsl:text> </xsl:text><xsl:apply-templates/><xsl:text> </xsl:text><a><xsl:attribute name="href">#r<xsl:number count="note[@resp='wwa'] | note[@type='authorial']" level="any"/></xsl:attribute><xsl:attribute name="title">return to reference in text</xsl:attribute>[back]</a></p></xsl:for-each>
+      <!--</div>-->
+    </xsl:if>
+    <!-- END FOOTNOTES -->
+    
+    <!-- TEI BACK WORKS CITED -->
+    <!--<div>-->
+    <xsl:apply-templates select="/TEI/text/back/div1[@type='bibliography']"></xsl:apply-templates>
+    <!--</div>-->
+    <!-- END TEI BACK WORKS CITED -->
+    
+  </xsl:template>
+
+
   <!-- Listbibls --><!-- imported this tempalte from the journalism overrides file, and then made modifications. KM, 9/16/26 -->
 
   <xsl:template match="//div[@type = 'bibliography_critical']/listBibl">
@@ -438,5 +480,7 @@
       </p>
     </xsl:for-each>
   </xsl:template>
+  
+  
  
 </xsl:stylesheet>
