@@ -401,6 +401,22 @@
     <!-- END TEI BACK WORKS CITED -->
     
   </xsl:template>
+  
+  <xsl:template match="note[@type='authorial']">
+    <sup>
+      <a>
+        <xsl:attribute name="id">
+          <xsl:text>r</xsl:text>
+          <xsl:value-of select="@n"/>
+        </xsl:attribute>
+        <xsl:attribute name="href">
+          <xsl:text>#</xsl:text>
+          <xsl:value-of select="@xml:id"/>
+        </xsl:attribute>
+        <xsl:value-of select="@n"/>
+      </a>
+    </sup>
+  </xsl:template>
 
 
   <!-- Listbibls --><!-- imported this tempalte from the journalism overrides file, and then made modifications. KM, 9/16/26 -->
