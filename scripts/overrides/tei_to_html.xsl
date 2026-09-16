@@ -361,33 +361,9 @@
     </xsl:for-each>
   </xsl:template>
 
-  <!-- Listbibls -->
+  <!-- Listbibls --><!-- imported this tempalte from the journalism overrides file, and then made modifications. KM, 9/16/26 -->
 
-  <xsl:template match="//div1[@type = 'bibliography']/listBibl">
-    <xsl:for-each select="child::biblStruct">
-      <p>
-        <a>
-          <xsl:attribute name="href">
-            <xsl:value-of select="child::idno"/>
-          </xsl:attribute>
-          <xsl:text>"</xsl:text>
-          <xsl:value-of select="descendant::title[@level = 'a']"/>
-          <xsl:text>," </xsl:text>
-          <span>
-            <em>
-              <xsl:value-of select="descendant::title[@level = 'j']"/>
-            </em>
-          </span>
-          <xsl:text>, </xsl:text>
-          <xsl:value-of select="descendant::date"/>
-          <xsl:text>: </xsl:text>
-          <xsl:value-of select="descendant::biblScope[@type = 'pages']"/>
-        </a>
-      </p>
-    </xsl:for-each>
-  </xsl:template>
-
-  <xsl:template match="//div1[@type = 'bibliography_critical']/listBibl">
+  <xsl:template match="//div[@type = 'bibliography_critical']/listBibl">
     <xsl:for-each select="child::bibl">
       <p>
         <xsl:if test="descendant::author">
@@ -420,7 +396,7 @@
         <xsl:if test="descendant::title[@level = 'm']">
           <xsl:if test="descendant::biblScope[@unit = 'volume']">
             <xsl:if test="not(descendant::biblScope[@unit = 'pages'])">
-              <xsl:text>. Vol. </xsl:text>
+              <xsl:text>. </xsl:text>
               <xsl:value-of select="descendant::biblScope[@unit = 'volume']"/>
             </xsl:if>
           </xsl:if>
