@@ -6,7 +6,7 @@
             <titleStmt>
                 <title level="m" type="main"><hi rend="italic">November Boughs</hi>: Whitman's Intended Final Word</title>
                 <title level="m" type="sub">Introduction to <hi rend="italic">November Boughs</hi></title>
-                <author>Brandon James O'Neil</author>
+                <author sameAs="#bjo">Brandon James O'Neil</author>
                 <editor>Kenneth M. Price</editor>
                 <editor>Ed Folsom</editor>
                 <respStmt>
@@ -38,8 +38,12 @@
                 </availability>
                 <idno>anc.02199</idno>
             </publicationStmt>
-            <sourceDesc>  
-                <p>Written for the <hi rend="italic">Walt Whitman Archive</hi>. First published on the <hi rend="italic">Archive</hi> in 2026.</p>
+            <sourceDesc>
+                <bibl>
+                    <author xml:id="bjo">O'Neil, Brandon James</author>
+                    <title level="a"><hi rend="italic">November Boughs</hi>: Whitman's Intended Final Word</title>
+                    <note type="project">Written for the <hi rend="italic">Walt Whitman Archive</hi>. First published on the <hi rend="italic">Archive</hi> in 2026.</note>
+                </bibl>
             </sourceDesc>  
         </fileDesc>
         <revisionDesc>
