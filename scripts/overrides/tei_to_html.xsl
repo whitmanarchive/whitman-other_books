@@ -398,7 +398,7 @@
         </xsl:if>
         <xsl:if test="descendant::title[@level = 'm']">
           <xsl:if test="descendant::biblScope[@unit = 'volume']">
-            <xsl:if test="not(descendant::biblScope[@unit = 'pages'])">
+            <xsl:if test="not(descendant::biblScope[@unit = 'page'])">
               <xsl:text>. </xsl:text>
               <xsl:value-of select="descendant::biblScope[@unit = 'volume']"/>
             </xsl:if>
@@ -410,11 +410,11 @@
           <xsl:text>, </xsl:text>
           <xsl:value-of select="descendant::date"/>
           <xsl:if
-            test="descendant::biblScope[@unit = 'volume'] and descendant::biblScope[@unit = 'pages']">
+            test="descendant::biblScope[@unit = 'volume'] and descendant::biblScope[@unit = 'page']">
             <xsl:text>, </xsl:text>
             <xsl:value-of select="descendant::biblScope[@unit = 'volume']"/>
             <xsl:text>:</xsl:text>
-            <xsl:value-of select="descendant::biblScope[@unit = 'pages']"/>
+            <xsl:value-of select="descendant::biblScope[@unit = 'page']"/>
           </xsl:if>
           <xsl:text>.</xsl:text>
         </xsl:if>
@@ -425,12 +425,12 @@
                 select="descendant::biblScope[@unit = 'volume']"
                 /><xsl:if test="descendant::biblScope[@unit = 'issue']">.<xsl:value-of select="descendant::biblScope[@unit='issue']"/></xsl:if><xsl:text> (</xsl:text><xsl:value-of select="descendant::date"
                 /><xsl:text>)</xsl:text>
-              <xsl:if test="descendant::biblScope[@unit = 'pages']"><xsl:text>: </xsl:text><xsl:value-of
-                select="descendant::biblScope[@unit = 'pages']"/></xsl:if><xsl:text>.</xsl:text>
+              <xsl:if test="descendant::biblScope[@unit = 'page']"><xsl:text>: </xsl:text><xsl:value-of
+                select="descendant::biblScope[@unit = 'page']"/></xsl:if><xsl:text>.</xsl:text>
             </xsl:when>
             <xsl:otherwise><xsl:text> </xsl:text><xsl:value-of select="descendant::date"
-            /><xsl:if test="descendant::biblScope[@unit = 'pages']"><xsl:text>, </xsl:text><xsl:value-of
-                select="descendant::biblScope[@unit = 'pages']"/></xsl:if>.</xsl:otherwise>
+            /><xsl:if test="descendant::biblScope[@unit = 'page']"><xsl:text>, </xsl:text><xsl:value-of
+                select="descendant::biblScope[@unit = 'page']"/></xsl:if>.</xsl:otherwise>
           </xsl:choose>
         </xsl:if>
       </p>
