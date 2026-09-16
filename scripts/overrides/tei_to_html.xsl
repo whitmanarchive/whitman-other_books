@@ -375,6 +375,9 @@
           <xsl:value-of select="descendant::title[@level = 'a']"/>
           <xsl:text>," </xsl:text>
         </xsl:if>
+        <xsl:if test="descendant::title[@level = 'a'] and descendant::title[@level = 'm']">
+          <xsl:text>in </xsl:text>
+        </xsl:if>
         <xsl:if test="descendant::title[@level = 'm'][1]">
           <em>
             <xsl:value-of select="descendant::title[@level = 'm'][1]"/>
