@@ -360,5 +360,102 @@
       </xsl:if>
     </xsl:for-each>
   </xsl:template>
+
+  <!-- Listbibls -->
+
+  <xsl:template match="//div1[@type = 'bibliography']/listBibl">
+    <xsl:for-each select="child::biblStruct">
+      <p>
+        <a>
+          <xsl:attribute name="href">
+            <xsl:value-of select="child::idno"/>
+          </xsl:attribute>
+          <xsl:text>"</xsl:text>
+          <xsl:value-of select="descendant::title[@level = 'a']"/>
+          <xsl:text>," </xsl:text>
+          <span>
+            <em>
+              <xsl:value-of select="descendant::title[@level = 'j']"/>
+            </em>
+          </span>
+          <xsl:text>, </xsl:text>
+          <xsl:value-of select="descendant::date"/>
+          <xsl:text>: </xsl:text>
+          <xsl:value-of select="descendant::biblScope[@type = 'pages']"/>
+        </a>
+      </p>
+    </xsl:for-each>
+  </xsl:template>
+
+  <xsl:template match="//div1[@type = 'bibliography_critical']/listBibl">
+    <xsl:for-each select="child::bibl">
+      <p>
+        <xsl:if test="descendant::author">
+         <xsl:value-of select="descendant::author"/>
+          <xsl:text>, </xsl:text>
+        </xsl:if>
+        <xsl:if test="descendant::title[@level = 'a']">
+          <xsl:text>"</xsl:text>
+          <xsl:value-of select="descendant::title[@level = 'a']"/>
+          <xsl:text>," </xsl:text>
+        </xsl:if>
+        <xsl:if test="descendant::title[@level = 'm'][1]">
+          <em>
+            <xsl:value-of select="descendant::title[@level = 'm'][1]"/>
+          </em>
+        </xsl:if>
+        <xsl:if test="descendant::title[@level = 'j'][1]">
+          <em>
+            <xsl:value-of select="descendant::title[@level = 'j'][1]"/>
+          </em>
+        </xsl:if>
+        <xsl:if test="descendant::editor">
+          <xsl:text>, ed. </xsl:text>
+          <xsl:value-of select="descendant::editor[1]"/>
+          <xsl:if test="descendant::editor[2]">
+            <xsl:text> and </xsl:text>
+            <xsl:value-of select="descendant::editor[2]"/>
+          </xsl:if>
+        </xsl:if>
+        <xsl:if test="descendant::title[@level = 'm']">
+          <xsl:if test="descendant::biblScope[@unit = 'volume']">
+            <xsl:if test="not(descendant::biblScope[@unit = 'pages'])">
+              <xsl:text>. Vol. </xsl:text>
+              <xsl:value-of select="descendant::biblScope[@unit = 'volume']"/>
+            </xsl:if>
+          </xsl:if>
+          <xsl:text> (</xsl:text>
+          <xsl:value-of select="descendant::pubPlace"/>
+          <xsl:text>: </xsl:text>
+          <xsl:value-of select="descendant::publisher"/>
+          <xsl:text>, </xsl:text>
+          <xsl:value-of select="descendant::date"/>
+          <xsl:if
+            test="descendant::biblScope[@unit = 'volume'] and descendant::biblScope[@unit = 'pages']">
+            <xsl:text>, </xsl:text>
+            <xsl:value-of select="descendant::biblScope[@unit = 'volume']"/>
+            <xsl:text>:</xsl:text>
+            <xsl:value-of select="descendant::biblScope[@unit = 'pages']"/>
+          </xsl:if>
+          <xsl:text>).</xsl:text>
+        </xsl:if>
+        <xsl:if test="descendant::title[@level = 'j']">
+          <xsl:choose>
+            <xsl:when test="descendant::biblScope[@unit = 'volume']"
+                ><xsl:text> </xsl:text><xsl:value-of
+                select="descendant::biblScope[@unit = 'volume']"
+                /><xsl:if test="descendant::biblScope[@unit = 'issue']">.<xsl:value-of select="descendant::biblScope[@unit='issue']"/></xsl:if><xsl:text> (</xsl:text><xsl:value-of select="descendant::date"
+                /><xsl:text>)</xsl:text>
+              <xsl:if test="descendant::biblScope[@unit = 'pages']"><xsl:text>: </xsl:text><xsl:value-of
+                select="descendant::biblScope[@unit = 'pages']"/></xsl:if><xsl:text>.</xsl:text>
+            </xsl:when>
+            <xsl:otherwise><xsl:text> </xsl:text><xsl:value-of select="descendant::date"
+            /><xsl:if test="descendant::biblScope[@unit = 'pages']"><xsl:text>, </xsl:text><xsl:value-of
+                select="descendant::biblScope[@unit = 'pages']"/></xsl:if>.</xsl:otherwise>
+          </xsl:choose>
+        </xsl:if>
+      </p>
+    </xsl:for-each>
+  </xsl:template>
  
 </xsl:stylesheet>
