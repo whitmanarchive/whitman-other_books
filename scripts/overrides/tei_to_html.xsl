@@ -404,8 +404,10 @@
             </xsl:if>
           </xsl:if>
           <xsl:text>. </xsl:text>
-          <xsl:value-of select="descendant::pubPlace"/>
-          <xsl:text>: </xsl:text>
+          <xsl:if test="descendant::pubPlace">
+            <xsl:value-of select="descendant::pubPlace"/>
+            <xsl:text>: </xsl:text>
+          </xsl:if>
           <xsl:value-of select="descendant::publisher"/>
           <xsl:text>, </xsl:text>
           <xsl:value-of select="descendant::date"/>
