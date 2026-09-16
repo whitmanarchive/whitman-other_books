@@ -93,7 +93,7 @@
           </xsl:choose>
           
           <xsl:if test="//sourceDesc/bibl"><xsl:text> </xsl:text>
-              <xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/bibl/note"/>
+              <xsl:apply-templates select="/TEI/teiHeader/fileDesc/sourceDesc/bibl/note"/>
           </xsl:if>
       </li>
 
