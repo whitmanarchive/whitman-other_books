@@ -26,7 +26,7 @@
         <!-- Following comes from legacy XSL-->
         <strong>Source: </strong>
           <xsl:choose>
-              <xsl:when test="//bibl/descendant::title[@level='m']">
+              <xsl:when test="//sourceDesc/bibl/descendant::title[@level='m']">
                   <xsl:choose>
                       <xsl:when test="count(//bibl/descendant::title[@level='m' and @type='main'])>1">
                           <em>
