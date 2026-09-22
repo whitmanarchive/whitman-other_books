@@ -1410,7 +1410,6 @@
             <lg type="poem">
               <note type="work_relations" target="xxx.00352"></note>
               <head type="main-authorial">"GOING SOMEWHERE."</head>
-              <lg type="linegroup">
                 <l>My science-friend, my noblest woman-friend,</l>
                 <l>(Now buried in an English grave&#8212;and this a memory-leaf for <lb/>her dear sake,)</l>
                 <l>Ended our talk&#8212;"The sum, concluding all we know of old or <lb/>modern learning, intuitions deep,</l>
@@ -1419,39 +1418,310 @@
                 <l>"Life, life an endless march, an endless army, (no halt, but it is <lb/>duly over,)</l>
                 <l>"The world, the race, the soul&#8212;in space and time the universes,</l>
                 <l>"All bound as is befitting each&#8212;all surely going somewhere."</l>
-              </lg>
             </lg>
-            <lg type="poem" xml:id="ppp.01035">
-              <!--               <relations>
-                  <work ref="xxx.00353"/>
-               </relations>-->
+            <lg type="poem">
               <note type="work_relations" target="xxx.00353"></note>
-              <note type="authorial" place="inline">From the 1867 edition L. of G.</note>
+              <note type="textual" rend="small">From the 1867 edition L. of G.</note>
               <head type="main-authorial">SMALL THE THEME OF MY CHANT.</head>
-              <lg type="linegroup">
-                <l>Small the theme of my Chant, yet the greatest—namely, <choice><orig>One's-<lb/>Self</orig><reg>One's-Self</reg></choice>—a simple, separate person. That, for the use of the <lb/>New World, I sing.</l>
-                <l>Man's physiology complete, from top to toe, I sing. Not <choice><orig>physi-<lb/>ognomy</orig><reg>physiognomy</reg></choice> alone, nor brain alone, is worthy for the Muse;—I <lb/>say the Form complete is worthier far. The Female equally <lb/>with the Male, I sing.</l>
+                <l>Small the theme of my Chant, yet the greatest&#8212;namely, <choice><orig>One's-<lb/>Self</orig><reg>One's-Self<lb/></reg></choice>—a simple, separate person. That, for the use of the <lb/>New World, I sing.</l>
+                <l>Man's physiology complete, from top to toe, I sing. Not <choice><orig>physi-<lb/>ognomy</orig><reg>physiognomy<lb/></reg></choice> alone, nor brain alone, is worthy for the Muse;&#8212;I <lb/>say the Form complete is worthier far. The Female equally <lb/>with the Male, I sing.</l>
                 <l>Nor cease at the theme of One's-Self. I speak the word of the <lb/>modern, the word En-Masse.</l>
-                <l>My Days I sing, and the Lands—with interstice I knew of <choice><orig>hap-<lb/>less</orig><reg>hapless</reg></choice> War.</l>
+                <l>My Days I sing, and the Lands&#8212;with interstice I knew of <choice><orig>hap-<lb/>less</orig><reg>hapless</reg></choice> War.</l>
                 <l>(O friend, whoe'er you are, at last arriving hither to commence, <lb/>I feel through every leaf the pressure of your hand, which I <lb/>return.</l>
                 <l>And thus upon our journey, footing the road, and more than <lb/>once, and link'd together let us go.)</l>
-              </lg>
             </lg>
-            <lg type="poem" xml:id="ppp.01036">
-              <!--               <relations>
-                  <work ref="xxx.00354"/>
-               </relations>-->
+            <lg type="poem">
               <note type="work_relations" target="xxx.00354"></note>
               <head type="main-authorial">TRUE CONQUERORS.</head>
-              <l>Old farmers, travelers, workmen (no matter how crippled or  <lb/>bent,)</l>
+              <l>Old farmers, travelers, workmen (no matter how crippled or <lb/>bent,)</l>
               <l>Old sailors, out of many a perilous voyage, storm and wreck,</l>
-              <l>Old soldiers from campaigns, with all their wounds, defeats and  <lb/>scars;</l>
-              <l>Enough that they've survived at all—long life's unflinching ones!</l>
-              <l>Forth from their struggles, trials, fights, to have emerged at all  <lb/>—in that alone,</l>
+              <l>Old soldiers from campaigns, with all their wounds, defeats and <lb/>scars;</l>
+              <l>Enough that they've survived at all&#8212;long life's unflinching ones!</l>
+              <l>Forth from their struggles, trials, fights, to have emerged at all  <lb/>&#8212;in that alone,</l>
               <l>True conquerors o'er all the rest.</l>
             </lg>
 
-          </div>
+
+      <pb facs="prc_kmh.00124.jpg" xml:id="leaf021v" n="32" type="verso"/>
+            
+            <lg type="poem">
+              <note type="work_relations" target="xxx.00355"></note>
+              <head type="main-authorial">THE UNITED STATES TO OLD WORLD CRITICS.</head>
+              <l>Here first the duties of to-day, the lessons of the concrete,</l>
+              <l>Wealth, order, travel, shelter, products, plenty;</l>
+              <l>As of the building of some varied, vast, perpetual edifice,</l>
+              <l>Whence to arise inevitable in time, the towering roofs, the lamps,</l>
+              <l>The solid-planted spires tall shooting to the stars.</l>
+            </lg>
+            <lg type="poem">
+              <note type="work_relations" target="xxx.00356"></note>
+              <head type="main-authorial">THE CALMING THOUGHT OF ALL.</head>
+              <l>That coursing on, whate'er men's speculations,</l>
+              <l>Amid the changing schools, theologies, philosophies,</l>
+              <l>Amid the bawling presentations new and old,</l>
+              <l>The round earth's silent vital laws, facts, modes continue.</l>
+            </lg>
+            <lg type="poem">
+              <note type="work_relations" target="xxx.00357"></note>
+              <head type="main-authorial">THANKS IN OLD AGE.</head>
+              <l>Thanks in old age&#8212;thanks ere I go,</l>
+              <l>For health, the midday sun, the impalpable air&#8212;for life, mere <lb/>life,</l>
+              <l>For precious ever-lingering memories, (of you my mother dear <lb/>&#8212;you, father&#8212;you, brothers, sisters, friends,)</l>
+              <l>For all my days&#8212;not those of peace alone&#8212;the days of war the  <lb/>same,</l>
+              <l>For gentle words, caresses, gifts from foreign lands,</l>
+              <l>For shelter, wine and meat&#8212;for sweet appreciation,</l>
+              <l>(You distant, dim unknown&#8212;or young or old&#8212;countless, <choice><orig>un-<lb/>specified</orig><reg>unspecified<lb/></reg></choice>, readers belov'd,</l>
+              <l>We never met, and ne'er shall meet&#8212;and yet our souls embrace, <lb/>long, close and long;)</l>
+              <l>For beings, groups, love, deeds, words, books&#8212;for colors, forms,</l>
+              <l>For all the brave strong men&#8212;devoted, hardy men&#8212;who've <choice><orig>for-<lb/>ward</orig><reg>forward<lb/></reg></choice> sprung in freedom's help, all years, all lands,</l>
+              <l>For braver, stronger, more devoted men&#8212;(a special laurel ere I <lb/>go, to life's war's chosen ones,</l>
+              <l>The cannoneers of song and thought&#8212;the great artillerists&#8212;the <lb/>foremost leaders, captains of the soul:)</l>
+              <l>As soldier from an ended war return'd&#8212;As traveler out of <lb/>myriads, to the long procession retrospective,</l>
+              <l>Thanks&#8212;joyful thanks!&#8212;a soldier's, traveler's thanks.</l>
+            </lg>
+            <lg type="poem">
+              <note type="work_relations" target="xxx.00358"></note>
+              <head type="main-authorial">LIFE AND DEATH.</head>
+              <l>The two old, simple problems ever intertwined,</l>
+              <l>Close home, elusive, present, baffled, grappled.</l>
+              <l>By each successive age insoluble, pass'd on,</l>
+              <l>To ours to-day&#8212;and we pass on the same.</l>
+            </lg>
+            
+            
+      <pb facs="prc_kmh.00125.jpg" xml:id="leaf022r" n="33" type="recto"/>
+            
+            <lg type="poem">
+              <note type="work_relations" target="xxx.00359"></note>
+              <head type="main-authorial">THE VOICE OF THE RAIN.</head>
+              <l>And who art thou? said I to the soft-falling shower,</l>
+              <l>Which, strange to tell, gave me an answer, as here translated:</l>
+              <l>I am the Poem of Earth, said the voice of the rain,</l>
+              <l>Eternal I rise impalpable out of the land and the bottomless sea,</l>
+              <l>Upward to heaven, whence, vaguely form'd, altogether changed, <lb/>and yet the same,</l>
+              <l>I descend to lave the drouths, atomies, dust-layers of the globe,</l>
+              <l>And all that in them without me were seeds only, latent, unborn;</l>
+              <l>And forever, by day and night, I give back life to my own  <lb/>origin, and make pure and beautify it;</l>
+              <l>(For song, issuing from its birth-place, after fulfilment, wander- <lb/>ing,</l>
+              <l>Reck'd or unreck'd. duly with love returns.)</l>
+            </lg>
+            <lg type="poem">
+              <note type="work_relations" target="xxx.00360"></note>
+              <head type="main-authorial">SOON SHALL THE WINTER'S FOIL BE HERE.</head>
+              <l>Soon shall the winter's foil be here;</l>
+              <l>Soon shall these icy ligatures unbind and melt&#8212;A little while,</l>
+              <l>And air, soil, wave, suffused shall be in softness, bloom and <lb/>growth&#8212;a thousand forms shall rise</l>
+              <l>From these dead clods and chills as from low burial graves.</l>
+              <l>Thine eyes, ears&#8212;all thy best attributes&#8212;all that takes cognizance <lb/>of natural beauty,</l>
+              <l>Shall wake and fill. Thou shalt perceive the simple shows, the <lb/>delicate miracles of earth,</l>
+              <l>Dandelions, clover, the emerald grass, the early scents and <choice><orig>flow-<lb/>ers</orig><reg>flowers<lb/></reg></choice>,</l>
+              <l>The arbutus under foot, the willow's yellow-green, the <choice><orig>blossom-<lb/>ing</orig><reg>blossoming<lb/></reg></choice> plum and cherry;</l>
+              <l>With these the robin, lark and thrush, singing their songs&#8212;the <lb/>flitting bluebird;</l>
+              <l>For such the scenes the annual play brings on.</l>
+            </lg>
+            <lg type="poem">
+              <note type="work_relations" target="xxx.00361"></note>
+              <head type="main-authorial">WHILE NOT THE PAST FORGETTING.</head>
+              <l>While not the past forgetting,</l>
+              <l>To-day, at least, contention sunk entire&#8212;peace, brotherhood <choice><orig>up-<lb/>risen</orig><reg>uprisen<lb/></reg></choice>;</l>
+              <l>For sign reciprocal our Northern, Southern hands,</l>
+              <l>Lay on the graves of all dead soldiers, North or South,</l>
+              <l>(Nor for the past alone&#8212;for meanings to the future,)</l>
+              <l>Wreaths of roses and branches of palm.</l>
+              <note type="textual" place="bottom" rend="small">Publish'd May 30, 1888.</note>
+            </lg>
+
+
+      <pb facs="prc_kmh.00126.jpg" xml:id="leaf022v" n="34" type="verso"/>
+            
+            <lg type="poem">
+              <note type="work_relations" target="xxx.00362"></note>
+              <head type="main-authorial">THE DYING VETERAN.</head>
+              <note type="textual" rend="small">[A Long Island incident&#8212;early part of the present century.]</note>
+              <l>Amid these days of order, ease, prosperity,</l>
+              <l>Amid the current songs of beauty, peace, decorum,</l>
+              <l>I cast a reminiscence&#8212;(likely 'twill offend you,</l>
+              <l>I heard it in my boyhood;)&#8212;More than a generation since,</l>
+              <l>A queer old savage man, a fighter under Washington himself,</l>
+              <l>(Large, brave, cleanly, hot-blooded, no talker, rather <choice><orig>spiritual-<lb/>istic</orig><reg>spiritualistic<lb/></reg></choice>,</l>
+              <l>Had fought in the ranks&#8212;fought well&#8212;had been all through the <lb/>Revolutionary war,)</l>
+              <l>Lay dying&#8212;sons, daughters, church-deacons, lovingly tending  <lb/>him,</l>
+              <l>Sharping their sense, their ears, towards his murmuring, <choice><orig>half-<lb/>caught</orig><reg>half-caught<lb/></reg></choice> words:</l>
+              <l>"Let me return again to my war-days,</l>
+              <l>To the sights and scenes&#8212;to forming the line of battle,</l>
+              <l>To the scouts ahead reconnoitering,</l>
+              <l>To the cannons, the grim artillery,</l>
+              <l>To the galloping aids, carrying orders,</l>
+              <l>To the wounded, the fallen, the heat, the suspense,</l>
+              <l>The perfume strong, the smoke, the deafening noise;</l>
+              <l>Away with your life of peace!&#8212;your joys of peace!</l>
+              <l>Give me my old wild battle-life again!"</l>
+            </lg>
+            <lg type="poem">
+              <note type="work_relations" target="xxx.00363"></note>
+              <head type="main-authorial">STRONGER LESSONS.</head>
+              <l>Have you learn'd lessons only of those who admired you, and <lb/>were tender with you, and stood aside for you?</l>
+              <l>Have you not learn'd great lessons from those who reject you, <lb/>and brace themselves against you? or who treat you with <lb/>contempt, or dispute the passage with you?</l>
+            </lg>
+            <lg type="poem">
+              <note type="work_relations" target="xxx.00364"></note>
+              <head type="main-authorial">A PRAIRIE SUNSET.</head>
+              <l>Shot gold, maroon and violet, dazzling silver, emerald, fawn,</l>
+              <l>The earth's whole amplitude and Nature's multiform power <choice><orig>con-<lb/>sign'd</orig><reg>consign'd<lb/></reg></choice> for once to colors;</l>
+              <l>The light, the general air possess'd by them&#8212;colors till now <choice><orig>un-<lb/>known</orig><reg>unknown<lb/></reg></choice>,</l>
+              <l>No limit, confine&#8212;not the Western sky alone&#8212;the high <choice><orig>meri-<lb/>dian</orig><reg>meridian<lb/></reg></choice>&#8212;North, South, all,</l>
+              <l>Pure luminous color fighting the silent shadows to the last.</l>
+            </lg>
+
+
+      <pb facs="prc_kmh.00127.jpg" xml:id="leaf023r" n="35" type="recto"/>
+            
+            <lg type="poem">
+              <note type="work_relations" target="xxx.00365"></note>
+              <head type="main-authorial">TWENTY YEARS.</head>
+              <l>Down on the ancient wharf, the sand, I sit, with a new-comer <lb/>chatting:</l>
+              <l>He shipp'd as green-hand boy, and sail'd away, (took some <choice><orig>sud-<lb/>den</orig><reg>sudden<lb/></reg></choice>, vehement notion;)</l>
+              <l>Since, twenty years and more have circled round and round,</l>
+              <l>While he the globe was circling round and round,&#8212;and now <lb/>returns:</l>
+              <l>How changed the place&#8212;all the old land-marks gone&#8212;the <lb/>parents dead;</l>
+              <l>(Yes, he comes back <hi rend="italic">to lay in port for good&#8212;to settle</hi>&#8212; has a <choice><orig>well-<lb/>fill'd</orig><reg>well-fill'd<lb/></reg></choice> purse&#8212;no spot will do but this;)</l>
+              <l>The little boat that scull'd him from the sloop, now held in <lb/>leash I see,</l>
+              <l>I hear the slapping waves, the restless keel, the rocking in the <lb/>sand,</l>
+              <l>I see the sailor kit, the canvas bag, the great box bound with <lb/>brass,</l>
+              <l>I scan the face all berry-brown and bearded&#8212;the stout-strong <lb/>frame,</l>
+              <l>Dress'd in its russet suit of good Scotch cloth:</l>
+              <l>(Then what the told-out story of those twenty years? What of <lb/>the future?)</l>
+            </lg>
+            <lg type="poem">
+              <note type="work_relations" target="xxx.00366"></note>
+              <head type="main-authorial">ORANGE BUDS BY MAIL FROM FLORIDA.</head>
+              <note type="textual" rend="small">[Voltaire closed a famous argument by claiming that a ship of war and the 
+                grand opera were proofs enough of civilization's and France's progress, in 
+                his day.]</note>
+              <l>A lesser proof than old Voltaire's, yet greater,</l>
+              <l>Proof of this present time, and thee, thy broad expanse, <lb/>America,</l>
+              <l>To my plain Northern hut, in outside clouds and snow,</l>
+              <l>Brought safely for a thousand miles o'er land and tide,</l>
+              <l>Some three days since on their own soil live-sprouting,</l>
+              <l>Now here their sweetness through my room unfolding,</l>
+              <l>A bunch of orange buds by mail from Florida.</l>
+            </lg>
+            <lg type="poem">
+              <note type="work_relations" target="xxx.00367"></note>
+              <head type="main-authorial">TWILIGHT.</head>
+              <l>The soft voluptuous opiate shades,</l>
+              <l>The sun just gone, the eager light dispell'd&#8212;(I too will soon be <lb/>gone, dispell'd,)</l>
+              <l>A haze&#8212;nirwana&#8212;rest and night&#8212;oblivion.</l>
+            </lg>
+
+
+      <pb facs="prc_kmh.00128.jpg" xml:id="leaf023v" n="36" type="verso"/>
+            
+            <lg type="poem">
+              <note type="work_relations" target="xxx.00368"></note>
+              <head type="main-authorial">YOU LINGERING SPARSE LEAVES OF ME.</head>
+              <l>You lingering sparse leaves of me on winter-nearing boughs,</l>
+              <l>And I some well-shorn tree of field or orchard-row;</l>
+              <l>You tokens diminute and lorn&#8212;(not now the flush of May, or <lb/>July clover-bloom&#8212;no grain of August now;)</l>
+              <l>You pallid banner-staves&#8212;you pennants valueless&#8212;you <choice><orig>over-<lb/>stay'd</orig><reg>overstay'd<lb/></reg></choice> of time,</l>
+              <l>Yet my soul-dearest leaves confirming all the rest,</l>
+              <l>The faithfulest&#8212;hardiest&#8212;last.</l>
+            </lg>
+            <lg type="poem">
+              <note type="work_relations" target="xxx.00369"></note>
+              <head type="main-authorial">NOT MEAGRE, LATENT BOUGHS ALONE.</head>
+              <l>Not meagre, latent boughs alone, O songs! (scaly and bare, <lb/>like eagles' talons,)</l>
+              <l>But haply for some sunny day (who knows?) some future spring, <lb/>some summer&#8212;bursting forth,</l>
+              <l>To verdant leaves, or sheltering shade&#8212;to nourishing fruit,</l>
+              <l>Apples and grapes&#8212;the stalwart limbs of trees emerging&#8212;the <lb/>fresh, free, open air,</l>
+              <l>And love and faith, like scented roses blooming.</l>
+            </lg>
+            <lg type="poem">
+              <note type="work_relations" target="xxx.00370"></note>
+              <head type="main-authorial">THE DEAD EMPEROR.</head>
+              <l>To-day, with bending head and eyes, thou, too, Columbia,</l>
+              <l>Less for the mighty crown laid low in sorrow&#8212;less for the <lb/>Emperor,</l>
+              <l>Thy true condolence breathest, sendest out o'er many a salt sea <lb/>mile,</l>
+              <l>Mourning a good old man&#8212;a faithful shepherd, patriot.</l>
+              <note type="textual" rend="small">Publish'd March 10, 1888.</note>
+            </lg>
+            <lg type="poem">
+              <note type="work_relations" target="xxx.00371"></note>
+              <head type="main-authorial">AS THE GREEK'S SIGNAL FLAME.</head>
+              <note type="textual" rend="small">[For Whittier's eightieth birthday, December 17, 1887.]</note>
+              <l>As the Greek's signal flame, by antique records told,</l>
+              <l>Rose from the hill-top, like applause and glory,</l>
+              <l>Welcoming in fame some special veteran, hero,</l>
+              <l>With rosy tinge reddening the land he'd served,</l>
+              <l>So I aloft from Mannahatta's ship-fringed shore,</l>
+              <l>Lift high a kindled brand for thee, Old Poet.</l>
+            </lg>
+
+
+      <pb facs="prc_kmh.00129.jpg" xml:id="leaf024r" n="37" type="recto"/>
+            
+            <lg type="poem">
+              <note type="work_relations" target="xxx.00372"></note>
+              <head type="main-authorial">THE DISMANTLED SHIP.</head>
+              <l>In some unused lagoon, some nameless bay,</l>
+              <l>On sluggish, lonesome waters, anchor'd near the shore,</l>
+              <l>An old, dismasted, gray and batter'd ship, disabled, done,</l>
+              <l>After free voyages to all the seas of earth, haul'd up at last and <lb/>hawser'd tight,</l>
+              <l>Lies rusting, mouldering.</l>
+            </lg>
+            <lg type="poem">
+              <note type="work_relations" target="xxx.00373"></note>
+              <head type="main-authorial">NOW PRECEDENT SONGS, FAREWELL.</head>
+              <l>Now precedent songs, farewell&#8212;by every name farewell,</l>
+              <l>(Trains of a staggering line in many a strange procession, <lb/>waggons,</l>
+              <l>From ups and downs&#8212;with intervals&#8212;from elder years, mid-age, <lb/>or youth,)</l>
+              <l>"In Cabin'd Ships," or "Thee Old Cause" or "Poets to Come"</l>
+              <l>Or "Paumanok," "Song of Myself," "Calamus," or "Adam,"</l>
+              <l>Or "Beat! Beat! Drums!" or "To the Leaven'd Soil they <lb/>Trod,"</l>
+              <l>Or "Captain! My Captain!" "Kosmos," "Quicksand Years," <lb/>or "Thoughts,"</l>
+              <l>"Thou Mother with thy Equal Brood," and many, many more <lb/>unspecified,</l>
+              <l>From fibre heart of mine&#8212;from throat and tongue&#8212;(My life's <lb/>hot pulsing blood,</l>
+              <l>The personal urge and form for me&#8212;not merely paper, automatic <lb/>type and ink,)</l>
+              <l>Each song of mine&#8212;each utterance in the past&#8212;having its long, <lb/>long history,</l>
+              <l>Of life or death, or soldier's wound, of country's loss or safety,</l>
+              <l>(O heaven! what flash and started endless train of all! <choice><orig>com-<lb/>pared</orig><reg>compared<lb/></reg></choice> indeed to that!</l>
+              <l>What wretched shred e'en at the best of all!)</l>
+            </lg>
+            <lg type="poem">
+              <note type="work_relations" target="xxx.00374"></note>
+              <head type="main-authorial">AN EVENING LULL.</head>
+              <l>After a week of physical anguish,</l>
+              <l>Unrest and pain, and feverish heat,</l>
+              <l>Toward the ending day a calm and lull comes on,</l>
+              <l>Three hours of peace and soothing rest of brain.*</l>
+              <milestone unit="undeclared" rend="horbar-full"/>
+              <note type="textual" place="bottom" rend="small">*The two songs on this page are eked out during an afternoon, June, 1888, 
+                in my seventieth year, at a critical spell of illness. Of course no reader and 
+                probably no human being at any time will ever have such phases of emotional 
+                and solemn action as these involve to me. I feel them an end and close 
+                of all.</note>
+            </lg>
+            
+            
+      <pb facs="prc_kmh.00130.jpg" xml:id="leaf024v" n="38" type="verso"/>
+            
+            <lg type="poem">
+              <note type="work_relations" target="xxx.00376"></note>
+              <head type="main-authorial">AFTER THE SUPPER AND TALK.</head>
+              <l>After the supper and talk&#8212;after the day is done,</l>
+              <l>As a friend from friends his final withdrawal prolonging,</l>
+              <l>Good-bye and Good-bye with emotional lips repeating,</l>
+              <l>(So hard for his hand to release those hands&#8212;no more will they <lb/>meet,</l>
+              <l>No more for communion of sorrow and joy, of old and young,</l>
+              <l>A far-stretching journey awaits him, to return no more,)</l>
+              <l>Shunning, postponing severance&#8212;seeking to ward off the last <lb/>word ever so little,</l>
+              <l>E'en at the exit-door turning&#8212;charges superfluous calling back&#8212; <lb/>e'en as he descends the steps,</l>
+              <l>Something to eke out a minute additional&#8212;shadows of nightfall <lb/>deepening,</l>
+              <l>Farewells, messages lessening&#8212;dimmer the forthgoer's visage <lb/>and form,</l>
+              <l>Soon to be lost for aye in the darkness&#8212;loth, O so loth to <choice><orig>de-<lb/>part</orig><reg>depart<lb/></reg></choice>!</l>
+              <l>Garrulous to the very last.</l>
+            </lg>
+              </div>
       
       <div type="essay">
         
