@@ -2540,7 +2540,7 @@
           
           <milestone unit="undeclared" rend="horbar-full"/>
           
-          <note type="textual" place="bottom" rend="small">
+          <note type="textual" place="bottom" rend="small" xml:id="n001" next="n002">
             <p>*Probably no man that ever lived&#8212;a friend has made the statement&#8212;was 
               so fondly loved, both by men and women, as Robert Burns. The reason is 
               not hard to find: he had a real heart of flesh and blood beating in his bosom; 
@@ -2553,205 +2553,244 @@
               he was loved. The simple roll of the women who gave him their affection 
               and their sympathy would make a long manuscript; and most of these were 
               of such noble worth that, as Robert Chambers says, 'their character may
-              stand as a testimony in favor of that of Burns.'" [As I understand, the
+              stand as a testimony in favor of that of Burns.'" [As I understand, the</p></note>
+
+
+    <pb facs="prc_kmh.00151.jpg" xml:id="leaf035r" n="59" type="recto"/>
               
-    <pb facs="ppp.00504.401.jpg" xml:id="leaf201r2" n="395" type="recto"/>foregoing is
-            from an extremely rare book published by M'Kie, in Kilmarnock. I find the whole
-            beautiful paragraph in a capital paper on Burns, by Amelia Barr.]</p></note>
+          verses, by time and reading, can so curiously fuse with the versifier's own life and
+          death, and give final light and shade to all.</p>
+        
+        <p>I would say a large part of the fascination of Burns's homely, simple dialect-melodies
+          is due, for all current and future readers, to the poet's personal "errors," the general
+          bleakness of his lot, his ingrain'd pensiveness, his brief dash into dazzling,
+          tantalizing, evanescent sunshine&#8212;finally culminating in those last years of
+          his life, his being taboo'd and in debt, sick and sore, yaw'd as by contending gales,
+          deeply dissatisfied with everything, most of all with himself&#8212;high-spirited
+          too&#8212;(no man ever really higher-spirited than Robert Burns.) I think it a
+          perfectly legitimate part too. At any rate it has come to be an impalpable aroma through
+          which only both the songs and their singer must henceforth be read and absorb'd. Through
+          that view-medium of misfortune&#8212;of a noble spirit in low environments, and of a
+          squalid and premature death&#8212;we view the undoubted facts, (giving, as we read
+          them now, a sad kind of pungency,) that Burns's were, before all else, the lyrics of
+          illicit loves and carousing intoxication. Perhaps even it is this strange, impalpable
+          <hi rend="italic">post mortem</hi> comment and influence referr'd to, that gives them
+          their contrast, attraction, making the zest of their author's after fame. If he had
+          lived steady, fat, moral, comfortable, well-to-do years, on his own grade, (let alone,
+          what of course was out of the question, the ease and velvet and rosewood and copious
+          royalties of Tennyson or Victor Hugo or Longfellow,) and died well-ripen'd and
+          respectable, where could have come in that burst of passionate sobbing and remorse which
+          well'd forth instantly and generally in Scotland, and soon follow'd everywhere among
+          English-speaking races, on the announcement of his death? and which, with no sign of
+          stopping, only regulated and vein'd with fitting appreciation, flows deeply, widely
+          yet?</p>
+        
+        <p>Dear Rob! manly, witty, fond, friendly, full of weak spots as well as strong
+          ones&#8212;essential type of so many thousands&#8212;perhaps the average, as
+          just said, of the decent-born young men and the early mid-aged, not only of the British
+          Isles, but America, too, North and South, just the same. I think, indeed, one best part
+          of Burns is the unquestionable proof he presents of the perennial existence among the
+          laboring classes, especially farmers, of the finest latent poetic elements in their
+          blood. (How clear it is to me that the common soil has always been, and is now, thickly
+          strewn with just such gems.) He is well-called the <hi rend="italic">Ploughman</hi>.
+          
+          <note type="textual" place="bottom" rend="small" xml:id="n002" prev="n001">
+            <p>foregoing is from an extremely rare book published by M'Kie, in Kilmarnock. 
+              I find the whole beautiful paragraph in a capital paper on Burns, by 
+              Amelia Barr.]</p></note>
 
-        <pb facs="prc_kc.00040.jpg" xml:id="leaf023r1" n="39" type="recto"/>
 
-        <div type="essay">
+    <pb facs="prc_kmh.00152.jpg" xml:id="leaf035v" n="60" type="verso"/>
+          
+          "Holding the plough," said his brother Gilbert, "was the favorite situation with Robert
+          for poetic compositions; and some of his best verses were produced while he was at that
+          exercise." "I must return to my humble station, and woo my rustic muse in my wonted way,
+          at the plough-tail." 1787, to the Earl of Buchan. He has no high ideal of the poet or
+          the poet's office; indeed quite a low and contracted notion of both:</p>
+        
+        <floatingText>
+          <body>
+            <lg type="poem">
+              <lg type="linegroup">
+                <l>"Fortune! if thou'll but gie me still</l>
+                <l>Hale breeks, a scone, and whiskey gill,</l>
+                <l>An' rowth o' rhyme to rave at will,</l>
+                <l rend="indented1">Tak' a' the rest."</l>
+              </lg>
+            </lg>
+          </body>
+        </floatingText>
+        
+        <p>See also his rhym'd letters to Robert Graham invoking patronage; "one stronghold," Lord
+          Glencairn, being dead, now these appeals to "Fintra, my other stay," (with in one letter
+          a copious shower of vituperation generally.) In his collected poems there is no
+          particular unity, nothing that can be called a leading theory, no unmistakable spine or
+          skeleton. Perhaps, indeed, their very desultoriness is the charm of his songs: "I take
+          up one or another," he says in a letter to Thompson, "just as the bee of the moment
+          buzzes in my bonnet-lug."</p>
+        
+        <p>Consonantly with the customs of the time&#8212;yet markedly inconsistent in spirit
+          with Burns's own case, (and not a little painful as it remains on record, as depicting
+          some features of the bard himself,) the relation called <hi rend="italic">patronage</hi>
+          existed between the nobility and gentry on one side, and literary people on the other,
+          and gives one of the strongest side-lights to the general coloring of poems and poets.
+          It crops out a good deal in Burns's Letters, and even necessitated a certain flunkeyism
+          on occasions, through life. It probably, with its requirements, (while it help'd in
+          money and countenance) did as much as any one cause in making that life a chafed and
+          unhappy one, ended by a premature and miserable death.</p>
+        
+        <p>Yes, there is something about Burns peculiarly acceptable to the concrete, human points
+          of view. He poetizes work-a-day agricultural labor and life, (whose spirit and
+          sympathies, as well as practicalities, are much the same everywhere,) and treats fresh,
+          often coarse, natural occurrences, loves, persons, not like many new and some old poets
+          in a genteel style of gilt and china, or at second or third removes, but in their own
+          born atmosphere, laughter, sweat, unction. Perhaps no one ever sang "lads and
+          lasses"&#8212;that universal race, mainly the same, too, all ages, all
+          lands&#8212;down on their own plane, as he has. He exhibits no philosophy worth
+          mentioning; his morality is hardly more than
 
-          <head type="main">AMBULANCE PROCESSIONS.</head>
 
-          <p><hi rend="italic">June 25, Sundown.</hi>&#8212;As I sit writing this paragraph I
-            see a train of about thirty huge four-horse wagons, used as ambulances, fill'd with
-            wounded, passing up Fourteenth street, on their way, probably, to Columbian, Carver, and
-            mount Pleasant hospitals. This is the way the men come in now, seldom in small numbers,
-            but almost always in these long, sad processions. Through the past winter, while our
-            army lay opposite Fredericksburgh, the like strings of ambulances were of frequent
-            occurrence along Seventh street, passing slowly up from the steamboat wharf, with loads
-            from Aquia creek.</p>
+    <pb facs="prc_kmh.00153.jpg" xml:id="leaf036r" n="61" type="recto"/>
+          
+          parrot-talk&#8212;not bad or deficient, but cheap, shopworn, the platitudes of old
+          aunts and uncles to the youngsters (be good boys and keep your noses clean.) Only when
+          he gets at Poosie Nansie's, celebrating the "barley bree," or among tramps, or
+          democratic bouts and drinking generally,</p>
+        
+        <floatingText>
+          <body>            
+            <lg type="poem">
+                <l>("Freedom and whiskey gang thegither,")</l>
+            </lg>            
+          </body>
+        </floatingText>
+        
+        <p>we have, in his own unmistakable color and warmth, those interiors of rake-helly life
+          and tavern fun&#8212;the cantabile of jolly beggars in highest
+          jinks&#8212;lights and groupings of rank glee and brawny amorousness, outvying the
+          best painted pictures of the Dutch school, or any school.</p>
+        
+        <p>By America and her democracy such a poet, I cannot too often repeat, must be kept in
+          loving remembrance; but it is best that discriminations be made. His admirers (as at
+          those anniversary suppers, over the "hot Scotch") will not accept for their favorite
+          anything less than the highest rank, alongside of Homer, Shakspere, etc. Such, in
+          candor, are not the true friends of the Ayrshire bard, who really needs a different
+          place quite by himself. The Iliad and the Odyssey express courage, craft, full-grown
+          heroism in situations of danger, the sense of command and leadership, emulation, the
+          last and fullest evolution of self-poise as in kings, and god-like even while animal
+          appetites. The Shaksperean compositions, on vertebers and framework of the primary
+          passions, portray (essentially the same as Homer's,) the spirit and letter of the feudal
+          world, the Norman lord, ambitious and arrogant, taller and nobler than common
+          men&#8212;with much underplay and gusts of heat and cold, volcanoes and stormy seas.
+          Burns (and some will say to his credit) attempts none of these themes. He poetizes the
+          humor, riotous blood, sulks, amorous torments, fondness for the tavern and for cheap
+          objective nature, with disgust at the grim and narrow ecclesiasticism of his time and
+          land, of a young farmer on a bleak and hired farm in Scotland, through the years and
+          under the circumstances of the British politics of that time, and of his short personal
+          career as author, from 1783 to 1796. He is intuitive and affectionate, and just emerged
+          or emerging from the shackles of the kirk, from poverty, ignorance, and from his own
+          rank appetites&#8212;(out of which latter, however, he never extricated himself.) It
+          is to be said that amid not a little smoke and gas in his poems, there is in almost
+          every piece a spark of fire, and now and then the real afflatus. He has been applauded
+          as democratic, and with some warrant; while Shakspere, and with the greatest warrant,
+          has been called monarchical or aristocratic (which he certainly is.) But the splendid
+          person-
+          
 
-        </div>
+    <pb facs="prc_kmh.00154.jpg" xml:id="leaf036v" n="62" type="verso"/>
+          
+          alizations of Shakspere, formulated on the largest, freest, most heroic, most artistic
+          mould, are to me far dearer as lessons, and more precious even as models for Democracy,
+          than the humdrum samples Burns presents. The motives of some of his effusions are
+          certainly discreditable personally&#8212;one or two of them markedly so. He has,
+          moreover, little or no spirituality. This last is his mortal flaw and defect, tried by
+          highest standards. The ideal he never reach'd (and yet I think he leads the way to it.)
+          He gives melodies, and now and then the simplest and sweetest ones; but harmonies,
+          complications, oratorios in words, never. (I do not speak this in any deprecatory sense.
+          Blessed be the memory of the warm-hearted Scotchman for what he has left us, just as it
+          is!) He likewise did not know himself, in more ways than one. Though so really free and
+          independent, he prided himself in his songs on being a reactionist and a
+          Jacobite&#8212;on persistent sentimental adherency to the cause of the
+          Stuarts&#8212;the weakest, thinnest, most faithless, brainless dynasty that ever
+          held a throne.</p>
+        
+        <p>Thus, while Burns is not at all great for New World study, in the sense that Isaiah and
+          Eschylus and the book of Job are unquestionably great&#8212;is not to be mention'd
+          with Shakspere&#8212;hardly even with current Tennyson or our Emerson&#8212;he
+          has a nestling niche of his own, all fragrant, fond, and quaint and homely&#8212;a
+          lodge built near but outside the mighty temple of the gods of song and
+          art&#8212;those universal strivers, through their works of harmony and melody and
+          power, to ever show or intimate man's crowning, last, victorious fusion in himself of
+          Real and Ideal. Precious, too&#8212;fit and precious beyond all singers, high or
+          low&#8212;will Burns ever be to the native Scotch, especially to the working-classes
+          of North Britain; so intensely one of them, and so racy of the soil, sights, and local
+          customs. He often apostrophizes Scotland, and is, or would be, enthusiastically
+          patriotic. His country has lately commemorated him in a statue.* His aim is declaredly 
+          to be 'a Rustic Bard.' His poems were all written in youth or 
+          young manhood, (he was little more than a young man when he
+          
+          <note type="textual" place="bottom">
+            <p>*The Dumfries statue of Robert Burns was successfully unveil'd April
+            1881 by Lord Roseberry, the occasion having been made national in its character.
+            Before the ceremony, a large procession paraded the streets of the town, all the
+            trades and societies of that part of Scotland being represented, at the head of
+            which went dairymen and ploughmen, the former driving their carts and being
+            accompanied by their maids. The statue is of Sicilian marble. It rests on a pedestal
+            of gray stone five feet high. The poet is represented as sitting easily on an old
+            tree root, holding in his left hand a cluster of daisies. His face is turn'd toward
+            the right shoulder, and the eyes gaze into the distance. Near by lie a collie dog, a
+            broad bonnet half covering a well-thumb'd song-book, and a rustic flageolet. The
+            costume is taken from the Nasmyth portrait, which has been follow'd for the features
+            of the face.</p></note>
 
-        <div type="essay">
-
-          <head type="main">BAD WOUNDS&#8212;THE YOUNG.</head>
-
-          <p>The soldiers are nearly all young men, and far more American than is generally
-            supposed&#8212;I should say nine-tenths are native-born. Among the arrivals from
-            Chancellorsville I find a large proportion of Ohio, Indiana, and Illinois men. As usual,
-            there are all sorts of wounds. Some of the men fearfully burnt from the explosions of
-            artillery caissons. One ward has a long row of officers, some with ugly hurts. Yesterday
-            was perhaps worse than usual. Amputations are going on&#8212;the attendants are
-            dressing wounds. As you pass by, you must be on your guard where you look. I saw the
-            other day a gentleman, a visitor apparently from curiosity, in one of the wards, stop
-            and turn a moment to look at an awful wound they were probing. He turn'd pale, and in a
-            moment more he had fainted away and fallen on the floor.</p>
-
-        </div>
-
-        <div type="essay">
-
-          <head type="main">THE MOST INSPIRITING OF ALL WAR'S SHOWS.</head>
-
-          <p><hi rend="italic">June 29.</hi>&#8212;Just before sundown this evening a very large
-            cavalry force went by&#8212;a fine sight. The men evidently had seen service. First
-            came a mounted band of sixteen bugles, drums and cymbals, playing wild martial
-            tunes&#8212;made my heart jump. Then the principal officers, then company after
-            company, with their officers at their heads, making of course the main part of the
-            cavalcade; then a long train of men with led horses, lots of mounted negroes with
-            special horses&#8212;and a long string of baggage-wagons, each drawn by four
-            horses&#8212;and then a motley rear guard. It was a pronouncedly warlike and gay
-            show; the sabres clank'd, the men look'd young and healthy and strong; the electric
-            tramping of so many horses on the hard road, and the gallant bearing, fine seat, and
-            bright faced appearance of a thousand and more handsome young American men, were so good
-            to see. An hour later another troop went by, smaller in numbers, perhaps three hundred
-            men. They too look'd like serviceable men, campaigners used to field and fight.</p>
-
-          <p><hi rend="italic">July 3.</hi>&#8212;This forenoon, for more than an hour, again
-            long
-
-            <pb facs="prc_kc.00041.jpg" xml:id="leaf023v1" n="40" type="verso"/>
-
-            strings of cavalry, several regiments, very fine men and horses, four or five abreast.
-            I saw them in Fourteenth street, coming in town from north. Several hundred extra
-            horses, some of the mares with colts, trotting along. (Appear'd to be a number of
-            prisoners too.) How inspiriting always the cavalry regiments. Our men are generally well
-            mounted, feel good, are young, gay on the saddle, their blankets in a roll behind them,
-            their sabres clanking at their sides. This noise and movement and the tramp of many
-            horses' hoofs has a curious effect upon one. The bugles play&#8212;presently you
-            hear them afar off, deaden'd, mix'd with other noises. Then just as they had all pass'd,
-            a string of ambulances commenc'd from the other way, moving up Fourteenth street north,
-            slowly wending along, bearing a large lot of wounded to the hospitals.</p>
-
-        </div>
-
-        <div type="essay">
-
-          <head type="main">BATTLE OF GETTYSBURG.</head>
-
-          <p><hi rend="italic">July 4th.</hi>&#8212;The weather to-day, upon the whole, is very
-            fine, warm, but from a smart rain last night, fresh enough, and no dust, which is a
-            great relief for this city. I saw the parade about noon, Pennsylvania avenue, from
-            Fifteenth street down toward the capitol. There were three regiments of infantry, (I
-            suppose the ones doing patrol duty here,) two or three societies of Odd Fellows, a lot
-            of children in barouches, and a squad of policemen. (A useless imposition upon the
-            soldiers&#8212;they have work enough on their backs without piling the like of
-            this.) As I went down the Avenue, saw a big flaring placard on the bulletin board of a
-            newspaper office, announcing "Glorious Victory for the Union Army!" Meade had fought Lee
-            at Gettysburg, Pennsylvania, yesterday and day before, and repuls'd him most signally,
-            taken 3,000 prisoners, &#38;c. (I afterwards saw Meade's despatch, very modest, and
-            a sort of order of the day from the President himself, quite religious, giving thanks to
-            the Supreme, and calling on the people to do the same.) I walk'd on to Armory
-            hospital&#8212;took along with me several bottles of blackberry and cherry syrup,
-            good and strong, but innocent. Went through several of the wards, announc'd to the
-            soldiers the news from Meade, and gave them all a good drink of the syrups with ice
-            water, quite refreshing&#8212;prepar'd it all myself, and serv'd it around.
-            Meanwhile the Washington bells are ringing their sundown peals for Fourth of July, and
-            the usual fusilades of boys' pistols, crackers, and guns.</p>
-
-        </div>
-
-        <div type="essay">
-
-          <head type="main">A CAVALRY CAMP.</head>
-
-          <p>I am writing this, nearly sundown, watching a cavalry company (acting Signal service,)
-            just come in through a shower, making their night's camp ready on some broad, vacant
-            ground, a sort of hill, in full view opposite my window. There are the
-
-            <pb facs="prc_kc.00042.jpg" xml:id="leaf024r1" n="41" type="recto"/>
-
-            men in their yellow-striped jackets. All are dismounted; the freed horses stand with
-            drooping heads and wet sides; they are to be led off presently in groups, to water. The
-            little wall-tents and shelter tents spring up quickly. I see the fires already blazing,
-            and pots and kettles over them. Some among the men are driving in tent-poles, wielding
-            their axes with strong, slow blows. I see great huddles of horses, bundles of hay,
-            groups of men (some with unbuckled sabres yet on their sides,) a few officers, piles of
-            wood, the flames of the fires, saddles, harness, &#38;c. The smoke streams upward,
-            additional men arrive and dismount&#8212;some drive in stakes, and tie their horses
-            to them; some go with buckets for water, some are chopping wood, and so on.</p>
-
-          <p><hi rend="italic">July 6th.</hi>&#8212;A steady rain, dark and thick and warm. A
-            train of six-mule wagons has just pass'd bearing pontoons, great square-end flat-boats,
-            and the heavy planking for overlaying them. We hear that the Potomac above here is
-            flooded, and are wondering whether Lee will be able to get back across again, or whether
-            Meade will indeed break him to pieces. The cavalry camp on the hill is a ceaseless field
-            of observation for me. This forenoon there stand the horses, tether'd together,
-            dripping, steaming, chewing their hay. The men emerge from their tents, dripping also.
-            The fires are half quench'd.</p>
-
-          <p><hi rend="italic">July 10th.</hi>&#8212;Still the camp opposite&#8212;perhaps
-            fifty or sixty tents. Some of the men are cleaning their sabres (pleasant to-day,) some
-            brushing boots, some laying off, reading, writing&#8212;some cooking, some sleeping.
-            On long temporary cross-sticks back of the tents are cavalry
-            accoutrements&#8212;blankets and overcoats are hung out to air&#8212;there are
-            the squads of horses tether'd, feeding, continually stamping and whisking their tails to
-            keep off flies. I sit long in my third story window and look at the scene&#8212;a
-            hundred little things going on&#8212;peculiar objects connected with the camp that
-            could not be described, any one of them justly, without much minute drawing and coloring
-            in words.</p>
-
-        </div>
-
-        <div type="essay">
-
-          <head type="main">A NEW YORK SOLDIER.</head>
-
-          <p>This afternoon, July 22d, I have spent a long time with Oscar F. Wilber, company G,
-            154th New York, low with chronic diarrh&#339;a, and a bad wound also. He asked me to read
-            him a chapter in the New Testament. I complied, and ask'd him what I should read. He
-            said, "Make your own choice." I open'd at the close of one of the first books of the
-            evangelists, and read the chapters describing the latter hours of Christ, and the scenes
-            at the crucifixion. The poor, wasted young man ask'd me to read the following chapter
-            also, how Christ rose again. I read very slowly, for Oscar was feeble. It pleased him
-            very much, yet
-
-            <pb facs="prc_kc.00043.jpg" xml:id="leaf024v1" n="42" type="verso"/>
-
-            the tears were in his eyes. He ask'd me if I enjoy'd religion. I said, "Perhaps not, my
-            dear, in the way you mean, and yet, may-be, it is the same thing." He said, "It is my
-            chief reliance." He talk'd of death, and said he did not fear it. I said, "Why, Oscar,
-            don't you think you will get well?" He said, "I may, but it is not probable." He spoke
-            calmly of his condition. The wound was very bad, it discharg'd much. Then the diarrh&#339;a
-            had prostrated him, and I felt that he was even then the same as dying. He behaved very
-            manly and affectionate. The kiss I gave him as I was about leaving he return'd fourfold.
-            He gave me his mother's address, Mrs. Sally D. Wilber, Alleghany post-office,
-            Cattaraugus county, N. Y. I had several such interviews with him. He died a few days
-            after the one just described.</p>
-
-        </div>
-
-        <div type="essay">
-
-          <head type="main">HOME-MADE MUSIC.</head>
-
-          <p><hi rend="italic">August 8th</hi>.&#8212;To-night, as I was trying to keep cool,
-            sitting by a wounded soldier in Armory-square, I was attracted by some pleasant singing
-            in an adjoining ward. As my soldier was asleep, I left him, and entering the ward where
-            the music was, I walk'd half-way down and took a seat by the cot of a young Brooklyn
-            friend, S. R., badly wounded in the hand at Chancellorsville, and who has suffer'd much,
-            but at that moment in the evening was wide awake and comparatively easy. He had turn'd
-            over on his left side to get a better view of the singers, but the mosquito-curtains of
-            the adjoining cots obstructed the sight. I stept round and loop'd them all up, so that
-            he had a clear show, and then sat down again by him, and look'd and listen'd. The
-            principal singer was a young lady-nurse of one of the wards, accompanying on a melodeon,
-            and join'd by the lady-nurses of other wards. They sat there, making a charming group,
-            with their handsome, healthy faces, and standing up a little behind them were some ten
-            or fifteen of the convalescent soldiers, young men, nurses, &#38;c., with books in
-            their hands, singing. Of course it was not such a performance as the great soloists at
-            the New York opera house take a hand in, yet I am not sure but I receiv'd as much
-            pleasure under the circumstances, sitting there, as I have had from the best Italian
-            compositions, express'd by world-famous performers. The men lying up and down the
-            hospital, in their cots, (some badly wounded&#8212;some never to rise thence,) the
-            cots themselves, with their drapery of white curtains, and the shadows down the lower
-            and upper parts of the ward; then the silence of the men, and the attitudes they
-            took&#8212;the whole was a sight to look around upon again and again. And there
-            sweetly rose those voices up to the high, whitewash'd wooden roof, and pleasantly the
-            roof sent it all back again. They sang very well, mostly quaint old
+          <pb facs="ppp.00504.405.jpg" xml:id="leaf203r1" n="399" type="recto"/>
+          
+          died.) His collected works in giving everything, are nearly one half first drafts. His
+          brightest hit is his use of the Scotch patois, so full of terms flavor'd like wild
+          fruits or berries. Then I should make an allowance to Burns which cannot be made for any
+          other poet. Curiously even the frequent crudeness, haste, deficiencies, (flatness and
+          puerilities by no means absent) prove upon the whole not out of keeping in any
+          comprehensive collection of his works, heroically printed, 'following copy,' every
+          piece, every line according to originals. Other poets might tremble for such boldness,
+          such rawness. In 'this odd-kind chiel' such points hardly mar the rest. Not only are
+          they in consonance with the underlying spirit of the pieces, but complete the full
+          abandon and veracity of the farm-fields and the home-brew'd flavor of the Scotch
+          vernacular. (Is there not often something in the very neglect, unfinish, careless
+          nudity, slovenly hiatus, coming from intrinsic genius, and not 'put on,' that secretly
+          pleases the soul more than the wrought and re-wrought polish of the most perfect verse?)
+          Mark the native spice and untranslatable twang in the very names of his
+          songs—"O for ane and twenty, Tam," "John Barleycorn," "Last May a braw
+          Wooer," "Rattlin roarin Willie," "O wert thou in the cauld, cauld blast," "Gude e'en to
+          you, Kimmer," "Merry hae I been teething a Heckle," "O lay thy loof in mine, lass," and
+          others.</p>
+        
+        <p>The longer and more elaborated poems of Burns are just such as would please a natural
+          but homely taste, and cute but average intellect, and are inimitable in their way. The
+          "Twa Dogs," (one of the best) with the conversation between Cesar and Luath, the "Brigs
+          of Ayr," "the Cotter's Saturday Night," "Tam O'Shanter"—all will be long read
+          and re-read and admired, and ever deserve to be. With nothing profound in any of them,
+          what there is of moral and plot has an inimitably fresh and racy flavor. If it came to
+          question, Literature could well afford to send adrift many a pretensive poem, and even
+          book of poems, before it could spare these compositions.</p>
+        
+        <p>Never indeed was there truer utterance in a certain range of idiosyncracy than by this
+          poet. Hardly a piece of his, large or small, but has "snap" and raciness. He puts in
+          cantering rhyme (often doggerel) much cutting irony and idiomatic ear-cuffing of the
+          kirk-deacons drily good-natured addresses to his cronies, (he certainly would not stop
+          us if he were here this moment, from classing that "to the De'il" among
+          them)—"to Mailie and her Lambs," "to auld Mare Maggie," "to a Mouse,"</p>
+        
+        <floatingText>
+          <body>
+            <lg type="linegroup">
+              <l>"Wee, sleekit, cowrin, tim'rous beastie:"</l>
+            </lg>              
+          </body>
+        </floatingText>
+        
+        <p>"to a Mountain Daisy," "to a Haggis," "to a Louse," "to the
+          
+          <pb facs="ppp.00504.406.jpg" xml:id="leaf203v1" n="400" type="verso"/>
 
             <pb facs="prc_kc.00044.jpg" xml:id="leaf025r1" n="43" type="recto"/>
 
