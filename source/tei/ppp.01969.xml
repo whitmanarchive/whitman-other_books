@@ -172,7 +172,9 @@
             the book and myself as author of it yet shows mark'd anger and 
             contempt more than anything else—("I find a solid line of <choice><orig>ene-<lb/>
               
-          <note type="textual" place="bottom" anchored="true">
+              <milestone unit="undeclared" rend="horbar-full"/>
+              
+          <note type="textual" rend="small">
             *When Champollion, on his death-bed, handed to the printer the revised 
             proof of his "Egyptian Grammar," he said gayly, "Be careful of this&#8212;it is 
             my <hi rend="italic">carte de visite</hi> to posterity."
