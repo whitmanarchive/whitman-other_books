@@ -12,6 +12,7 @@
         <editor>Ed Folsom</editor>
         <respStmt>
           <resp>Transcription and encoding</resp>
+          <persName xml:id="kmh">Kenneth Michael Hoover</persName>
           <persName xml:id="km">Kevin McMullen</persName>
         </respStmt>
         <sponsor>Center for Digital Research in the Humanities</sponsor>
@@ -43,14 +44,14 @@
         </p>
         <p>Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
         </availability>
-        <idno>ppp.20000</idno><!-- Need to change this -->
+        <idno>ppp.01970</idno>
       </publicationStmt>
 
       <sourceDesc>
         <bibl><!-- Need to update this -->
             <author xml:id="ww">Walt Whitman</author>
-          <title level="m">Specimen Days &amp; Collect</title>
-          <date xml:id="dat1" cert="high" notBefore="1882" notAfter="1883">1882&#8211;'83</date>
+            <title level="m">Complete Poems &amp; Prose</title>
+            <date xml:id="dat1" cert="high" notBefore="1882" notAfter="1883">1882&#8211;'83</date>
             <publisher>Rees Welsh &amp; Co.</publisher>
             <pubPlace>Philadelphia</pubPlace> 
           <note type="project">Original transcription derived from our transcription of <hi rend="italic">Complete Prose Works</hi> and proofed against a copy of the original volume.</note>
@@ -58,13 +59,40 @@
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
+      <change when="2026-11-04" who="#kmh">transcribed and encoded</change>
       <change when="2026-05-19" who="#km">created file</change>
     </revisionDesc>
 
   </teiHeader>
   
   <text type="printed"><!-- We will use the text from the 1881-82 edition of Leaves of Grass here. -->
+    
     <front>
+      
+      <pb facs="unl.jn.00001.jpg" xml:id="leaf001r" n="N/A" type="recto"/>
+      
+      <pb facs="unl.jn.00002.jpg" xml:id="leaf001v" n="N/A" type="verso"/>
+      
+      <pb facs="unl.jn.00003.jpg" xml:id="leaf002r" n="N/A" type="recto"/>
+      
+      <pb facs="unl.jn.00004.jpg" xml:id="leaf002v" n="N/A" type="verso"/>
+      
+      <pb facs="unl.jn.00005.jpg" xml:id="leaf003r" n="N/A" type="recto"/>
+
+        <titlePage>
+          <titlePart type="main">Complete<lb/> 
+            POEMS &amp; PROSE</titlePart>
+          <titlePart type="sub">of Walt Whitman<lb/>
+            1855...1888</titlePart>
+          <titlePart type="sub">A<hi rend="smallcaps">UTHENTICATED</hi> &amp; P<hi rend="smallcaps">ERSONAL</hi> B<hi rend="smallcaps">OOK</hi> (<hi rend="italic">handled by W. W.</hi>)...<lb/>
+            <hi rend="italic">Portraits from Life...Autograph</hi>.</titlePart>
+        </titlePage>
+
+      <pb facs="unl.jn.00006.jpg" xml:id="leaf003v" n="N/A" type="recto"/>
+      
+      <pb facs="unl.jn.00007.jpg" xml:id="leaf004r" n="N/A" type="recto"/>
+      
+      <pb facs="unl.jn.00008.jpg" xml:id="leaf004v" n="N/A" type="verso"/>
       
     </front>
     
@@ -77,8 +105,6 @@
 
     <front>
   
-      <pb facs="prc_kc.00388.jpg" xml:id="leaf001v1" n="N/A" type="verso"/><!-- Need to update image links -->
-
       <pb facs="prc_kc.00389.jpg" xml:id="leaf002r1" n="N/A" type="recto"/>
 
       <pb facs="prc_kc.00390.jpg" xml:id="leaf002v1" n="N/A" type="verso"/>
