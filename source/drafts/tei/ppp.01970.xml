@@ -48,13 +48,13 @@
       </publicationStmt>
 
       <sourceDesc>
-        <bibl><!-- Need to update this -->
+        <bibl>
             <author xml:id="ww">Walt Whitman</author>
             <title level="m">Complete Poems &amp; Prose</title>
-            <date xml:id="dat1" cert="high" notBefore="1882" notAfter="1883">1882&#8211;'83</date>
-            <publisher>Rees Welsh &amp; Co.</publisher>
-            <pubPlace>Philadelphia</pubPlace> 
-          <note type="project">Original transcription derived from our transcription of <hi rend="italic">Complete Prose Works</hi> and proofed against a copy of the original volume.</note>
+            <date xml:id="dat1" cert="high" when="1888">1888</date>
+            <publisher>Ferguson Bros. &amp; Co.</publisher>
+            <pubPlace>Philadelphia</pubPlace>
+          <note type="project">Original transcription derived from our transcription of <hi rend="italic">Complete Prose Works</hi> and <hi rend="italic">Leaves of Grass</hi> (1881) and proofed against digital images of a copy of the original volume.</note>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -65,7 +65,7 @@
 
   </teiHeader>
   
-  <text type="printed"><!-- We will use the text from the 1881-82 edition of Leaves of Grass here. -->
+  <text type="printed">
     
     <front>
       
@@ -81,8 +81,8 @@
 
         <titlePage>
           <titlePart type="main">Complete<lb/> 
-            POEMS &amp; PROSE</titlePart>
-          <titlePart type="sub">of Walt Whitman<lb/>
+            POEMS &amp; PROSE<lb/>
+            of Walt Whitman<lb/>
             1855...1888</titlePart>
           <titlePart type="sub">A<hi rend="smallcaps">UTHENTICATED</hi> &amp; P<hi rend="smallcaps">ERSONAL</hi> B<hi rend="smallcaps">OOK</hi> (<hi rend="italic">handled by W. W.</hi>)...<lb/>
             <hi rend="italic">Portraits from Life...Autograph</hi>.</titlePart>
@@ -92,12 +92,246 @@
       
       <pb facs="unl.jn.00007.jpg" xml:id="leaf004r" n="N/A" type="recto"/>
       
+        <head type="main">NOTE AT BEGINNING.</head>
+
+          <p>The following volume contains<lb/>
+            L<hi rend="smallcaps">EAVES OF</hi> G<hi rend="smallcaps">RASS</hi>,<lb/>
+            <hi rend="italic">with the brief Annex</hi>, S<hi rend="smallcaps">ANDS AT</hi> S<hi rend="smallcaps">EVENTY</hi>, <hi rend="italic">in November Boughs</hi>,<lb/>
+            S<hi rend="smallcaps">PECIMEN</hi> D<hi rend="smallcaps">AYS AND</hi> C<hi rend="smallcaps">OLLECT</hi>....and<lb/>
+            N<hi rend="smallcaps">OVEMBER</hi> B<hi rend="smallcaps">OUGHS</hi>,<lb/>
+            Revised, corected, &amp;c., down to date.</p>
+      
+          <p>(When I had got this volume well under way, I was suddenly
+            prostrated by illness&#8212;paralysis, continued yet&#8212;which will 
+            have to serve as excuse for many faults both of omission and 
+            commission in it.)</p>
+      
+          <p>But I wiould not let the great and momentous Era of these 
+            years, these States, slip away without attempting to arrest in a 
+            special printed book (as much in spirit as letter, and may-be 
+            for the future more than the present,) some few specimens&#8212;even 
+            vital throbs, breaths&#8212;as representations of it all&#8212;from my point 
+            of view, and right from the midst of it, jotted at the time.</p>
+      
+          <p>There is a tally-stamp and stage-result of periods and nations, 
+            elusive, at second or third hand, often escaping the historian
+            of matter-of-fact&#8212;in some sort the nation's spiritual 
+            formative ferment or chaos&#8212;the getting in of its essence, 
+            formulating identity&#8212;a law of it, and significant part of its progress. 
+            (Of the best of events and facts, even the most important, there 
+            are finally not the events and facts only, but something flashing 
+            out and fluctuating like tuft-flames or eidólons, from all.) My 
+            going up and down admist these years, and the impromptu 
+            jottings of their sights and thoughts, of war and peace, have 
+            been in accordance with that law, and probably a result of it....
+            In certain respects, (emotionality, passions, spirituality, the 
+            invisible trend,) I therefore launch forth the divisions of the following 
+            book as not only a consequent of that period and its influences, 
+            but in one sort a History of America, the past 35 years, after 
+            the rest, after the adjuncts of that history have been studied and 
+            attended to.</p>
+      
       <pb facs="unl.jn.00008.jpg" xml:id="leaf004v" n="N/A" type="verso"/>
+      
+      
+      <pb facs="unl.jn.00009.jpg" xml:id="leaf005r" n="3" type="recto"/>
+      
+        <p>CONTENTS.</p>
+      
+      <!--Are we missing some images of the Table of Contents?-->
+      
+      <pb facs="unl.jn.00010.jpg" xml:id="leaf005v" n="6" type="verso"/>
+      
+      <pb facs="unl.jn.00011.jpg" xml:id="leaf006r" n="7" type="recto"/>
+      
+      <pb facs="unl.jn.00012.jpg" xml:id="leaf006v" n="8" type="verso"/>
       
     </front>
     
     <body>
-      <p></p>
+      
+      <pb facs="unl.jn.00013.jpg" xml:id="leaf007r" n="9" type="recto"/>      
+        <lg type="cluster">          
+          <head type="main-authorial">INSCRIPTIONS.</head>          
+          <milestone unit="undeclared" rend="horbar-short-center"/>          
+          <lg type="poem">
+          <note type="work_relations" target="xxx.00024"></note>
+          <head type="main-authorial">ONE'S-SELF I SING.</head>
+          <lg type="linegroup">
+            <l>O<hi rend="smallcaps">NE'S</hi>-S<hi rend="smallcaps">ELF</hi> I sing, a simple separate person,</l>
+            <l>Yet utter the word Democratic, the word En-Masse.</l>
+          </lg>
+          <lg type="linegroup">
+            <l>Of physiology from top to toe I sing,</l>
+            <l>Not physiognomy alone nor brain alone is worthy for the Muse, I <lb/>say the Form complete is worthier far,</l>
+            <l>The Female equally with the Male I sing.</l>
+          </lg>
+          <lg type="linegroup">
+            <l>Of Life immense in passion, pulse, and power,</l>
+            <l>Cheerful, for freest action form'd under the laws divine,</l>
+            <l>The Modern Man I sing.</l>
+          </lg>
+        </lg>
+        <lg type="poem">
+          <note type="work_relations" target="xxx.00025"></note>
+          <head type="main-authorial">AS I PONDER'D IN SILENCE.</head>
+          <lg type="linegroup">
+            <l>As I ponder'd in silence,</l>
+            <l>Returning upon my poems, considering, lingering long,</l>
+            <l>A Phantom arose before me with distrustful aspect,</l>
+            <l>Terrible in beauty, age, and power,</l>
+            <l>The genius of poets of old lands,</l>
+            <l>As to me directing like flame its eyes,</l>
+            <l>With finger pointing to many immortal songs,</l>
+            <l>And menacing voice, <hi rend="italic">What singest thou?</hi> it said,</l>
+            <l><hi rend="italic">Know'st thou not there is but one theme for ever-enduring bards?</hi></l>
+            <l><hi rend="italic">And that is the theme of War, the fortune of battles,</hi></l>
+            <l><hi rend="italic">The making of perfect soldiers.</hi></l>
+          </lg>
+          <lg type="linegroup">
+            <l>
+              <hi rend="italic">Be it so,</hi> then I answer'd,</l>
+            <l>
+              <hi rend="italic">I too haughty Shade also sing war, and a longer and greater one </hi>
+              <lb/>
+              <hi rend="italic">than any,</hi>
+            </l>
+            <l>
+              <hi rend="italic">Waged in my book with varying fortune, with flight, advance and </hi>
+              <lb/>
+              <hi rend="italic">retreat, victory deferr'd and wavering, </hi>
+            </l>
+            
+            
+      <pb facs="unl.jn.00014.jpg" xml:id="leaf007v" n="10" type="verso"/>
+            <l>
+              <hi rend="italic">(Yet methinks certain, or as good as certain, at the last,) the field </hi>
+              <lb/>
+              <hi rend="italic">the world,</hi> 
+            </l>
+            <l>
+              <hi rend="italic">For life and death, for the Body and for the eternal Soul,</hi> 
+            </l>
+            <l>
+              <hi rend="italic">Lo, I too am come, chanting the chant of battles, </hi>
+            </l>
+            <l>
+              <hi rend="italic">I above all promote brave soldiers.</hi> 
+            </l>
+          </lg>
+        </lg>
+          <lg type="poem" xml:id="ppp.00710">
+            <!--                  <relations>
+                     <work ref="xxx.00026"/>
+                  </relations>-->
+            <note type="work_relations" target="xxx.00026"></note>
+            <head type="main-authorial">IN CABIN'D SHIPS AT SEA.</head>
+            <lg type="linegroup">
+              <l>I<hi rend="smallcaps">N</hi> cabin'd ships at sea,</l>
+              <l>The boundless blue on every side expanding,</l>
+              <l>With whistling winds and music of the waves, the large imperious <lb/>waves,</l>
+              <l>Or some lone bark buoy'd on the dense marine,</l>
+              <l>Where joyous full of faith, spreading white sails,</l>
+              <l>She cleaves the ether mid the sparkle and the foam of day, or <lb/>under many a star at night,</l>
+              <l>By sailors young and old haply will I, a reminiscence of the land,<lb/>be read,</l>
+              <l>In full rapport at last.</l>
+            </lg>
+            <lg type="linegroup">
+              <l>
+                <hi rend="italic">Here are our thoughts, voyagers' thoughts, </hi>
+              </l>
+              <l>
+                <hi rend="italic">Here not the land, firm land, alone appears,</hi> may then by them be <lb/>said,</l>
+              <l><hi rend="italic">The sky o'erarches here, we feel the undulating deck beneath our <lb/>feet,</hi></l>
+              <l>
+                <hi rend="italic">We feel the long pulsation, ebb and flow of endless motion,</hi> 
+              </l>
+              <l><hi rend="italic">The tones of unseen mystery, the vague and vast suggestions of the <lb/>briny world, the liquid-flowing syllables,</hi>
+              </l>
+              <l><hi rend="italic">The perfume, the faint creaking of the cordage, the melancholy <lb/>rhythm,</hi></l>
+              <l>
+                <hi rend="italic">The boundless vista and the horizon far and dim are all here,</hi> 
+              </l>
+              <l>
+                <hi rend="italic">And this is ocean's poem.</hi> 
+              </l>
+            </lg>
+            <lg type="linegroup">
+              <l>Then falter not O book, <choice><orig>fulfil</orig><reg>fulfill</reg></choice> your destiny,</l>
+              <l>You not a reminiscence of the land alone,</l>
+              <l>You too as a lone bark cleaving the ether, purpos'd I know not <lb/>whither, yet ever full of faith,</l>
+              <l>Consort to every ship that sails, sail you!</l>
+              <l>Bear forth to them folded my love, (dear mariners, for you I fold <lb/>it here in every leaf;)</l>
+              <l>Speed on my book! spread your white sails my little bark athwart <lb/>the imperious waves,</l>
+              <l>Chant on, sail on, bear o'er the boundless blue from me to every <lb/>sea,</l>
+              <l>This song for mariners and all their ships.</l>
+            </lg>
+          </lg>
+          
+          
+      <pb facs="unl_jn.00014.jpg" xml:id="leaf008r" n="11" type="recto"/>
+          <lg type="poem" xml:id="ppp.00711">
+            <!--                  <relations>
+                     <work ref="xxx.00027"/>
+                  </relations>-->
+            <note type="work_relations" target="xxx.00027"></note>
+            <head type="main-authorial">TO FOREIGN LANDS.</head>
+            <lg type="linegroup">
+              <l>I <hi rend="smallcaps">HEARD</hi> that you ask'd for something to prove this puzzle the New <lb/>World,</l>
+              <l>And to define America, her athletic Democracy,</l>
+              <l>Therefore I send you my poems that you behold in them what you <lb/>wanted.</l>
+            </lg>
+          </lg>
+          <lg type="poem" xml:id="ppp.00712">
+            <!--                  <relations>
+                     <work ref="xxx.00028"/>
+                  </relations>-->
+            <note type="work_relations" target="xxx.00028"></note>
+            <head type="main-authorial">TO A HISTORIAN.</head>
+            <lg type="linegroup">
+              <l>Y<hi rend="smallcaps">OU</hi> who celebrate bygones,</l>
+              <l>Who have explored the outward, the surfaces of the races, the life <lb/>that has exhibited itself,</l>
+              <l>Who have treated of man as the creature of politics, aggregates,
+                <lb/>rulers and priests,</l>
+              <l>I, habitan of the Alleghanies, treating of him as he is in himself <lb/>in his own rights,</l>
+              <l>Pressing the pulse of the life that has seldom exhibited itself, (the <lb/>great pride of man in himself,)</l>
+              <l>Chanter of Personality, outlining what is yet to be,</l>
+              <l>I project the history of the future.</l>
+            </lg>
+          </lg>
+          <lg type="poem" xml:id="ppp.00713">
+            <!--                  <relations>
+                     <work ref="xxx.00029"/>
+                  </relations>-->
+            <note type="work_relations" target="xxx.00029"></note>
+            <head type="main-authorial">TO THEE OLD CAUSE.</head>
+            <lg type="linegroup">
+              <l>T<hi rend="smallcaps">O</hi> thee old cause!</l>
+              <l>Thou peerless, passionate, good cause,</l>
+              <l>Thou stern, remorseless, sweet idea,</l>
+              <l>Deathless throughout the ages, races, lands,</l>
+              <l>After a strange sad war, great war for thee,</l>
+              <l>(I think all war through time was really fought, and ever will be <lb/>really fought, for thee,)</l>
+              <l>These chants for thee, the eternal march of thee.</l>
+            </lg>
+            <lg type="linegroup">
+              <l>(A war O soldiers not for itself alone,</l>
+              <l>Far, far more stood silently waiting behind, now to advance in <lb/>this book.)</l>
+            </lg>
+            <lg type="linegroup">
+              <l>Thou orb of many orbs!</l>
+              <l>Thou seething principle! thou well-kept, latent germ! thou centre!</l>
+              <l>Around the idea of thee the war revolving,</l>
+              <l>With all its angry and vehement play of causes,</l>
+              <l>(With vast results to come for thrice a thousand years,)</l>
+              <l>These recitatives for thee,—my book and the war are one,</l>
+              <l>Merged in its spirit I and mine, as the contest hinged on thee,</l>
+              <l>As a wheel on its axis turns, this book unwitting to itself,</l>
+              <l>Around the idea of thee.</l>
+            </lg>
+          </lg>
+          
+          
     </body>
   </text>
 
