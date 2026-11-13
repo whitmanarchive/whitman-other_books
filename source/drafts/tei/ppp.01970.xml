@@ -131,8 +131,13 @@
             the rest, after the adjuncts of that history have been studied and 
             attended to.</p>
       
-      <pb facs="unl.jn.00008.jpg" xml:id="leaf004v" n="N/A" type="verso"/>
+    </front>
+    
+    <group>
+      <text>
+        <body>
       
+      <pb facs="unl.jn.00008.jpg" xml:id="leaf004v" n="N/A" type="verso"/>
       
       <pb facs="unl.jn.00009.jpg" xml:id="leaf005r" n="3" type="recto"/>
       
@@ -145,10 +150,6 @@
       <pb facs="unl.jn.00011.jpg" xml:id="leaf006r" n="7" type="recto"/>
       
       <pb facs="unl.jn.00012.jpg" xml:id="leaf006v" n="8" type="verso"/>
-      
-    </front>
-    
-    <body>
       
       <pb facs="unl.jn.00013.jpg" xml:id="leaf007r" n="9" type="recto"/>      
         <lg type="cluster">          
@@ -7164,9 +7165,2386 @@
                   </lg>
                </lg>
             </lg>
+      <milestone unit="undeclared" rend="horbar-short-center"/>
+      <lg type="poem" xml:id="ppp.00796">
+        <!--               <relations>
+                  <work ref="xxx.00117"/>
+               </relations>-->
+        <note type="work_relations" target="xxx.00117"></note>
+        <head type="main-authorial">SONG OF THE EXPOSITION.</head>
+        <lg type="section" n="1">
+          <head type="main-authorial">1</head>
+          <lg type="linegroup">
+            <l>(A<hi rend="smallcaps">H</hi> little recks the laborer,</l>
+            <l>How near his work is holding him to God,</l>
+            <l>The loving Laborer through space and time.)</l>
+          </lg>
+          <lg type="linegroup">
+            <l>After all not to create only, or found only,</l>
+            
+            
+    <pb facs="unl_jn.00164.jpg" xml:id="leaf081v" n="158" type="verso"/>
+                     <l>But to bring perhaps from afar what is already founded,</l>
+                     <l>To give it our own identity, average, limitless, free,</l>
+                     <l>To fill the gross the torpid bulk with vital religious fire,</l>
+                     <l>Not to repel or destroy so much as accept, fuse, rehabilitate,</l>
+                     <l>To obey as well as command, to follow more than to lead,</l>
+                     <l>These also are the lessons of our New World;</l>
+                     <l>While how little the New after all, how much the Old, Old World!</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>Long and long has the grass been growing,</l>
+                     <l>Long and long has the rain been falling,</l>
+                     <l>Long has the globe been rolling round.</l>
+                  </lg>
+               </lg>
+               <lg type="section" n="2">
+                  <head type="main-authorial">2</head>
+                  <lg type="linegroup">
+                     <l>Come Muse migrate from Greece and Ionia,</l>
+                     <l>Cross out please those immensely overpaid accounts,</l>
+                     <l>That matter of Troy and Achilles' wrath, and Aeneas', Odysseus'<lb/>wanderings,</l>
+                     <l>Placard "Removed" and "To Let" on the rocks of your snowy <lb/>Parnassus,</l>
+                     <l>Repeat at Jerusalem, place the notice high on Jaffa's gate and on <lb/>Mount Moriah,</l>
+                     <l>The same on the walls of your German, French and Spanish <lb/>castles, and Italian collections,</l>
+                     <l>For know a better, fresher, busier sphere, a wide, untried domain <lb/>awaits, demands you.</l>
+                  </lg>
+               </lg>
+               <lg type="section" n="3">
+                  <head type="main-authorial">3</head>
+                  <lg type="linegroup">
+                     <l>Responsive to our summons,</l>
+                     <l>Or rather to her long-nurs'd inclination,</l>
+                     <l>Join'd with an irresistible, natural gravitation,</l>
+                     <l>She comes! I hear the rustling of her gown,</l>
+                     <l>I scent the odor of her breath's delicious fragrance,</l>
+                     <l>I mark her step divine, her curious eyes a-turning, rolling,</l>
+                     <l>Upon this very scene.</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>The dame of dames! can I believe then,</l>
+                     <l>Those ancient temples, sculptures classic, could none of them <lb/>retain her?</l>
+                     <l>Nor shades of Virgil and Dante, nor myriad memories, poems,<lb/>old associations, magnetize and hold on to her?</l>
+                     <l>But that she's left them all—and here?</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>Yes, if you will allow me to say so,</l>
+                     <l>I, my friends, if you do not, can plainly see her,</l>
+                    
+                    
+    <pb facs="unl_jn.00165.jpg" xml:id="leaf082r" n="159" type="recto"/>
+                     <l>The same undying soul of earth's, activity's, beauty's, heroism's <lb/>expression,</l>
+                     <l>Out from her evolutions hither come, ended the strata of her <lb/>former themes,</l>
+                     <l>Hidden and cover'd by to-day's, foundation of to-day's,</l>
+                     <l>Ended, deceas'd through time, her voice by Castaly's fountain,</l>
+                     <l>Silent the broken-lipp'd Sphynx in Egypt, silent all those <choice><orig>century-<lb/>baffling</orig><reg>century-baffling</reg></choice> tombs,</l>
+                     <l>Ended for aye the epics of Asia's, Europe's helmeted warriors,<lb/>ended the primitive call of the muses,</l>
+                     <l>Calliope's call forever closed, Clio, Melpomene, Thalia dead,</l>
+                     <l>Ended the stately rhythmus of Una and Oriana, ended the quest <lb/>of the holy Graal,</l>
+                     <l>Jerusalem a handful of ashes blown by the wind, extinct,</l>
+                     <l>The Crusaders' streams of shadowy midnight troops sped with the <lb/>sunrise,</l>
+                     <l>Amadis, Tancred, utterly gone, Charlemagne, Roland, Oliver gone,</l>
+                     <l>Palmerin, ogre, departed, vanish'd the turrets that Usk from its <lb/>waters reflected,</l>
+                     <l>Arthur vanish'd with all his knights, Merlin and Lancelot and <lb/>Galahad, all gone, dissolv'd utterly like an exhalation;</l>
+                     <l>Pass'd! pass'd! for us, forever pass'd, that once so mighty world,<lb/>now void, inanimate, phantom world,</l>
+                     <l>Embroider'd, dazzling, foreign world, with all its gorgeous legends,<lb/>myths,</l>
+                     <l>Its kings and castles proud, its priests and warlike lords and <lb/>courtly dames,</l>
+                     <l>Pass'd to its charnel vault, coffin'd with crown and armor on,</l>
+                     <l>Blazon'd with <choice><orig>Shakspere's</orig><reg>Shakespeare's</reg></choice> purple page,</l>
+                     <l>And dirged by Tennyson's sweet sad rhyme.</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>I say I see, my friends, if you do not, the illustrious emigré,<lb/>(having it is true in her day, although the same, changed,<lb/>journey'd considerable,)</l>
+                     <l>Making directly for this rendezvous, vigorously clearing a path for <lb/>herself, striding through the confusion,</l>
+                     <l>By thud of machinery and shrill steam-whistle undismay'd,</l>
+                     <l>Bluff'd not a bit by drain-pipe, gasometers, artificial fertilizers,</l>
+                     <l>Smiling and pleas'd with palpable intent to stay,</l>
+                     <l>She's here, install'd amid the kitchen ware!</l>
+                  </lg>
+               </lg>
+               <lg type="section" n="4">
+                  <head type="main-authorial">4</head>
+                  <lg type="linegroup">
+                     <l>But hold—don't I forget my manners?</l>
+                     <l>To introduce the stranger, (what else indeed do I live to chant <lb/>for?) to thee Columbia;</l>
+                    
+                    
+    <pb facs="unl_jn.00166.jpg" xml:id="leaf082v" n="160" type="verso"/>
+                     <l>In liberty's name welcome immortal! clasp hands,</l>
+                     <l>And ever henceforth sisters dear be both.</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>Fear not O Muse! truly new ways and days receive, surround you,</l>
+                     <l>I candidly confess a queer, queer race, of novel fashion,</l>
+                     <l>And yet the same old human race, the same within, without,</l>
+                     <l>Faces and hearts the same, feelings the same, yearnings the same,</l>
+                     <l>The same old love, beauty and use the same.</l>
+                  </lg>
+               </lg>
+               <lg type="section" n="5">
+                  <head type="main-authorial">5</head>
+                  <lg type="linegroup">
+                     <l>We do not blame thee elder World, nor really separate ourselves <lb/>from thee,</l>
+                     <l>(Would the son separate himself from the father?)</l>
+                     <l>Looking back on thee, seeing thee to thy duties, grandeurs,<lb/>through past ages bending, building,</l>
+                     <l>We build to ours to-day.</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>Mightier than Egypt's tombs,</l>
+                     <l>Fairer than Grecia's, Roma's temples,</l>
+                     <l>Prouder than Milan's statued, spired cathedral,</l>
+                     <l>More picturesque than Rhenish castle-keeps,</l>
+                     <l>We plan even now to raise, beyond them all,</l>
+                     <l>Thy great cathedral sacred industry, no tomb,</l>
+                     <l>A keep for life for practical invention.</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>As in a waking vision,</l>
+                     <l>E'en while I chant I see it rise, I scan and prophesy outside <lb/>and in,</l>
+                     <l>Its manifold ensemble.</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>Around a palace, loftier, fairer, ampler than any yet,</l>
+                     <l>Earth's modern wonder, history's seven outstripping,</l>
+                     <l>High rising tier on tier with glass and iron façades,</l>
+                     <l>Gladdening the sun and sky, enhued in cheerfulest hues,</l>
+                     <l>Bronze, lilac, robin's-egg, marine and crimson,</l>
+                     <l>Over whose golden roof shall flaunt, beneath thy banner Freedom,</l>
+                     <l>The banners of the States and flags of every land,</l>
+                     <l>A brood of lofty, fair, but lesser palaces shall cluster.</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>Somewhere within their walls shall all that forwards perfect human <lb/>life be started,</l>
+                     <l>Tried, taught, advanced, visibly exhibited.</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>Not only all the world of works, trade, products,</l>
+                     <l>But all the workmen of the world here to be represented.</l>
+                  </lg>
+                 
+                 
+    <pb facs="unl_jn.00167.jpg" xml:id="leaf083r" n="161" type="recto"/>
+                  <lg type="linegroup">
+                     <l>Here shall you trace in flowing operation,</l>
+                     <l>In every state of practical, busy movement, the rills of civilization,</l>
+                     <l>Materials here under your eye shall change their shape as if by <lb/>magic,</l>
+                     <l>The cotton shall be pick'd almost in the very field,</l>
+                     <l>Shall be dried, clean'd, ginn'd, baled, spun into thread and cloth <lb/>before you,</l>
+                     <l>You shall see hands at work at all the old processes and all the <lb/>new ones,</l>
+                     <l>You shall see the various grains and how flour is made and then <lb/>bread baked by the bakers,</l>
+                     <l>You shall see the crude ores of California and Nevada passing on <lb/>and on till they become bullion,</l>
+                     <l>You shall watch how the printer sets type, and learn what a <choice><orig>com-<lb/>posing</orig><reg>composing-stick</reg></choice>-stick is,</l>
+                     <l>You shall mark in amazement the Hoe press whirling its cylinders,<lb/>shedding the printed leaves steady and fast,</l>
+                     <l>The photograph, model, watch, pin, nail, shall be created before <lb/>you.</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>In large calm halls, a stately museum shall teach you the infinite <lb/>lessons of minerals,</l>
+                     <l>In another, woods, plants, vegetation shall be illustrated—in <lb/>another animals, animal life and development.</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>One stately house shall be the music house,</l>
+                     <l>Others for other arts—learning, the sciences, shall all be here,</l>
+                     <l>None shall be slighted, none but shall here be honor'd, help'd,<lb/>exampled.</l>
+                  </lg>
+               </lg>
+               <lg type="section" n="6">
+                  <head type="main-authorial">6</head>
+                  <lg type="linegroup">
+                     <l>(This, this and these, America, shall be <hi rend="italic">your</hi> pyramids and <lb/>obelisks,</l>
+                     <l>Your Alexandrian Pharos, gardens of Babylon,</l>
+                     <l>Your temple at Olympia.)</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>The male and female many laboring not,</l>
+                     <l>Shall ever here confront the laboring many,</l>
+                     <l>With precious benefits to both, glory to all,</l>
+                     <l>To thee America, and thee eternal Muse.</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>And here shall ye inhabit powerful Matrons!</l>
+                     <l>In your vast state vaster than all the old,</l>
+                     <l>Echoed through long, long centuries to come,</l>
+                     <l>To sound of different, prouder songs, with stronger themes,</l>
+                    
+                    
+    <pb facs="unl_jn.00168.jpg" xml:id="leaf083v" n="162" type="verso"/>
+                     <l>Practical, peaceful life, the people's life, the People themselves,</l>
+                     <l>Lifted, illumin'd, bathed in peace—elate, secure in peace.</l>
+                  </lg>
+               </lg>
+               <lg type="section" n="7">
+                  <head type="main-authorial">7</head>
+                  <lg type="linegroup">
+                     <l>Away with themes of war! away with war itself!</l>
+                     <l>Hence from my shuddering sight to never more return that show <lb/>of blacken'd, mutilated corpses!</l>
+                     <l>That hell unpent and raid of blood, fit for wild tigers or for <choice><orig>lop-<lb/>tongued</orig><reg>lop-tongued</reg></choice> wolves, not reasoning men,</l>
+                     <l>And in its stead speed industry's campaigns,</l>
+                     <l>With thy undaunted armies, engineering,</l>
+                     <l>Thy pennants labor, loosen'd to the breeze,</l>
+                     <l>Thy bugles sounding loud and clear.</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>Away with old romance!</l>
+                     <l>Away with novels, plots and plays of foreign courts,</l>
+                     <l>Away with love-verses sugar'd in rhyme, the intrigues, amours of <lb/>idlers,</l>
+                     <l>Fitted for only banquets of the night where dancers to late music <lb/>slide,</l>
+                     <l>The unhealthy pleasures, extravagant dissipations of the few,</l>
+                     <l>With perfumes, heat and wine, beneath the dazzling chandeliers.</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>To you ye reverent sane sisters,</l>
+                     <l>I raise a voice for far superber themes for poets and for art,</l>
+                     <l>To exalt the present and the real,</l>
+                     <l>To teach the average man the glory of his daily walk and trade,</l>
+                     <l>To sing in songs how exercise and chemical life are never to be <lb/>baffled,</l>
+                     <l>To manual work for each and all, to plough, hoe, dig,</l>
+                     <l>To plant and tend the tree, the berry, vegetables, flowers,</l>
+                     <l>For every man to see to it that he really do something, for every <lb/>woman too;</l>
+                     <l>To use the hammer and the saw, (rip, or cross-cut,)</l>
+                     <l>To cultivate a turn for carpentering, plastering, painting,</l>
+                     <l>To work as tailor, tailoress, nurse, hostler, porter,</l>
+                     <l>To invent a little, something ingenious, to aid the washing, <choice><orig>cook-<lb/>ing</orig><reg>cooking</reg></choice>, cleaning,</l>
+                     <l>And hold it no disgrace to take a hand at them themselves.</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>I say I bring thee Muse to-day and here,</l>
+                     <l>All occupations, duties broad and close,</l>
+                     <l>Toil, healthy toil and sweat, endless, without cessation,</l>
+                     <l>The old, old practical burdens, interests, joys,</l>
+                    
+                    
+    <pb facs="unl_jn.00169.jpg" xml:id="leaf084r" n="163" type="recto"/>
+                     <l>The family, parentage, childhood, husband and wife,</l>
+                     <l>The house-comforts, the house itself and all its belongings,</l>
+                     <l>Food and its preservation, chemistry applied to it,</l>
+                     <l>Whatever forms the average, strong, complete, sweet-blooded man <lb/>or woman, the perfect longeve personality,</l>
+                     <l>And helps its present life to health and happiness, and shapes its soul,</l>
+                     <l>For the eternal real life to come.</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>With latest connections, works, the inter-transportation of the world,</l>
+                     <l>Steam-power, the great express lines, gas, petroleum,</l>
+                     <l>These triumphs of our time, the Atlantic's delicate cable,</l>
+                     <l>The Pacific railroad, the Suez canal, the Mont Cenis and Gothard <lb/>and Hoosac tunnels, the Brooklyn bridge,</l>
+                     <l>This earth all spann'd with iron rails, with lines of steamships <lb/>threading every sea,</l>
+                     <l>Our own rondure, the current globe I bring.</l>
+                  </lg>
+               </lg>
+               <lg type="section" n="8">
+                  <head type="main-authorial">8</head>
+                  <lg type="linegroup">
+                     <l>And thou America,</l>
+                     <l>Thy offspring towering e'er so high, yet higher Thee above all <lb/>towering,</l>
+                     <l>With Victory on thy left, and at thy right hand Law;</l>
+                     <l>Thou Union holding all, fusing, absorbing, tolerating all,</l>
+                     <l>Thee, ever thee, I sing.</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>Thou, also thou, a World,</l>
+                     <l>With all thy wide geographies, manifold, different, distant,</l>
+                     <l>Rounded by thee in one—one common orbic language,</l>
+                     <l>One common indivisible destiny for All.</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>And by the spells which ye vouchsafe to those your ministers in <lb/>earnest,</l>
+                     <l>I here personify and call my themes, to make them pass before ye.</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>Behold, America! (and thou, ineffable guest and sister!)</l>
+                     <l>For thee come trooping up thy waters and thy lands;</l>
+                     <l>Behold! thy fields and farms, thy far-off woods and mountains,</l>
+                     <l>As in procession coming.</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>Behold, the sea itself,</l>
+                     <l>And on its limitless, heaving breast, the ships;</l>
+                     <l>See, where their white sails, bellying in the wind, speckle the green <lb/>and blue,</l>
+                     <l>See, the steamers coming and going, steaming in or out of port,</l>
+                     <l>See, dusky and undulating, the long pennants of smoke.</l>
+                  </lg>
+                 
+                 
+    <pb facs="unl_jn.00170.jpg" xml:id="leaf084v" n="164" type="verso"/>
+                  <lg type="linegroup">
+                     <l>Behold, in Oregon, far in the north and west,</l>
+                     <l>Or in Maine, far in the north and east, thy cheerful axemen,</l>
+                     <l>Wielding all day their axes.</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>Behold, on the lakes, thy pilots at their wheels, thy oarsmen,</l>
+                     <l>How the ash writhes under those muscular arms!</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>There by the furnace, and there by the anvil,</l>
+                     <l>Behold thy sturdy blacksmiths swinging their sledges,</l>
+                     <l>Overhand so steady, overhand they turn and fall with joyous clank,</l>
+                     <l>Like a tumult of laughter.</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>Mark the spirit of invention everywhere, thy rapid patents,</l>
+                     <l>Thy continual workshops, foundries, risen or rising,</l>
+                     <l>See, from their chimneys how the tall flame-fires stream.</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>Mark, thy interminable farms, North, South,</l>
+                     <l>Thy wealthy daughter-states, Eastern and Western,</l>
+                     <l>The varied products of Ohio, Pennsylvania, Missouri, Georgia,<lb/>Texas, and the rest,</l>
+                     <l>Thy limitless crops, grass, wheat, sugar, oil, corn, rice, hemp, hops,</l>
+                     <l>Thy barns all fill'd, the endless freight-train and the bulging <lb/>storehouse,</l>
+                     <l>The grapes that ripen on thy vines, the apples in thy orchards,</l>
+                     <l>Thy incalculable lumber, beef, pork, potatoes, thy coal, thy gold <lb/>and silver,</l>
+                     <l>The inexhaustible iron in thy mines.</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>All thine O sacred Union!</l>
+                     <l>Ships, farms, shops, barns, factories, mines,</l>
+                     <l>City and State, North, South, item and aggregate,</l>
+                     <l>We dedicate, dread Mother, all to thee!</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>Protectress absolute, thou! bulwark of all!</l>
+                     <l>For well we know that while thou givest each and all,(generous <lb/>as God,)</l>
+                     <l>Without thee neither all nor each, nor land, home,</l>
+                     <l>Nor ship, nor mine, nor any here this day secure,</l>
+                     <l>Nor aught, nor any day secure.</l>
+                  </lg>
+               </lg>
+               <lg type="section" n="9">
+                  <head type="main-authorial">9</head>
+                  <lg type="linegroup">
+                     <l>And thou, the Emblem waving over all!</l>
+                     <l>Delicate beauty, a word to thee, (it may be salutary,)</l>
+                     <l>Remember thou hast not always been as here to-day so comfortably <lb/>ensovereign'd,</l>
+                    
+                    
+    <pb facs="unl_jn.00171.jpg" xml:id="leaf085r" n="165" type="recto"/>
+                     <l>In other scenes than these have I observ'd thee flag,</l>
+                     <l>Not quite so trim and whole and freshly blooming in folds of <choice><orig>stain-<lb/>less</orig><reg>stainless</reg></choice> silk,</l>
+                     <l>But I have seen thee bunting, to tatters torn upon thy splinter'd staff,</l>
+                     <l>Or clutch'd to some young color-bearer's breast with desperate hands,</l>
+                     <l>Savagely struggled for, for life or death, fought over long,</l>
+                     <l>'Mid cannons' thunder-crash and many a curse and groan and yell,<lb/>and rifle-volleys cracking sharp,</l>
+                     <l>And moving masses as wild demons surging, and lives as nothing <lb/>risk'd,</l>
+                     <l>For thy mere remnant grimed with dirt and smoke and sopp'd in <lb/>blood,</l>
+                     <l>For sake of that, my beauty, and that thou might'st dally as now <lb/>secure up there,</l>
+                     <l>Many a good man have I seen go under.</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>Now here and these and hence in peace, all thine O Flag!</l>
+                     <l>And here and hence for thee, O universal Muse! and thou for them!</l>
+                     <l>And here and hence O Union, all the work and workmen thine!</l>
+                     <l>None separate from thee—henceforth One only, we and thou,</l>
+                     <l>(For the blood of the children, what is it, only the blood <lb/>maternal?</l>
+                     <l>And lives and works, what are they all at last, except the roads to <lb/>faith and death?)</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>While we rehearse our measureless wealth, it is for thee, dear <lb/>Mother,</l>
+                     <l>We own it all and several to-day indissoluble in thee;</l>
+                     <l>Think not our chant, our show, merely for products gross or lucre <lb/>—it is for thee, the soul in thee, electric, spiritual!</l>
+                     <l>Our farms, inventions, crops, we own in thee! cities and States in <lb/>thee!</l>
+                     <l>Our freedom all in thee! our very lives in thee!</l>
+                  </lg>
+               </lg>
+            </lg>
+      <milestone unit="undeclared" rend="horbar-short-center"/>
+      <lg type="poem" xml:id="ppp.00797">
+        <!--               <relations>
+                  <work ref="xxx.00118"/>
+               </relations>-->
+        <note type="work_relations" target="xxx.00118"></note>
+        <head type="main-authorial">SONG OF THE REDWOOD-TREE.</head>
+        <lg type="section" n="1">
+          <head type="main-authorial">1</head>
+          <lg type="linegroup">
+            <l>A C<hi rend="smallcaps">ALIFORNIA</hi> song,</l>
+            <l>A prophecy and indirection, a thought impalpable to breathe as air,</l>
+            <l>A chorus of dryads, fading, departing, or hamadryads departing, </l>
+            <l>A murmuring, fateful, giant voice, out of the earth and sky,</l>
+            <l>Voice of a mighty dying tree in the redwood forest dense.</l>
+          </lg>
+          
+          
+    <pb facs="unl_jn.00172.jpg" xml:id="leaf085v" n="166" type="verso"/>
+          <lg type="linegroup">
+            <l>
+              <hi rend="italic">Farewell my brethren,</hi> 
+            </l>
+            <l>
+              <hi rend="italic">Farewell O earth and sky, farewell ye neighboring waters,</hi> 
+            </l>
+            <l>
+              <hi rend="italic">My time has ended, my term has come.</hi> 
+            </l>
+          </lg>
+          <lg type="linegroup">
+            <l>Along the northern coast,</l>
+            <l>Just back from the rock-bound shore and the caves,</l>
+            <l>In the saline air from the sea in the Mendocino country,</l>
+            <l>With the surge for base and accompaniment low and hoarse,</l>
+            <l>With crackling blows of axes sounding musically driven by strong <lb/>arms,</l>
+            <l>Riven deep by the sharp tongues of the axes, there in the redwood <lb/>forest dense,</l>
+            <l>I heard the mighty tree its death-chant chanting.</l>
+          </lg>
+          <lg type="linegroup">
+            <l>The choppers heard not, the camp shanties echoed not,</l>
+            <l>The quick-ear'd teamsters and chain and jack-screw men heard <lb/>not,</l>
+            <l>As the wood-spirits came from their haunts of a thousand years to <lb/>join the refrain,</l>
+            <l>But in my soul I plainly heard.</l>
+          </lg>
+          <lg type="linegroup">
+            <l>Murmuring out of its myriad leaves,</l>
+            <l>Down from its lofty top rising two hundred feet high,</l>
+            <l>Out of its stalwart trunk and limbs, out of its foot-thick bark,</l>
+            <l>That chant of the seasons and time, chant not of the past only <lb/>but the future.</l>
+          </lg>
+          <lg type="linegroup">
+            <l>
+              <hi rend="italic">You untold life of me,</hi> 
+            </l>
+            <l>
+              <hi rend="italic">And all you venerable and innocent joys,</hi> 
+            </l>
+            <l>
+              <hi rend="italic">Perennial hardy life of me with joys 'mid rain and many a </hi>
+              <lb/>
+              <hi rend="italic">summer sun,</hi>
+            </l>
+            <l>
+              <hi rend="italic">And the white snows and night and the wild winds; </hi>
+            </l>
+            <l>
+              <hi rend="italic">O the great patient rugged joys, my soul's strong joys unreck'd by </hi>
+              <lb/>
+              <hi rend="italic">man, </hi>
+            </l>
+            <l>
+              <hi rend="italic">(For know I bear the soul befitting me, I too have consciousness, </hi>
+              <lb/>
+              <hi rend="italic">identity, </hi>
+            </l>
+            <l>
+              <hi rend="italic">And all the rocks and mountains have, and all the earth,) </hi>
+            </l>
+            <l>
+              <hi rend="italic">Joys of the life befitting me and brothers mine, </hi>
+            </l>
+            <l>
+              <hi rend="italic">Our time, our term has come. </hi>
+            </l>
+          </lg>
+          <lg type="linegroup">
+            <l>
+              <hi rend="italic">Nor yield we mournfully majestic brothers, </hi>
+            </l>
+            <l>
+              <hi rend="italic">We who have grandly fill'd our time; </hi>
+            </l>
+            <l>
+              <hi rend="italic">With Nature's calm content, with tacit huge delight, </hi>
+            </l>
+            <l>
+              <hi rend="italic">We welcome what we wrought for through the past, </hi>
+            </l>
+            <l>
+              <hi rend="italic">And leave the field for them. </hi>
+            </l>
+          </lg>
+          
+          
+    <pb facs="unl_jn.00173.jpg" xml:id="leaf086r" n="167" type="recto"/>
+          <lg type="linegroup">
+            <l>
+              <hi rend="italic">For them predicted long, </hi>
+            </l>
+            <l>
+              <hi rend="italic">For a superber race, they too to grandly fill their time, </hi>
+            </l>
+            <l>
+              <hi rend="italic">For them we abdicate, in them ourselves ye forest kings! </hi>
+            </l>
+            <l>
+              <hi rend="italic">In them these skies and airs, these mountain peaks, Shasta, </hi>
+              <lb/>
+              <hi rend="italic">Nevadas, </hi>
+            </l>
+            <l>
+              <hi rend="italic">These huge precipitous cliffs, this amplitude, these valleys, far </hi>
+              <lb/>
+              <hi rend="italic">Yosemite, </hi>
+            </l>
+            <l>
+              <hi rend="italic">To be in them absorb'd, assimilated. </hi>
+            </l>
+          </lg>
+          <lg type="linegroup">
+            <l>Then to a loftier strain,</l>
+            <l>Still prouder, more ecstatic rose the chant,</l>
+            <l>As if the heirs, the deities of the West,</l>
+            <l>Joining with master-tongue bore part.</l>
+          </lg>
+          <lg type="linegroup">
+            <l>
+              <hi rend="italic">Not wan from Asia's fetiches, </hi>
+            </l>
+            <l>
+              <hi rend="italic">Nor red from Europe's old dynastic slaughter-house, </hi>
+            </l>
+            <l>
+              <hi rend="italic">(Area of murder-plots of thrones, with scent left yet of wars and </hi>
+              <lb/>
+              <hi rend="italic">scaffolds everywhere,) </hi>
+            </l>
+            <l>
+              <hi rend="italic">But come from Nature's long and harmless throes, peacefully </hi>
+              <lb/>
+              <hi rend="italic">builded thence, </hi>
+            </l>
+            <l>
+              <hi rend="italic">These virgin lands, lands of the Western shore, </hi>
+            </l>
+            <l>
+              <hi rend="italic">To the new culminating man, to you, the empire new, </hi>
+            </l>
+            <l>
+              <hi rend="italic">You promis'd long, we pledge, we dedicate.</hi> 
+            </l>
+          </lg>
+          <lg type="linegroup">
+            <l>
+              <hi rend="italic">You occult deep volitions,</hi>
+            </l>
+            <l>
+              <hi rend="italic">You average spiritual manhood, purpose of all, pois'd on yourself, </hi>
+              <lb/>
+              <hi rend="italic">giving not taking law, </hi>
+            </l>
+            <l>
+              <hi rend="italic">You womanhood divine, mistress and source of all, whence life </hi>
+              <lb/>
+              <hi rend="italic">and love and aught that comes from life and love, </hi>
+            </l>
+            <l>
+              <hi rend="italic">You unseen moral essence of all the vast materials of America, </hi>
+              <lb/>
+              <hi rend="italic">(age upon age working in death the same as life,) </hi>
+            </l>
+            <l>
+              <hi rend="italic">You that, sometimes known, oftener unknown, really shape and </hi>
+              <lb/>
+              <hi rend="italic">mould the New World, adjusting it to Time and Space, </hi>
+            </l>
+            <l>
+              <hi rend="italic">You hidden national will lying in your abysms, conceal'd but ever </hi>
+              <lb/>
+              <hi rend="italic">alert, </hi>
+            </l>
+            <l>
+              <hi rend="italic">You past and present purposes tenaciously pursued, may-be <choice><orig>uncon-<lb/>scious</orig><reg>unconscious</reg></choice> of yourselves, </hi>
+            </l>
+            <l>
+              <hi rend="italic">Unswerv'd by all the passing errors, perturbations of the surface; </hi>
+            </l>
+            <l>
+              <hi rend="italic">You vital, universal, deathless germs, beneath all creeds, arts, </hi>
+              <lb/>
+              <hi rend="italic">statutes, literatures, </hi>
+            </l>
+            <l>
+              <hi rend="italic">Here build your homes for good, establish here, these areas entire, </hi>
+              <lb/>
+              <hi rend="italic">lands of the Western shore, </hi>
+            </l>
+            <l>
+              <hi rend="italic">We pledge, we dedicate to you. </hi>
+            </l>
+          </lg>
+          <lg type="linegroup">
+            <l>
+              <hi rend="italic">For man of you, your characteristic race, </hi>
+            </l>
+            
+            
+    <pb facs="unl_jn.00174.jpg" xml:id="leaf086v" n="168" type="verso"/>
+            <l>
+              <hi rend="italic">Here may he hardy, sweet, gigantic grow, here tower <choice><orig>proportion-<lb/>ate</orig><reg>proportionate</reg></choice> to Nature, </hi>
+            </l>
+            <l>
+              <hi rend="italic">Here climb the vast pure spaces unconfined, uncheck'd by wall or </hi>
+              <lb/>
+              <hi rend="italic">roof, </hi>
+            </l>
+            <l>
+              <hi rend="italic">Here laugh with storm or sun, here joy, here patiently inure, </hi>
+            </l>
+            <l>
+              <hi rend="italic">Here heed himself, unfold himself, (not others' formulas heed,) </hi>
+              <lb/>
+              <hi rend="italic">here fill his time, </hi>
+            </l>
+            <l>
+              <hi rend="italic">To duly fall, to aid, unreck'd at last, </hi>
+            </l>
+            <l>
+              <hi rend="italic">To disappear, to serve.</hi> 
+            </l>
+          </lg>
+          <lg type="linegroup">
+            <l>Thus on the northern coast,</l>
+            <l>In the echo of teamsters' calls and the clinking chains, and the <lb/>music of choppers' axes,</l>
+            <l>The falling trunk and limbs, the crash, the muffled shriek, the <lb/>groan,</l>
+            <l>Such words combined from the redwood-tree, as of voices ecstatic,<lb/>ancient and rustling,</l>
+            <l>The century-lasting, unseen dryads, singing, withdrawing,</l>
+            <l>All their recesses of forests and mountains leaving,</l>
+            <l>From the Cascade range to the Wahsatch, or Idaho far, or Utah,</l>
+            <l>To the deities of the modern henceforth yielding,</l>
+            <l>The chorus and indications, the vistas of coming humanity, the <lb/>settlements, features all,</l>
+            <l>In the Mendocino woods I caught.</l>
+          </lg>
+        </lg>
+        <lg type="section" n="2">
+          <head type="main-authorial">2</head>
+          <lg type="linegroup">
+            <l>The flashing and golden pageant of California,</l>
+            <l>The sudden and gorgeous drama, the sunny and ample lands,</l>
+            <l>The long and varied stretch from Puget sound to Colorado south,</l>
+            <l>Lands bathed in sweeter, rarer, healthier air, valleys and mountain <lb/>cliffs,</l>
+            <l>The fields of Nature long prepared and fallow, the silent, cyclic <lb/>chemistry,</l>
+            <l>The slow and steady ages plodding, the unoccupied surface <choice><orig>ripen-<lb/>ing</orig><reg>ripening</reg></choice>, the rich ores forming beneath;</l>
+            <l>At last the New arriving, assuming, taking possession,</l>
+            <l>A swarming and busy race settling and organizing everywhere,</l>
+            <l>Ships coming in from the whole round world, and going out to <lb/>the whole world,</l>
+            <l>To India and China and Australia and the thousand island <choice><orig>para-<lb/>dises</orig><reg>paradises</reg></choice> of the Pacific,</l>
+            <l>Populous cities, the latest inventions, the steamers on the rivers,<lb/>the railroads, with many a thrifty farm, with machinery,</l>
+            <l>And wool and wheat and the grape, and diggings of yellow gold.</l>
+          </lg>
+        </lg>
+        
+        
+    <pb facs="unl_jn.00175.jpg" xml:id="leaf087r" n="169" type="recto"/>
+        <lg type="section" n="3">
+          <head type="main-authorial">3</head>
+          <lg type="linegroup">
+            <l>But more in you than these, lands of the Western shore,</l>
+            <l>(These but the means, the implements, the standing-ground,)</l>
+            <l>I see in you, certain to come, the promise of thousands of years,<lb/>till now deferr'd,</l>
+            <l>Promis'd to be fulfill'd, our common kind, the race.</l>
+          </lg>
+          <lg type="linegroup">
+            <l>The new society at last, proportionate to Nature,</l>
+            <l>In man of you, more than your mountain peaks or stalwart trees <lb/>imperial,</l>
+            <l>In woman more, far more, than all your gold or vines, or even <lb/>vital air.</l>
+          </lg>
+          <lg type="linegroup">
+            <l>Fresh come, to a new world indeed, yet long prepared,</l>
+            <l>I see the genius of the modern, child of the real and ideal,</l>
+            <l>Clearing the ground for broad humanity, the true America, heir <lb/>of the past so grand,</l>
+            <l>To build a grander future.</l>
+          </lg>
+        </lg>
+      </lg>
+          <milestone unit="undeclared" rend="horbar-short-center"/>
+          <lg type="poem" xml:id="ppp.00798">
+            <!--               <relations>
+                  <work ref="xxx.00119"/>
+               </relations>-->
+            <note type="work_relations" target="xxx.00119"></note>
+            <head type="main-authorial">A SONG FOR OCCUPATIONS.</head>
+            <lg type="section" n="1">
+              <head type="main-authorial">1</head>
+              
+              <lg type="linegroup">
+                <l>A <hi rend="smallcaps">SONG</hi> for occupations!</l>
+                <l>In the labor of engines and trades and the labor of fields I find <lb/>the developments,</l>
+                <l>And find the eternal meanings.</l>
+              </lg>
+              <lg type="linegroup">
+                <l>Workmen and Workwomen!</l>
+                <l>Were all educations practical and ornamental well display'd out <lb/>of me, what would it amount to?</l>
+                <l>Were I as the head teacher, charitable proprietor, wise statesman,<lb/>what would it amount to?</l>
+                <l>Were I to you as the boss employing and paying you, would that <lb/>satisfy you?</l>
+              </lg>
+              <lg type="linegroup">
+                <l>The learn'd, virtuous, benevolent, and the usual terms,</l>
+                <l>A man like me and never the usual terms.</l>
+              </lg>
+              <lg type="linegroup">
+                <l>Neither a servant nor a master I,</l>
+                <l>I take no sooner a large price than a small price, I will have my <lb/>own whoever enjoys me,</l>
+                <l>I will be even with you and you shall be even with me.</l>
+              </lg>
+              
+              
+    <pb facs="unl_jn.00176.jpg" xml:id="leaf087v" n="170" type="verso"/>
+              <lg type="linegroup">
+                <l>If you stand at work in a shop I stand as nigh as the nighest in <lb/>the same shop,</l>
+                <l>If you bestow gifts on your brother or dearest friend I demand as <lb/>good as your brother or dearest friend,</l>
+                <l>If your lover, husband, wife, is welcome by day or night, I must <lb/>be personally as welcome,</l>
+                <l>If you become degraded, criminal, ill, then I become so for your <lb/>sake,</l>
+                <l>If you remember your foolish and outlaw'd deeds, do you think <lb/>I cannot remember my own foolish and outlaw'd deeds?</l>
+                <l>If you carouse at the table I carouse at the opposite side of the <lb/>table,</l>
+                <l>If you meet some stranger in the streets and love him or her, why <lb/>I often meet strangers in the street and love them.</l>
+              </lg>
+              <lg type="linegroup">
+                <l>Why what have you thought of yourself?</l>
+                <l>Is it you then that thought yourself less?</l>
+                <l>Is it you that thought the President greater than you?</l>
+                <l>Or the rich better off than you? or the educated wiser than you?</l>
+              </lg>
+              <lg type="linegroup">
+                <l>(Because you are greasy or pimpled, or were once drunk, or a <lb/>thief,</l>
+                <l>Or that you are diseas'd, or rheumatic, or a prostitute,</l>
+                <l>Or from frivolity or impotence, or that you are no scholar and <lb/>never saw your name in print,</l>
+                <l>Do you give in that you are any less immortal?)</l>
+              </lg>
+            </lg>
+            <lg type="section" n="2">
+              <head type="main-authorial">2</head>
+              <lg type="linegroup">
+                <l>Souls of men and women! it is not you I call unseen, unheard,<lb/>untouchable and untouching,</l>
+                <l>It is not you I go argue pro and con about, and to settle whether <lb/>you are alive or no,</l>
+                <l>I own publicly who you are, if nobody else owns.</l>
+              </lg>
+              <lg type="linegroup">
+                <l>Grown, half-grown and babe, of this country and every country, <choice><orig>in-<lb/>doors</orig><reg>indoors</reg></choice> and out-doors, one just as much as the other, I see,</l>
+                <l>And all else behind or through them.</l>
+              </lg>
+              <lg type="linegroup">
+                <l>The wife, and she is not one jot less than the husband,</l>
+                <l>The daughter, and she is just as good as the son,</l>
+                <l>The mother, and she is every bit as much as the father.</l>
+              </lg>
+              <lg type="linegroup">
+                <l>Offspring of ignorant and poor, boys apprenticed to trades,</l>
+                <l>Young fellows working on farms and old fellows working on farms,</l>
+                <l>Sailor-men, merchant-men, coasters, immigrants,</l>
+                
+                
+    <pb facs="unl_jn.00177.jpg" xml:id="leaf088r" n="171" type="recto"/>
+                <l>All these I see, but nigher and farther the same I see,</l>
+                <l>None shall escape me and none shall wish to escape me.</l>
+              </lg>
+              <lg type="linegroup">
+                <l>I bring what you much need yet always have,</l>
+                <l>Not money, amours, dress, eating, erudition, but as good,</l>
+                <l>I send no agent or medium, offer no representative of value, but <lb/>offer the value itself.</l>
+              </lg>
+              <lg type="linegroup">
+                <l>There is something that comes to one now and perpetually,</l>
+                <l>It is not what is printed, preach'd, discussed, it eludes discussion <lb/>and print,</l>
+                <l>It is not to be put in a book, it is not in this book,</l>
+                <l>It is for you whoever you are, it is no farther from you than your <lb/>hearing and sight are from you,</l>
+                <l>It is hinted by nearest, commonest, readiest, it is ever provoked <lb/>by them.</l>
+              </lg>
+              <lg type="linegroup">
+                <l>You may read in many languages, yet read nothing about it,</l>
+                <l>You may read the President's message and read nothing about it <lb/>there,</l>
+                <l>Nothing in the reports from the State department or Treasury <lb/>department, or in the daily papers or weekly papers,</l>
+                <l>Or in the census or revenue returns, prices current, or any <lb/>accounts of stock.</l>
+              </lg>
+            </lg>
+            <lg type="section" n="3">
+              <head type="main-authorial">3</head>
+              <lg type="linegroup">
+                <l>The sun and stars that float in the open air,</l>
+                <l>The apple-shaped earth and we upon it, surely the drift of them <lb/>is something grand,</l>
+                <l>I do not know what it is except that it is grand, and that it is <lb/>happiness,</l>
+                <l>And that the enclosing purport of us here is not a speculation or <lb/>bon-mot or reconnoissance,</l>
+                <l>And that it is not something which by luck may turn out well for <lb/>us, and without luck must be a failure for us,</l>
+                <l>And not something which may yet be retracted in a certain <lb/>contingency.</l>
+              </lg>
+              <lg type="linegroup">
+                <l>The light and shade, the curious sense of body and identity, the <lb/>greed that with perfect complaisance devours all things,</l>
+                <l>The endless pride and outstretching of man, unspeakable joys <lb/>and sorrows,</l>
+                <l>The wonder every one sees in every one else he sees, and the <lb/>wonders that fill each minute of time forever,</l>
+                <l>What have you reckon'd them for, camerado?</l>
+                
+                
+    <pb facs="unl_jn.00178.jpg" xml:id="leaf088v" n="172" type="verso"/>
+                <l>Have you reckon'd them for your trade or farm-work? or for the <lb/>profits of your store?</l>
+                <l>Or to achieve yourself a position? or to fill a gentleman's leisure,<lb/>or a lady's leisure?</l>
+              </lg>
+              <lg type="linegroup">
+                <l>Have you reckon'd that the landscape took substance and form <lb/>that it might be painted in a picture?</l>
+                <l>Or men and women that they might be written of, and songs sung?</l>
+                <l>Or the attraction of gravity, and the great laws and harmonious <lb/>combinations and the fluids of the air, as subjects for the <lb/>savans?</l>
+                <l>Or the brown land and the blue sea for maps and charts?</l>
+                <l>Or the stars to be put in constellations and named fancy names?</l>
+                <l>Or that the growth of seeds is for agricultural tables, or <choice><orig>agricul-<lb/>ture</orig><reg>agriculture</reg></choice> itself?</l>
+              </lg>
+              <lg type="linegroup">
+                <l>Old institutions, these arts, libraries, legends, collections, and the <lb/>practice handed along in manufactures, will we rate them <lb/>so high?</l>
+                <l>Will we rate our cash and business high? I have no objection,</l>
+                <l>I rate them as high as the highest—then a child born of a <lb/>woman and man I rate beyond all rate.</l>
+              </lg>
+              <lg type="linegroup">
+                <l>We thought our Union grand, and our Constitution grand,</l>
+                <l>I do not say they are not grand and good, for they are,</l>
+                <l>I am this day just as much in love with them as you,</l>
+                <l>Then I am in love with You, and with all my fellows upon the <lb/>earth.</l>
+              </lg>
+              <lg type="linegroup">
+                <l>We consider bibles and religions divine—I do not say they are <lb/>not divine,</l>
+                <l>I say they have all grown out of you, and may grow out of you <lb/>still,</l>
+                <l>It is not they who give the life, it is you who give the life,</l>
+                <l>Leaves are not more shed from the trees, or trees from the earth,<lb/>than they are shed out of you.</l>
+              </lg>
+            </lg>
+            <lg type="section" n="4">
+              <head type="main-authorial">4</head>
+              <lg type="linegroup">
+                <l>The sum of all known reverence I add up in you whoever you are,</l>
+                <l>The President is there in the White House for you, it is not you <lb/>who are here for him,</l>
+                <l>The Secretaries act in their bureaus for you, not you here for them,</l>
+                <l>The Congress convenes every Twelfth-month for you,</l>
+                <l>Laws, courts, the forming of States, the charters of cities, the <lb/>going and coming of commerce and mails, are all for you.</l>
+              </lg>
+              
+              
+    <pb facs="unl_jn.00179.jpg" xml:id="leaf089r" n="173" type="recto"/>
+              <lg type="linegroup">
+                <l>List close my scholars dear,</l>
+                <l>Doctrines, politics and civilization exurge from you,</l>
+                <l>Sculpture and monuments and any thing inscribed anywhere are <lb/>tallied in you,</l>
+                <l>The gist of histories and statistics as far back as the records reach <lb/>is in you this hour, and myths and tales the same,</l>
+                <l>If you were not breathing and walking here, where would they <lb/>all be?</l>
+                <l>The most renown'd poems would be ashes, orations and plays <lb/>would be vacuums.</l>
+              </lg>
+              <lg type="linegroup">
+                <l>All architecture is what you do to it when you look upon it,</l>
+                <l>(Did you think it was in the white or gray stone? or the lines of <lb/>the arches and cornices?)</l>
+              </lg>
+              <lg type="linegroup">
+                <l>All music is what awakes from you when you are reminded by the <lb/>instruments,</l>
+                <l>It is not the violins and the cornets, it is not the oboe nor the <lb/>beating drums, nor the score of the baritone singer singing <lb/>his sweet romanza, nor that of the men's chorus, nor that <lb/>of the women's chorus,</l>
+                <l>It is nearer and farther than they.</l>
+              </lg>
+            </lg>
+            <lg type="section" n="5">
+              <head type="main-authorial">5</head>
+              <lg type="linegroup">
+                <l>Will the whole come back then?</l>
+                <l>Can each see signs of the best by a look in the looking-glass? is <lb/>there nothing greater or more?</l>
+                <l>Does all sit there with you, with the mystic unseen soul?</l>
+              </lg>
+              <lg type="linegroup">
+                <l>Strange and hard that paradox true I give,</l>
+                <l>Objects gross and the unseen soul are one.</l>
+              </lg>
+              <lg type="linegroup">
+                <l>House-building, measuring, sawing the boards,</l>
+                <l>Blacksmithing, glass-blowing, nail-making, coopering, tin-roofing,<lb/>shingle-dressing,</l>
+                <l>Ship-joining, dock-building, fish-curing, flagging of sidewalks by <lb/>flaggers,</l>
+                <l>The pump, the pile-driver, the great derrick, the coal-kiln and <lb/>brick-kiln,</l>
+                <l>Coal-mines and all that is down there, the lamps in the darkness,<lb/>echoes, songs, what meditations, what vast native thoughts <lb/>looking through smutch'd faces,</l>
+                <l>Iron-works, forge-fires in the mountains or by river-banks, men <lb/>around feeling the melt with huge crowbars, lumps of ore,<lb/>the due combining of ore, limestone, coal,</l>
+                
+                
+    <pb facs="unl_jn.00180jpg" xml:id="leaf089v" n="174" type="verso"/>
+                <l>The blast-furnace and the puddling-furnace, the loup-lump at the <lb/>bottom of the melt at last, the rolling-mill, the stumpy <lb/>bars of pig-iron, the strong clean-shaped T-rail for <choice><orig>rail-<lb/>roads</orig><reg>railroads</reg></choice>,</l>
+                <l>Oil-works, silk-works, white-lead-works, the sugar-house, <choice><orig>steam-<lb/>saws</orig><reg>steam-saws</reg></choice>, the great mills and factories,</l>
+                <l>Stone-cutting, shapely trimmings for façades or window or <choice><orig>door-<lb/>lintels</orig><reg>door-lintels</reg></choice>, the mallet, the tooth-chisel, the jib to protect the <lb/>thumb,</l>
+                <l>The calking-iron, the kettle of boiling vault-cement, and the fire <lb/>under the kettle,</l>
+                <l>The cotton-bale, the stevedore's hook, the saw and buck of the <lb/>sawyer, the mould of the moulder, the working-knife of <lb/>the butcher, the ice-saw, and all the work with ice,</l>
+                <l>The work and tools of the rigger, grappler, sail-maker, <choice><orig>block-<lb/>maker</orig><reg>block-maker</reg></choice>,</l>
+                <l>Goods of gutta-percha, papier-maché, colors, brushes, <choice><orig>brush-<lb/>making</orig><reg>brush-making</reg></choice>, glazier's implements,</l>
+                <l>The veneer and glue-pot, the confectioner's ornaments, the <lb/>decanter and glasses, the shears and flat-iron,</l>
+                <l>The awl and knee-strap, the pint measure and quart measure, the <lb/>counter and stool, the writing-pen of quill or metal, the <lb/>making of all sorts of edged tools,</l>
+                <l>The brewery, brewing, the malt, the vats, every thing that is done <lb/>by brewers, wine-makers, vinegar-makers,</l>
+                <l>Leather-dressing, coach-making, boiler-making, rope-twisting, <choice><orig>dis-<lb/>tilling</orig><reg>distilling</reg></choice>, sign-painting, lime-burning, cotton-picking, <choice><orig>electro-<lb/>plating</orig><reg>electroplating</reg></choice>, electrotyping, stereotyping,</l>
+                <l>Stave-machines, planing-machines, reaping-machines, <choice><orig>ploughing-<lb/>machines</orig><reg>ploughing-machines</reg></choice>, thrashing-machines, steam wagons,</l>
+                <l>The cart of the carman, the omnibus, the ponderous dray,</l>
+                <l>Pyrotechny, letting off color'd fireworks at night, fancy figures and <lb/>jets;</l>
+                <l>Beef on the butcher's stall, the slaughter-house of the butcher, the <lb/>butcher in his killing-clothes,</l>
+                <l>The pens of live pork, the killing-hammer, the hog-hook, the <lb/>scalder's tub, gutting, the cutter's cleaver, the packer's maul,<lb/>and the plenteous winterwork of pork-packing,</l>
+                <l>Flour-works, grinding of wheat, rye, maize, rice, the barrels and <lb/>the half and quarter barrels, the loaded barges, the high <lb/>piles on wharves and levees,</l>
+                <l>The men and the work of the men on ferries, railroads, coasters,<lb/>fish-boats, canals;</l>
+                <l>The hourly routine of your own or any man's life, the shop, yard,<lb/>store, or factory,</l>
+                
+                
+    <pb facs="unl_jn.00181.jpg" xml:id="leaf090r" n="175" type="recto"/>
+                <l>These shows all near you by day and night—workman! whoever <lb/>you are, your daily life!</l>
+                <l>In that and them the heft of the heaviest—in that and them far <lb/>more than you estimated, (and far less also,)</l>
+                <l>In them realities for you and me, in them poems for you and me,</l>
+                <l>In them, not yourself—you and your soul enclose all things, <choice><orig>re-<lb/>gardless</orig><reg>regardless</reg></choice> of estimation,</l>
+                <l>In them the development good—in them all themes, hints, <choice><orig>possi-<lb/>bilities</orig><reg>possibilities</reg></choice>.</l>
+              </lg>
+              <lg type="linegroup">
+                <l>I do not affirm that what you see beyond is futile, I do not advise <lb/>you to stop,</l>
+                <l>I do not say leadings you thought great are not great,</l>
+                <l>But I say that none lead to greater than these lead to.</l>
+              </lg>
+            </lg>
+            <lg type="section" n="6">
+              <head type="main-authorial">6</head>
+              <lg type="linegroup">
+                <l>Will you seek afar off? you surely come back at last,</l>
+                <l>In things best known to you finding the best, or as good as the <lb/>best,</l>
+                <l>In folks nearest to you finding the sweetest, strongest, lovingest,</l>
+                <l>Happiness, knowledge, not in another place but this place, not for <lb/>another hour but this hour,</l>
+                <l>Man in the first you see or touch, always in friend, brother,<lb/>nighest neighbor—woman in mother, sister, wife,</l>
+                <l>The popular tastes and employments taking precedence in poems <lb/>or anywhere,</l>
+                <l>You workwomen and workmen of these States having your own <lb/>divine and strong life,</l>
+                <l>And all else giving place to men and women like you.</l>
+              </lg>
+              <lg type="linegroup">
+                <l>When the psalm sings instead of the singer,</l>
+                <l>When the script preaches instead of the preacher,</l>
+                <l>When the pulpit descends and goes instead of the carver that <lb/>carved the supporting desk,</l>
+                <l>When I can touch the body of books by night or by day, and <lb/>when they touch my body back again,</l>
+                <l>When a university course convinces like a slumbering woman and <lb/>child convince,</l>
+                <l>When the minted gold in the vault smiles like the night-watchman's <lb/>daughter,</l>
+                <l>When warrantee deeds loafe in chairs opposite and are my friendly <lb/>companions,</l>
+                <l>I intend to reach them my hand, and make as much of them as <lb/>I do of men and women like you.</l>
+              </lg>
+            </lg>
+          </lg>
+          
+          
+    <pb facs="unl_jn.00182.jpg" xml:id="leaf090v" n="176" type="verso"/>
+          <lg type="poem" xml:id="ppp.00799">
+            <!--               <relations>
+                  <work ref="xxx.00120"/>
+               </relations>-->
+            <note type="work_relations" target="xxx.00120"></note>
+            <head type="main-authorial">A SONG OF THE ROLLING EARTH.</head>               
+            <lg type="section" n="1">
+              <head type="main-authorial">1</head>
+              <lg type="linegroup">
+                <l>A <hi rend="smallcaps">SONG</hi> of the rolling earth, and of words according,</l>
+                <l>Were you thinking that those were the words, those upright lines?<lb/>those curves, angles, dots?</l>
+                <l>No, those are not the words, the substantial words are in the <lb/>ground and sea,</l>
+                <l>They are in the air, they are in you.</l>
+              </lg>
+              <lg type="linegroup">
+                <l>Were you thinking that those were the words, those delicious sounds <lb/>out of your friends' mouths?</l>
+                <l>No, the real words are more delicious than they.</l>
+              </lg>
+              <lg type="linegroup">
+                <l>Human bodies are words, myriads of words,</l>
+                <l>(In the best poems re-appears the body, man's or woman's, <choice><orig>well-<lb/>shaped</orig><reg>well-shaped</reg></choice>, natural, gay,</l>
+                <l>Every part able, active, receptive, without shame or the need of <lb/>shame.)</l>
+              </lg>
+              <lg type="linegroup">
+                <l>Air, soil, water, fire—those are words,</l>
+                <l>I myself am a word with them—my qualities interpenetrate with <lb/>theirs—my name is nothing to them,</l>
+                <l>Though it were told in the three thousand languages, what would <lb/>air, soil, water, fire, know of my name?</l>
+              </lg>
+              <lg type="linegroup">
+                <l>A healthy presence, a friendly or commanding gesture, are words,<lb/>sayings, meanings,</l>
+                <l>The charms that go with the mere looks of some men and women,<lb/>are sayings and meanings also.</l>
+              </lg>
+              <lg type="linegroup">
+                <l>The workmanship of souls is by those inaudible words of the earth,</l>
+                <l>The masters know the earth's words and use them more than <lb/>audible words.</l>
+              </lg>
+              <lg type="linegroup">
+                <l>Amelioration is one of the earth's words,</l>
+                <l>The earth neither lags nor hastens,</l>
+                <l>It has all attributes, growths, effects, latent in itself from the jump,</l>
+                <l>It is not half beautiful only, defects and excrescences show just as <lb/>much as perfections show.</l>
+              </lg>
+              <lg type="linegroup">
+                <l>The earth does not withhold, it is generous enough,</l>
+                <l>The truths of the earth continually wait, they are not so conceal'd <lb/>either,</l>
+              </lg>
+              
+              
+    <pb facs="unl_jn.00183.jpg" xml:id="leaf091r" n="177" type="recto"/>
+              <lg type="linegroup">
+                <l>They are calm, subtle, untransmissible by print,</l>
+                <l>They are imbued through all things conveying themselves willingly,</l>
+                <l>Conveying a sentiment and invitation, I utter and utter,</l>
+                <l>I speak not, yet if you hear me not of what avail am I to you?</l>
+                <l>To bear, to better, lacking these of what avail am I?</l>
+              </lg>
+              <lg type="linegroup">
+                <l>(Accouche! accouchez!</l>
+                <l>Will you rot your own fruit in yourself there?</l>
+                <l>Will you squat and stifle there?)</l>
+              </lg>
+              <lg type="linegroup">
+                <l>The earth does not argue,</l>
+                <l>Is not pathetic, has no arrangements,</l>
+                <l>Does not scream, haste, persuade, threaten, promise,</l>
+                <l>Makes no discriminations, has no conceivable failures,</l>
+                <l>Closes nothing, refuses nothing, shuts none out,</l>
+                <l>Of all the powers, objects, states, it notifies, shuts none out.</l>
+              </lg>
+              <lg type="linegroup">
+                <l>The earth does not exhibit itself nor refuse to exhibit itself, <choice><orig>pos-<lb/>sesses</orig><reg>possesses</reg></choice> still underneath,</l>
+                <l>Underneath the ostensible sounds, the august chorus of heroes, the <lb/>wail of slaves,</l>
+                <l>Persuasions of lovers, curses, gasps of the dying, laughter of young <lb/>people, accents of bargainers,</l>
+                <l>Underneath these possessing words that never fail.</l>
+              </lg>
+              <lg type="linegroup">
+                <l>To her children the words of the eloquent dumb great mother <lb/>never fail,</l>
+                <l>The true words do not fail, for motion does not fail and reflection <lb/>does not fail,</l>
+                <l>Also the day and night do not fail, and the voyage we pursue does <lb/>not fail.</l>
+              </lg>
+              <lg type="linegroup">
+                <l>Of the interminable sisters,</l>
+                <l>Of the ceaseless cotillons of sisters,</l>
+                <l>Of the centripetal and centrifugal sisters, the elder and younger <lb/>sisters,</l>
+                <l>The beautiful sister we know dances on with the rest.</l>
+              </lg>
+              <lg type="linegroup">
+                <l>With her ample back towards every beholder,</l>
+                <l>With the fascinations of youth and the equal fascinations of age,</l>
+                <l>Sits she whom I too love like the rest, sits undisturb'd,</l>
+                <l>Holding up in her hand what has the character of a mirror, while <lb/>her eyes glance back from it,</l>
+                <l>Glance as she sits, inviting none, denying none,</l>
+                <l>Holding a mirror day and night tirelessly before her own face.</l>
+              </lg>
+              
+              
+    <pb facs="unl_jn.00184.jpg" xml:id="leaf091v" n="178" type="verso"/>
+              <lg type="linegroup">
+                <l>Seen at hand or seen at a distance,</l>
+                <l>Duly the twenty-four appear in public every day,</l>
+                <l>Duly approach and pass with their companions or a companion,</l>
+                <l>Looking from no countenances of their own, but from the <choice><orig>counte-<lb/>nances</orig><reg>countenances</reg></choice> of those who are with them,</l>
+                <l>From the countenances of children or women or the manly <choice><orig>coun-<lb/>tenance</orig><reg>countenance</reg></choice>,</l>
+                <l>From the open countenances of animals or from inanimate things,</l>
+                <l>From the landscape or waters or from the exquisite apparition of <lb/>the sky,</l>
+                <l>From our countenances, mine and yours, faithfully returning them,</l>
+                <l>Every day in public appearing without fail, but never twice with <lb/>the same companions.</l>
+              </lg>
+              <lg type="linegroup">
+                <l>Embracing man, embracing all, proceed the three hundred and <lb/>sixty-five resistlessly round the sun;</l>
+                <l>Embracing all, soothing, supporting, follow close three hundred <lb/>and sixty-five offsets of the first, sure and necessary as they.</l>
+              </lg>
+              <lg type="linegroup">
+                <l>Tumbling on steadily, nothing dreading,</l>
+                <l>Sunshine, storm, cold, heat, forever withstanding, passing, carrying,</l>
+                <l>The soul's realization and determination still inheriting,</l>
+                <l>The fluid vacuum around and ahead still entering and dividing,</l>
+                <l>No balk retarding, no anchor anchoring, on no rock striking,</l>
+                <l>Swift, glad, content, unbereav'd, nothing losing,</l>
+                <l>Of all able and ready at any time to give strict account,</l>
+                <l>The divine ship sails the divine sea.</l>
+              </lg>
+            </lg>
+            <lg type="section" n="2">
+              <head type="main-authorial">2</head>
+              <lg type="linegroup">
+                <l>Whoever you are! motion and reflection are especially for you,</l>
+                <l>The divine ship sails the divine sea for you.</l>
+              </lg>
+              <lg type="linegroup">
+                <l>Whoever you are! you are he or she for whom the earth is solid <lb/>and liquid,</l>
+                <l>You are he or she for whom the sun and moon hang in the sky,</l>
+                <l>For none more than you are the present and the past,</l>
+                <l>For none more than you is immortality.</l>
+              </lg>
+              <lg type="linegroup">
+                <l>Each man to himself and each woman to herself, is the word of <lb/>the past and present, and the true word of immortality;</l>
+                <l>No one can acquire for another—not one,</l>
+                <l>Not one can grow for another—not one.</l>
+              </lg>
+              <lg type="linegroup">
+                <l>The song is to the singer, and comes back most to him,</l>
+                <l>The teaching is to the teacher, and comes back most to him,</l>
+                
+                
+    <pb facs="unl_jn.00185.jpg" xml:id="leaf092r" n="179" type="recto"/>
+                <l>The murder is to the murderer, and comes back most to him,</l>
+                <l>The theft is to the thief, and comes back most to him,</l>
+                <l>The love is to the lover, and comes back most to him,</l>
+                <l>The gift is to the giver, and comes back most to him—it cannot <lb/>fail,</l>
+                <l>The oration is to the orator, the acting is to the actor and actress <lb/>not to the audience,</l>
+                <l>And no man understands any greatness or goodness but his own,<lb/>or the indication of his own.</l>
+              </lg>
+            </lg>
+            <lg type="section" n="3">
+              <head type="main-authorial">3</head>
+              <lg type="linegroup">
+                <l>I swear the earth shall surely be complete to him or her who shall <lb/>be complete,</l>
+                <l>The earth remains jagged and broken only to him or her who <lb/>remains jagged and broken.</l>
+              </lg>
+              <lg type="linegroup">
+                <l>I swear there is no greatness or power that does not emulate <lb/>those of the earth,</l>
+                <l>There can be no theory of any account unless it corroborate the <lb/>theory of the earth,</l>
+                <l>No politics, song, religion, behavior, or what not, is of account,<lb/>unless it compare with the amplitude of the earth,</l>
+                <l>Unless it face the exactness, vitality, impartiality, rectitude of the <lb/>earth.</l>
+              </lg>
+              <lg type="linegroup">
+                <l>I swear I begin to see love with sweeter spasms than that which <lb/>responds love,</l>
+                <l>It is that which contains itself, which never invites and never <lb/>refuses.</l>
+              </lg>
+              <lg type="linegroup">
+                <l>I swear I begin to see little or nothing in audible words,</l>
+                <l>All merges toward the presentation of the unspoken meanings <lb/>of the earth,</l>
+                <l>Toward him who sings the songs of the body and of the truths <lb/>of the earth,</l>
+                <l>Toward him who makes the dictionaries of words that print <choice><orig>can-<lb/>not</orig><reg>cannot</reg></choice> touch.</l>
+              </lg>
+              <lg type="linegroup">
+                <l>I swear I see what is better than to tell the best,</l>
+                <l>It is always to leave the best untold.</l>
+              </lg>
+              <lg type="linegroup">
+                <l>When I undertake to tell the best I find I cannot,</l>
+                <l>My tongue is ineffectual on its pivots,</l>
+                <l>My breath will not be obedient to its organs,</l>
+                <l>I become a dumb man.</l>
+              </lg>
+              
+              
+    <pb facs="unl_jn.00186.jpg" xml:id="leaf092v" n="180" type="verso"/>
+              <lg type="linegroup">
+                <l>The best of the earth cannot be told anyhow, all or any is best,</l>
+                <l>It is not what you anticipated, it is cheaper, easier, nearer,</l>
+                <l>Things are not dismiss'd from the places they held before,</l>
+                <l>The earth is just as positive and direct as it was before,</l>
+                <l>Facts, religions, improvements, politics, trades, are as real as before,</l>
+                <l>But the soul is also real, it too is positive and direct,</l>
+                <l>No reasoning, no proof has establish'd it,</l>
+                <l>Undeniable growth has establish'd it.</l>
+              </lg>
+            </lg>
+            <lg type="section" n="4">
+              <head type="main-authorial">4</head>
+              <lg type="linegroup">
+                <l>These to echo the tones of souls and the phrases of souls,</l>
+                <l>(If they did not echo the phrases of souls what were they then?</l>
+                <l>If they had not reference to you in especial what were they then?)</l>
+              </lg>
+              <lg type="linegroup">
+                <l>I swear I will never henceforth have to do with the faith that tells <lb/>the best,</l>
+                <l>I will have to do only with that faith that leaves the best untold.</l>
+              </lg>
+              <lg type="linegroup">
+                <l>Say on, sayers! sing on, singers!</l>
+                <l>Delve! mould! pile the words of the earth!</l>
+                <l>Work on, age after age, nothing is to be lost,</l>
+                <l>It may have to wait long, but it will certainly come in use,</l>
+                <l>When the materials are all prepared and ready, the architects shall <lb/>appear.</l>
+              </lg>
+              <lg type="linegroup">
+                <l>I swear to you the architects shall appear without fail,</l>
+                <l>I swear to you they will understand you and justify you,</l>
+                <l>The greatest among them shall be he who best knows you, and <lb/>encloses all and is faithful to all,</l>
+                <l>He and the
+                  rest shall not forget you, they shall perceive that you <lb/>are not an iota less than they,</l>
+                <l>You shall be fully glorified in them.</l>
+              </lg>
+            </lg>
+          </lg>
+          <milestone unit="undeclared" rend="horbar-short-center"/>
+          <lg type="poem" xml:id="ppp.00800">
+            <!--               <relations>
+                  <work ref="xxx.00121"/>
+               </relations>-->
+            <note type="work_relations" target="xxx.00121"></note>
+            <head type="main-authorial">YOUTH, DAY, OLD AGE AND NIGHT.</head>
+            <lg type="linegroup">
+              <l>Y<hi rend="smallcaps">OUTH</hi>, large, lusty, loving—youth full of grace, force, fascination,</l>
+              <l>Do you know that Old Age may come after you with equal grace, <lb/>force, fascination?</l>
+            </lg>
+            <lg type="linegroup">
+              <l>Day full-blown and splendid—day of the immense sun, action, <lb/>ambition, laughter,</l>
+              <l>The Night follows close with millions of suns, and sleep and <lb/>restoring darkness.</l>
+            </lg>
+          </lg>
+          
+          
+    <pb facs="unl_jn.00187.jpg" xml:id="leaf093r" n="181" type="recto"/>
+            <lg type="cluster" xml:id="ppp.01119">
+<!--               <relations>
+                  <work ref="xxx.00122"/>
+               </relations>-->
+            <note type="work_relations" target="xxx.00122"></note>
+               <head type="main-authorial">BIRDS OF PASSAGE.</head>
+               <milestone unit="undeclared" rend="horbar-short-center"/>
+               <lg type="poem" xml:id="ppp.00801">
+<!--                  <relations>
+                     <work ref="xxx.00123"/>
+                  </relations>-->
+            <note type="work_relations" target="xxx.00123"></note>
+                  <head type="main-authorial">SONG OF THE UNIVERSAL.</head>
+                  <lg type="section" n="1">
+                     <head type="main-authorial">1</head>
+                     <lg type="linegroup">
+                        <l>C<hi rend="smallcaps">OME</hi> said the Muse,</l>
+                        <l>Sing me a song no poet yet has chanted,</l>
+                        <l>Sing me the universal.</l>
+                     </lg>
+                     <lg type="linegroup">
+                        <l>In this broad earth of ours,</l>
+                        <l>Amid the measureless grossness and the slag,</l>
+                        <l>Enclosed and safe within its central heart,</l>
+                        <l>Nestles the seed perfection.</l>
+                     </lg>
+                     <lg type="linegroup">
+                        <l>By every life a share or more or less,</l>
+                        <l>None born but it is born, conceal'd or unconceal'd the seed is <lb/>waiting.</l>
+                     </lg>
+                  </lg>
+                  <lg type="section" n="2">
+                     <head type="main-authorial">2</head>
+                     <lg type="linegroup">
+                        <l>Lo! keen-eyed towering science,</l>
+                        <l>As from tall peaks the modern overlooking,</l>
+                        <l>Successive absolute fiats issuing.</l>
+                     </lg>
+                     <lg type="linegroup">
+                        <l>Yet again, lo! the soul, above all science,</l>
+                        <l>For it has history gather'd like husks around the globe,</l>
+                        <l>For it the entire star-myriads roll through the sky.</l>
+                     </lg>
+                     <lg type="linegroup">
+                        <l>In spiral routes by long detours,</l>
+                        <l>(As a much-tacking ship upon the sea,)</l>
+                        <l>For it the partial to the permanent flowing,</l>
+                        <l>For it the real to the ideal tends.</l>
+                     </lg>
+                     <lg type="linegroup">
+                        <l>For it the mystic evolution,</l>
+                        <l>Not the right only justified, what we call evil also justified.</l>
+                     </lg>
+                     <lg type="linegroup">
+                        <l>Forth from their masks, no matter what,</l>
+                        <l>From the huge festering trunk, from craft and guile and tears,</l>
+                        <l>Health to emerge and joy, joy universal.</l>
+                     </lg>
+                     <lg type="linegroup">
+                        <l>Out of the bulk, the morbid and the shallow,</l>
+                        <l>Out of the bad majority, the varied countless frauds of men and <lb/>states,</l>
+                        <l>Electric, antiseptic yet, cleaving, suffusing all,</l>
+                        <l>Only the good is universal.</l>
+                     </lg>
+                  </lg>
+                 
+                 
+    <pb facs="unl_jn.00188.jpg" xml:id="leaf093v" n="182" type="verso"/>
+                  <lg type="section" n="3">
+                     <head type="main-authorial">3</head>
+                     <lg type="linegroup">
+                        <l>Over the mountain-growths disease and sorrow,</l>
+                        <l>An uncaught bird is ever hovering, hovering,</l>
+                        <l>High in the purer, happier air.</l>
+                     </lg>
+                     <lg type="linegroup">
+                        <l>From imperfection's murkiest cloud,</l>
+                        <l>Darts always forth one ray of perfect light,</l>
+                        <l>One flash of heaven's glory.</l>
+                     </lg>
+                     <lg type="linegroup">
+                        <l>To fashion's, custom's discord,</l>
+                        <l>To the mad Babel-din, the deafening orgies,</l>
+                        <l>Soothing each lull a strain is heard, just heard,</l>
+                        <l>From some far shore the final chorus sounding.</l>
+                     </lg>
+                     <lg type="linegroup">
+                        <l>O the blest eyes, the happy hearts,</l>
+                        <l>That see, that know the guiding thread so fine,</l>
+                        <l>Along the mighty labyrinth.</l>
+                     </lg>
+                  </lg>
+                  <lg type="section" n="4">
+                     <head type="main-authorial">4</head>
+                     <lg type="linegroup">
+                        <l>And thou America,</l>
+                        <l>For the scheme's culmination, its thought and its reality,</l>
+                        <l>For these (not for thyself) thou hast arrived.</l>
+                     </lg>
+                     <lg type="linegroup">
+                        <l>Thou too surroundest all,</l>
+                        <l>Embracing carrying welcoming all, thou too by pathways broad <lb/>and new,</l>
+                        <l>To the ideal tendest.</l>
+                     </lg>
+                     <lg type="linegroup">
+                        <l>The measur'd faiths of other lands, the grandeurs of the past,</l>
+                        <l>Are not for thee, but grandeurs of thine own,</l>
+                        <l>Deific faiths and amplitudes, absorbing, comprehending all,</l>
+                        <l>All eligible to all.</l>
+                     </lg>
+                     <lg type="linegroup">
+                        <l>All, all for immortality,</l>
+                        <l>Love like the light silently wrapping all,</l>
+                        <l>Nature's amelioration blessing all,</l>
+                        <l>The blossoms, fruits of ages, orchards divine and certain,</l>
+                        <l>Forms, objects, growths, humanities, to spiritual images ripening.</l>
+                     </lg>
+                     <lg type="linegroup">
+                        <l>Give me O God to sing that thought,</l>
+                        <l>Give me, give him or her I love this quenchless faith,</l>
+                        <l>In Thy ensemble, whatever else withheld withhold not from us,</l>
+                        <l>Belief in plan of Thee enclosed in Time and Space,</l>
+                        <l>Health, peace, salvation universal.</l>
+                     </lg>
+                    
+                    
+    <pb facs="unl_jn.00189.jpg" xml:id="leaf094r" n="183" type="recto"/>
+                     <lg type="linegroup">
+                        <l>Is it a dream?</l>
+                        <l>Nay but the lack of it the dream,</l>
+                        <l>And failing it life's lore and wealth a dream,</l>
+                        <l>And all the world a dream.</l>
+                     </lg>
+                  </lg>
+               </lg>
+               <lg type="poem" xml:id="ppp.00802">
+<!--                  <relations>
+                     <work ref="xxx.00124"/>
+                  </relations>-->
+            <note type="work_relations" target="xxx.00124"></note>
+                  <head type="main-authorial">PIONEERS! O PIONEERS!</head>
+                  <lg type="linegroup">
+                     <l>C<hi rend="smallcaps">OME</hi> my tan-faced children,</l>
+                     <l>Follow well in order, get your weapons ready,</l>
+                     <l>Have you your pistols? have you your sharp-edged axes?</l>
+                     <l>Pioneers! O pioneers!</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>For we cannot tarry here,</l>
+                     <l>We must march my darlings, we must bear the brunt of danger,</l>
+                     <l>We the youthful sinewy races, all the rest on us depend,</l>
+                     <l>Pioneers! O pioneers!</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>O you youths, Western youths,</l>
+                     <l>So impatient, full of action, full of manly pride and friendship,</l>
+                     <l>Plain I see you Western youths, see you tramping with the <choice><orig>fore-<lb/>most</orig><reg>foremost</reg></choice>,</l>
+                     <l>Pioneers! O pioneers!</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>Have the elder races halted?</l>
+                     <l>Do they droop and end their lesson, wearied over there beyond <lb/>the seas?</l>
+                     <l>We take up the task eternal, and the burden and the lesson,</l>
+                     <l>Pioneers! O pioneers!</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>All the past we leave behind,</l>
+                     <l>We debouch upon a newer mightier world, varied world,</l>
+                     <l>Fresh and strong the world we seize, world of labor and the march,</l>
+                     <l>Pioneers! O pioneers!</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>We detachments steady throwing,</l>
+                     <l>Down the edges, through the passes, up the mountains steep,</l>
+                     <l>Conquering, holding, daring, venturing as we go the unknown ways,</l>
+                     <l>Pioneers! O pioneers!</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>We primeval forests felling,</l>
+                     <l>We the rivers stemming, vexing we and piercing deep the mines <lb/>within,</l>
+                     <l>We the surface broad surveying, we the virgin soil upheaving,</l>
+                     <l>Pioneers! O pioneers!</l>
+                  </lg>
+                 
+                 
+    <pb facs="unl_jn.00190.jpg" xml:id="leaf094v" n="184" type="verso"/>
+                  <lg type="linegroup">
+                     <l>Colorado men are we,</l>
+                     <l>From the peaks gigantic, from the great sierras and the high <lb/>plateaus,</l>
+                     <l>From the mine and from the gully, from the hunting trail we come,</l>
+                     <l>Pioneers! O pioneers!</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>From Nebraska, from Arkansas,</l>
+                     <l>Central inland race are we, from Missouri, with the continental <lb/>blood intervein'd,</l>
+                     <l>All the hands of comrades clasping, all the Southern, all the <lb/>Northern,</l>
+                     <l>Pioneers! O pioneers!</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>O resistless restless race!</l>
+                     <l>O beloved race in all! O my breast aches with tender love for all!</l>
+                     <l>O I mourn and yet exult, I am rapt with love for all,</l>
+                     <l>Pioneers! O pioneers!</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>Raise the mighty mother mistress,</l>
+                     <l>Waving high the delicate mistress, over all the starry mistress,<lb/>(bend your heads all,)</l>
+                     <l>Raise the fang'd and warlike mistress, stern, impassive, weapon'd <lb/>mistress,</l>
+                     <l>Pioneers! O pioneers!</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>See my children, resolute children,</l>
+                     <l>By those swarms upon our rear we must never yield or falter,</l>
+                     <l>Ages back in ghostly millions frowning there behind us urging,</l>
+                     <l>Pioneers! O pioneers!</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>On and on the compact ranks,</l>
+                     <l>With accessions ever waiting, with the places of the dead quickly <lb/>fill'd,</l>
+                     <l>Through the battle, through defeat, moving yet and never stopping,</l>
+                     <l>Pioneers! O pioneers!</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>O to die advancing on!</l>
+                     <l>Are there some of us to droop and die? has the hour come?</l>
+                     <l>Then upon the march we fittest die, soon and sure the gap is fill'd,</l>
+                     <l>Pioneers! O pioneers!</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>All the pulses of the world,</l>
+                     <l>Falling in they beat for us, with the Western movement beat,</l>
+                     <l>Holding single or together, steady moving to the front, all for us,</l>
+                     <l>Pioneers! O pioneers!</l>
+                  </lg>
+                 
+                 
+    <pb facs="unl_jn.00181.jpg" xml:id="leaf095r" n="185" type="recto"/>
+                  <lg type="linegroup">
+                     <l>Life's involv'd and varied pageants,</l>
+                     <l>All the forms and shows, all the workmen at their work,</l>
+                     <l>All the seamen and the landsmen, all the masters with their slaves,</l>
+                     <l>Pioneers! O pioneers!</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>All the hapless silent lovers,</l>
+                     <l>All the prisoners in the prisons, all the righteous and the wicked,</l>
+                     <l>All the joyous, all the sorrowing, all the living, all the dying,</l>
+                     <l>Pioneers! O pioneers!</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>I too with my soul and body,</l>
+                     <l>We, a curious trio, picking, wandering on our way,</l>
+                     <l>Through these shores amid the shadows, with the apparitions <lb/>pressing,</l>
+                     <l>Pioneers! O pioneers!</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>Lo, the darting bowling orb!</l>
+                     <l>Lo, the brother orbs around, all the clustering suns and planets,</l>
+                     <l>All the dazzling days, all the mystic nights with dreams,</l>
+                     <l>Pioneers! O pioneers!</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>These are of us, they are with us,</l>
+                     <l>All for primal needed work, while the followers there in embryo <lb/>wait behind,</l>
+                     <l>We to-day's procession heading, we the route for travel clearing,</l>
+                     <l>Pioneers! O pioneers!</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>O you daughters of the West!</l>
+                     <l>O you young and elder daughters! O you mothers and you wives!</l>
+                     <l>Never must you be divided, in our ranks you move united,</l>
+                     <l>Pioneers! O pioneers!</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>Minstrels latent on the prairies!</l>
+                     <l>(Shrouded bards of other lands, you may rest, you have done <lb/>your work,)</l>
+                     <l>Soon I hear you coming warbling, soon you rise and tramp amid us,</l>
+                     <l>Pioneers! O pioneers!</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>Not for delectations sweet,</l>
+                     <l>Not the cushion and the slipper, not the peaceful and the studious,</l>
+                     <l>Not the riches safe and palling, not for us the tame enjoyment,<lb/>Pioneers! O pioneers!</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>Do the feasters gluttonous feast?</l>
+                     <l>Do the corpulent sleepers sleep? have they lock'd and bolted doors?</l>
+                     <l>Still be ours the diet hard, and the blanket on the ground,</l>
+                     <l>Pioneers! O pioneers!</l>
+                  </lg>
+                 
+                 
+    <pb facs="unl_jn.00192.jpg" xml:id="leaf095v" n="186" type="verso"/>
+                  <lg type="linegroup">
+                     <l>Has the night descended?</l>
+                     <l>Was the road of late so toilsome? did we stop discouraged nodding <lb/>on our way?</l>
+                     <l>Yet a passing hour I yield you in your tracks to pause oblivious,</l>
+                     <l>Pioneers! O pioneers!</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>Till with sound of trumpet,</l>
+                     <l>Far, far off the daybreak call—hark! how loud and clear I hear <lb/>it wind,</l>
+                     <l>Swift! to the head of the army!—swift! spring to your places,</l>
+                     <l>Pioneers! O pioneers!</l>
+                  </lg>
+               </lg>
+               <lg type="poem" xml:id="ppp.00803">
+<!--                  <relations>
+                     <work ref="xxx.00125"/>
+                  </relations>-->
+            <note type="work_relations" target="xxx.00125"></note>
+                  <head type="main-authorial">TO YOU.</head>
+                  <lg type="linegroup">
+                     <l>W<hi rend="smallcaps">HOEVER</hi> you are, I fear you are walking the walks of dreams,</l>
+                     <l>I fear these supposed realities are to melt from under your feet <lb/>and hands,</l>
+                     <l>Even now your features, joys, speech, house, trade, manners,<lb/>troubles, follies, costume, crimes, dissipate away from you,</l>
+                     <l>Your true soul and body appear before me,</l>
+                     <l>They stand forth out of affairs, out of commerce, shops, work,<lb/>farms, clothes, the house, buying, selling, eating, drinking,<lb/>suffering, dying.</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>Whoever you are, now I place my hand upon you, that you be my <lb/>poem,</l>
+                     <l>I whisper with my lips close to your ear,</l>
+                     <l>I have loved many women and men, but I love none better than <lb/>you.</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>O I have been dilatory and dumb,</l>
+                     <l>I should have made my way straight to you long ago,</l>
+                     <l>I should have blabb'd nothing but you, I should have chanted <lb/>nothing but you.</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>I will leave all and come and make the hymns of you,</l>
+                     <l>None has understood you, but I understand you,</l>
+                     <l>None has done justice to you, you have not done justice to <choice><orig>your-<lb/>self</orig><reg>yourself</reg></choice>,</l>
+                     <l>None but has found you imperfect, I only find no imperfection in <lb/>you,</l>
+                     <l>None but would subordinate you, I only am he who will never <lb/>consent to subordinate you,</l>
+                     <l>I only am he who places over you no master, owner, better, God,<lb/>beyond what waits intrinsically in yourself.</l>
+                  </lg>
+                 
+                 
+    <pb facs="unl_jn.00193.jpg" xml:id="leaf096r" n="187" type="recto"/>
+                  <lg type="linegroup">
+                     <l>Painters have painted their swarming groups and the centre-figure <lb/>of all,</l>
+                     <l>From the head of the centre-figure spreading a nimbus of <choice><orig>gold-<lb/>color'd</orig><reg>gold-color'd</reg></choice> light,</l>
+                     <l>But I paint myriads of heads, but paint no head without its <choice><orig>nim-<lb/>bus</orig><reg>nimbus</reg></choice> of gold-color'd light,</l>
+                     <l>From my hand from the brain of every man and woman it streams,<lb/>effulgently flowing forever.</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>O I could sing such grandeurs and glories about you!</l>
+                     <l>You have not known what you are, you have slumber'd upon <lb/>yourself all your life,</l>
+                     <l>Your eyelids have been the same as closed most of the time,</l>
+                     <l>What you have done returns already in mockeries,</l>
+                     <l>(Your thrift, knowledge, prayers, if they do not return in <choice><orig>mock-<lb/>eries</orig><reg>mockeries</reg></choice>, what is their return?)</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>The mockeries are not you,</l>
+                     <l>Underneath them and within them I see you lurk,</l>
+                     <l>I pursue you where none else has pursued you,</l>
+                     <l>Silence, the desk, the flippant expression, the night, the accustom'd <lb/>routine, if these conceal you from others or from yourself,<lb/>they do not conceal you from me,</l>
+                     <l>The shaved face, the unsteady eye, the impure complexion, if these <lb/>balk others they do not balk me,</l>
+                     <l>The pert apparel, the deform'd attitude, drunkenness, greed, <choice><orig>pre-<lb/>mature</orig><reg>premature</reg></choice> death, all these I part aside.</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>There is no endowment in man or woman that is not tallied in <lb/>you,</l>
+                     <l>There is no virtue, no beauty in man or woman, but as good is in <lb/>you,</l>
+                     <l>No pluck, no endurance in others, but as good is in you,</l>
+                     <l>No pleasure waiting for others, but an equal pleasure waits for you.</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>As for me, I give nothing to any one except I give the like <choice><orig>care-<lb/>fully</orig><reg>carefully</reg></choice> to you,</l>
+                     <l>I sing the songs of the glory of none, not God, sooner than I <lb/>sing the songs of the glory of you.</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>Whoever you are! claim your own at any hazard!</l>
+                     <l>These shows of the East and West are tame compared to you,</l>
+                     <l>These immense meadows, these interminable rivers, you are <lb/>immense and interminable as they,</l>
+                    
+                    
+    <pb facs="unl_jn.00194.jpg" xml:id="leaf096v" n="188" type="verso"/>
+                     <l>These furies, elements, storms, motions of Nature, throes of <choice><orig>appar-<lb/>ent</orig><reg>apparent</reg></choice> dissolution, you are he or she who is master or mistress <lb/>over them,</l>
+                     <l>Master or mistress in your own right over Nature, elements, pain,<lb/>passion, dissolution.</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>The hopples fall from your ankles, you find an unfailing sufficiency,</l>
+                     <l>Old or young, male or female, rude, low, rejected by the rest,<lb/>whatever you are promulges itself,</l>
+                     <l>Through birth, life, death, burial, the means are provided, nothing <lb/>is scanted,</l>
+                     <l>Through angers, losses, ambition, ignorance, ennui, what you are <lb/>picks its way.</l>
+                  </lg>
+               </lg>
+               <lg type="poem" xml:id="ppp.00804">
+<!--                  <relations>
+                     <work ref="xxx.00126"/>
+                  </relations>-->
+            <note type="work_relations" target="xxx.00126"></note>
+                  <head type="main-authorial">FRANCE,</head>
+                  <head type="sub" rend="italic">The 18th Year of these States.</head>
+                  <lg type="linegroup">
+                     <l>A <hi rend="smallcaps">GREAT</hi> year and place,</l>
+                     <l>A harsh discordant natal scream out-sounding, to touch the <lb/>mother's heart closer than any yet.</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>I walk'd the shores of my Eastern sea,</l>
+                     <l>Heard over the waves the little voice,</l>
+                     <l>Saw the divine infant where she woke mournfully wailing, amid the <lb/>roar of cannon, curses, shouts, crash of falling buildings,</l>
+                     <l>Was not so sick from the blood in the gutters running, nor from <lb/>the single corpses, nor those in heaps, nor those borne <lb/>away in the tumbrils,</l>
+                     <l>Was not so desperate at the battues of death—was not so shock'd <lb/>at the repeated fusillades of the guns.</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>Pale, silent, stern, what could I say to that long-accrued <choice><orig>retribu-<lb/>tion</orig><reg>retribution</reg></choice>?</l>
+                     <l>Could I wish humanity different?</l>
+                     <l>Could I wish the people made of wood and stone?</l>
+                     <l>Or that there be no justice in destiny or time?</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>O Liberty! O mate for me!</l>
+                     <l>Here too the blaze, the grape-shot and the axe, in reserve, to <lb/>fetch them out in case of need,</l>
+                     <l>Here too, though long represt, can never be destroy'd,</l>
+                     <l>Here too could rise at last murdering and ecstatic,</l>
+                     <l>Here too demanding full arrears of vengeance.</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>Hence I sign this salute over the sea,</l>
+                     <l>And I do not deny that terrible red birth and baptism,</l>
+                    
+                    
+    <pb facs="unl_jn.00196.jpg" xml:id="leaf097r" n="189" type="recto"/>
+                     <l>But remember the little voice that I heard wailing, and wait with <lb/>perfect trust, no matter how long,</l>
+                     <l>And from to-day sad and cogent I maintain the bequeath'd cause,<lb/>as for all lands,</l>
+                     <l>And I send these words to Paris with my love,</l>
+                     <l>And I guess some chansonniers there will understand them,</l>
+                     <l>For I guess there is latent music yet in France, floods of it,</l>
+                     <l>O I hear already the bustle of instruments, they will soon be <lb/>drowning all that would interrupt them,</l>
+                     <l>O I think the east wind brings a triumphal and free march,</l>
+                     <l>It reaches hither, it swells me to joyful madness,</l>
+                     <l>I will run transpose it in words, to justify it,</l>
+                     <l>I will yet sing a song for you ma femme.</l>
+                  </lg>
+               </lg>
+               <lg type="poem" xml:id="ppp.00805">
+<!--                  <relations>
+                     <work ref="xxx.00127"/>
+                  </relations>-->
+            <note type="work_relations" target="xxx.00127"></note>
+                  <head type="main-authorial">MYSELF AND MINE.</head>
+                  <lg type="linegroup">
+                     <l>M<hi rend="smallcaps">YSELF</hi> and mine gymnastic ever,</l>
+                     <l>To stand the cold or heat, to take good aim with a gun, to sail a <lb/>boat, to manage horses, to beget superb children,</l>
+                     <l>To speak readily and clearly, to feel at home among common <lb/>people,</l>
+                     <l>And to hold our own in terrible positions on land and sea.</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>Not for an embroiderer,</l>
+                     <l>(There will always be plenty of embroiderers, I welcome them also,)</l>
+                     <l>But for the fibre of things and for inherent men and women.</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>Not to chisel ornaments,</l>
+                     <l>But to chisel with free stroke the heads and limbs of plenteous <lb/>supreme Gods, that the States may realize them walking <lb/>and talking.</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>Let me have my own way,</l>
+                     <l>Let others promulge the laws, I will make no account of the laws,</l>
+                     <l>Let others praise eminent men and hold up peace, I hold up <lb/>agitation and conflict,</l>
+                     <l>I praise no eminent man, I rebuke to his face the one that was <lb/>thought most worthy.</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>(Who are you? and what are you secretly guilty of all your life?</l>
+                     <l>Will you turn aside all your life? will you grub and chatter all <lb/>your life?</l>
+                     <l>And who are you, blabbing by rote, years, pages, languages,<lb/>reminiscences,</l>
+                    
+                    
+    <pb facs="unl_jn.00196.jpg" xml:id="leaf097v" n="190" type="verso"/>
+                     <l>Unwitting to-day that you do not know how to speak properly a <lb/>single word?)</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>Let others finish specimens, I never finish specimens,</l>
+                     <l>I start them by exhaustless laws as Nature does, fresh and modern <lb/>continually.</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>I give nothing as duties,</l>
+                     <l>What others give as duties I give as living impulses,</l>
+                     <l>(Shall I give the heart's action as a duty?)</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>Let others dispose of questions, I dispose of nothing, I arouse <lb/>unanswerable questions,</l>
+                     <l>Who are they I see and touch, and what about them?</l>
+                     <l>What about these likes of myself that draw me so close by tender <lb/>directions and indirections?</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>I call to the world to distrust the accounts of my friends, but <lb/>listen to my enemies, as I myself do,</l>
+                     <l>I charge you forever reject those who would expound me, for I <lb/>cannot expound myself,</l>
+                     <l>I charge that there be no theory or school founded out of me,</l>
+                     <l>I charge you to leave all free, as I have left all free.</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>After me, vista!</l>
+                     <l>O I see life is not short, but immeasurably long,</l>
+                     <l>I henceforth tread the world chaste, temperate, an early riser, a <lb/>steady grower,</l>
+                     <l>Every hour the semen of centuries, and still of centuries.</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>I must follow up these continual lessons of the air, water, earth,</l>
+                     <l>I perceive I have no time to lose.</l>
+                  </lg>
+               </lg>
+               <lg type="poem" xml:id="ppp.00806">
+<!--                  <relations>
+                     <work ref="xxx.00128"/>
+                  </relations>-->
+            <note type="work_relations" target="xxx.00128"></note>
+                  <head type="main-authorial">YEAR OF METEORS.</head>
+                  <head type="sub">(1859–60.)</head>
+                  <lg type="linegroup">
+                     <l>Y<hi rend="smallcaps">EAR</hi> of meteors! brooding year!</l>
+                     <l>I would bind in words retrospective some of your deeds and signs,</l>
+                     <l>I would sing your contest for the 19th Presidentiad,</l>
+                     <l>I would sing how an old man, tall, with white hair, mounted the <lb/>scaffold in Virginia,</l>
+                     <l>(I was at hand, silent I stood with teeth shut close, I watch'd,</l>
+                     <l>I stood very near you old man when cool and indifferent, but <lb/>trembling with age and your unheal'd wounds you mounted <lb/>the scaffold;)</l>
+                  </lg>
+                 
+                 
+    <pb facs="unl_jn.00197.jpg" xml:id="leaf098r" n="191" type="recto"/>
+                  <lg type="linegroup">
+                     <l>I would sing in my copious song your census returns of the States,</l>
+                     <l>The tables of population and products, I would sing of your ships <lb/>and their cargoes,</l>
+                     <l>The proud black ships of Manhattan arriving, some fill'd with <lb/>immigrants, some from the isthmus with cargoes of gold,</l>
+                     <l>Songs thereof would I sing, to all that hitherward comes would I <lb/>welcome give,</l>
+                     <l>And you would I sing, fair stripling! welcome to you from me,<lb/>young prince of England!</l>
+                     <l>(Remember you surging Manhattan's crowds as you pass'd with <lb/>your cortege of nobles?</l>
+                     <l>There in the crowds stood I, and singled you out with attachment;)</l>
+                     <l>Nor forget I to sing of the wonder, the ship as she swam up my <lb/>bay,</l>
+                     <l>Well-shaped and stately the Great Eastern swam up my bay, she <lb/>was 600 feet long,</l>
+                     <l>Her moving swiftly surrounded by myriads of small craft I forget <lb/>not to sing;</l>
+                     <l>Nor the comet that came unannounced out of the north flaring in <lb/>heaven,</l>
+                     <l>Nor the strange huge meteor-procession dazzling and clear <choice><orig>shoot-<lb/>ing</orig><reg>shooting</reg></choice> over our heads,</l>
+                     <l>(A moment, a moment long it sail'd its balls of unearthly light <lb/>over our heads,</l>
+                     <l>Then departed, dropt in the night, and was gone;)</l>
+                     <l>Of such, and fitful as they, I sing—with gleams from them would <lb/>I gleam and patch these chants,</l>
+                     <l>Your chants, O year all mottled with evil and good—year of <lb/>forebodings!</l>
+                     <l>Year of comets and meteors transient and strange—lo! even here <lb/>one equally transient and strange!</l>
+                     <l>As I flit through you hastily, soon to fall and be gone, what is this <lb/>chant,</l>
+                     <l>What am I myself but one of your meteors?</l>
+                  </lg>
+               </lg>
+               <lg type="poem" xml:id="ppp.00807">
+<!--                  <relations>
+                     <work ref="xxx.00129"/>
+                  </relations>-->
+            <note type="work_relations" target="xxx.00129"></note>
+                  <head type="main-authorial">WITH ANTECEDENTS.</head>
+                  <lg type="section" n="1">
+                     <head type="main-authorial">1</head>
+                     <lg type="linegroup">
+                        <l>W<hi rend="smallcaps">ITH</hi> antecedents,</l>
+                        <l>With my fathers and mothers and the accumulations of past <lb/>ages,</l>
+                        <l>With all which, had it not been, I would not now be here, as I <lb/>am,</l>
+                        <l>With Egypt, India, Phenicia, Greece and Rome,</l>
+                        <l>With the Kelt, the Scandinavian, the Alb and the Saxon,</l>
+                       
+                       
+    <pb facs="unl_jn.00198.jpg" xml:id="leaf098v" n="192" type="verso"/>
+                        <l>With antique maritime ventures, laws, artisanship, wars and <choice><orig>jour-<lb/>neys</orig><reg>journeys</reg></choice>,</l>
+                        <l>With the poet, the skald, the saga, the myth, and the oracle,</l>
+                        <l>With the sale of slaves, with enthusiasts, with the troubadour, the <lb/>crusader, and the monk,</l>
+                        <l>With those old continents whence we have come to this new <lb/>continent,</l>
+                        <l>With the fading kingdoms and kings over there,</l>
+                        <l>With the fading religions and priests,</l>
+                        <l>With the small shores we look back to from our own large and <lb/>present shores,</l>
+                        <l>With countless years drawing themselves onward and arrived at <lb/>these years,</l>
+                        <l>You and me arrived—America arrived and making this year,</l>
+                        <l>This year! sending itself ahead countless years to come.</l>
+                     </lg>
+                  </lg>
+                  <lg type="section" n="2">
+                     <head type="main-authorial">2</head>
+                     <lg type="linegroup">
+                        <l>O but it is not the years—it is I, it is You,</l>
+                        <l>We touch all laws and tally all antecedents,</l>
+                        <l>We are the skald, the oracle, the monk and the knight, we easily <lb/>include them and more,</l>
+                        <l>We stand amid time beginningless and endless, we stand amid evil <lb/>and good,</l>
+                        <l>All swings around us, there is as much darkness as light,</l>
+                        <l>The very sun swings itself and its system of planets around us,</l>
+                        <l>Its sun, and its again, all swing around us.</l>
+                     </lg>
+                     <lg type="linegroup">
+                        <l>As for me, (torn, stormy, amid these vehement days,)</l>
+                        <l>I have the idea of all, and am all and believe in all,</l>
+                        <l>I believe materialism is true and spiritualism is true, I reject no <lb/>part.</l>
+                     </lg>
+                     <lg type="linegroup">
+                        <l>(Have I forgotten any part? any thing in the past?</l>
+                        <l>Come to me whoever and whatever, till I give you <choice><orig>recogni-<lb/>tion</orig><reg>recognition</reg></choice>.)</l>
+                     </lg>
+                     <lg type="linegroup">
+                        <l>I respect Assyria, China, Teutonia, and the Hebrews,</l>
+                        <l>I adopt each theory, myth, god, and demi-god,</l>
+                        <l>I see that the old accounts, bibles, genealogies, are true, without <lb/>exception,</l>
+                        <l>I assert that all past days were what they must have been,</l>
+                        <l>And that they could no-how have been better than they were,</l>
+                        <l>And that to-day is what it must be, and that America is,</l>
+                        <l>And that to-day and America could no-how be better than they <lb/>are.</l>
+                     </lg>
+                  </lg>
+                 
+                 
+    <pb facs="unl_jn.00199.jpg" xml:id="leaf099r" n="193" type="recto"/>
+                  <lg type="section" n="3">
+                     <head type="main-authorial">3</head>
+                     <lg type="linegroup">
+                        <l>In the name of these States and in your and my name, the <lb/>Past,</l>
+                        <l>And in the name of these States and in your and my name, the <lb/>Present time.</l>
+                     </lg>
+                     <lg type="linegroup">
+                        <l>I know that the past was great and the future will be great,</l>
+                        <l>And I know that both curiously conjoint in the present time,</l>
+                        <l>(For the sake of him I typify, for the common average man's <lb/>sake, your sake if you are he,)</l>
+                        <l>And that where I am or you are this present day, there is the <lb/>centre of all days, all races,</l>
+                        <l>And there is the meaning to us of all that has ever come of races <lb/>and days, or ever will come.</l>
+                     </lg>
+                  </lg>
+               </lg>              
+              <milestone unit="undeclared" rend="horbar-short-center"/>
+              <lg type="poem" xml:id="ppp.00808">
+                <!--               <relations>
+                  <work ref="xxx.00021"/>
+               </relations>-->
+                <note type="work_relations" target="xxx.00021"></note>
+                <head type="main-authorial">A BROADWAY PAGEANT.</head>
+                <lg type="section" n="1">
+                  <head type="main-authorial">1</head>
+                  <lg type="linegroup">
+                    <l>O<hi rend="smallcaps">VER</hi> the Western sea hither from Niphon come,</l>
+                    <l>Courteous, the swart-cheek'd two-sworded envoys,</l>
+                    <l>Leaning back in their open barouches, bare-headed, impassive,</l>
+                    <l>Ride to-day through Manhattan.</l>
+                  </lg>
+                  <lg type="linegroup">
+                    <l>Libertad! I do not know whether others behold what I behold,</l>
+                    <l>In the procession along with the nobles of Niphon, the <choice><orig>errand-<lb/>bearers</orig><reg>errand-bearers</reg></choice>,</l>
+                    <l>Bringing up the rear, hovering above, around, or in the ranks <lb/>marching,</l>
+                    <l>But I will sing you a song of what I behold Libertad.</l>
+                  </lg>
+                  <lg type="linegroup">
+                    <l>When million-footed Manhattan unpent descends to her pavements,</l>
+                    <l>When the thunder-cracking guns arouse me with the proud roar <lb/>I love,</l>
+                    <l>When the round-mouth'd guns out of the smoke and smell I love <lb/>spit their salutes,</l>
+                    <l>When the fire-flashing guns have fully alerted me, and <choice><orig>heaven-<lb/>clouds</orig><reg>heaven-clouds</reg></choice> canopy my city with a delicate thin haze,</l>
+                    <l>When gorgeous the countless straight stems, the forests at the <lb/>wharves, thicken with colors,</l>
+                    <l>When every ship richly drest carries her flag at the peak,</l>
+                    <l>When pennants trail and street-festoons hang from the windows,</l>
+                    
+                    
+    <pb facs="unl_jn.00120.jpg" xml:id="leaf099v" n="194" type="verso"/>
+                    <l>When Broadway is entirely given up to foot-passengers and <choice><orig>foot-<lb/>standers</orig><reg>footstanders</reg></choice>, when the mass is densest,</l>
+                    <l>When the façades of the houses are alive with people, when eyes <lb/>gaze riveted tens of thousands at a time,</l>
+                    <l>When the guests from the islands advance, when the pageant <lb/>moves forward visible,</l>
+                    <l>When the summons is made, when the answer that waited <choice><orig>thou-<lb/>sands</orig><reg>thousands</reg></choice> of years answers,</l>
+                    <l>I too arising, answering, descend to the pavements, merge with <lb/>the crowd, and gaze with them.</l>
+                  </lg>
+                </lg>
+                <lg type="section" n="2">
+                  <head type="main-authorial">2</head>
+                  <lg type="linegroup">
+                    <l>Superb-faced Manhattan!</l>
+                    <l>Comrade Americanos! to us, then at last the Orient comes.</l>
+                  </lg>
+                  <lg type="linegroup">
+                    <l>To us, my city,</l>
+                    <l>Where our tall-topt marble and iron beauties range on opposite <lb/>sides, to walk in the space between,</l>
+                    <l>To-day our Antipodes comes.</l>
+                  </lg>
+                  <lg type="linegroup">
+                    <l>The Originatress comes,</l>
+                    <l>The nest of languages, the bequeather of poems, the race of eld,</l>
+                    <l>Florid with blood, pensive, rapt with musings, hot with passion,</l>
+                    <l>Sultry with perfume, with ample and flowing garments,</l>
+                    <l>With sunburnt visage, with intense soul and glittering eyes,</l>
+                    <l>The race of Brahma comes.</l>
+                  </lg>
+                  <lg type="linegroup">
+                    <l>See my cantabile! these and more are flashing to us
+                      from the <lb/>procession,</l>
+                    <l>As it moves changing, a kaleidoscope divine it moves changing <lb/>before us.</l>
+                  </lg>
+                  <lg type="linegroup">
+                    <l>For not the envoys nor the tann'd Japanee from his island only,</l>
+                    <l>Lithe and silent the Hindoo appears, the Asiatic continent itself <lb/>appears, the past, the dead,</l>
+                    <l>The murky night-morning of wonder and fable inscrutable,</l>
+                    <l>The envelop'd mysteries, the old and unknown hive-bees,</l>
+                    <l>The north, the sweltering south, eastern Assyria, the Hebrews, the <lb/>ancient of ancients,</l>
+                    <l>Vast desolated cities, the gliding present, all of these and more are <lb/>in the pageant-procession.</l>
+                  </lg>
+                  <lg type="linegroup">
+                    <l>Geography, the world, is in it,</l>
+                    <l>The Great Sea, the brood of islands, Polynesia, the coast beyond,</l>
+                    <l>The coast you henceforth are facing—you Libertad! from your <lb/>Western golden shores,</l>
+                    
+                    
+    <pb facs="unl_jn.00201.jpg" xml:id="leaf100r" n="195" type="recto"/>
+                    <l>The countries there with their populations, the millions en-masse <lb/>are curiously here,</l>
+                    <l>The swarming market-places, the temples with idols ranged along <lb/>the sides or at the end, bonze, brahmin, and llama,</l>
+                    <l>Mandarin, farmer, merchant, mechanic, and fisherman,</l>
+                    <l>The singing-girl and the dancing-girl, the ecstatic persons, the <lb/>secluded emperors,</l>
+                    <l>Confucius himself, the great poets and heroes, the warriors, the <lb/>castes, all,</l>
+                    <l>Trooping up, crowding from all directions, from the Altay <choice><orig>moun-<lb/>tains</orig><reg>mountains</reg></choice>,</l>
+                    <l>From <choice><orig>Thibet</orig><reg>Tibet</reg></choice>, from the four winding and far-flowing rivers of <lb/>China,</l>
+                    <l>From the southern peninsulas and the demi-continental islands,<lb/>from Malaysia,</l>
+                    <l>These and whatever belongs to them palpable show forth to me,<lb/>and are seiz'd by me,</l>
+                    <l>And I am seiz'd by them, and friendlily held by them,</l>
+                    <l>Till as here them all I chant, Libertad! for themselves and for <lb/>you.</l>
+                  </lg>
+                  <lg type="linegroup">
+                    <l>For I too raising my voice join the ranks of this pageant,</l>
+                    <l>I am the chanter, I chant aloud over the pageant,</l>
+                    <l>I chant the world on my Western sea,</l>
+                    <l>I chant copious the islands beyond, thick as stars in the sky,</l>
+                    <l>I chant the new empire grander than any before, as in a vision it <lb/>comes to me,</l>
+                    <l>I chant America the mistress, I chant a greater supremacy,</l>
+                    <l>I chant projected a thousand blooming cities yet in time on those <lb/>groups of sea-islands,</l>
+                    <l>My sail-ships and steam-ships threading the archipelagoes,</l>
+                    <l>My stars and stripes fluttering in the wind,</l>
+                    <l>Commerce opening, the sleep of ages having done its work, races <lb/>reborn, refresh'd,</l>
+                    <l>Lives, works resumed—the object I know not—but the old, the <lb/>Asiatic renew'd as it must be,</l>
+                    <l>Commencing from this day surrounded by the world.</l>
+                  </lg>
+                </lg>
+                <lg type="section" n="3">
+                  <head type="main-authorial">3</head>
+                  <lg type="linegroup">
+                    <l>And you Libertad of the world!</l>
+                    <l>You shall sit in the middle well-pois'd thousands and thousands of <lb/>years,</l>
+                    <l>As to-day from one side the nobles of Asia come to you,</l>
+                    <l>As to-morrow from the other side the queen of England sends her <lb/>eldest son to you.</l>
+                  </lg>
+                  
+                  
+    <pb facs="unl_jn.00202.jpg" xml:id="leaf100v" n="196" type="verso"/>
+                  <lg type="linegroup">
+                    <l>The sign is reversing, the orb is enclosed,</l>
+                    <l>The ring is circled, the journey is done,</l>
+                    <l>The box-lid is but perceptibly open'd, nevertheless the perfume <lb/>pours copiously out of the whole box.</l>
+                  </lg>
+                  <lg type="linegroup">
+                    <l>Young Libertad! with the venerable Asia, the all-mother,</l>
+                    <l>Be considerate with her now and ever hot Libertad, for you are all,</l>
+                    <l>Bend your proud neck to the long-off mother now sending <choice><orig>mes-<lb/>sages</orig><reg>messages</reg></choice> over the archipelagoes to you,</l>
+                    <l>Bend your proud neck low for once, young Libertad.</l>
+                  </lg>
+                  <lg type="linegroup">
+                    <l>Were the children straying westward so long? so wide the tramping?</l>
+                    <l>Were the precedent dim ages debouching westward from Paradise <lb/>so long?</l>
+                    <l>Were the centuries steadily footing it that way, all the while <lb/>unknown, for you, for reasons?</l>
+                  </lg>
+                  <lg type="linegroup">
+                    <l>They are justified, they are accomplish'd, they shall now be turn'd <lb/>the other way also, to travel toward you thence,</l>
+                    <l>They shall now also march obediently eastward for your sake <lb/>Libertad.</l>
+                  </lg>
+                </lg>
+              </lg>
+            </lg>
+          <milestone unit="undeclared" rend="horbar-short-center"/>
+          <lg type="cluster" xml:id="ppp.01120">
+            <!--               <relations>
+                  <work ref="xxx.00130"/>
+               </relations>-->
+            <note type="work_relations" target="xxx.00130"></note>
+            <head type="main-authorial">SEA-DRIFT.</head>
+            <milestone unit="undeclared" rend="horbar-short-center"/>
+            <lg type="poem" xml:id="ppp.00809">
+              <!--                  <relations>
+                     <work ref="xxx.00131"/>
+                  </relations>-->
+              <note type="work_relations" target="xxx.00131"></note>
+              <head type="main-authorial">OUT OF THE CRADLE ENDLESSLY ROCKING.</head>
+              <lg type="linegroup">
+                <l>O<hi rend="smallcaps">UT</hi> of the cradle endlessly rocking,</l>
+                <l>Out of the mocking-bird's throat, the musical shuttle,</l>
+                <l>Out of the Ninth-month midnight,</l>
+                <l>Over the sterile sands and the fields beyond, where the child <lb/>leaving his bed wander'd alone, bareheaded, barefoot,</l>
+                <l>Down from the shower'd halo,</l>
+                <l>Up from the mystic play of shadows twining and twisting as if <lb/>they were alive,</l>
+                <l>Out from the patches of briers and blackberries,</l>
+                <l>From the memories of the bird that chanted to me,</l>
+                <l>From your memories sad brother, from the fitful risings and <choice><orig>fall-<lb/>ings</orig><reg>fallings</reg></choice> I heard,</l>
+                <l>From under that yellow half-moon late-risen and swollen as if with <lb/>tears,</l>
+                
+                
+    <pb facs="unl_jn.00203.jpg" xml:id="leaf101r" n="197" type="recto"/>
+                     <l>From those beginning notes of yearning and love there in the mist,</l>
+                     <l>From the thousand responses of my heart never to cease,</l>
+                     <l>From the myriad thence-arous'd words,</l>
+                     <l>From the word stronger and more delicious than any,</l>
+                     <l>From such as now they start the scene revisiting,</l>
+                     <l>As a flock, twittering, rising, or overhead passing,</l>
+                     <l>Borne hither, ere all eludes me, hurriedly,</l>
+                     <l>A man, yet by these tears a little boy again,</l>
+                     <l>Throwing myself on the sand, confronting the waves,</l>
+                     <l>I, chanter of pains and joys, uniter of here and hereafter,</l>
+                     <l>Taking all hints to use them, but swiftly leaping beyond them,</l>
+                     <l>A reminiscence sing.</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>Once Paumanok,</l>
+                     <l>When the lilac-scent was in the air and Fifth-month grass was <lb/>growing,</l>
+                     <l>Up this seashore in some briers,</l>
+                     <l>Two feather'd guests from Alabama, two together,</l>
+                     <l>And their nest, and four light-green eggs spotted with brown,</l>
+                     <l>And every day the he-bird to and fro near at hand,</l>
+                     <l>And every day the she-bird crouch'd on her nest, silent, with <lb/>bright eyes,</l>
+                     <l>And every day I, a curious boy, never too close, never disturbing <lb/>them,</l>
+                     <l>Cautiously peering, absorbing, translating.</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>
+                        <hi rend="italic">Shine! shine! shine!</hi> 
+                     </l>
+                     <l>
+                        <hi rend="italic">Pour down your warmth, great sun!</hi> 
+                     </l>
+                     <l>
+                        <hi rend="italic">While we bask, we two together.</hi> 
+                     </l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>
+                        <hi rend="italic">Two together!</hi> 
+                     </l>
+                     <l>
+                        <hi rend="italic">Winds blow south, or winds blow north,</hi> 
+                     </l>
+                     <l>
+                        <hi rend="italic">Day come white, or night come black,</hi> 
+                     </l>
+                     <l>
+                        <hi rend="italic">Home, or rivers and mountains from home,</hi> 
+                     </l>
+                     <l>
+                        <hi rend="italic">Singing all time, minding no time, </hi> 
+                     </l>
+                     <l>
+                        <hi rend="italic">While we two keep together.</hi> 
+                     </l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>Till of a sudden,</l>
+                     <l>May-be kill'd, unknown to her mate,</l>
+                     <l>One forenoon the she-bird crouch'd not on the nest,</l>
+                     <l>Nor return'd that afternoon, nor the next,</l>
+                     <l>Nor ever appear'd again.</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>And thenceforward all summer in the sound of the sea,</l>
+                     <l>And at night under the full of the moon in calmer weather,</l>
+                    
+                    
+    <pb facs="unl_jn.00204.jpg" xml:id="leaf101v" n="198" type="verso"/>
+                     <l>Over the hoarse surging of the sea,</l>
+                     <l>Or flitting from brier to brier by day,</l>
+                     <l>I saw, I heard at intervals the remaining one, the he-bird,</l>
+                     <l>The solitary guest from Alabama.</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>
+                        <hi rend="italic">Blow! blow! blow!</hi> 
+                     </l>
+                     <l>
+                        <hi rend="italic">Blow up sea-winds along Paumanok's shore;</hi> 
+                     </l>
+                     <l>
+                        <hi rend="italic">I wait and I wait till you blow my mate to me.</hi> 
+                     </l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>Yes, when the stars glisten'd,</l>
+                     <l>All night long on the prong of a moss-scallop'd stake,</l>
+                     <l>Down almost amid the slapping waves,</l>
+                     <l>Sat the lone singer wonderful causing tears.</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>He call'd on his mate,</l>
+                     <l>He pour'd forth the meanings which I of all men know.</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>Yes my brother I know,</l>
+                     <l>The rest might not, but I have treasur'd every note,</l>
+                     <l>For more than once dimly down to the beach gliding,</l>
+                     <l>Silent, avoiding the moonbeams, blending myself with the shadows,</l>
+                     <l>Recalling now the obscure shapes, the echoes, the sounds and <lb/>sights after their sorts,</l>
+                     <l>The white arms out in the breakers tirelessly tossing,</l>
+                     <l>I, with bare feet, a child, the wind wafting my hair,</l>
+                     <l>Listen'd long and long.</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>Listen'd to keep, to sing, now translating the notes,</l>
+                     <l>Following you my brother.</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>
+                        <hi rend="italic">Soothe! soothe! soothe!</hi> 
+                     </l>
+                     <l>
+                        <hi rend="italic">Close on its wave soothes the wave behind,</hi> 
+                     </l>
+                     <l>
+                        <hi rend="italic">And again another behind embracing and lapping, every one close,</hi> 
+                     </l>
+                     <l>
+                        <hi rend="italic">But my love soothes not me, not me.</hi> 
+                     </l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>
+                        <hi rend="italic">Low hangs the moon, it rose late, </hi> 
+                     </l>
+                     <l>
+                        <hi rend="italic">It is lagging—O I think it is heavy with love, with love.</hi> 
+                     </l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>
+                        <hi rend="italic">O madly the sea pushes upon the land, </hi> 
+                     </l>
+                     <l>
+                        <hi rend="italic">With love, with love.</hi> 
+                     </l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>
+                        <hi rend="italic">O night! do I not see my love fluttering out among the breakers?</hi> 
+                     </l>
+                     <l>
+                        <hi rend="italic">What is that little black thing I see there in the white?</hi> 
+                     </l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>
+                        <hi rend="italic">Loud! loud! loud!</hi> 
+                     </l>
+                     <l>
+                        <hi rend="italic">Loud I call to you, my love!</hi> 
+                     </l>
+                  </lg>
+              
+              
+    <pb facs="unl_jn.00205.jpg" xml:id="leaf102r" n="199" type="recto"/>
+                  <lg type="linegroup">
+                     <l>
+                        <hi rend="italic">High and clear I shoot my voice over the waves,</hi> 
+                     </l>
+                     <l>
+                        <hi rend="italic">Surely you must know who is here, is here,</hi> 
+                     </l>
+                     <l>
+                        <hi rend="italic">You must know who I am, my love.</hi> 
+                     </l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>
+                        <hi rend="italic">Low-hanging moon!</hi> 
+                     </l>
+                     <l>
+                        <hi rend="italic">What is that dusky spot in your brown yellow?</hi> 
+                     </l>
+                     <l>
+                        <hi rend="italic">O it is the shape, the shape of my mate!</hi> 
+                     </l>
+                     <l>
+                        <hi rend="italic">O moon do not keep her from me any longer.</hi> 
+                     </l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>
+                        <hi rend="italic">Land! land! O land!</hi> 
+                     </l>
+                     <l>
+                        <hi rend="italic">Whichever way I turn, O I think you could give me my mate </hi>
+                        <lb/>
+                        <hi rend="italic">back again if you only would, </hi>
+                     </l>
+                     <l>
+                        <hi rend="italic">For I am almost sure I see her dimly whichever way I look.</hi> 
+                     </l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>
+                        <hi rend="italic">O rising stars! </hi> 
+                     </l>
+                     <l>
+                        <hi rend="italic">Perhaps the one I want so much will rise, will rise with some </hi>
+                        <lb/>
+                        <hi rend="italic">of you.</hi> 
+                     </l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>
+                        <hi rend="italic">O throat! O trembling throat!</hi> 
+                     </l>
+                     <l>
+                        <hi rend="italic">Sound clearer through the atmosphere!</hi> 
+                     </l>
+                     <l>
+                        <hi rend="italic">Pierce the woods, the earth,</hi> 
+                     </l>
+                     <l>
+                        <hi rend="italic">Somewhere listening to catch you must be the one I want.</hi> 
+                     </l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>
+                        <hi rend="italic">Shake out carols!</hi> 
+                     </l>
+                     <l>
+                        <hi rend="italic">Solitary here, the night's carols!</hi> 
+                     </l>
+                     <l>
+                        <hi rend="italic">Carols of lonesome love! death's carols!</hi> 
+                     </l>
+                     <l>
+                        <hi rend="italic">Carols under that lagging, yellow, waning moon!</hi> 
+                     </l>
+                     <l>
+                        <hi rend="italic">O under that moon where she droops almost down into the sea!</hi> 
+                     </l>
+                     <l>
+                        <hi rend="italic">O reckless despairing carols.</hi> 
+                     </l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>
+                        <hi rend="italic">But soft! sink low!</hi> 
+                     </l>
+                     <l>
+                        <hi rend="italic">Soft! let me just murmur,</hi> 
+                     </l>
+                     <l>
+                        <hi rend="italic">And do you wait a moment you husky-nois'd sea,</hi> 
+                     </l>
+                     <l>
+                        <hi rend="italic">For somewhere I believe I heard my mate responding to me,</hi> 
+                     </l>
+                     <l>
+                        <hi rend="italic">So faint, I must be still, be still to listen,</hi> 
+                     </l>
+                     <l>
+                        <hi rend="italic">But not altogether still, for then she might not come immediately </hi>
+                        <lb/>
+                        <hi rend="italic">to me.</hi> 
+                     </l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>
+                        <hi rend="italic">Hither my love! </hi> 
+                     </l>
+                     <l>
+                        <hi rend="italic">Here I am! here! </hi> 
+                     </l>
+                     <l>
+                        <hi rend="italic">With this just-sustain'd note I announce myself to you,</hi> 
+                     </l>
+                     <l>
+                        <hi rend="italic">This gentle call is for you my love, for you.</hi> 
+                     </l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>
+                        <hi rend="italic">Do not be decoy'd elsewhere,</hi> 
+                     </l>
+                     <l>
+                        <hi rend="italic">That is the whistle of the wind, it is not my voice,</hi> 
+                     </l>
+                    
+                    
+    <pb facs="unl_jn.00206.jpg" xml:id="leaf102v" n="200" type="verso"/>
+                     <l>
+                        <hi rend="italic">That is the fluttering, the fluttering of the spray,</hi> 
+                     </l>
+                     <l>
+                        <hi rend="italic">Those are the shadows of leaves.</hi> 
+                     </l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>
+                        <hi rend="italic">O darkness! O in vain!</hi> 
+                     </l>
+                     <l>
+                        <hi rend="italic">O I am very sick and sorrowful.</hi> 
+                     </l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>
+                        <hi rend="italic">O brown halo in the sky near the moon, drooping upon the sea! </hi>
+                     </l>
+                     <l>
+                        <hi rend="italic">O troubled reflection in the sea! </hi>
+                     </l>
+                     <l>
+                        <hi rend="italic">O throat! O throbbing heart! </hi>
+                     </l>
+                     <l>
+                        <hi rend="italic">And I singing uselessly, uselessly all the night.</hi> 
+                     </l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>
+                        <hi rend="italic">O past! O happy life! O songs of joy!</hi> 
+                     </l>
+                     <l>
+                        <hi rend="italic">In the air, in the woods, over fields,</hi> 
+                     </l>
+                     <l>
+                        <hi rend="italic">Loved! loved! loved! loved! loved!</hi> 
+                     </l>
+                     <l>
+                        <hi rend="italic">But my mate no more, no more with me! </hi> 
+                     </l>
+                     <l>
+                        <hi rend="italic">We two together no more.</hi> 
+                     </l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>The aria sinking,</l>
+                     <l>All else continuing, the stars shining,</l>
+                     <l>The winds blowing, the notes of the bird continuous echoing,</l>
+                     <l>With angry moans the fierce old mother incessantly moaning,</l>
+                     <l>On the sands of Paumanok's shore gray and rustling,</l>
+                     <l>The yellow half-moon enlarged, sagging down, drooping, the face <lb/>of the sea almost touching,</l>
+                     <l>The boy ecstatic, with his bare feet the waves, with his hair the <lb/>atmosphere dallying,</l>
+                     <l>The love in the heart long pent, now loose, now at last <choice><orig>tumultu-<lb/>ously</orig><reg>tumultuously</reg></choice> bursting,</l>
+                     <l>The aria's meaning, the ears, the soul, swiftly depositing,</l>
+                     <l>The strange tears down the cheeks coursing,</l>
+                     <l>The colloquy there, the trio, each uttering,</l>
+                     <l>The undertone, the savage old mother incessantly crying,</l>
+                     <l>To the boy's soul's questions sullenly timing, some drown'd secret <lb/>hissing,</l>
+                     <l>To the outsetting bard.</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>Demon or bird! (said the boy's soul,)</l>
+                     <l>Is it indeed toward your mate you sing? or is it really to me?</l>
+                     <l>For I, that was a child, my tongue's use sleeping, now I have <lb/>heard you,</l>
+                     <l>Now in a moment I know what I am for, I awake,</l>
+                     <l>And already a thousand singers, a thousand songs, clearer, louder <lb/>and more sorrowful than yours,</l>
+                     <l>A thousand warbling echoes have started to life within me, never <lb/>to die.</l>
+                  </lg>
+              
+              
+    <pb facs="unl_jn.00207.jpg" xml:id="leaf103r" n="201" type="recto"/>
+                  <lg type="linegroup">
+                     <l>O you singer solitary, singing by yourself, projecting me,</l>
+                     <l>O solitary me listening, never more shall I cease perpetuating <lb/>you,</l>
+                     <l>Never more shall I escape, never more the reverberations,</l>
+                     <l>Never more the cries of unsatisfied love be absent from me,</l>
+                     <l>Never again leave me to be the peaceful child I was before what <lb/>there in the night,</l>
+                     <l>By the sea under the yellow and sagging moon,</l>
+                     <l>The messenger there arous'd, the fire, the sweet hell within,</l>
+                     <l>The unknown want, the destiny of me.</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>O give me the clew! (it lurks in the night here somewhere,)</l>
+                     <l>O if I am to have so much, let me have more!</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>A word then, (for I will conquer it,)</l>
+                     <l>The word final, superior to all,</l>
+                     <l>Subtle, sent up—what is it?—I listen;</l>
+                     <l>Are you whispering it, and have been all the time, you <choice><orig>sea-<lb/>waves</orig><reg>sea-waves</reg></choice>?</l>
+                     <l>Is that it from your liquid rims and wet sands?</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>Whereto answering, the sea,</l>
+                     <l>Delaying not, hurrying not,</l>
+                     <l>Whisper'd me through the night, and very plainly before <choice><orig>day-<lb/>break</orig><reg>daybreak</reg></choice>,</l>
+                     <l>Lisp'd to me the low and delicious word death,</l>
+                     <l>And again death, death, death, death,</l>
+                     <l>Hissing melodious, neither like the bird nor like my arous'd child's <lb/>heart,</l>
+                     <l>But edging near as privately for me rustling at my feet,</l>
+                     <l>Creeping thence steadily up to my ears and laving me softly all <lb/>over,</l>
+                     <l>Death, death, death, death, death.</l>
+                  </lg>
+                  <lg type="linegroup">
+                     <l>Which I do not forget,</l>
+                     <l>But fuse the song of my dusky demon and brother,</l>
+                     <l>That he sang to me in the moonlight on Paumanok's gray beach,</l>
+                     <l>With the thousand responsive songs at random,</l>
+                     <l>My own songs awaked from that hour,</l>
+                     <l>And with them the key, the word up from the waves,</l>
+                     <l>The word of the sweetest song and all songs,</l>
+                     <l>That strong and delicious word which, creeping to my feet,</l>
+                     <l>(Or like some old crone rocking the cradle, swathed in sweet <lb/>garments, bending aside,)</l>
+                     <l>The sea whisper'd me.</l>
+                  </lg>
+               </lg>
+          </lg>
           
           
     </body>
+    </text>
+    </group>
   </text>
 
   <text type="printed">
